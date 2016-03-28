@@ -1,0 +1,68 @@
+## Prepare the environment
+
+# clone the following repositories
+
+git clone https://github.com/spring-projects/spring-framework.git
+git clone https://github.com/elastic/elasticsearch.git
+git clone https://github.com/android/platform_frameworks_base.git
+git clone https://github.com/netty/netty.git
+git clone https://github.com/bigbluebutton/bigbluebutton.git
+git clone https://github.com/wildfly/wildfly.git
+git clone https://github.com/liferay/liferay-portal.git
+git clone https://github.com/hibernate/hibernate-orm.git
+git clone https://github.com/apache/cassandra.git
+git clone https://github.com/excilys/androidannotations.git
+
+# preapre IPython Notebook
+
+- Install anaconda2
+$ wget https://3230d63b5fc54e62148e-c95ac804525aac4b6dba79b00b39d1d3.ssl.cf1.rackcdn.com/Anaconda2-2.5.0-Linux-x86_64.sh
+$ bash Anaconda2-2.5.0-Linux-x86_64.sh
+$ source ~/.bashrc
+
+- Run IPython Notebook
+$ ipython profile create nbserver
+$ touch ~/.ipython/profile_nbserver/ipython_notebook_config.py
+$ sudo nano ~/.ipython/profile_nbserver/ipython_notebook_config.py
+add the following lines
+c = get_config()
+
+# Notebook config
+#c.NotebookApp.certfile = u'/absolute/path/to/your/certificate/mycert.pem'
+c.NotebookApp.ip = '*'
+c.NotebookApp.open_browser = False
+#c.NotebookApp.password = u'sha1:bcd259ccf...[your hashed password here]'
+# It is a good idea to put it on a known, fixed port
+c.NotebookApp.port = 8888
+
+- open port 8888
+sudo ufw allow 8888
+
+- to run the server
+$ ipython notebook --no-browser --profile=nbserver --ip 0.0.0.0
+
+# to connect to the server without password
+
+-Open a terminal on your machine A as user a and generate a pair of authentication keys. Do not enter a passphrase:
+
+a@A:~> ssh-keygen -t rsa
+
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/a/.ssh/id_rsa):
+Created directory '/home/a/.ssh'.
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /home/a/.ssh/id_rsa.
+Your public key has been saved in /home/a/.ssh/id_rsa.pub.
+The key fingerprint is:
+3e:4f:05:79:3a:9f:96:7c:3b:ad:e9:58:37:bc:37:e4 a@A
+
+- then append a's new public key to hshahin@opendsax.cs.vt.edu :.ssh/authorized_keys and enter b's password one last time:
+
+a@A:~> cat .ssh/id_rsa.pub | ssh hshahin@opendsax.cs.vt.edu -p2222 'cat >> .ssh/authorized_keys'
+b@B's password:
+
+- From now on you can log into opendsax.cs.vt.edu as b from A as a without password:
+
+a@A:~> ssh hshahin@opendsax.cs.vt.edu -p2222
+
