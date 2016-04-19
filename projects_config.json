@@ -15,7 +15,7 @@
 	"CodeIgniter": "php",
 	"rails": "ruby",
 	"sinatra": "ruby",
-	"framework": "ruby",
+	"padrino-framework": "ruby",
 	"hanami": "ruby",
 	"pakyow": "ruby",
 	"flask": "python",
