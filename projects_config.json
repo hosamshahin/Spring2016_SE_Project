@@ -8,5 +8,25 @@
 	"netty": "java",
 	"platform_frameworks_base": "java",
 	"spring-framework": "java",
-	"wildfly": "java"
-	}
+	"wildfly": "java",
+	"laravel": "php",
+	"symfony": "php",
+	"cakephp": "php",
+	"CodeIgniter": "php",
+	"rails": "ruby",
+	"sinatra": "ruby",
+	"framework": "ruby",
+	"hanami": "ruby",
+	"pakyow": "ruby",
+	"flask": "python",
+	"django": "python",
+	"web2py": "python",
+	"frappe": "python",
+	"ninja": "java",
+	"meteor": "javascript",
+	"express": "javascript",
+	"sails": "javascript",
+	"mean": "javascript",
+	"derby": "javascript",
+	"nodal": "javascript"
+}

@@ -2,6 +2,7 @@
 
 # clone the following repositories
 
+# Pupolar java applications on GitHub
 git clone https://github.com/spring-projects/spring-framework.git
 git clone https://github.com/elastic/elasticsearch.git
 git clone https://github.com/android/platform_frameworks_base.git
@@ -12,6 +13,38 @@ git clone https://github.com/liferay/liferay-portal.git
 git clone https://github.com/hibernate/hibernate-orm.git
 git clone https://github.com/apache/cassandra.git
 git clone https://github.com/excilys/androidannotations.git
+
+# PHP web frameworks
+https://github.com/laravel/laravel.git
+https://github.com/symfony/symfony.git
+https://github.com/cakephp/cakephp.git
+https://github.com/bcit-ci/CodeIgniter.git
+
+# Ruby web frameworks
+https://github.com/rails/rails.git
+https://github.com/sinatra/sinatra.git
+https://github.com/padrino/padrino-framework.git
+https://github.com/hanami/hanami.git
+https://github.com/pakyow/pakyow.git
+
+# Python web frameworks
+https://github.com/pallets/flask.git
+https://github.com/django/django.git
+https://github.com/web2py/web2py.git
+https://github.com/frappe/frappe.git
+
+# Java web frameworks
+https://github.com/ninjaframework/ninja.git
+
+# JavaScript web frameworks
+https://github.com/meteor/meteor.git
+https://github.com/expressjs/express.git
+https://github.com/balderdashy/sails.git
+https://github.com/linnovate/mean.git
+https://github.com/linnovate/mean.git
+https://github.com/derbyjs/derby.git
+https://github.com/keithwhor/nodal.git
+
 
 # preapre IPython Notebook
 
