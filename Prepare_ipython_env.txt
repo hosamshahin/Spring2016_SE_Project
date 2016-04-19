@@ -45,7 +45,6 @@ https://github.com/linnovate/mean.git
 https://github.com/derbyjs/derby.git
 https://github.com/keithwhor/nodal.git
 
-
 # preapre IPython Notebook
 
 - Install anaconda2
