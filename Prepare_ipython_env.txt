@@ -1,6 +1,12 @@
 ## Prepare the environment
 
+# clone project repositories
+$ git clone https://github.com/hosamshahin/Spring2016_SE_Project.git
+
 # clone the following repositories
+$ cd Spring2016_SE_Project
+$ mkdir data
+$ cd data
 
 # Pupolar java applications on GitHub
 git clone https://github.com/spring-projects/spring-framework.git
@@ -46,11 +52,16 @@ https://github.com/derbyjs/derby.git
 https://github.com/keithwhor/nodal.git
 
 # preapre IPython Notebook
-
 - Install anaconda2
 $ wget https://3230d63b5fc54e62148e-c95ac804525aac4b6dba79b00b39d1d3.ssl.cf1.rackcdn.com/Anaconda2-2.5.0-Linux-x86_64.sh
 $ bash Anaconda2-2.5.0-Linux-x86_64.sh
 $ source ~/.bashrc
+
+- Install anaconda3
+$ wget https://3230d63b5fc54e62148e-c95ac804525aac4b6dba79b00b39d1d3.ssl.cf1.rackcdn.com/Anaconda3-4.0.0-Linux-x86_64.sh
+$ bash Anaconda3-4.0.0-Linux-x86_64.sh
+$ source ~/.bashrc
+
 
 - Run IPython Notebook
 $ ipython profile create nbserver
@@ -74,7 +85,6 @@ sudo ufw allow 8888
 $ ipython notebook --no-browser --profile=nbserver --ip 0.0.0.0
 
 # to connect to the server without password
-
 -Open a terminal on your machine A as user a and generate a pair of authentication keys. Do not enter a passphrase:
 
 a@A:~> ssh-keygen -t rsa
