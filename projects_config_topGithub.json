@@ -1,0 +1,12 @@
+{
+	"androidannotations": "java",
+	"bigbluebutton": "java",
+	"cassandra": "java",
+	"elasticsearch": "java",
+	"hibernate-orm": "java",
+	"liferay-portal": "java",
+	"netty": "java",
+	"platform_frameworks_base": "java",
+	"spring-framework": "java",
+	"wildfly": "java",
+}
