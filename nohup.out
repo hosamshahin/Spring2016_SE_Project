@@ -1,0 +1,24 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook`... continue in 5 sec. Press Ctrl-C to quit now.
+[W 06:21:20.420 NotebookApp] Unrecognized alias: '--profile=nbserver', it will probably have no effect.
+[I 06:21:20.477 NotebookApp] Serving notebooks from local directory: /home/hshahin/workspaces/Spring2016_SE_Project
+[I 06:21:20.477 NotebookApp] 0 active kernels 
+[I 06:21:20.477 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:8888/
+[I 06:21:20.477 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 06:22:05.596 NotebookApp] Kernel started: ddd883e9-0201-4131-a3de-405ab5b58915
+[I 06:23:57.832 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 06:24:05.886 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 07:44:05.859 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 16:10:05.368 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 16:12:05.295 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 16:14:05.284 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 16:18:05.264 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 18:20:05.244 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 18:22:05.217 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 18:24:05.195 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 18:28:05.201 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 18:32:05.250 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 18:34:05.250 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 18:37:46.409 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 18:40:05.179 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[I 18:42:30.385 NotebookApp] Saving file at /Main_SE_Project.ipynb
