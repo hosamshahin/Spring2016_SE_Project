@@ -1,0 +1,257 @@
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2016-01;cd androidannotations_tags/2016-01; git checkout 2016-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2015-06;cd androidannotations_tags/2015-06; git checkout 2015-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2015-01;cd androidannotations_tags/2015-01; git checkout 2015-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2014-06;cd androidannotations_tags/2014-06; git checkout 2014-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2014-01;cd androidannotations_tags/2014-01; git checkout 2014-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2013-06;cd androidannotations_tags/2013-06; git checkout 2013-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2013-01;cd androidannotations_tags/2013-01; git checkout 2013-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2012-06;cd androidannotations_tags/2012-06; git checkout 2012-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2012-01;cd androidannotations_tags/2012-01; git checkout 2012-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2011-06;cd androidannotations_tags/2011-06; git checkout 2011-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2011-01;cd androidannotations_tags/2011-01; git checkout 2011-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2010-06;cd androidannotations_tags/2010-06; git checkout 2010-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2010-01;cd androidannotations_tags/2010-01; git checkout 2010-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2009-06;cd androidannotations_tags/2009-06; git checkout 2009-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2009-01;cd androidannotations_tags/2009-01; git checkout 2009-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2008-06;cd androidannotations_tags/2008-06; git checkout 2008-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2008-01;cd androidannotations_tags/2008-01; git checkout 2008-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2007-06;cd androidannotations_tags/2007-06; git checkout 2007-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2007-01;cd androidannotations_tags/2007-01; git checkout 2007-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2006-06;cd androidannotations_tags/2006-06; git checkout 2006-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2006-01;cd androidannotations_tags/2006-01; git checkout 2006-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2005-06;cd androidannotations_tags/2005-06; git checkout 2005-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2005-01;cd androidannotations_tags/2005-01; git checkout 2005-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2004-06;cd androidannotations_tags/2004-06; git checkout 2004-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2004-01;cd androidannotations_tags/2004-01; git checkout 2004-01;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2003-06;cd androidannotations_tags/2003-06; git checkout 2003-06;rm -rf .git;cd ../..;
+mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2003-01;cd androidannotations_tags/2003-01; git checkout 2003-01;rm -rf .git;cd ../..;
+
+
+- checkout
+cd androidannotations; git checkout master; cd ..;
+cd bigbluebutton; git checkout master; cd ..;
+cd cakephp; git checkout master; cd ..;
+cd cassandra; git checkout trunk; cd ..;
+cd CodeIgniter; git checkout master; cd ..;
+cd derby; git checkout master; cd ..;
+cd django; git checkout master; cd ..;
+cd elasticsearch; git checkout master; cd ..;
+cd express; git checkout master; cd ..;
+cd flask; git checkout master; cd ..;
+cd frappe; git checkout master; cd ..;
+cd hanami; git checkout master; cd ..;
+cd hibernate-orm; git checkout master; cd ..;
+cd laravel; git checkout master; cd ..;
+cd liferay-portal; git checkout master; cd ..;
+cd mean; git checkout master; cd ..;
+cd meteor; git checkout master; cd ..;
+cd netty; git checkout 4.1; cd ..;
+cd ninja; git checkout develop; cd ..;
+cd nodal; git checkout master; cd ..;
+cd padrino-framework; git checkout master; cd ..;
+cd pakyow; git checkout master; cd ..;
+cd platform_frameworks_base; git checkout master; cd ..;
+cd rails; git checkout master; cd ..;
+cd sails; git checkout master; cd ..;
+cd sinatra; git checkout master; cd ..;
+cd spring-framework; git checkout master; cd ..;
+cd symfony; git checkout master; cd ..;
+cd web2py; git checkout master; cd ..;
+cd wildfly; git checkout master; cd ..;
+
+- discard
+cd androidannotations; git stash save --keep-index; cd ..;
+cd bigbluebutton; git stash save --keep-index; cd ..;
+cd cakephp; git stash save --keep-index; cd ..;
+cd cassandra; git stash save --keep-index; cd ..;
+cd CodeIgniter; git stash save --keep-index; cd ..;
+cd derby; git stash save --keep-index; cd ..;
+cd django; git stash save --keep-index; cd ..;
+cd elasticsearch; git stash save --keep-index; cd ..;
+cd express; git stash save --keep-index; cd ..;
+cd flask; git stash save --keep-index; cd ..;
+cd frappe; git stash save --keep-index; cd ..;
+cd hanami; git stash save --keep-index; cd ..;
+cd hibernate-orm; git stash save --keep-index; cd ..;
+cd laravel; git stash save --keep-index; cd ..;
+cd liferay-portal; git stash save --keep-index; cd ..;
+cd mean; git stash save --keep-index; cd ..;
+cd meteor; git stash save --keep-index; cd ..;
+cd netty; git checkgit stash save --keep-index; cd ..;
+cd ninja; git stash save --keep-index; cd ..;
+cd nodal; git stash save --keep-index; cd ..;
+cd padrino-framework; git stash save --keep-index; cd ..;
+cd pakyow; git stash save --keep-index; cd ..;
+cd platform_frameworks_base; git stash save --keep-index; cd ..;
+cd rails; git stash save --keep-index; cd ..;
+cd sails; git stash save --keep-index; cd ..;
+cd sinatra; git stash save --keep-index; cd ..;
+cd spring-framework; git stash save --keep-index; cd ..;
+cd symfony; git stash save --keep-index; cd ..;
+cd web2py; git stash save --keep-index; cd ..;
+cd wildfly; git stash save --keep-index; cd ..;
+
+- zip tags folder
+zip -r androidannotations-tags.zip androidannotations-tags
+zip -r bigbluebutton-tags.zip bigbluebutton-tags
+zip -r cakephp-tags.zip cakephp-tags
+zip -r cassandra-tags.zip cassandra-tags
+zip -r CodeIgniter-tags.zip CodeIgniter-tags
+zip -r derby-tags.zip derby-tags
+zip -r django-tags.zip django-tags
+zip -r elasticsearch-tags.zip elasticsearch-tags
+zip -r express-tags.zip express-tags
+zip -r flask-tags.zip flask-tags
+zip -r frappe-tags.zip frappe-tags
+zip -r hanami-tags.zip hanami-tags
+zip -r hibernate-tags.zip hibernate-tags
+zip -r laravel-tags.zip laravel-tags
+zip -r liferay-tags.zip liferay-tags
+zip -r mean-tags.zip mean-tags
+zip -r meteor-tags.zip meteor-tags
+zip -r netty-tags.zip netty-tags
+zip -r ninja-tags.zip ninja-tags
+zip -r nodal-tags.zip nodal-tags
+zip -r padrino-tags.zip padrino-tags
+zip -r pakyow-tags.zip pakyow-tags
+zip -r platform_frameworks_base-tags.zip platform_frameworks_base-tags
+zip -r rails-tags.zip rails-tags
+zip -r sails-tags.zip sails-tags
+zip -r sinatra-tags.zip sinatra-tags
+zip -r spring-tags.zip spring-tags
+zip -r symfony-tags.zip symfony-tags
+zip -r web2py-tags.zip web2py-tags
+zip -r wildfly-tags.zip wildfly-tags
+
+- unzip tags folder
+unzip androidannotations-tags.zip
+unzip bigbluebutton-tags.zip
+unzip cakephp-tags.zip
+unzip cassandra-tags.zip
+unzip CodeIgniter-tags.zip
+unzip derby-tags.zip
+unzip django-tags.zip
+unzip elasticsearch-tags.zip
+unzip express-tags.zip
+unzip flask-tags.zip
+unzip frappe-tags.zip
+unzip hanami-tags.zip
+unzip hibernate-tags.zip
+unzip laravel-tags.zip
+unzip liferay-tags.zip
+unzip mean-tags.zip
+unzip meteor-tags.zip
+unzip netty-tags.zip
+unzip ninja-tags.zip
+unzip nodal-tags.zip
+unzip padrino-tags.zip
+unzip pakyow-tags.zip
+unzip rails-tags.zip
+unzip sails-tags.zip
+unzip sinatra-tags.zip
+unzip spring-tags.zip
+unzip symfony-tags.zip
+unzip web2py-tags.zip
+unzip wildfly-tags.zip
+
+- upload zip folders
+scp </path/to/local/file/to/upload> <username>@<hostname>:<destination path>
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+
+scp androidannotations-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp bigbluebutton-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp cakephp-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp cassandra-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp CodeIgniter-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp derby-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp django-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp elasticsearch-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp express-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp flask-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp frappe-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp hanami-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp hibernate-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp laravel-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp liferay-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp mean-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp meteor-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp netty-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp ninja-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp nodal-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp padrino-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp pakyow-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp platform_frameworks_base-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp rails-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp sails-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp sinatra-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp spring-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp symfony-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp web2py-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp wildfly-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+
+
+- copy from darkgray to opendsax
+scp androidannotations-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp bigbluebutton-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp cakephp-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp cassandra-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp CodeIgniter-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp derby-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp django-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp elasticsearch-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp express-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp flask-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp frappe-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp hanami-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp hibernate-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp laravel-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp liferay-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp mean-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp meteor-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp netty-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp ninja-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp nodal-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp padrino-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp pakyow-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp platform_frameworks_base-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp rails-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp sails-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp sinatra-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp spring-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp symfony-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp web2py-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+scp wildfly-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
+
+-download from darkgray to local machine
+scp hshahin@darkgray.cirt.vt.edu:</path/to/file/to/download> /home/hshahin/workspaces/Spring2016_SE_Project/data
+
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/androidannotations-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/bigbluebutton-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/cakephp-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/cassandra-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/CodeIgniter-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/derby-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/django-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/elasticsearch-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/express-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/flask-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/frappe-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/hanami-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/hibernate-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/laravel-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/liferay-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/mean-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/meteor-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/netty-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/ninja-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/nodal-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/padrino-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/pakyow-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/platform_frameworks_base-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/rails-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/sails-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/sinatra-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/spring-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/symfony-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/web2py-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
+scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/wildfly-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
