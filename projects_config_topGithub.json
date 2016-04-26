@@ -8,5 +8,5 @@
 	"netty": "java",
 	"platform_frameworks_base": "java",
 	"spring-framework": "java",
-	"wildfly": "java",
+	"wildfly": "java"
 }

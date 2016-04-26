@@ -22,3 +22,6 @@
 [I 18:37:46.409 NotebookApp] Saving file at /Main_SE_Project.ipynb
 [I 18:40:05.179 NotebookApp] Saving file at /Main_SE_Project.ipynb
 [I 18:42:30.385 NotebookApp] Saving file at /Main_SE_Project.ipynb
+[C 18:51:17.560 NotebookApp] received signal 15, stopping
+[I 18:51:17.562 NotebookApp] Shutting down kernels
+[I 18:51:18.365 NotebookApp] Kernel shutdown: ddd883e9-0201-4131-a3de-405ab5b58915

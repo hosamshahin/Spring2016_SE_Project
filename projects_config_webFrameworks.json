@@ -1,24 +1,19 @@
 {
-	"spring-framework": "java",
-	"wildfly": "java",
-	"laravel": "php",
+        "spring-framework": "java",
+        "laravel": "php",
 	"symfony": "php",
 	"cakephp": "php",
 	"CodeIgniter": "php",
 	"rails": "ruby",
 	"sinatra": "ruby",
-	"padrino-framework": "ruby",
-	"hanami": "ruby",
 	"pakyow": "ruby",
 	"flask": "python",
 	"django": "python",
 	"web2py": "python",
 	"frappe": "python",
-	"ninja": "java",
-	"meteor": "javascript",
 	"express": "javascript",
-	"sails": "javascript",
-	"mean": "javascript",
 	"derby": "javascript",
-	"nodal": "javascript"
+        "mean": "javascript",
+        "meteor": "javascript"
+
 }
