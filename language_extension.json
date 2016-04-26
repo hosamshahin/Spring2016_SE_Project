@@ -1,0 +1,23 @@
+{
+    "CoffeeScript": ".cofee",
+    "JavaScript": ".js",
+    "Java": ".java",
+    "VimL": "",
+    "Clojure": "",
+    "Emacs Lisp": ".vlx",
+    "Python": ".py",
+    "C++": ".cpp",
+    "C": ".c",
+    "C#": ".c#",
+    "CSS": ".css",
+    "HTML": ".html",
+    "Objective-C": ".mm",
+    "Ruby": ".rb",
+    "Haskell": ".gp",
+    "R": ".r",
+    "Go": ".go",
+    "Scala": ".scala",
+    "D": ".d",
+    "TypeScript": ".es",
+    "ActionScript": ".as"
+}
