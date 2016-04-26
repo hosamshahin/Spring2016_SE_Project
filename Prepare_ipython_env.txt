@@ -159,7 +159,5 @@ https://gist.github.com/hosamshahin/217cd1e758f8fc6145fa03eab7584a69
 
 
 - Install NLTK package
-
-
 # to connect to the server without password
 https://gist.github.com/hosamshahin/784e6c4e2293dbfafebb343f92cb9465

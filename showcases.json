@@ -1,0 +1,362 @@
+{
+  "atom": {
+    "type": "CoffeeScript",
+    "group": "Text Editor"
+  },
+  "brackets": {
+    "type": "JavaScript",
+    "group": "Text Editor"
+  },
+  "neovim": {
+    "type": "VimL",
+    "group": "Text Editor"
+  },
+  "textmate": {
+    "type": "C++",
+    "group": "Text Editor"
+  },
+  "LightTable": {
+    "type": "Clojure",
+    "group": "Text Editor"
+  },
+  "spacemacs": {
+    "type": "Emacs Lisp",
+    "group": "Text Editor"
+  },
+  "vim.js": {
+    "type": "C",
+    "group": "Text Editor"
+  },
+  "sharelatex": {
+    "type": "CoffeeScript",
+    "group": "Text Editor"
+  },
+  "slap": {
+    "type": "JavaScript",
+    "group": "Text Editor"
+  },
+  "codebox": {
+    "type": "JavaScript",
+    "group": "Text Editor"
+  },
+  "zed": {
+    "type": "JavaScript",
+    "group": "Text Editor"
+  },
+  "KomodoEdit": {
+    "type": "Python",
+    "group": "Text Editor"
+  },
+  "Caret": {
+    "type": "JavaScript",
+    "group": "Text Editor"
+  },
+  "leo-editor": {
+    "type": "Python",
+    "group": "Text Editor"
+  },
+  "2048": {
+    "type": "CSS",
+    "group": "Web Games"
+  },
+  "BrowserQuest": {
+    "type": "JavaScript",
+    "group": "Web Games"
+  },
+  "untrusted": {
+    "type": "JavaScript",
+    "group": "Web Games"
+  },
+  "adarkroom": {
+    "type": "JavaScript",
+    "group": "Web Games"
+  },
+  "hextris": {
+    "type": "JavaScript",
+    "group": "Web Games"
+  },
+  "clumsy-bird": {
+    "type": "JavaScript",
+    "group": "Web Games"
+  },
+  "0hh1": {
+    "type": "JavaScript",
+    "group": "Web Games"
+  },
+  "d3": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "Chart.js": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "Leaflet": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "echarts": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "chartist-js": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "sigma.js": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "metrics-graphics": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "dc.js": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "epoch": {
+    "type": "HTML",
+    "group": "Data Visulization"
+  },
+  "matplotlib": {
+    "type": "Python",
+    "group": "Data Visulization"
+  },
+  "peity": {
+    "type": "HTML",
+    "group": "Data Visulization"
+  },
+  "raw": {
+    "type": "Python",
+    "group": "Data Visulization"
+  },
+  "chroma.js": {
+    "type": "CoffeeScript",
+    "group": "Data Visulization"
+  },
+  "arbor": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "dimple": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "BEMSimpleLineGraph": {
+    "type": "Objective-C",
+    "group": "Data Visulization"
+  },
+  "recline": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "envisionjs": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "kartograph.js": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "pygal": {
+    "type": "Python",
+    "group": "Data Visulization"
+  },
+  "cesium": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "modestmaps-js": {
+    "type": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "Decider": {
+    "type": "Ruby",
+    "group": "Machine Learning"
+  },
+  "jubatus": {
+    "type": "C++",
+    "group": "Machine Learning"
+  },
+  "datumbox-framework": {
+    "type": "Java",
+    "group": "Machine Learning"
+  },
+  "seldon-server": {
+    "type": "Java",
+    "group": "Machine Learning"
+  },
+  "mahout": {
+    "type": "Java",
+    "group": "Machine Learning"
+  },
+  "MLPNeuralNet": {
+    "type": "Objective-C",
+    "group": "Machine Learning"
+  },
+  "HLearn": {
+    "type": "Haskell",
+    "group": "Machine Learning"
+  },
+  "shogun": {
+    "type": "C++",
+    "group": "Machine Learning"
+  },
+  "oryx": {
+    "type": "Java",
+    "group": "Machine Learning"
+  },
+  "neon": {
+    "type": "Python",
+    "group": "Machine Learning"
+  },
+  "h2o-2": {
+    "type": "Java",
+    "group": "Machine Learning"
+  },
+  "ML_for_Hackers": {
+    "type": "R",
+    "group": "Machine Learning"
+  },
+  "golearn": {
+    "type": "Go",
+    "group": "Machine Learning"
+  },
+  "ruby-warrior": {
+    "type": "Ruby",
+    "group": "Machine Learning"
+  },
+  "xgboost": {
+    "type": "C++",
+    "group": "Machine Learning"
+  },
+  "mxnet": {
+    "type": "C++",
+    "group": "Machine Learning"
+  },
+  "Theano": {
+    "type": "python",
+    "group": "Machine Learning"
+  },
+  "nupic": {
+    "type": "Python",
+    "group": "Machine Learning"
+  },
+  "pattern": {
+    "type": "Python",
+    "group": "Machine Learning"
+  },
+  "convnetjs": {
+    "type": "JavaScript",
+    "group": "Machine Learning"
+  },
+  "CNTK": {
+    "type": "C++",
+    "group": "Machine Learning"
+  },
+  "keras": {
+    "type": "Python",
+    "group": "Machine Learning"
+  },
+  "brain": {
+    "type": "JavaScript",
+    "group": "Machine Learning"
+  },
+  "PredictionIO": {
+    "type": "Scala",
+    "group": "Machine Learning"
+  },
+  "caffe": {
+    "type": "C++",
+    "group": "Machine Learning"
+  },
+  "scikit-learn": {
+    "type": "Python",
+    "group": "Machine Learning"
+  },
+  "tensorflow": {
+    "type": "C++",
+    "group": "Machine Learning"
+  },
+  "libgdx": {
+    "type": "Java",
+    "group": "Games Engines"
+  },
+  "GD": {
+    "type": "HTML",
+    "group": "Games Engines"
+  },
+  "Dash": {
+    "type": "D",
+    "group": "Games Engines"
+  },
+  "panda3d": {
+    "type": "C++",
+    "group": "Games Engines"
+  },
+  "duality": {
+    "type": "C#",
+    "group": "Games Engines"
+  },
+  "AtomicGameEngine": {
+    "type": "C",
+    "group": "Games Engines"
+  },
+  "xenko": {
+    "type": "C#",
+    "group": "Games Engines"
+  },
+  "spring": {
+    "type": "C++",
+    "group": "Games Engines"
+  },
+  "superpowers-core": {
+    "type": "TypeScript",
+    "group": "Games Engines"
+  },
+  "jmonkeyengine": {
+    "type": "Java",
+    "group": "Games Engines"
+  },
+  "Torque2D": {
+    "type": "C++",
+    "group": "Games Engines"
+  },
+  "GamePlay": {
+    "type": "C++",
+    "group": "Games Engines"
+  },
+  "Starling-Framework": {
+    "type": "ActionScript",
+    "group": "Games Engines"
+  },
+  "Torque3D": {
+    "type": "C++",
+    "group": "Games Engines"
+  },
+  "turbulenz_engine": {
+    "type": "TypeScript",
+    "group": "Games Engines"
+  },
+  "godot": {
+    "type": "C",
+    "group": "Games Engines"
+  },
+  "openage": {
+    "type": "C++",
+    "group": "Games Engines"
+  },
+  "MonoGame": {
+    "type": "C#",
+    "group": "Games Engines"
+  },
+  "cocos2d-x": {
+    "type": "C++",
+    "group": "Games Engines"
+  },
+  "OpenRA": {
+    "type": "C#",
+    "group": "Games Engines"
+  }
+}
