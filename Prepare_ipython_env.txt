@@ -51,6 +51,109 @@ git clone https://github.com/linnovate/mean.git
 git clone https://github.com/derbyjs/derby.git
 git clone https://github.com/keithwhor/nodal.git
 
+- Text Editor
+git clone https://github.com/atom/atom
+git clone https://github.com/adobe/brackets
+git clone https://github.com/neovim/neovim
+git clone https://github.com/limetext/lime
+git clone https://github.com/textmate/textmate
+git clone https://github.com/LightTable/LightTable
+git clone https://github.com/syl20bnr/spacemacs
+git clone https://github.com/coolwanglu/vim.js
+git clone https://github.com/sharelatex/sharelatex
+git clone https://github.com/slap-editor/slap
+git clone https://github.com/CodeboxIDE/codebox
+git clone https://github.com/slap-editor/slap
+git clone https://github.com/zedapp/zed
+git clone https://github.com/Komodo/KomodoEdit
+git clone https://github.com/thomaswilburn/Caret
+git clone https://github.com/leo-editor/leo-editor
+
+- Web Games
+git clone https://github.com/gabrielecirulli/2048
+git clone https://github.com/mozilla/BrowserQuest
+git clone https://github.com/AlexNisnevich/untrusted
+git clone https://github.com/doublespeakgames/adarkroom
+git clone https://github.com/Hextris/hextris
+git clone https://github.com/ellisonleao/clumsy-bird
+git clone https://github.com/Q42/0hh1
+
+- Data Visulization
+git clone https://github.com/mbostock/d3.git
+git clone https://github.com/chartjs/Chart.js.git
+git clone https://github.com/Leaflet/Leaflet.git
+git clone https://github.com/ecomfe/echarts.git
+git clone https://github.com/gionkunz/chartist-js.git
+git clone https://github.com/jacomyal/sigma.js.git
+git clone https://github.com/mozilla/metrics-graphics.git
+git clone https://github.com/dc-js/dc.js.git
+git clone https://github.com/epochjs/epoch.git
+git clone https://github.com/matplotlib/matplotlib.git
+git clone https://github.com/benpickles/peity.git
+git clone https://github.com/densitydesign/raw.git
+git clone https://github.com/gka/chroma.js.git
+git clone https://github.com/samizdatco/arbor.git
+git clone https://github.com/PMSI-AlignAlytics/dimple.git
+git clone https://github.com/Boris-Em/BEMSimpleLineGraph.git
+git clone https://github.com/okfn/recline.git
+git clone https://github.com/HumbleSoftware/envisionjs.git
+git clone https://github.com/kartograph/kartograph.js.git
+git clone https://github.com/Kozea/pygal.git
+git clone https://github.com/AnalyticalGraphicsInc/cesium.git
+git clone https://github.com/stamen/modestmaps-js.git
+
+
+- Machine Learning
+git clone https://github.com/danielsdeleo/Decider.git
+git clone https://github.com/jubatus/jubatus.git
+git clone https://github.com/datumbox/datumbox-framework.git
+git clone https://github.com/SeldonIO/seldon-server.git
+git clone https://github.com/apache/mahout.git
+git clone https://github.com/nikolaypavlov/MLPNeuralNet.git
+git clone https://github.com/mikeizbicki/HLearn.git
+git clone https://github.com/shogun-toolbox/shogun.git
+git clone https://github.com/cloudera/oryx.git
+git clone https://github.com/NervanaSystems/neon.git
+git clone https://github.com/h2oai/h2o-2.git
+git clone https://github.com/johnmyleswhite/ML_for_Hackers.git
+git clone https://github.com/sjwhitworth/golearn.git
+git clone https://github.com/ryanb/ruby-warrior.git
+git clone https://github.com/dmlc/xgboost.git
+git clone https://github.com/dmlc/mxnet.git
+git clone https://github.com/Theano/Theano.git
+git clone https://github.com/numenta/nupic.git
+git clone https://github.com/clips/pattern.git
+git clone https://github.com/karpathy/convnetjs.git
+git clone https://github.com/Microsoft/CNTK.git
+git clone https://github.com/fchollet/keras.git
+git clone https://github.com/harthur/brain.git
+git clone https://github.com/PredictionIO/PredictionIO.git
+git clone https://github.com/BVLC/caffe.git
+git clone https://github.com/scikit-learn/scikit-learn.git
+git clone https://github.com/tensorflow/tensorflow.git
+
+- Games Engines
+git clone https://github.com/libgdx/libgdx.git
+git clone https://github.com/4ian/GD.git
+git clone https://github.com/Circular-Studios/Dash.git
+git clone https://github.com/panda3d/panda3d.git
+git clone https://github.com/AdamsLair/duality.git
+git clone https://github.com/AtomicGameEngine/AtomicGameEngine.git
+git clone https://github.com/SiliconStudio/xenko.git
+git clone https://github.com/spring/spring.git
+git clone https://github.com/superpowers/superpowers-core.git
+git clone https://github.com/jMonkeyEngine/jmonkeyengine.git
+git clone https://github.com/GarageGames/Torque2D.git
+git clone https://github.com/gameplay3d/GamePlay.git
+git clone https://github.com/Gamua/Starling-Framework.git
+git clone https://github.com/GarageGames/Torque3D.git
+git clone https://github.com/turbulenz/turbulenz_engine.git
+git clone https://github.com/godotengine/godot.git
+git clone https://github.com/SFTtech/openage.git
+git clone https://github.com/mono/MonoGame.git
+git clone https://github.com/cocos2d/cocos2d-x.git
+git clone https://github.com/OpenRA/OpenRA.git
+
 - Install IPython Notebook
 https://gist.github.com/hosamshahin/217cd1e758f8fc6145fa03eab7584a69
 

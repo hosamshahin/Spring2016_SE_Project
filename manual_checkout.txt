@@ -27,7 +27,7 @@ mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/
 mkdir androidannotations_tags; cp -r androidannotations androidannotations_tags/2003-01;cd androidannotations_tags/2003-01; git checkout 2003-01;rm -rf .git;cd ../..;
 
 
-- checkout
+- checkout master
 cd androidannotations; git checkout master; cd ..;
 cd bigbluebutton; git checkout master; cd ..;
 cd cakephp; git checkout master; cd ..;
@@ -155,9 +155,6 @@ unzip web2py-tags.zip
 unzip wildfly-tags.zip
 
 - upload zip folders
-scp </path/to/local/file/to/upload> <username>@<hostname>:<destination path>
-scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
-
 scp androidannotations-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
 scp bigbluebutton-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
 scp cakephp-tags.zip hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
@@ -223,8 +220,6 @@ scp web2py-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring20
 scp wildfly-tags.zip hshahin@opendsax.cs.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/
 
 -download from darkgray to local machine
-scp hshahin@darkgray.cirt.vt.edu:</path/to/file/to/download> /home/hshahin/workspaces/Spring2016_SE_Project/data
-
 scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/androidannotations-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
 scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/bigbluebutton-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
 scp hshahin@darkgray.cirt.vt.edu:/home/hshahin/workspaces/Spring2016_SE_Project/data/cakephp-tags.zip /home/hshahin/workspaces/Spring2016_SE_Project/data
