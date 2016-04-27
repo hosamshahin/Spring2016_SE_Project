@@ -236,7 +236,7 @@
     "group": "Machine Learning"
   },
   "Theano": {
-    "type": "python",
+    "type": "Python",
     "group": "Machine Learning"
   },
   "nupic": {
