@@ -358,5 +358,68 @@
   "OpenRA": {
     "type": "C#",
     "group": "Games Engines"
-  }
+  },
+  "spring-framework": {
+    "type": "java",
+    "group": "Web Framework"
+},
+"laravel": {
+    "type": "php",
+    "group": "Web Framework"
+},
+"symfony": {
+    "type": "php",
+    "group": "Web Framework"
+},
+"cakephp": {
+    "type": "php",
+    "group": "Web Framework"
+},
+"CodeIgniter": {
+    "type": "php",
+    "group": "Web Framework"
+},
+"rails": {
+    "type": "ruby",
+    "group": "Web Framework"
+},
+"sinatra": {
+    "type": "ruby",
+    "group": "Web Framework"
+},
+"pakyow": {
+    "type": "ruby",
+    "group": "Web Framework"
+},
+"flask": {
+    "type": "python",
+    "group": "Web Framework"
+},
+"django": {
+    "type": "python",
+    "group": "Web Framework"
+},
+"web2py": {
+    "type": "python",
+    "group": "Web Framework"
+},
+"frappe": {
+    "type": "python",
+    "group": "Web Framework"
+},
+"express": {
+    "type": "javascript",
+    "group": "Web Framework"
+},
+"derby": {
+    "type": "javascript",
+    "group": "Web Framework"
+},
+"mean": {
+    "type": "javascript",
+    "group": "Web Framework"
+},
+"meteor": {
+    "type": "javascript" "group": "Web Framework"
+}
 }
