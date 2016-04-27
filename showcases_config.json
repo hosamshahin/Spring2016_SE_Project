@@ -420,6 +420,7 @@
     "group": "Web Framework"
 },
 "meteor": {
-    "type": "javascript" "group": "Web Framework"
+    "type": "javascript",
+    "group": "Web Framework"
 }
 }
