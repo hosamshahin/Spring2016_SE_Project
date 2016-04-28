@@ -364,19 +364,19 @@
     "group": "Web Framework"
 },
 "laravel": {
-    "type": : "PHP",
+    "type": "PHP",
     "group": "Web Framework"
 },
 "symfony": {
-    "type": : "PHP",
+    "type": "PHP",
     "group": "Web Framework"
 },
 "cakephp": {
-    "type": : "PHP",
+    "type": "PHP",
     "group": "Web Framework"
 },
 "CodeIgniter": {
-    "type": : "PHP",
+    "type": "PHP",
     "group": "Web Framework"
 },
 "rails": {
