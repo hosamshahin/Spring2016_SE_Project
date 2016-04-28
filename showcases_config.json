@@ -223,7 +223,7 @@
     "type": "Go",
     "group": "Machine Learning"
   },
-  "ruby-warrior": {
+  "Ruby-warrior": {
     "type": "Ruby",
     "group": "Machine Learning"
   },
@@ -360,67 +360,67 @@
     "group": "Games Engines"
   },
   "spring-framework": {
-    "type": "java",
+    "type": "Java",
     "group": "Web Framework"
 },
 "laravel": {
-    "type": "php",
+    "type": : "PHP",
     "group": "Web Framework"
 },
 "symfony": {
-    "type": "php",
+    "type": : "PHP",
     "group": "Web Framework"
 },
 "cakephp": {
-    "type": "php",
+    "type": : "PHP",
     "group": "Web Framework"
 },
 "CodeIgniter": {
-    "type": "php",
+    "type": : "PHP",
     "group": "Web Framework"
 },
 "rails": {
-    "type": "ruby",
+    "type": "Ruby",
     "group": "Web Framework"
 },
 "sinatra": {
-    "type": "ruby",
+    "type": "Ruby",
     "group": "Web Framework"
 },
 "pakyow": {
-    "type": "ruby",
+    "type": "Ruby",
     "group": "Web Framework"
 },
 "flask": {
-    "type": "python",
+    "type": "Python",
     "group": "Web Framework"
 },
 "django": {
-    "type": "python",
+    "type": "Python",
     "group": "Web Framework"
 },
 "web2py": {
-    "type": "python",
+    "type": "Python",
     "group": "Web Framework"
 },
 "frappe": {
-    "type": "python",
+    "type": "Python",
     "group": "Web Framework"
 },
 "express": {
-    "type": "javascript",
+    "type": "JavaScript",
     "group": "Web Framework"
 },
 "derby": {
-    "type": "javascript",
+    "type": "JavaScript",
     "group": "Web Framework"
 },
 "mean": {
-    "type": "javascript",
+    "type": "JavaScript",
     "group": "Web Framework"
 },
 "meteor": {
-    "type": "javascript",
+    "type": "JavaScript",
     "group": "Web Framework"
 }
 }
