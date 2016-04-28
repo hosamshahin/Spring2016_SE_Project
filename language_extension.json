@@ -19,5 +19,6 @@
     "Scala": ".scala",
     "D": ".d",
     "TypeScript": ".es",
-    "ActionScript": ".as"
+    "ActionScript": ".as",
+    "php": ".php"
 }
