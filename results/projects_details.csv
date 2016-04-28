@@ -12,7 +12,6 @@ Dash,Games Engines,D
 Decider,Machine Learning,Ruby
 GD,Games Engines,HTML
 GamePlay,Games Engines,C++
-HLearn,Machine Learning,Haskell
 KomodoEdit,Text Editor,Python
 Leaflet,Data Visulization,JavaScript
 LightTable,Text Editor,Clojure
@@ -72,7 +71,6 @@ metrics-graphics,Data Visulization,JavaScript
 modestmaps-js,Data Visulization,JavaScript
 mxnet,Machine Learning,C++
 neon,Machine Learning,Python
-neovim,Text Editor,VimL
 nupic,Machine Learning,Python
 openage,Games Engines,C++
 oryx,Machine Learning,Java
@@ -91,7 +89,6 @@ shogun,Machine Learning,C++
 sigma.js,Data Visulization,JavaScript
 sinatra,Web Framework,Ruby
 slap,Text Editor,JavaScript
-spacemacs,Text Editor,Emacs Lisp
 spring,Games Engines,C++
 spring-framework,Web Framework,Java
 superpowers-core,Games Engines,TypeScript
