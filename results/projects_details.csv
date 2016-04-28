@@ -82,7 +82,7 @@ pattern,Machine Learning,Python
 peity,Data Visulization,HTML
 pygal,Data Visulization,Python
 rails,Web Framework,Ruby
-raw,Data Visulization,Python
+raw,Data Visulization,JavaScript
 recline,Data Visulization,JavaScript
 scikit-learn,Machine Learning,Python
 seldon-server,Machine Learning,Java

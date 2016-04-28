@@ -7,20 +7,12 @@
     "type": "JavaScript",
     "group": "Text Editor"
   },
-  "neovim": {
-    "type": "VimL",
-    "group": "Text Editor"
-  },
   "textmate": {
     "type": "C++",
     "group": "Text Editor"
   },
   "LightTable": {
     "type": "Clojure",
-    "group": "Text Editor"
-  },
-  "spacemacs": {
-    "type": "Emacs Lisp",
     "group": "Text Editor"
   },
   "vim.js": {
@@ -193,10 +185,6 @@
   },
   "MLPNeuralNet": {
     "type": "Objective-C",
-    "group": "Machine Learning"
-  },
-  "HLearn": {
-    "type": "Haskell",
     "group": "Machine Learning"
   },
   "shogun": {
