@@ -1,5 +1,5 @@
 {
-    "CoffeeScript": ".cofee",
+    "CoffeeScript": ".coffee",
     "JavaScript": ".js",
     "Java": ".java",
     "VimL": ".eml",
