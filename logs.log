@@ -1,0 +1,215 @@
+Start time: 1461885129.356168
+all projects: (106, 3)
+['AtomicGameEngine' 'Games Engines' 'C']
+['0hh1' 'Web Games' 'JavaScript']
+['BrowserQuest' 'Web Games' 'JavaScript']
+['Caret' 'Text Editor' 'JavaScript']
+['CodeIgniter' 'Web Framework' 'PHP']
+['Decider' 'Machine Learning' 'Ruby']
+['GamePlay' 'Games Engines' 'C++']
+['KomodoEdit' 'Text Editor' 'Python']
+['Ruby-warrior' 'Machine Learning' 'Ruby']
+['ML_for_Hackers' 'Machine Learning' 'R']
+['OpenRA' 'Games Engines' 'C#']
+['LightTable' 'Text Editor' 'Clojure']
+['arbor' 'Data Visulization' 'JavaScript']
+['Theano' 'Machine Learning' 'Python']
+['Torque3D' 'Games Engines' 'C++']
+['brackets' 'Text Editor' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/lighttable done in 0.003609148661295573min.
+['MLPNeuralNet' 'Machine Learning' 'Objective-C']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/mlpneuralnet done in 0.009835775693257649min.
+['caffe' 'Machine Learning' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/ruby-warrior done in 0.02960569461186727min.
+['Starling-Framework' 'Games Engines' 'ActionScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/decider done in 0.03258429368336995min.
+['GD' 'Games Engines' 'HTML']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/ml_for_hackers done in 0.034770643711090087min.
+['MonoGame' 'Games Engines' 'C#']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/0hh1 done in 0.046754105885823564min.
+['2048' 'Web Games' 'CSS']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/2048 done in 0.0062508702278137205min.
+['cesium' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/arbor done in 0.0661330540974935min.
+['atom' 'Text Editor' 'CoffeeScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/starling-framework done in 0.3008081634839376min.
+['chroma.js' 'Data Visulization' 'CoffeeScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/browserquest done in 0.3409050703048706min.
+['CNTK' 'Machine Learning' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/chroma.js done in 0.0277249018351237min.
+['clumsy-bird' 'Web Games' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/clumsy-bird done in 0.06447095473607381min.
+['cocos2d-x' 'Games Engines' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/codeigniter done in 0.46831727027893066min.
+['Dash' 'Games Engines' 'D']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/caffe done in 0.4621642708778381min.
+['cakephp' 'Web Framework' 'PHP']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/atom done in 0.5393288771311442min.
+['convnetjs' 'Machine Learning' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/convnetjs done in 0.08321642875671387min.
+['d3' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/cntk done in 0.6369991620381673min.
+['datumbox-framework' 'Machine Learning' 'Java']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/openra done in 1.0064626018206277min.
+['PredictionIO' 'Machine Learning' 'Scala']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/d3 done in 0.3675050616264343min.
+['derby' 'Web Framework' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/derby done in 0.02526820500691732min.
+['dimple' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/predictionio done in 0.2938126802444458min.
+['django' 'Web Framework' 'Python']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/dash done in 0.8474526564280193min.
+['echarts' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/datumbox-framework done in 0.3378973801930745min.
+['dc.js' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/monogame done in 1.6402055184046427min.
+['epoch' 'Data Visulization' 'HTML']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/gameplay done in 1.6779657006263733min.
+['HLearn' 'Machine Learning' 'Haskell']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/hlearn done in 5.088647206624349e-05min.
+['flask' 'Web Framework' 'Python']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/epoch done in 0.037592971324920656min.
+['express' 'Web Framework' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/caret done in 1.7560288747151693min.
+['Chart.js' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/flask done in 0.11825777292251587min.
+['frappe' 'Web Framework' 'Python']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/express done in 0.08658776680628459min.
+['godot' 'Games Engines' 'C']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/theano done in 1.8068089445432027min.
+['Torque2D' 'Games Engines' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/cakephp done in 1.6606677532196046min.
+['h2o-2' 'Machine Learning' 'Java']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/chart.js done in 0.39970195293426514min.
+['jmonkeyengine' 'Games Engines' 'Java']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/frappe done in 0.36832027435302733min.
+['kartograph.js' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/kartograph.js done in 0.12924957275390625min.
+['keras' 'Machine Learning' 'Python']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/dimple done in 1.4291263143221538min.
+['laravel' 'Web Framework' 'PHP']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/keras done in 0.224734632174174min.
+['libgdx' 'Games Engines' 'Java']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/laravel done in 0.013292940457661946min.
+['leo-editor' 'Text Editor' 'Python']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/echarts done in 1.6706277449925742min.
+['envisionjs' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/h2o-2 done in 1.1964594960212707min.
+['hextris' 'Web Games' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/hextris done in 0.04175494909286499min.
+['matplotlib' 'Data Visulization' 'Python']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/dc.js done in 2.17904265721639min.
+['meteor' 'Web Framework' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/torque2d done in 1.968687884012858min.
+['modestmaps-js' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/komodoedit done in 3.8285192767779033min.
+['Leaflet' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/modestmaps-js done in 0.15440550247828166min.
+['mxnet' 'Machine Learning' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/cesium done in 3.878018844127655min.
+['chartist-js' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/chartist-js done in 0.123261825243632min.
+['neon' 'Machine Learning' 'Python']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/mxnet done in 0.1249485452969869min.
+['nupic' 'Machine Learning' 'Python']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/envisionjs done in 1.2064298590024312min.
+['oryx' 'Machine Learning' 'Java']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/django done in 3.000800001621246min.
+['duality' 'Games Engines' 'C#']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/leaflet done in 0.5086213787396748min.
+['panda3d' 'Games Engines' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/panda3d done in 0.04034171899159749min.
+['pattern' 'Machine Learning' 'Python']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/neon done in 0.3974446773529053min.
+['neovim' 'Text Editor' 'VimL']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/neovim done in 0.00020138422648111978min.
+['peity' 'Data Visulization' 'HTML']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/peity done in 0.00644753376642863min.
+['pygal' 'Data Visulization' 'Python']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/brackets done in 4.478647736708323min.
+['brain' 'Machine Learning' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/brain done in 0.008339917659759522min.
+['rails' 'Web Framework' 'Ruby']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/pygal done in 0.10179827213287354min.
+['recline' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/oryx done in 0.3879736065864563min.
+['pakyow' 'Web Framework' 'Ruby']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/jmonkeyengine done in 2.477136826515198min.
+['jubatus' 'Machine Learning' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/pakyow done in 0.10489626328150431min.
+['seldon-server' 'Machine Learning' 'Java']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/jubatus done in 0.13709640105565388min.
+['shogun' 'Machine Learning' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/matplotlib done in 1.5780165354410807min.
+['mean' 'Web Framework' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/pattern done in 0.6953137596448262min.
+['sinatra' 'Web Framework' 'Ruby']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/seldon-server done in 0.4157573223114014min.
+['sharelatex' 'Text Editor' 'CoffeeScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/mean done in 0.15453172127405804min.
+['spacemacs' 'Text Editor' 'Emacs Lisp']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/spacemacs done in 0.00029351711273193357min.
+['spring' 'Games Engines' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/sharelatex done in 0.009715020656585693min.
+['spring-framework' 'Web Framework' 'Java']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/torque3d done in 5.122339308261871min.
+['adarkroom' 'Web Games' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/sinatra done in 0.075076957543691min.
+['slap' 'Text Editor' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/slap done in 0.012733976046244303min.
+['symfony' 'Web Framework' 'PHP']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/recline done in 0.6217323223749797min.
+['scikit-learn' 'Machine Learning' 'Python']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/leo-editor done in 2.730542270342509min.
+['textmate' 'Text Editor' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/duality done in 1.1087931474049886min.
+['untrusted' 'Web Games' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/meteor done in 2.0190578937530517min.
+['metrics-graphics' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/textmate done in 0.31528104146321617min.
+['turbulenz_engine' 'Games Engines' 'TypeScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/adarkroom done in 0.5320821523666381min.
+['web2py' 'Web Framework' 'Python']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/metrics-graphics done in 0.26736929416656496min.
+['xgboost' 'Machine Learning' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/untrusted done in 0.3945210496584574min.
+['vim.js' 'Text Editor' 'C']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/xgboost done in 0.08293380339940389min.
+['zed' 'Text Editor' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/nupic done in 1.8775606870651245min.
+['openage' 'Games Engines' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/libgdx done in 3.435810212294261min.
+['mahout' 'Machine Learning' 'Java']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/openage done in 0.15719730456670125min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/zed done in 0.5228299776713053min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/turbulenz_engine done in 0.858808143933614min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/godot done in 4.668631831804912min.
+['golearn' 'Machine Learning' 'Go']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/golearn done in 0.08266242742538452min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/shogun done in 2.015837224324544min.
+['sigma.js' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/scikit-learn done in 1.631230858961741min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/sigma.js done in 0.16369680563608804min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/rails done in 2.5402328610420226min.
+['raw' 'Data Visulization' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/raw done in 0.025076027711232504min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/web2py done in 1.5237526257832845min.
+['xenko' 'Games Engines' 'C#']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/symfony done in 2.052876353263855min.
+['tensorflow' 'Machine Learning' 'C++']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/cocos2d-x done in 6.958200796445211min.
+['codebox' 'Text Editor' 'JavaScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/codebox done in 0.02993406057357788min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/mahout done in 1.54164662361145min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/spring done in 2.6505081415176392min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/vim.js done in 2.2918617725372314min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/atomicgameengine done in 8.106345148881276min.
+['BEMSimpleLineGraph' 'Data Visulization' 'Objective-C']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/bemsimplelinegraph done in 0.026565066973368325min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/tensorflow done in 1.4453750491142272min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/xenko done in 4.988104542096456min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/spring-framework done in 8.24824522336324min.
+['superpowers-core' 'Games Engines' 'TypeScript']
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/superpowers-core done in 0.2194185177485148min.
+***Processing project:/home/hshahin/workspaces/Spring2016_SE_Project/data/gd done in 18.786010078589122min.
+Main process Done..........................
