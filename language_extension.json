@@ -6,7 +6,7 @@
     "Clojure": ".clj",
     "Emacs Lisp": ".vlx",
     "Python": ".py",
-    "C++": (".cc", ".cpp"),
+    "C++": [".cc", ".cpp"],
     "C": ".c",
     "C#": ".cs",
     "CSS": ".css",
