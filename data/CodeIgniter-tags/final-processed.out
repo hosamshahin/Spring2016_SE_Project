@@ -1,0 +1,3653 @@
+
+
+code ignit
+
+open sourc applic develop framework newer
+
+notic licens
+
+licens open softwar licens version
+
+thi sourc file subject open softwar licens
+bundl file licens licens
+also avail world wide
+http opensourc licens
+receiv copi licens unabl obtain
+world wide pleas send email
+licens ellislab send copi immedi
+
+code ignit
+author elli lab team
+copyright copyright 2008 2014 elli lab http ellislab
+licens http opensourc licens open softwar licens
+link http codeignit
+sinc version
+filesourc
+
+
+
+
+applic environ
+
+
+load differ configur depend
+current environ set environ also influenc
+thing like log error report
+
+thi anyth usag
+
+develop
+test
+product
+
+note chang also chang error report code
+
+defin environ server server develop
+
+
+
+error report
+
+
+differ environ differ level error report
+develop show error test live hide
+
+environ
+
+develop
+error report
+display error
+
+
+test
+product
+error report notic deprec strict
+display error
+
+
+
+header http servic unavail true
+applic environ correctli
+exit error
+
+
+
+
+system folder name
+
+
+thi variabl must contain name system folder
+includ path folder directori
+file
+
+system path system
+
+
+
+applic folder name
+
+
+want front control differ applic
+folder name folder
+also renam reloc anywher server
+full server path info pleas user guid
+http codeignit user guid gener manag app html
+
+trail slash
+
+applic folder applic
+
+
+
+view folder name
+
+
+want move view folder applic
+folder path folder folder renam
+reloc anywher server blank
+standard locat insid applic folder
+move full server path folder
+
+trail slash
+
+view folder
+
+
+
+
+default control
+
+
+normal control rout file
+howev forc custom rout hard code
+specif control applic
+will rout option
+special instanc might want overrid standard
+rout specif front control share common instal
+
+import rout other control
+essenc prefer limit applic
+specif control leav name blank need
+call function dynam
+
+comment rout featur
+
+directori name rel control folder leav blank
+control folder within control folder
+rout directori
+
+control file name exampl mycontrol
+rout control
+
+control wish call
+rout
+
+
+
+
+custom config valu
+
+
+assign config pass dynam
+config initi thi allow custom config
+item overrid config valu found config file
+thi handi permit share applic
+multipl front control file file contain differ
+config valu
+
+comment assign config featur
+
+assign config name config item valu config item
+
+
+
+
+user configur set edit below thi line
+
+
+
+
+resolv system path increas reliabl
+
+
+
+current directori correctli request
+defin stdin
+
+chdir dirnam file
+
+
+temp realpath system path fals
+
+system path temp
+
+
+
+ensur trail slash
+system path rtrim system path
+
+
+system path correct
+system path
+
+header http servic unavail true
+your system folder path appear correctli pleas open follow file correct pathinfo file pathinfo basenam
+exit config
+
+
+
+
+know path main path constant
+
+
+name thi file
+defin self pathinfo file pathinfo basenam
+
+path system folder
+defin basepath replac system path
+
+path front control file
+defin fcpath replac self file
+
+name system folder
+defin sysdir trim strrchr trim basepath
+
+path applic folder
+applic folder
+
+temp realpath applic folder fals
+
+applic folder temp
+
+
+defin apppath applic folder directori separ
+
+
+
+basepath applic folder directori separ
+
+header http servic unavail true
+your applic folder path appear correctli pleas open follow file correct self
+exit config
+
+
+defin apppath basepath applic folder directori separ
+
+
+path view folder
+view folder
+
+view folder apppath view folder directori separ
+
+view folder apppath view folder
+
+apppath view directori separ
+
+header http servic unavail true
+your view folder path appear correctli pleas open follow file correct self
+exit config
+
+
+
+view folder apppath view
+
+
+
+temp realpath view folder fals
+
+view folder temp directori separ
+
+
+
+view folder rtrim view folder directori separ
+
+
+defin viewpath view folder
+
+
+
+load bootstrap file
+
+
+away
+
+basepath core code ignit
+
+file index
+locat index
+
+
+code ignit
+
+open sourc applic develop framework newer
+
+notic licens
+
+licens open softwar licens version
+
+thi sourc file subject open softwar licens
+bundl file licens licens
+also avail world wide
+http opensourc licens
+receiv copi licens unabl obtain
+world wide pleas send email
+licens ellislab send copi immedi
+
+code ignit
+author elli lab team
+copyright copyright 2008 2014 elli lab http ellislab
+licens http opensourc licens open softwar licens
+link http codeignit
+sinc version
+filesourc
+
+defin basepath direct script access allow
+
+
+databas cach class
+
+categori databas
+author elli lab team
+link http codeignit user guid databas
+
+cach
+
+
+singleton
+
+object
+
+
+
+
+databas object
+
+allow pass object multipl databas connect
+return object support
+
+object
+
+
+
+
+
+
+constructor
+
+param object
+
+
+construct
+
+assign main object load file helper sinc
+instanc
+
+load helper file
+
+check path
+
+
+
+
+
+cach directori path
+
+param string path path cach directori
+bool
+
+check path path
+
+path
+
+cachedir
+
+cach
+
+
+path cachedir
+
+
+trail slash path need
+path realpath path
+rtrim realpath path directori separ directori separ
+rtrim path
+
+path
+
+messag debug cach path error path
+
+path wrong turn cach
+cach
+
+
+realli writabl path
+
+messag debug cach writabl path
+
+path realli writabl turn cach
+cach
+
+
+cachedir path
+true
+
+
+
+
+
+retriev cach queri
+
+request becom name cach folder
+hash statement becom cach file name
+
+param string
+string
+
+read
+
+segment segment fals segment
+segment segment fals index segment
+filepath cachedir segment segment
+
+fals cachedata file content filepath
+
+fals
+
+
+unseri cachedata
+
+
+
+
+
+write queri cach file
+
+param string
+param object object
+bool
+
+write object
+
+segment segment fals segment
+segment segment fals index segment
+path cachedir segment segment
+filenam
+
+path
+
+mkdir path 0777
+
+fals
+
+
+chmod path 0777
+
+
+write file path filenam serial object fals
+
+fals
+
+
+chmod path filenam 0666
+true
+
+
+
+
+
+delet cach file within particular directori
+
+param string segment
+param string segment
+
+
+delet segment segment
+
+segment
+
+segment segment fals segment
+
+
+segment
+
+segment segment fals index segment
+
+
+path cachedir segment segment
+delet file path true
+
+
+
+
+
+delet exist cach file
+
+
+
+delet
+
+delet file cachedir true true
+
+
+
+
+file cach
+locat system databas cach
+
+
+code ignit
+
+open sourc applic develop framework newer
+
+notic licens
+
+licens open softwar licens version
+
+thi sourc file subject open softwar licens
+bundl file licens licens
+also avail world wide
+http opensourc licens
+receiv copi licens unabl obtain
+world wide pleas send email
+licens ellislab send copi immedi
+
+code ignit
+author elli lab team
+copyright copyright 2008 2014 elli lab http ellislab
+licens http opensourc licens open softwar licens
+link http codeignit
+sinc version
+filesourc
+
+defin basepath direct script access allow
+
+
+initi databas
+
+categori databas
+author elli lab team
+link http codeignit user guid databas
+
+param string string param
+param bool queri builder overrid
+determin queri builder use
+
+param queri builder overrid null
+
+load config file string pass
+string param strpo param fals
+
+config file environ folder
+file exist file path apppath config environ databas
+file exist file path apppath config databas
+
+show error configur file databas exist
+
+
+file path
+make packag contain databas config file
+instanc load path path
+
+path apppath
+
+file exist file path path config environ databas
+
+file path
+
+file exist file path path config databas
+
+file path
+
+
+
+
+count
+
+show error databas connect set found databas config file
+
+
+param
+
+activ group param
+
+
+activ group
+
+show error specifi databas connect group activ group config databas file
+
+activ group
+
+show error specifi invalid databas connect group activ group config databas file
+
+
+param activ group
+
+string param
+
+
+pars string
+databas set pass discreet
+paramet data sourc name first
+paramet ds ns must prototyp
+driver usernam password hostnam databas
+
+pars param fals
+
+show error invalid connect string
+
+
+param
+dbdriver scheme
+hostnam host rawurldecod host
+port port rawurldecod port
+usernam user rawurldecod user
+password rawurldecod
+databas path rawurldecod substr path
+
+
+were addit config item
+queri
+
+pars queri extra
+
+extra
+
+string strtoupper true fals null
+
+export
+
+
+param
+
+
+
+
+specifi beat senseless
+param dbdriver
+
+show error select databas type connect
+
+
+load class note sinc queri builder option
+need dynam creat proper parent
+base whether use queri builder
+queri builder overrid null
+
+queri builder queri builder overrid
+
+backward compat work around keep
+activ record config variabl work should
+remov
+queri builder activ record
+
+queri builder activ record
+
+
+basepath databas driver
+
+queri builder queri builder true
+
+basepath databas queri builder
+exist fals
+
+
+
+
+act driver queri builder
+
+queri builder
+driver
+
+queri builder
+
+
+exist fals
+
+
+ignor
+
+driver
+
+
+load driver
+driver file basepath databas driver param dbdriver param dbdriver driver
+
+file exist driver file show error invalid driver
+driver file
+
+instanti adapt
+driver param dbdriver driver
+driver param
+
+check subdriv
+subdriv
+
+driver file basepath databas driver dbdriver subdriv dbdriver subdriv driver
+
+file exist driver file
+
+driver file
+driver dbdriver subdriv driver
+driver param
+
+
+
+autoinit true
+
+initi
+
+
+
+
+
+file
+locat system databas
+
+
+code ignit
+
+open sourc applic develop framework newer
+
+notic licens
+
+licens open softwar licens version
+
+thi sourc file subject open softwar licens
+bundl file licens licens
+also avail world wide
+http opensourc licens
+receiv copi licens unabl obtain
+world wide pleas send email
+licens ellislab send copi immedi
+
+code ignit
+author elli lab team
+copyright copyright 2008 2014 elli lab http ellislab
+licens http opensourc licens open softwar licens
+link http codeignit
+sinc version
+filesourc
+
+defin basepath direct script access allow
+
+
+databas driver class
+
+thi platform independ base implement
+thi call directli rather adapt
+specif databas extend instanti
+
+code ignit
+subpackag driver
+categori databas
+author elli lab team
+link http codeignit user guid databas
+
+driver
+
+
+data sourc name connect string
+
+string
+
+
+
+
+usernam
+
+string
+
+usernam
+
+
+password
+
+string
+
+password
+
+
+hostnam
+
+string
+
+hostnam
+
+
+databas name
+
+string
+
+databas
+
+
+databas driver
+
+string
+
+dbdriver mysqli
+
+
+driver
+
+use driver
+string
+
+subdriv
+
+
+tabl prefix
+
+string
+
+dbprefix
+
+
+charact
+
+string
+
+utf8
+
+
+collat
+
+string
+
+dbcollat utf8 gener
+
+
+auto init flag
+
+whether automat initi connect
+
+bool
+
+autoinit true
+
+
+encrypt flag data
+
+mix
+
+encrypt fals
+
+
+swap prefix
+
+string
+
+swap
+
+
+databas port
+
+
+
+port
+
+
+persist connect flag
+
+bool
+
+pconnect fals
+
+
+connect
+
+object resourc
+
+conn fals
+
+
+result
+
+object resourc
+
+result fals
+
+
+debug flag
+
+whether display error messag
+
+bool
+
+debug fals
+
+
+benchmark time
+
+
+
+benchmark
+
+
+execut queri count
+
+
+
+queri count
+
+
+bind marker
+
+charact use identifi valu prepar statement
+
+string
+
+bind marker
+
+
+save queri flag
+
+whether keep memori histori queri debug purpos
+
+bool
+
+save queri true
+
+
+queri
+
+driver save queri
+string
+
+queri
+
+
+queri time
+
+time queri took execut
+
+
+
+queri time
+
+
+data cach
+
+intern gener valu cach
+
+
+
+data cach
+
+
+transact enabl flag
+
+bool
+
+tran enabl true
+
+
+strict transact mode flag
+
+bool
+
+tran strict true
+
+
+transact depth level
+
+
+
+tran depth
+
+
+transact statu flag
+
+use transact determin rollback occur
+
+bool
+
+tran statu true
+
+
+transact failur flag
+
+use transact determin transact fail
+
+bool
+
+tran failur fals
+
+
+cach flag
+
+bool
+
+cach fals
+
+
+cach directori path
+
+bool
+
+cachedir
+
+
+cach auto delet flag
+
+bool
+
+cach autodel fals
+
+
+cach object
+
+cach
+object
+
+cach
+
+
+protect identifi flag
+
+bool
+
+protect identifi true
+
+
+list reserv identifi
+
+identifi must escap
+
+string
+
+reserv identifi
+
+
+identifi escap charact
+
+string
+
+escap
+
+
+escap statement string
+
+string
+
+like escap escap
+
+
+escap charact
+
+string
+
+like escap
+
+
+order random keyword
+
+
+
+random keyword rand rand
+
+
+count string
+
+use driver count
+use queri builder count result
+
+string
+
+count string select count
+
+
+
+
+class constructor
+
+param param
+
+
+construct param
+
+param
+
+param
+
+
+
+
+
+messag debug databas driver class initi
+
+
+
+
+
+initi databas set
+
+bool
+
+initi
+
+establish connect avail
+need connect select databas
+
+depend databas driver conn either
+true resourc object
+
+conn
+
+true
+
+
+
+
+connect databas connect
+conn connect pconnect
+
+connect resourc check failov error
+conn
+
+check failov
+failov failov
+
+failov
+failov failov
+
+replac current set failov
+failov
+
+
+
+
+connect
+conn connect pconnect
+
+connect made loop
+conn
+
+
+
+
+
+
+still connect
+conn
+
+messag error unabl connect databas
+
+debug
+
+display error unabl connect
+
+
+fals
+
+
+
+charact
+charset
+
+
+
+
+
+persist databas connect
+
+resourc
+
+pconnect
+
+connect true
+
+
+
+
+
+reconnect
+
+keep reestablish connect queri
+sent length time exceed server idl timeout
+
+thi dummi method allow driver without
+function other overrid
+
+
+
+reconnect
+
+
+
+
+
+
+select databas
+
+thi dummi method allow driver without
+function other overrid
+
+bool
+
+select
+
+true
+
+
+
+
+
+client charact
+
+param string
+bool
+
+charset charset
+
+method exist charset charset charset
+
+messag error unabl databas connect charset charset
+
+debug
+
+display error unabl charset charset
+
+
+fals
+
+
+true
+
+
+
+
+
+name platform mysql mssql
+
+string
+
+platform
+
+dbdriver
+
+
+
+
+
+databas version number
+
+return string contain version databas use
+most driver overrid method
+
+string
+
+version
+
+data cach version
+
+data cach version
+
+
+fals version
+
+debug display error unsupport fals
+
+
+queri queri
+data cach version queri
+
+
+
+
+
+version number queri string
+
+string
+
+version
+
+select version
+
+
+
+
+
+execut queri
+
+accept string input return result object upon
+success execut read type queri return true
+upon success execut write type queri return
+fals upon failur debug variabl true
+error
+
+param string
+param bind fals bind data
+param bool object null
+mix
+
+queri bind fals object null
+
+
+
+messag error invalid queri
+debug display error invalid queri fals
+
+bool object
+
+object write type
+
+
+verifi tabl prefix replac necessari
+dbprefix swap dbprefix swap
+
+preg replac swap dbprefix
+
+
+compil bind need
+bind fals
+
+compil bind bind
+
+
+queri cach enabl queri read type
+load cach previous
+cach queri exist
+cach true object true cach init
+
+load rdriver
+fals cach cach read
+
+cach
+
+
+
+save queri debug
+save queri true
+
+queri
+
+
+start queri timer
+time start microtim true
+
+queri
+fals result simpl queri
+
+save queri true
+
+queri time
+
+
+thi trigger rollback transact use
+tran statu fals
+
+grab error might addit queri display error
+error error
+
+error
+messag error queri error error messag invalid queri
+
+debug
+
+call order roll back queri
+transact enabl call
+error messag trigger caus
+transact remain limbo
+tran depth
+
+
+
+tran complet
+
+tran depth
+
+
+display error
+display error error number error code error messag
+
+
+fals
+
+
+stop aggreg queri time result
+time microtim true
+benchmark time time start
+
+save queri true
+
+queri time time time start
+
+
+increment queri counter
+queri count
+
+will result object instanti simpli true
+object true
+
+cach enabl auto cleanup exist file relat particular
+cach true cach autodel true cach init
+
+cach delet
+
+
+true
+
+
+load instanti result driver
+driver load rdriver
+driver
+
+queri cach enabl serial
+result object save cach file
+cach true cach init
+
+creat instanc result object
+without platform specif driver sinc
+cach data queri result
+resourc good cach
+result object compil data
+save
+result
+result object result object
+result result
+row row
+
+reset sinc cach object util resourc
+conn null
+result null
+
+cach write
+
+
+
+
+
+
+
+
+load result driver
+
+string name result
+
+load rdriver
+
+driver dbdriver result
+
+exist driver fals
+
+basepath databas result
+basepath databas driver dbdriver dbdriver result
+
+
+driver
+
+
+
+
+
+simpl queri
+thi simplifi version queri intern
+run transact command sinc
+featur main queri
+
+param string queri
+mix
+
+simpl queri
+
+conn
+
+initi
+
+
+execut
+
+
+
+
+
+disabl transact
+thi permit transact disabl time
+
+
+
+tran
+
+tran enabl fals
+
+
+
+
+
+enabl disabl transact strict mode
+when strict mode enabl run multipl group
+transact group fail group roll back
+strict mode disabl group treat autonom mean
+failur group affect other
+
+param bool mode true
+
+
+tran strict mode true
+
+tran strict bool mode mode true
+
+
+
+
+
+start transact
+
+param bool test mode fals
+
+
+tran start test mode fals
+
+tran enabl
+
+fals
+
+
+when transact nest commit rollback outermost one
+tran depth
+
+tran depth
+
+
+
+tran test mode
+tran depth
+
+
+
+
+
+complet transact
+
+bool
+
+tran complet
+
+tran enabl
+
+fals
+
+
+when transact nest commit rollback outermost one
+tran depth
+
+tran depth
+true
+
+
+
+tran depth
+
+
+queri flag fals event queri fail
+tran statu fals tran failur true
+
+tran rollback
+
+run strict mode reset
+tran statu flag subsequ group transact
+permit
+tran strict fals
+
+tran statu true
+
+
+messag debug transact failur
+fals
+
+
+tran commit
+true
+
+
+
+
+
+let retriev transact flag determin fail
+
+bool
+
+tran statu
+
+tran statu
+
+
+
+
+
+compil bind
+
+param string statement
+param bind data
+string
+
+compil bind bind
+
+bind bind marker strpo bind marker fals
+
+
+
+bind
+
+bind bind
+bind count
+
+
+
+make sure use numer key
+bind valu bind
+bind count count bind
+
+
+need marker length later
+strlen bind marker
+
+make sure replac chunk insid string happen match bind marker
+preg match match
+
+preg match preg quot bind marker
+replac match
+replac bind marker repeat match
+
+match preg offset captur
+
+bind valu count must match count marker queri
+bind count
+
+
+
+
+preg match preg quot bind marker match preg offset captur bind count
+
+
+
+
+
+
+
+substr replac escap bind match
+
+
+
+
+
+
+
+
+
+determin queri write type
+
+param string queri string
+bool
+
+write type
+
+bool preg match insert updat delet replac creat drop truncat load copi alter renam grant revok lock unlock reindex
+
+
+
+
+
+calcul aggreg queri elaps time
+
+param number decim place
+
+
+elaps time decim
+
+number format benchmark decim
+
+
+
+
+
+return total number queri
+
+
+
+total queri
+
+queri count
+
+
+
+
+
+return last queri execut
+
+string
+
+last queri
+
+queri
+
+
+
+
+
+smart escap string
+
+escap data base type
+set null type
+
+param string
+mix
+
+escap
+
+string object method exist to string
+
+escap
+
+bool
+
+fals
+
+null
+
+null
+
+
+
+
+
+
+
+
+escap string
+
+param string
+param bool like whether string use like condit
+string
+
+escap like fals
+
+
+
+
+
+escap like
+
+
+
+
+
+escap
+
+escap like condit wildcard
+like true
+
+replac
+like escap
+like escap like escap like escap like escap
+
+
+
+
+
+
+
+
+
+
+escap like string
+
+call individu driver platform
+specif escap like condit
+
+param string string
+mix
+
+escap like
+
+escap true
+
+
+
+
+
+platform depend string escap
+
+param string
+string
+
+escap
+
+replac remov invis charact
+
+
+
+
+
+primari
+
+retriev primari assum first
+posit primari
+
+param string tabl name
+string
+
+primari tabl
+
+field field tabl
+field current field fals
+
+
+
+
+
+count queri
+
+gener platform specif queri string count record
+specifi databas
+
+param string
+
+
+count tabl
+
+tabl
+
+
+
+
+queri queri count string escap identifi numrow from protect identifi tabl true null fals
+queri row
+
+
+
+
+queri queri
+reset select
+queri numrow
+
+
+
+
+
+return tabl name
+
+param string constrain prefix fals
+
+
+tabl constrain prefix fals
+
+cach result
+data cach tabl name
+
+data cach tabl name
+
+
+fals tabl constrain prefix
+
+debug display error unsupport fals
+
+
+data cach tabl name
+queri queri
+
+queri result
+
+know column tabl name
+
+
+tabl name
+
+tabl name
+
+tabl name
+
+tabl name
+
+
+
+choic first element
+shift accept argument refer
+strict would trigger warn
+assign first
+
+key
+shift
+
+
+
+data cach tabl name
+
+
+data cach tabl name
+
+
+
+
+
+determin particular tabl exist
+
+param string tabl name
+bool
+
+tabl exist tabl name
+
+protect identifi tabl name true fals fals tabl
+
+
+
+
+
+fetch field name
+
+param string tabl name
+
+
+field tabl
+
+cach result
+data cach field name tabl
+
+data cach field name tabl
+
+
+tabl
+
+debug display error field param miss fals
+
+
+fals column tabl
+
+debug display error unsupport fals
+
+
+queri queri
+data cach field name tabl
+
+queri result
+
+know column name
+
+
+column name
+
+column name
+
+column name
+
+column name
+
+
+
+choic first element
+
+
+
+
+data cach field name tabl
+
+
+data cach field name tabl
+
+
+
+
+
+determin particular field exist
+
+param string
+param string
+bool
+
+field exist field name tabl name
+
+field name field tabl name
+
+
+
+
+
+return object field data
+
+param string tabl name
+object
+
+field data tabl
+
+tabl
+
+debug display error field param miss fals
+
+
+queri queri field data protect identifi tabl true null fals
+queri field data
+
+
+
+
+
+escap identifi
+
+thi escap column tabl name
+
+param mix
+mix
+
+escap identifi item
+
+escap item item reserv identifi
+
+item
+
+item
+
+item valu
+
+item escap identifi valu
+
+
+item
+
+avoid break function liter valu insid queri
+ctype digit item item escap item strpo item fals
+
+item
+
+
+preg
+
+preg
+
+escap
+
+preg
+preg quot escap
+preg quot escap
+escap
+escap
+
+
+
+
+preg preg preg quot escap
+preg preg escap
+
+
+
+reserv identifi
+
+strpo item fals
+
+preg replac preg preg preg preg preg item
+
+
+
+preg replac preg preg preg preg preg item
+
+
+
+
+
+gener insert string
+
+param string tabl upon queri perform
+param associ data valu
+string
+
+insert string tabl data
+
+field valu
+
+data
+
+field escap identifi
+valu escap
+
+
+insert protect identifi tabl true null fals field valu
+
+
+
+
+
+insert statement
+
+gener platform specif insert string suppli data
+
+param string tabl name
+param insert key
+param insert valu
+string
+
+insert tabl key valu
+
+insert into tabl implod key valu implod valu
+
+
+
+
+
+gener updat string
+
+param string tabl upon queri perform
+param associ data valu
+param mix statement
+string
+
+updat string tabl data
+
+
+
+fals
+
+
+
+
+field
+data
+
+field protect identifi escap
+
+
+updat protect identifi tabl true null fals field
+reset write
+
+
+
+
+
+
+updat statement
+
+gener platform specif updat string suppli data
+
+param string tabl name
+param updat data
+string
+
+updat tabl valu
+
+valu
+
+valstr
+
+
+updat tabl implod valstr
+compil
+compil order
+limit limit limit
+
+
+
+
+
+test whether string oper
+
+param string
+bool
+
+oper
+
+bool preg match null null s exist s between s like trim
+
+
+
+
+
+return string oper
+
+param string
+string
+
+oper
+
+oper
+
+oper
+
+like escap
+preg quot trim sprintf like escap like escap
+
+oper
+
+
+
+null null
+null null
+exist exist
+exist exist
+between between valu valu
+
+
+like like expr escap
+like like expr escap
+
+
+
+
+preg match implod oper match
+match fals
+
+
+
+
+
+enabl use platform agnost wrapper
+
+param string function name
+mix
+
+call
+
+driver dbdriver postgr dbdriver
+
+fals strpo driver
+
+driver
+
+
+exist
+
+debug display error unsupport fals
+
+
+func arg
+call user func slice func arg
+call user func
+
+
+
+
+
+cach directori path
+
+param string path cach directori
+
+
+cach path path
+
+cachedir path
+
+
+
+
+
+enabl queri cach
+
+bool cach valu
+
+cach
+
+cach true
+
+
+
+
+
+disabl queri cach
+
+bool cach valu
+
+cach
+
+cach fals
+
+
+
+
+
+delet cach file associ particular
+
+param string segment
+param string segment
+bool
+
+cach delet segment segment
+
+cach init
+cach delet segment segment
+fals
+
+
+
+
+
+delet cach file
+
+bool
+
+cach delet
+
+cach init
+cach delet
+fals
+
+
+
+
+
+initi cach class
+
+bool
+
+cach init
+
+exist cach fals
+
+basepath databas cach
+
+object cach
+
+true
+
+
+cach cach object support multipl connect return object
+true
+
+
+
+
+
+close connect
+
+
+
+close
+
+conn
+
+close
+conn fals
+
+
+
+
+
+
+close connect
+
+thi method would overriden driver
+
+
+
+close
+
+conn fals
+
+
+
+
+
+display error messag
+
+param string error messag
+param string swap valu
+param bool whether local messag
+string send applic view error error templat
+
+display error error swap fals
+
+lang load lang core
+lang load
+
+head lang line error head
+
+true
+
+messag error
+
+
+
+messag error error replac swap lang line error
+
+
+find like culprit error go
+backtrac sourc file longer
+databas folder
+trace debug backtrac
+trace call
+
+call file call
+
+need window apppath basepath alway forward slash
+directori separ
+
+call file replac call file
+
+
+strpo call file basepath databas fals strpo call loader fals
+
+found rel path safeti
+messag filenam replac apppath basepath call file
+messag line number call line
+
+
+
+
+
+error load except core
+error show error head messag error
+exit databas
+
+
+
+
+
+protect identifi
+
+thi use extens queri builder
+coupl function
+take column tabl name option insert
+tabl prefix onto some logic necessari order deal
+column name path consid queri like
+
+select from hostnam databas tabl column from hostnam databas tabl
+
+queri alias
+
+select member member name from member
+
+sinc column name four segment host tabl column
+also prefix need work figur
+insert tabl prefix exist proper posit escap
+correct identifi
+
+param string
+param bool
+param mix
+param bool
+string
+
+protect identifi item prefix singl fals protect identifi null field exist true
+
+bool protect identifi
+
+protect identifi protect identifi
+
+
+item
+
+escap
+item
+
+escap protect identifi protect identifi prefix singl protect identifi field exist
+
+
+escap
+
+
+thi basic queri
+parenthesi found know need
+escap data prefix there probabl grace
+deal think rick
+
+ad except singl quot well want alter
+liter string narf
+strpo item fals strpo item fals
+
+item
+
+
+convert tab multipl space singl space
+item preg replac item
+
+item declar remov asid
+note strripo use order support space tabl name
+offset strripo item
+
+protect identifi
+substr item offset escap identifi substr item offset
+substr item offset
+item substr item offset
+
+offset strrpo item
+
+protect identifi
+escap identifi substr item offset
+substr item offset
+item substr item offset
+
+
+
+
+
+
+break string apart contain period insert tabl prefix
+correct locat assum period indic deal
+while escap compon
+strpo item fals
+
+part explod item
+
+doe first segment explod item match
+alias previous identifi
+noth escap item
+part alias tabl
+
+protect identifi true
+
+part
+
+reserv identifi
+
+part escap identifi
+
+
+
+item implod part
+
+
+item
+
+
+tabl prefix defin config file need anyth
+dbprefix
+
+tabl prefix base logic
+segment hostnam databas tabl column
+tabl prefix column name segment
+part
+
+
+
+segment databas tabl column
+tabl prefix column name posit
+part
+
+
+
+segment tabl column
+tabl prefix column name segment
+
+
+
+
+
+thi flag suppli item contain field name
+thi happen call join
+field exist fals
+
+
+
+
+verifi tabl prefix replac necessari
+swap strpo part swap
+
+part preg replac swap dbprefix part
+
+tabl prefix alreadi exist
+strpo part dbprefix
+
+part dbprefix part
+
+
+part back togeth
+item implod part
+
+
+protect identifi true
+
+item escap identifi item
+
+
+item
+
+
+tabl prefix need insert
+dbprefix
+
+verifi tabl prefix replac necessari
+swap strpo item swap
+
+item preg replac swap dbprefix item
+
+prefix item segment
+prefix singl true strpo item dbprefix
+
+item dbprefix item
+
+
+
+protect identifi true item reserv identifi
+
+item escap identifi item
+
+
+item
+
+
+
+
+
+dummi method allow queri builder disabl
+keep count work
+
+
+
+reset select
+
+
+
+
+
+file driver
+locat system databas driver
+
+
+code ignit
+
+open sourc applic develop framework newer
+
+notic licens
+
+licens open softwar licens version
+
+thi sourc file subject open softwar licens
+bundl file licens licens
+also avail world wide
+http opensourc licens
+receiv copi licens unabl obtain
+world wide pleas send email
+licens ellislab send copi immedi
+
+code ignit
+author elli lab team
+copyright copyright 2008 2014 elli lab http ellislab
+licens http opensourc licens open softwar licens
+link http codeignit
+sinc version
+filesourc
+
+defin basepath direct script access allow
+
+
+databas forg class
+
+categori databas
+author elli lab team
+link http codeignit user guid databas
+
+forg
+
+
+databas object
+
+object
+
+
+
+
+field data
+
+
+
+field
+
+
+key data
+
+
+
+key
+
+
+primari key data
+
+
+
+primari key
+
+
+databas charact
+
+string
+
+
+
+
+
+
+creat databas statement
+
+string
+
+creat databas creat databas
+
+
+drop databas statement
+
+string
+
+drop databas drop databas
+
+
+creat tabl statement
+
+string
+
+creat tabl
+
+
+creat tabl statement
+
+string
+
+creat tabl creat tabl exist
+
+
+creat tabl key flag
+
+whether tabl key creat within
+creat tabl statement
+
+bool
+
+creat tabl key fals
+
+
+drop tabl exist statement
+
+string
+
+drop tabl drop tabl exist
+
+
+renam tabl statement
+
+string
+
+renam tabl alter tabl renam
+
+
+unsign support
+
+bool
+
+unsign true
+
+
+null valu representatin creat alter tabl statement
+
+string
+
+null
+
+
+default valu represent creat alter tabl statement
+
+string
+
+default
+
+
+
+
+class constructor
+
+param object databas object
+
+
+construct
+
+
+messag debug databas forg class initi
+
+
+
+
+
+creat databas
+
+param string name
+bool
+
+creat databas name
+
+creat databas fals
+
+debug display error unsupport featur fals
+
+queri sprintf creat databas name dbcollat
+
+debug display error unabl drop fals
+
+
+data cach name
+
+data cach name name
+
+
+true
+
+
+
+
+
+drop databas
+
+param string name
+bool
+
+drop databas name
+
+name
+
+show error tabl name requir oper
+fals
+
+drop databas fals
+
+debug display error unsupport featur fals
+
+queri sprintf drop databas name
+
+debug display error unabl drop fals
+
+
+data cach name
+
+search strtolow name strtolow data cach name true
+fals
+
+data cach name
+
+
+
+true
+
+
+
+
+
+
+
+param string
+param bool primari
+forg
+
+primari fals
+
+
+
+show error inform requir oper
+
+
+primari true
+
+
+
+primari
+
+
+
+
+
+primari true
+
+primari key
+
+
+
+key
+
+
+
+
+
+
+
+
+field
+
+param field
+forg
+
+field field
+
+field
+
+show error field inform requir
+
+
+string field
+
+field
+
+field
+
+type
+constraint
+auto increment true
+
+
+true
+
+
+
+strpo field fals
+
+show error field inform requir oper
+
+
+field field
+
+
+
+field
+
+field merg field field
+
+
+
+
+
+
+
+
+creat tabl
+
+param string tabl tabl name
+param bool exist whether exist condit
+param attribut associ tabl attribut
+bool
+
+creat tabl tabl exist fals attribut
+
+tabl
+
+show error tabl name requir oper
+
+
+
+tabl dbprefix tabl
+
+
+count field
+
+show error field inform requir
+
+
+creat tabl tabl exist attribut
+
+bool
+
+reset
+fals
+
+debug display error unsupport featur fals
+
+
+
+result queri fals
+
+data cach tabl name data cach tabl name tabl
+
+most databas support creat index within creat tabl statement
+key
+
+sql process index tabl count sql
+
+queri sql
+
+
+
+
+reset
+result
+
+
+
+
+
+creat tabl
+
+param string tabl tabl name
+param bool exist whether exist condit
+param attribut associ tabl attribut
+mix
+
+creat tabl tabl exist attribut
+
+exist true creat tabl fals
+
+tabl exist tabl
+
+true
+
+
+
+exist fals
+
+
+
+exist
+sprintf creat tabl escap identifi tabl
+creat tabl
+
+column process field true
+count column
+
+column column liter fals
+column liter
+process column column
+
+
+column implod column
+process primari key tabl
+
+index creat within creat tabl statement my sql
+creat tabl key true
+
+column process index tabl
+
+
+creat tabl usual follow format
+sprintf creat tabl
+
+escap identifi tabl
+column
+creat tabl attr attribut
+
+
+
+
+
+
+
+
+creat tabl attribut
+
+param attribut associ tabl attribut
+string
+
+creat tabl attr attribut
+
+
+
+key attribut
+
+string
+
+strtoupper attribut
+
+
+
+
+
+
+
+
+
+drop tabl
+
+param string tabl name tabl name
+param bool exist whether exist condit
+bool
+
+drop tabl tabl name exist fals
+
+tabl name
+
+debug display error tabl name requir fals
+
+
+queri drop tabl dbprefix tabl name exist
+queri fals
+
+debug display error unsupport featur fals
+
+queri true
+
+true
+
+
+queri queri queri
+
+updat tabl cach
+queri data cach tabl name
+
+search strtolow dbprefix tabl name strtolow data cach tabl name true
+fals
+
+data cach tabl name
+
+
+
+queri
+
+
+
+
+
+drop tabl
+
+gener platform specif drop tabl string
+
+param string tabl tabl name
+param bool exist whether exist condit
+string
+
+drop tabl tabl exist
+
+drop tabl
+
+exist
+
+drop tabl fals
+
+tabl exist tabl
+
+true
+
+
+
+
+sprintf drop tabl escap identifi tabl
+
+
+
+escap identifi tabl
+
+
+
+
+
+renam tabl
+
+param string tabl name tabl name
+param string tabl name tabl name
+bool
+
+renam tabl tabl name tabl name
+
+tabl name tabl name
+
+show error tabl name requir oper
+fals
+
+renam tabl fals
+
+debug display error unsupport featur fals
+
+
+result queri sprintf renam tabl
+escap identifi dbprefix tabl name
+escap identifi dbprefix tabl name
+
+
+result data cach tabl name
+
+search strtolow dbprefix tabl name strtolow data cach tabl name true
+fals
+
+data cach tabl name dbprefix tabl name
+
+
+
+result
+
+
+
+
+
+column
+
+todo remov deprec option
+param string tabl tabl name
+param field column definit
+param string column after claus deprec
+bool
+
+column tabl field null
+
+tabl
+
+show error tabl name requir oper
+
+
+work around liter column definit
+field
+
+field field
+
+
+key field
+
+backward compat work around my sql cubrid after claus remov
+null field field
+
+field
+
+
+field field
+
+
+sql alter tabl dbprefix tabl process field
+reset
+sql fals
+
+debug display error unsupport featur fals
+
+
+count sql
+
+queri sql fals
+
+fals
+
+
+
+true
+
+
+
+
+
+column drop
+
+param string tabl tabl name
+param string column name column name
+bool
+
+drop column tabl column name
+
+tabl
+
+show error tabl name requir oper
+
+
+column name
+
+show error column name requir oper
+
+
+alter tabl drop dbprefix tabl column name
+fals
+
+debug display error unsupport featur fals
+
+
+queri
+
+
+
+
+
+column modifi
+
+param string tabl tabl name
+param string field column definit
+bool
+
+modifi column tabl field
+
+tabl
+
+show error tabl name requir oper
+
+
+work around liter column definit
+field
+
+field field
+
+
+key field
+
+field field
+
+
+count field
+
+show error field inform requir
+
+
+sql alter tabl chang dbprefix tabl process field
+reset
+sql fals
+
+debug display error unsupport featur fals
+
+
+count sql
+
+queri sql fals
+
+fals
+
+
+
+true
+
+
+
+
+
+alter tabl
+
+param string alter type alter type
+param string tabl tabl name
+param mix field column definit
+string string
+
+alter tabl alter type tabl field
+
+alter tabl escap identifi tabl
+
+drop everyth need
+alter type drop
+
+drop column escap identifi field
+
+
+alter type
+
+alter type column
+
+sql
+count field
+
+sql
+field liter fals field liter process column field
+
+
+sql
+
+
+
+
+
+process field
+
+param bool creat tabl
+
+
+process field creat tabl fals
+
+field
+
+field attribut
+
+attribut
+
+field liter attribut
+
+
+
+attribut chang attribut case upper
+
+creat tabl true attribut type
+
+
+
+
+attribut type attr type attribut
+
+field
+name
+name attribut name attribut name null
+type attribut type attribut type null
+length
+unsign
+null
+uniqu
+
+auto increment
+liter fals
+
+
+attribut type attr unsign attribut field
+
+creat tabl fals
+
+attribut after
+
+field attribut after
+
+attribut first
+
+field first bool attribut first
+
+
+
+attr attribut field
+
+attribut null
+
+attribut null true
+
+field null null null
+
+
+
+field null null
+
+
+creat tabl true
+
+field null null
+
+
+attr auto increment attribut field
+attr uniqu attribut field
+
+attribut type attribut constraint
+
+strtoupper attribut type
+
+enum
+
+attribut constraint escap attribut constraint
+field length attribut constraint
+implod attribut constraint
+attribut constraint
+
+
+field length attribut constraint
+implod attribut constraint
+attribut constraint
+
+
+
+
+field field
+
+
+field
+
+
+
+
+
+process column
+
+param field
+string
+
+process column field
+
+escap identifi field name
+field type field length
+field unsign
+field
+field null
+field auto increment
+field uniqu
+
+
+
+
+
+field attribut type
+
+perform data type map differ databas
+
+param attribut
+
+
+attr type attribut
+
+usual overriden driver
+
+
+
+
+
+field attribut unsign
+
+depend unsign properti valu
+
+true alway field unsign unsign
+fals alway field unsign
+type field unsign unsign
+attribut type found
+type utyp chang field type
+type utyp match
+
+param attribut
+param field
+
+
+attr unsign attribut field
+
+attribut unsign attribut unsign true
+
+
+
+
+reset attribut order avoid issu type convers
+attribut unsign fals
+
+unsign
+
+key unsign
+
+strcasecmp attribut type unsign
+
+field unsign unsign
+
+
+string strcasecmp attribut type
+
+field type
+
+
+
+
+
+
+
+field unsign unsign true unsign
+
+
+
+
+
+field attribut default
+
+param attribut
+param field
+
+
+attr attribut field
+
+fals
+
+
+
+
+exist default attribut
+
+attribut default null
+
+field null null
+
+overrid null attribut
+attribut null null
+field null null null
+
+
+
+field escap attribut default
+
+
+
+
+
+
+
+field attribut uniqu
+
+param attribut
+param field
+
+
+attr uniqu attribut field
+
+attribut uniqu attribut uniqu true
+
+field uniqu uniqu
+
+
+
+
+
+
+field attribut auto increment
+
+param attribut
+param field
+
+
+attr auto increment attribut field
+
+attribut auto increment attribut auto increment true stripo field type fals
+
+field auto increment auto increment
+
+
+
+
+
+
+process primari key
+
+param string tabl tabl name
+string
+
+process primari key tabl
+
+
+
+count primari key
+
+field primari key
+
+primari key
+
+
+
+count primari key
+
+t constraint escap identifi tabl
+primari implod escap identifi primari key
+
+
+
+
+
+
+
+
+process index
+
+param string tabl
+string
+
+process index tabl
+
+sql
+
+count key
+
+key
+
+count key
+
+field key
+
+key
+
+
+
+
+field key
+
+key
+
+
+
+key key key
+
+sql creat index escap identifi tabl implod key
+escap identifi tabl
+implod escap identifi key
+
+
+sql
+
+
+
+
+
+reset
+
+reset tabl creation var
+
+
+
+reset
+
+field key primari key
+
+
+
+
+file forg
+locat system databas forg

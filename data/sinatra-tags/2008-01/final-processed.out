@@ -1,0 +1,3891 @@
+rubygem
+
+swift
+swiftcor swiftipli mongrel
+put use swiftipli mongrel
+event
+swiftcor event mongrel
+put use event mongrel
+
+
+rack
+ostruct
+
+class
+dslifi writter sym
+sym
+
+
+send
+
+
+
+
+
+
+
+sinatra
+extend
+
+result struct block param statu defin result
+
+applic
+applic
+
+
+applic
+
+
+
+port
+applic option port
+
+
+
+applic option
+
+
+build applic
+rack common logger applic
+
+
+
+
+
+put sinatra taken stage port port
+
+rack handler mongrel build applic port port server
+trap
+server stop
+put sinatra end crowd applaud
+
+
+errno eaddrinus
+put someon alreadi perform port port
+
+
+
+
+event
+
+char freez defin char
+param char freez defin param
+splat
+attr reader path block param key pattern option
+
+initi path option
+path path
+block
+param key
+option option
+regex path gsub param
+param key intern
+char
+
+
+regex gsub splat
+
+pattern regex
+
+
+invok
+pattern path info squeez
+option agent
+http user agent option agent
+
+param param key captur param hash
+result block param
+
+
+
+
+error
+
+attr reader code block
+
+initi code
+code block code
+
+
+invok
+result block
+
+
+
+
+static
+
+invok
+file file
+sinatra applic option path info
+
+result block
+
+
+block
+proc
+send file sinatra applic option
+request path info
+
+
+
+
+
+respons helper
+
+redirect path
+halt redirect path
+
+
+send file filenam
+halt send file filenam
+
+
+
+
+render helper
+
+render content option
+templat resolv templat content option
+content evalu render templat
+layout resolv layout option layout option
+content evalu render layout layout
+content
+
+
+
+
+evalu render content option
+content
+string
+instanc content
+proc
+instanc content
+file
+instanc content read
+
+
+
+resolv templat content option
+content
+string
+content
+symbol
+file filenam content option
+
+
+
+resolv layout name option
+name
+layout layout name layout
+layout
+
+file file filenam filenam name option
+file filenam
+
+
+
+filenam name option
+option view directori view name
+
+
+
+html
+
+
+layout
+sinatra applic layout
+
+
+
+
+event context
+
+respons helper
+render helper
+
+attr accessor request respons
+
+dslifi writter statu bodi
+
+initi request respons rout param
+request request
+respons respons
+rout param rout param
+respons bodi
+
+
+param
+param rout param merg request param symbol key
+
+
+stop content
+halt content
+
+
+complet return
+respons bodi return
+
+
+
+
+method miss name arg
+respons send name arg
+
+
+
+
+redirect
+initi path
+path path
+
+
+result arg
+statu
+header merg locat path
+bodi
+
+
+
+send file
+initi filenam
+filenam filenam
+
+
+result arg
+bodi file read filenam
+
+
+
+applic
+
+attr reader event layout option
+
+option
+option
+
+port 4567
+develop
+root
+
+
+
+
+option
+option
+
+
+initi
+event hash hash hash
+layout hash
+
+
+defin event method path option
+event method event event path option
+event
+
+
+defin layout name layout
+layout name
+
+
+defin error code option
+event error code error code
+
+
+
+static
+
+
+lookup
+method request method downcas
+invok
+event method eject invok
+event error basic found invok
+
+
+
+basic found
+error
+found
+
+
+
+basic error
+error
+intern server error
+
+
+
+option
+option open struct option
+
+
+call
+result lookup
+context event context
+rack request
+rack respons
+result param
+
+
+context statu result statu
+return halt
+complet context instanc result block
+
+bodi return result context
+context bodi string bodi bodi bodi
+context finish
+
+option error
+sinatra error
+result event error basic error invok
+return halt
+complet context instanc result block
+
+bodi return result context
+context statu
+context bodi string bodi bodi bodi
+context finish
+
+
+
+
+
+
+
+path option
+sinatra applic defin event path option
+
+
+post path option
+sinatra applic defin event post path option
+
+
+path option
+sinatra applic defin event path option
+
+
+delet path option
+sinatra applic defin event delet path option
+
+
+helper
+sinatra event context
+
+
+error code option
+sinatra applic defin error code option
+
+
+layout name layout
+sinatra applic defin layout name
+
+
+configur env
+env sinatra applic option
+env
+
+configur configur
+
+misc core extens
+
+kernel
+
+silenc warn
+verbos verbos verbos
+
+
+verbos verbos
+
+
+
+
+string
+
+convert escap paramet valu
+param 20 bar
+param
+escap
+
+
+convert escap paramet valu
+20 bar param
+param
+unescap
+
+
+
+
+hash
+
+param
+escap join
+
+
+symbol key
+inject
+
+
+key
+reject key
+
+
+
+
+symbol
+
+proc
+proc arg arg shift send arg
+
+
+
+
+array
+
+hash
+inject
+
+
+proc
+proc arg arg shift send arg
+
+
+
+
+enumer
+
+eject block
+find result block result
+
+
+
+
+core extens result halt
+
+proc
+result arg
+instanc
+
+
+
+string
+result arg
+bodi
+
+
+
+array
+result arg
+shift result
+
+
+
+symbol
+result arg
+send arg
+
+
+
+fixnum
+result arg
+statu
+bodi arg first
+
+
+
+nil class
+result arg
+bodi
+warn
+
+
+
+
+
+sinatra sinatra applic option
+
+
+sinatra test test
+sinatra applic option merg
+sinatra develop
+
+
+configur develop
+
+sinatra custom imag imag
+file read file dirnam file imag param imag
+
+
+error
+
+html
+bodi style text align center color font famili arial font size 22px margin 20px
+sinatra know diddi
+sinatra custom imag
+bodi
+html
+
+
+
+error
+error request sinatra error
+
+html
+bodi
+style type text media screen
+bodi
+font famili verdana
+color
+
+
+content
+width 700px
+margin left 20px
+
+
+content
+width
+color 1 d6 b8 d
+font weight bold
+
+
+stacktrac
+margin 20px
+
+
+stacktrac
+font size 12px
+border left solid
+pad left 10px
+
+
+stacktrac
+margin 10px
+
+style
+content
+sinatra custom imag
+stacktrac
+error messag
+code error backtrac join code
+
+bodi
+html
+
+
+
+
+rack showexcept
+
+sinatra
+sinatra show except catch except rais
+wrap show use backtrac sourcefil clickabl
+context whole rack environ request data
+
+care face site could reveal
+inform help attack
+show except rack show except
+eat error object
+eat error flush
+eat error put
+
+initi
+
+templat templat
+
+
+call
+call
+except
+error rack error rack error eat error
+
+prefer plain text
+content type text plain
+bodi dump except
+
+content type text html
+bodi pretti
+
+
+rack error error
+
+
+content type content type
+content length rack util bytes bodi join
+bodi
+
+
+
+
+prefer plain text
+request prefer type text plain text html text html
+curl index item item http user agent
+
+
+frame frame
+frame filenam sinatra
+framework
+defin frame filenam
+frame filenam
+system
+
+
+
+
+
+templat html nodoc
+doctyp html
+html
+head
+meta http equiv content type content text html charset
+titl except path titl
+
+script type text javascript
+
+toggl
+document get element by id
+post document get element by id post
+context document get element by id context
+
+style display block
+style display none
+post style display none
+context style background none
+
+style display block
+post style display block
+context style background fffed9
+
+
+
+toggl backtrac
+document get element by id backtrac
+toggler document get element by id expando
+
+class name condens
+class name expand
+toggler inner html condens
+
+class name condens
+toggler inner html expand
+
+
+
+script
+
+style type text media screen
+margin pad border outlin
+clear clear
+bodi background eeeeee margin pad
+font famili lucida grand lucida san unicod
+garuda
+code font famili lucida consol monospac
+font size 12px
+height 18px
+style none margin pad
+hover cursor pointer
+white space
+explan font size 12px color 666666
+margin 20px 100px
+wrap
+wrap width 1000px background ffffff margin auto
+pad 30px 50px 20px 50px
+border left solid dddddd
+border right solid dddddd
+header
+header margin auto 25px auto
+header left
+header summari left margin 12px 20px width 660px
+font famili lucida grand lucida san unicod
+margin font size 36px color 981919
+margin font size 22px color 333333
+header margin font size 12px color 666666
+header strong color 444444
+header display inlin pad 10px
+header first pad left
+header last border pad right
+bodi
+backtrac
+
+post
+cooki
+rack width 980px margin auto 10px auto
+right font size 14px
+backtrac
+expando left pad left color 666666
+font size 14px text decor none cursor pointer
+expando hover text decor underlin
+left width 100px margin bottom 10px
+color 981919 font size 14px font weight bold
+color 666666 text decor none pad
+backtrac frame info background f7f7f7 pad left 10px
+font size 12px color 333333
+backtrac style posit outsid border solid e9 e9 e9
+border bottom
+backtrac width 920px margin left 50px
+font 10px lucida consol monospac color 666666
+backtrac border border left solid e9 e9 e9
+pad
+backtrac code font size 10px color 555555 pad left
+backtrac border bottom solid e9 e9 e9 height auto
+pad
+backtrac code pad
+backtrac condens system
+backtrac condens framework display none
+request data
+data pad font size 12px color 666666
+tabl width 980px text align left font size 12px
+color 666666 pad border space
+border solid eeeeee border bottom
+border left
+clear
+tabl pad 10px font weight bold
+background f7 f7 f7 border bottom solid eeeeee
+border left solid eeeeee
+tabl pad 20px 10px
+border bottom solid eeeeee
+border left solid eeeeee
+hide post code start
+context
+post context display none
+
+tabl code width 750px
+tabl code width 750px overflow hidden
+style
+head
+bodi
+wrap
+header
+script name sinatra applic error height width
+summari
+strong except strong strong path
+strong
+except messag
+
+first strong file strong code
+frame first filenam split last code
+strong locat strong code frame first
+code
+last strong line
+strong frame first lineno
+
+
+clear
+
+
+backtrac condens
+backtrac
+href expando
+onclick toggl backtrac expand
+strong jump strong
+href info
+href post info post
+href cooki info cooki
+href info
+
+clear
+
+backtrac
+
+
+frame frame
+frame context line frame context line
+
+frame info frame frame
+code frame filenam code
+code strong frame strong code
+
+
+code frame frame
+frame context
+start frame context lineno
+context
+onclick toggl
+frame context line
+context line code line code
+
+
+
+
+start frame lineno context
+onclick toggl
+context line context code
+frame context line code
+
+
+frame post context
+start frame lineno post context
+post onclick toggl
+frame post context line
+post context line code line code
+
+
+
+clear
+
+
+
+
+
+
+
+
+backtrac
+
+
+info
+
+tabl
+
+variabl
+valu
+
+sort
+
+
+code inspect
+
+
+tabl
+
+data data
+
+clear
+
+
+post
+post info post
+post post
+tabl
+
+variabl
+valu
+
+post sort
+
+
+code inspect
+
+
+tabl
+
+data post data
+
+clear
+post
+
+cooki
+cooki info cooki
+cooki
+tabl
+
+variabl
+valu
+
+cooki
+
+
+code inspect
+
+
+tabl
+
+data cooki data
+
+clear
+cooki
+
+rack
+info rack
+tabl
+
+variabl
+valu
+
+sort
+
+
+code
+
+
+tabl
+clear
+rack
+
+explan see error
+enabl code show except code set
+wrap
+bodi
+html
+html
+
+
+extern depend
+rack
+tilt
+rack protect
+
+stdlib depend
+thread
+time
+
+
+file need
+sinatra showexcept
+sinatra version
+
+sinatra
+request object rack request info
+http rack rubyforg class rack request html
+request rack request
+return accept media type respons
+accept
+sinatra accept
+entri http accept split
+entri accept entri sort last first
+
+
+
+prefer type type
+accept first type
+type flatten
+accept detect pattern
+type type detect file fnmatch pattern
+type type
+
+
+
+accept prefer type
+secur
+
+forward
+http forward host
+
+
+safe
+head option trace
+
+
+idempot
+safe delet
+
+
+
+
+accept entri entri
+type option entri delet split
+qualiti sort smallest first
+option delet qualiti start
+type qualiti type count option size
+
+
+
+respons object rack respons rack respons helper
+info
+http rack rubyforg class rack respons html
+http rack rubyforg class rack respons helper html
+respons rack respons
+bodi valu
+valu valu bodi rack respons valu
+bodi string valu valu valu
+
+
+
+block given
+
+
+finish
+statu
+header delet content length
+header delet content type
+array bodi statu
+code alreadi content length muck
+current would file handler
+header content length bodi inject rack util bytes
+
+
+rack respons finish sometim return respons bodi want
+statu header result
+result bodi result
+statu header result
+
+
+
+some rack handler thin rainbow implement extend bodi object protocol howev
+middlewar name rack lint mirror method question
+thi middlewar detect extend bodi object make sure reach
+handler directli middlewar middlewar
+still abl
+extend rack struct
+call
+result callback call async callback
+result callback async result
+respons callback call result
+setup close result
+async
+
+
+
+
+setup close statu header bodi
+bodi respond close async close
+async close callback bodi close
+async close errback bodi close
+
+
+respons block
+not implement error support event machin moment defin event machin
+event machin tick block
+
+
+async statu header bodi
+statu
+bodi respond callback bodi respond errback
+
+
+
+behav exactli like rack common logger notabl except noth
+anoth common logger alreadi middlewar chane
+common logger rack common logger
+call
+sinatra commonlogg call
+
+
+superclass
+call without check call method defin call without check
+call
+sinatra commonlogg
+call without check
+
+
+
+
+not found name error nodoc
+http statu
+
+
+method avail rout filter view
+helper
+retriev respons statu code
+statu valu
+respons statu valu valu
+respons statu
+
+
+retriev respons bodi when block given
+evalu defer bodi read
+bodi valu block
+block given
+block call
+respons bodi block
+valu
+respons bodi valu
+
+respons bodi
+
+
+
+halt process redirect provid
+redirect arg
+http version http request method
+statu
+
+statu
+
+
+accord 2616 section field valu consist
+singl absolut
+respons locat set absolut redirect set prefix redirect
+halt arg
+
+
+gener absolut given path
+take rack router revers proxi account
+addr absolut script name
+addr addr
+host
+absolut
+host http request secur
+request forward request port request secur
+host request host port
+
+host request host
+
+
+request script name script name
+addr addr request path info
+file join
+
+
+
+
+
+halt process error statu provid
+error code bodi
+code bodi code code respond
+respons bodi bodi bodi
+halt code
+
+
+halt process found
+found bodi
+error bodi
+
+
+multipl respons header hash
+header hash
+respons header merg hash hash
+respons header
+
+
+access underli rack session
+session
+request session
+
+
+access share logger object
+logger
+request logger
+
+
+look media type file extens rack mime registri
+mime type type
+base mime type type
+
+
+content type respons bodi given media type file
+extens
+content type type param
+respons content type type
+param delet
+mime type mime type type
+fail unknown media type type mime type
+mime type mime type
+param charset set charset mime type
+param charset param delet charset set encod
+
+param delet charset mime type charset
+param
+mime type mime type
+mime type param join join
+
+respons content type mime type
+
+
+content disposit attach specifi filenam
+instruct user agent prompt save
+attach filenam
+respons content disposit attach
+filenam
+param filenam file basenam filenam
+respons content disposit param
+file extnam filenam
+content type respons content type
+
+
+
+content file path respons bodi
+send file path opt
+opt type respons content type
+content type opt type file extnam path applic octet stream
+
+
+opt disposit attach opt filenam
+attach opt filenam path
+opt disposit inlin
+respons content disposit inlin
+
+
+last modifi opt last modifi opt last modifi
+
+file rack file
+file path path
+result file serv
+result header
+header content length result content length
+halt opt statu result result
+errno enoent
+found
+
+
+class respons bodi stream
+
+three thing realli matter front back block back
+blog gener content front send client
+schedul integr whatev concurr featur rack
+handler use
+
+schedul respond defer schedul
+stream
+schedul
+defer
+
+initi schedul keep open back
+back schedul keep open back proc schedul keep open
+callback close
+
+
+close
+close
+close
+schedul schedul callback call
+
+
+front
+front front
+schedul defer
+
+back call
+except
+schedul schedul
+
+close keep open
+
+
+
+data
+schedul schedul front call data
+
+
+
+callback block
+close
+callback block
+
+
+errback callback
+
+
+allow start send data client even though later part
+respons bodi gener
+
+close paramet specifi whether stream close call
+block execut thi relev event
+server like thin rainbow
+stream keep open
+schedul async callback event machin stream
+current param
+bodi stream schedul keep open param current
+
+
+specifi respons fresh polici http cach cach control header
+number valu direct cach
+store must revalid proxi revalid pass along
+hash valu direct stale
+
+cach control must revalid
+cach control must revalid
+
+2616 standard cach control direct
+http tool ietf html rfc2616 section
+cach control valu
+valu last kind hash
+hash valu
+hash reject
+hash reject valu
+
+hash
+
+
+valu valu valu
+hash valu
+
+valu valu
+valu valu join
+
+
+respons cach control valu join valu
+
+
+expir header cach control direct amount
+integ number second futur time object
+indic respons consid stale remain
+valu argument pass cach control helper
+
+expir must revalid
+cach control must revalid
+expir 2009
+
+expir amount valu
+valu valu last kind hash
+
+amount integ
+time time amount
+amount
+
+time time amount
+time time
+
+
+valu last merg
+cach control valu
+
+respons expir time httpdate
+
+
+last modifi time resourc http last modifi header
+halt condit match time argument time
+date time object respond time
+
+when current request includ modifi sinc header
+equal later time specifi execut immedi halt
+modifi respons
+last modifi time
+time
+time time time
+respons last modifi time httpdate
+http none match
+
+statu http modifi sinc
+compar base second sinc epoch
+sinc time httpdate http modifi sinc
+halt sinc time
+
+
+success statu http unmodifi sinc
+compar base second sinc epoch
+sinc time httpdate http unmodifi sinc
+halt sinc time
+
+argument error
+
+
+respons entiti http e tag header halt condit
+match valu argument identifi uniqu
+identifi current version resourc kind argument
+indic whether etag use strong weak
+cach valid
+
+when current request includ match header
+match etag execut immedi halt request method
+head modifi respons sent
+etag valu option
+befor touch code pleas check 2616
+option kind option hash option
+kind option kind strong
+resourc option fetch resourc request post
+
+strong weak kind
+argument error strong weak expect
+
+
+valu valu
+valu valu kind weak
+respons e tag valu
+
+success statu
+etag match http none match resourc
+halt request safe
+
+
+http match
+halt etag match http match resourc
+
+
+
+
+sugar redirect exampl redirect back
+back
+request refer
+
+
+whether statu
+inform
+statu
+
+
+whether statu
+success
+statu
+
+
+whether statu
+redirect
+statu
+
+
+whether statu
+client error
+statu
+
+
+whether statu
+server error
+statu
+
+
+whether statu
+found
+statu
+
+
+gener time object given valu
+use expir last modifi
+time valu
+valu respond time
+valu time
+valu time
+valu
+valu respond offset
+date time time
+valu offset
+time year mday hour fraction
+getloc
+valu respond mday
+date time
+time local valu year valu valu mday
+valu numer
+time valu
+
+time pars valu
+
+argument error boom
+boom
+except
+argument error unabl convert valu inspect time object
+
+
+
+
+helper method check e tag valu includ current e tag
+etag match resourc request post
+resourc
+split respons e tag
+
+
+param temp param
+origin param param temp param
+
+
+param origin origin
+
+
+
+
+
+templat render method each method take name templat
+render symbol return string render output
+well option hash addit option
+
+templat either name path templat symbol
+subdir myview view subdirectori string
+render
+
+possibl option
+content type content type argument content type
+layout layout render otherwis
+specifi layout use ignor sass less
+layout engin engin render layout
+local hash local variabl avail
+templat
+scope templat evalu bind given
+object rather applic instanc
+view view directori
+templat
+content type
+attr accessor content type
+
+
+initi
+
+layout layout
+
+
+templat option local
+render templat option local
+
+
+erubi templat option local
+warn sinatra templat erubi deprec remov instead
+erubi instal use automat
+render erubi templat option local
+
+
+haml templat option local
+render haml templat option local
+
+
+sass templat option local
+option merg layout content type
+render sass templat option local
+
+
+scss templat option local
+option merg layout content type
+render scss templat option local
+
+
+less templat option local
+option merg layout content type
+render less templat option local
+
+
+builder templat option local block
+option content type
+render rubi builder templat option local block
+
+
+liquid templat option local
+render liquid templat option local
+
+
+markdown templat option local
+render markdown templat option local
+
+
+textil templat option local
+render textil templat option local
+
+
+rdoc templat option local
+render rdoc templat option local
+
+
+radiu templat option local
+render radiu templat option local
+
+
+markabi templat option local block
+render rubi templat option local block
+
+
+coffe templat option local
+option merg layout content type
+render coffe templat option local
+
+
+nokogiri templat option local block
+option content type
+render rubi nokogiri templat option local block
+
+
+slim templat option local
+render slim templat option local
+
+
+creol templat option local
+render creol templat option local
+
+
+yajl templat option local
+option content type json
+render yajl templat option local
+
+
+call given block everi possibl templat file view
+name name regist engin
+find templat view name engin
+file join view name prefer extens
+tilt map engin
+prefer extens engin engin
+file join view name
+
+
+
+
+logic share builder nokogiri
+render rubi engin templat option local block
+option templat templat templat hash
+templat proc block templat
+render engin templat option local
+
+
+render engin data option local block
+merg level option
+option set send engin merg option set respond engin
+option outvar
+option encod set encod
+
+extract gener option
+local option delet local local
+view option delet view set view view
+layout option delet layout
+error layout
+layout layout layout layout
+content type option delet content type option delet content type
+layout engin option delet layout engin engin
+scope option delet scope
+
+compil render templat
+
+layout layout
+layout
+templat compil templat engin data option view
+output templat render scope local block
+
+layout layout
+
+
+render layout
+layout
+option option merg view view layout error error scope scope
+layout miss render layout engin layout option local output
+
+
+output extend content type content type content type content type
+output
+
+
+compil templat engin data option view
+error option delet error
+templat cach fetch engin data option
+templat tilt engin
+templat engin found engin templat
+
+data
+symbol
+bodi path line set templat data
+bodi
+bodi bodi call bodi respond call
+templat path line option bodi
+
+found
+prefer extens engin
+find templat view data templat file
+path file keep initi path rather last
+found file exist file
+path file
+
+
+
+layout miss error found
+templat path option
+
+proc string
+bodi data string proc data data
+path line set caller locat first
+templat path line option bodi
+
+argument error sorri know render data inspect
+
+
+
+
+
+base sinatra applic middlewar
+base
+rack util
+helper
+templat
+
+attr accessor
+attr reader templat cach
+
+initi
+
+
+templat cach tilt cach
+block given
+
+
+rack call
+call
+call
+
+
+attr accessor request respons param
+
+call nodoc
+
+request request
+respons respons
+param indiffer param request param
+templat cach clear set reload templat
+forc encod param
+
+respons content type
+invok dispatch
+invok error block respons statu
+
+respons content type
+array bodi bodi respond content type
+content type bodi content type
+
+content type html
+
+
+
+respons finish
+
+
+access set defin base
+set
+
+
+
+access set defin base
+set
+set
+
+
+option
+warn sinatra base option deprec remov
+set instead
+set
+
+
+exit current block halt process
+request return specifi respons
+halt respons
+respons respons first respons length
+halt respons
+
+
+pass control match rout
+match rout sinatra
+respons
+block
+block
+
+
+forward request downstream middlewar
+forward
+fail downstream respond call
+statu header bodi call
+respons statu statu
+respons bodi bodi
+respons header merg header
+
+
+
+
+filter defin superclass
+filter type base set
+filter type base superclass base superclass respond filter
+base filter type arg process rout arg
+
+
+rout defin superclass
+rout base set block
+rout base rout request request method
+rout pattern key condit block
+block process rout pattern key condit arg
+rout block arg
+
+
+
+
+rout defin superclass
+base superclass respond rout
+rout base superclass block
+
+
+rout block block
+rout miss
+
+
+rout block halt result
+rout
+halt
+
+
+current request match pattern condit fill param
+key call given block
+revert param afterward
+
+return block
+process rout pattern key condit block valu
+rout request path info
+rout rout set path info
+match pattern match rout
+valu match captur forc encod decod form compon
+
+valu
+origin param param param merg splat captur valu
+key valu array param param param
+
+
+
+condit bind call
+block block valu valu
+
+
+param origin origin
+
+
+match rout found rout pass
+implement forward request downstream run
+middlewar downstream
+not found except subclass overrid method perform
+custom rout miss logic
+rout miss
+
+forward
+
+not found
+
+
+
+attempt serv file directori throw halt
+match file found return otherwis
+
+set folder
+file expand path
+
+path file expand path unescap request path info
+path start file file path
+
+sinatra file path
+cach control set cach control set cach control
+send file path disposit
+
+
+enabl string symbol access nest param hash
+indiffer param object
+object
+hash
+hash indiffer hash
+object valu hash indiffer param valu
+hash
+array
+object item indiffer param item
+
+object
+
+
+
+creat hash indiffer access
+indiffer hash
+hash hash hash symbol
+
+
+block halt support appli result respons
+invok
+halt
+fixnum string
+array fixnum first
+statu shift
+bodi
+header
+respond
+bodi
+
+avoid set respons tupl twice
+
+
+dispatch request error handl
+dispatch
+invok
+set request request head
+filter
+rout
+
+except boom
+invok handl except boom
+
+filter sinatra file
+
+
+error handl request
+handl except boom
+sinatra error boom
+
+boom respond http statu
+statu boom http statu
+set code boom respond code boom code
+statu boom code
+
+statu
+
+
+statu statu
+
+server error
+dump error boom set dump error
+boom set show except set show except handler
+
+
+found
+header cascad
+bodi found
+
+
+error block boom boom error block statu boom
+server error
+boom set error set show except
+error block except boom
+
+
+find custom error block specifi
+error block block param
+base set
+base respond error
+base base superclass arg base error
+arg revers arg
+first arg arg first
+arg block param
+resp process rout arg
+resp resp first
+
+
+respond superclass superclass except
+error block superclass block param
+
+
+dump error boom
+boom boom messag boom backtrac join
+rack error put
+
+
+
+attr reader rout filter templat error
+
+remov rout filter middlewar extens hook
+current rout filter defin superclass
+reset
+condit
+rout
+filter
+error
+middlewar
+prototyp
+extens
+
+superclass respond templat
+templat hash hash superclass templat
+
+templat
+
+
+
+extens modul regist superclass
+extens
+superclass respond extens
+extens superclass extens uniq
+
+extens
+
+
+
+middlewar use superclass
+middlewar
+superclass respond middlewar
+superclass middlewar middlewar
+
+middlewar
+
+
+
+set option given valu valu proc
+proc call everi time option access
+option valu ignor setter block
+argument error block
+valu block block
+
+
+argument error option respond
+option
+
+
+
+respond option ignor setter
+send option valu
+
+
+setter proc option
+getter proc valu
+
+valu
+proc
+getter valu
+symbol fixnum fals class true class nil class
+getter valu inspect
+hash
+setter proc
+valu merg hash
+option
+
+
+
+defin singleton method option setter setter
+defin singleton method option getter getter
+defin singleton method option option method defin option
+
+
+
+same call option given option
+enabl opt
+opt
+
+
+same call option given option
+disabl opt
+opt
+
+
+defin custom error handler option take either except
+http statu code specifi error
+handl
+error code block
+arg compil error block
+code code array flatten
+code except code
+code error arg
+
+
+sugar error
+found block
+error block
+
+
+defin name templat block must templat sourc
+templat name block
+filenam line caller locat first
+templat name block filenam line
+
+
+defin layout templat block must templat sourc
+layout name layout block
+templat name block
+
+
+load embed templat file use caller file
+file specifi
+inlin templat file
+file file file caller file first file expand path file
+
+
+respond binread binread file read file
+data gsub split
+errno enoent
+data
+
+
+data
+code
+encod
+
+encod set encod
+
+line count
+templat
+forc encod data encod
+data line line
+line
+line
+templat forc encod encod
+templat templat file line
+templat
+templat line
+
+
+
+
+
+lookup regist mime type rack mime registri
+mime type type valu
+type type type
+type type type
+rack mime mime type type valu
+rack mime mime type type valu
+
+
+provid mime type match type includ deprec type
+mime type html text html
+mime type applic javascript text javascript
+mime type type
+type mime type type
+type applic javascript type text type
+
+
+defin filter run request within
+context rout handler access modifi request
+respons
+path option block
+filter path option block
+
+
+defin filter run request within
+context rout handler access modifi request
+respons
+path option block
+filter path option block
+
+
+filter
+filter type path option block
+path option path path respond pair
+filter type compil type path block option
+
+
+rout condit rout consid match
+block return
+condit name caller first condit block
+condit gener method name block
+
+
+valu
+warn longer use avoid overload modul instead
+folder valu
+
+
+valu
+folder valu
+
+
+
+folder
+
+
+
+dynam defin method set
+defin singleton method name content proc
+replac call singleton
+
+method name method defin name
+string content name content defin method name content
+
+
+
+condit match host name paramet might string regexp
+host name pattern
+condit pattern request host
+
+
+condit match user agent paramet regexp
+will param agent
+user agent pattern
+condit
+request user agent pattern
+param agent
+
+
+
+
+
+
+method agent user agent
+
+condit match mimetyp accept file extens
+provid type
+type mime type
+type flatten
+condit
+type respons content type
+type type type type
+type request prefer type type
+content type type
+
+
+
+
+
+
+
+
+defin handler also automat defin
+head handler
+path opt block
+condit condit
+rout path opt block
+
+condit condit
+rout head path opt block
+
+
+path opt rout path opt
+post path opt rout post path opt
+delet path opt rout delet path opt
+head path opt rout head path opt
+option path opt rout option path opt
+patch path opt rout patch path opt
+
+
+rout verb path option block
+becaus option host
+host name option delet host option host
+enabl path info path path info
+signatur compil verb path block option
+rout verb signatur
+invok hook rout ad verb path block
+signatur
+
+
+invok hook name arg
+extens send name arg respond name
+
+
+gener method method name block
+defin method method name block
+method instanc method method name
+remov method method name
+method
+
+
+compil verb path block option
+option pair option arg send option arg
+method name verb path
+unbound method gener method method name block
+pattern key compil path
+condit condit condit
+
+pattern key condit block ariti
+proc unbound method bind call
+proc unbound method bind call
+
+
+compil path
+key
+path respond
+pattern path gsub encod
+pattern gsub match
+match
+key splat
+
+
+key
+
+
+
+pattern key
+path respond key path respond match
+path path key
+path respond name path respond match
+path path name
+path respond match
+path key
+
+type error path
+
+
+
+defin parser parser
+
+encod
+escap
+regexp escap escap
+encod
+
+
+
+
+make method defin block modul given
+extens avail handler templat
+helper extens block
+block block given
+extens extens
+
+
+regist extens altern take block
+extens creat regist
+regist extens block
+extens modul block block given
+extens extens
+extens extens
+extend extens
+extens regist extens respond regist
+
+
+
+develop environ develop
+product environ product
+test environ test
+
+configur option sinatra
+allow scope set certain environ
+configur env block
+env env environ
+
+
+specifi rack middlewar
+middlewar arg block
+prototyp
+middlewar middlewar arg block
+
+
+quit server handler name
+thin hard stop avail otherwis stop
+server respond stop server stop server stop
+stderr put sinatra end crowd applaud handler name
+
+
+sinatra host server use
+thin puma mongrel we brick order given block call
+construct handler taken stage
+option
+option
+handler detect rack handler
+handler name handler name gsub
+server set set respond server set set server set
+handler server set merg port port host bind server
+handler name
+stderr put sinatra sinatra version taken stage
+port environ backup handler name
+
+term trap quit server handler name
+server thread set thread server respond thread
+run
+server block given
+
+errno eaddrinus
+stderr put someon alreadi perform port port
+
+
+prototyp instanc use process request
+prototyp
+prototyp
+
+
+creat instanc without middlewar front
+method defin
+
+creat instanc front middlewar
+pipelin object guarante respond call
+instanc call
+arg
+instanc arg
+wrapper build instanc instanc
+
+
+creat rack builder instanc middlewar
+given point
+build
+builder rack builder
+setup middlewar builder
+setup middlewar builder
+builder
+builder
+
+
+call
+synchron prototyp call
+
+
+
+setup middlewar builder
+builder extend rack
+builder show except show except
+builder rack method overrid method overrid
+builder rack head
+setup log builder
+setup session builder
+setup protect builder
+
+
+setup middlewar builder
+middlewar builder
+
+
+setup log builder
+log
+setup common logger builder
+setup custom logger builder
+log
+setup null logger builder
+
+
+
+setup null logger builder
+builder rack null logger
+
+
+setup common logger builder
+builder sinatra common logger
+
+
+setup custom logger builder
+log respond
+builder rack logger log
+
+builder rack logger
+
+
+
+setup protect builder
+protect
+option hash protect protect
+option array option
+option session hijack remot token session
+option reaction drop session
+builder rack protect option
+
+
+setup session builder
+session
+option
+option secret session secret session secret
+option merg session hash session respond hash
+builder rack session cooki option
+
+
+detect rack handler
+server array server
+server server name
+
+rack handler server name
+load error name error
+
+
+fail server handler server join found
+
+
+inherit subclass
+subclass reset
+subclass file caller file first subclass file
+
+
+
+mutex mutex
+synchron block
+lock
+mutex synchron block
+
+
+
+
+
+
+caller ignor nodoc
+sinatra base main showexcept sinatra code
+tilt tilt code
+gener code
+rubygem custom rubygem hack
+activ support activ support hack
+bundler runtim bundler hack
+intern intern rubi
+kernel bootstrap maglev kernel file
+
+
+contrari comment said previous rubiniu never support
+defin rubi ignor caller
+warn rubi ignor caller deprec longer support sinatra
+caller ignor concat rubi ignor caller
+
+
+like kernel caller exclud certain magic entri without
+line method inform result contain filenam
+caller file
+clean caller flatten
+
+
+like caller file contain array rather string
+first element file second line
+caller locat
+clean caller
+
+
+
+use deprec warn
+warn messag
+messag tfrom clean caller first join
+
+
+like kernel caller exclud certain magic entri
+clean caller keep
+caller
+line line split keep
+reject file caller ignor pattern file pattern
+
+
+
+fix encod issu
+default
+cast param encod extern
+
+latter might necessari rack handl
+keep rack
+forc encod arg set forc encod arg
+defin encod
+forc encod data encod encod
+data set data tempfil
+data respond forc encod
+data forc encod encod encod
+data respond valu
+data valu forc encod encod
+data respond
+data forc encod encod
+
+data
+
+
+forc encod data data
+
+
+reset
+
+environ rack develop
+error proc test
+dump error proc test
+show except proc develop
+session
+log
+protect
+method overrid
+code
+encod
+charset javascript xhtml json applic
+set charset text
+
+explicitli gener session secret eagerli play nice prefork
+
+securerandom
+session secret secur random
+load error not implement error
+secur random rais not implement error random devic avail
+session secret 064x kernel rand
+
+
+
+method methodoverrid method overrid
+method methodoverrid method overrid
+
+
+start server hook
+run built server run
+server http webrick
+bind
+port 4567
+
+rubi engin defin rubi engin rubi engin
+
+rubi engin macrubi
+server unshift control tower
+
+server unshift mongrel rubi engin
+server unshift puma rubi engin
+server unshift thin rubi engin jrubi
+server unshift puma rubi engin
+server unshift trinidad rubi engin jrubi
+
+
+absolut redirect
+prefix redirect
+path info
+
+file
+root proc file file expand path file dirnam file
+view proc root file join root view
+reload templat proc develop
+lock
+thread
+
+folder proc root file join root
+proc folder file exist folder
+cach control
+
+error except
+respons statu
+content type text html
+intern server error
+
+
+configur develop
+sinatra imag
+filenam file dirnam file imag param imag
+content type
+send file filenam
+
+
+error not found
+content type text html
+
+html gsub
+doctyp html
+html
+head
+style type text
+bodi text align center font famili helvetica arial font size 22px
+color margin 20px
+margin auto width 500px text align left
+style
+head
+bodi
+sinatra doesn rsquo know ditti
+sinatra
+
+
+request request method downcas request path info hello world nend
+
+bodi
+html
+html
+
+
+
+
+execut context classic style level applic
+method execut main deleg
+
+applic subclass want
+inherit set rout handler error page
+level subclass sinatra base highli recommend
+modular applic
+applic base
+log proc test
+method overrid
+proc test
+session secret proc develop
+file
+
+regist extens block nodoc
+ad method extens instanc method flatten
+deleg deleg ad method
+extens block
+
+
+
+sinatra deleg mixin mix object caus
+method deleg sinatra applic use primarili
+level
+deleg nodoc
+deleg method
+method method name
+defin method method name arg block
+arg block respond method name
+deleg target send method name arg block
+
+method name
+
+
+
+deleg patch post delet head option templat layout
+error found configur mime type
+enabl disabl develop test product
+helper set
+
+
+attr accessor target
+
+
+target applic
+
+
+wrapper
+initi stack instanc
+stack instanc stack instanc
+
+
+set
+instanc set
+
+
+helper
+instanc
+
+
+call
+stack call
+
+
+inspect
+instanc file set file inspect
+
+
+
+creat sinatra applic block evalu
+scope
+base base option block
+base class base
+base block block given
+base
+
+
+extend level modul provid
+regist extens block
+deleg target regist extens block
+
+
+includ helper modul provid sinatra request context
+helper extens block
+deleg target helper extens block
+
+
+middlewar classic applic
+arg block
+deleg target arg block
+
+
+sinatra base
+
+sinatra
+applic base
+
+assum first file requir sinatra
+file path relat option calcul base
+path
+file caller file first
+
+proc file expand path file expand path file
+
+argv
+optpars
+option parser
+port port 4567 port integ
+addr host bind
+environ develop environ
+server specifi rack server handler thin server
+turn mutex lock lock
+pars argv
+
+
+
+applic applic
+
+
+would object
+extend main object
+extend sinatra deleg
+rack showexcept
+
+sinatra
+sinatra show except catch except rais
+wrap show use backtrac sourcefil clickabl
+context whole rack environ request data
+
+care face site could reveal
+inform help attack
+show except rack show except
+eat error object
+eat error flush
+eat error put
+
+initi
+
+templat templat
+
+
+call
+call
+except
+error rack error rack error eat error
+
+prefer plain text
+content type text plain
+bodi dump except
+
+content type text html
+bodi pretti
+
+
+rack error error
+
+
+content type content type
+content length rack util bytes bodi join
+bodi
+
+
+
+
+prefer plain text
+request prefer type text plain text html text html
+curl index item item http user agent
+
+
+frame frame
+frame filenam sinatra
+framework
+defin frame filenam
+frame filenam
+system
+
+
+
+
+
+templat html nodoc
+doctyp html
+html
+head
+meta http equiv content type content text html charset
+titl except path titl
+
+script type text javascript
+
+toggl
+document get element by id
+post document get element by id post
+context document get element by id context
+
+style display block
+style display none
+post style display none
+context style background none
+
+style display block
+post style display block
+context style background fffed9
+
+
+
+toggl backtrac
+document get element by id backtrac
+toggler document get element by id expando
+
+class name condens
+class name expand
+toggler inner html condens
+
+class name condens
+toggler inner html expand
+
+
+
+script
+
+style type text media screen
+margin pad border outlin
+clear clear
+bodi background eeeeee margin pad
+font famili lucida grand lucida san unicod
+garuda
+code font famili lucida consol monospac
+font size 12px
+height 18px
+style none margin pad
+hover cursor pointer
+white space
+explan font size 12px color 666666
+margin 20px 100px
+wrap
+wrap width 1000px background ffffff margin auto
+pad 30px 50px 20px 50px
+border left solid dddddd
+border right solid dddddd
+header
+header margin auto 25px auto
+header left
+header summari left margin 12px 20px width 660px
+font famili lucida grand lucida san unicod
+margin font size 36px color 981919
+margin font size 22px color 333333
+header margin font size 12px color 666666
+header strong color 444444
+header display inlin pad 10px
+header first pad left
+header last border pad right
+bodi
+backtrac
+
+post
+cooki
+rack width 980px margin auto 10px auto
+right font size 14px
+backtrac
+expando left pad left color 666666
+font size 14px text decor none cursor pointer
+expando hover text decor underlin
+left width 100px margin bottom 10px
+color 981919 font size 14px font weight bold
+color 666666 text decor none pad
+backtrac frame info background f7f7f7 pad left 10px
+font size 12px color 333333
+backtrac style posit outsid border solid e9 e9 e9
+border bottom
+backtrac width 920px margin left 50px
+font 10px lucida consol monospac color 666666
+backtrac border border left solid e9 e9 e9
+pad
+backtrac code font size 10px color 555555 pad left
+backtrac border bottom solid e9 e9 e9 height auto
+pad
+backtrac code pad
+backtrac condens system
+backtrac condens framework display none
+request data
+data pad font size 12px color 666666
+tabl width 980px text align left font size 12px
+color 666666 pad border space
+border solid eeeeee border bottom
+border left
+clear
+tabl pad 10px font weight bold
+background f7 f7 f7 border bottom solid eeeeee
+border left solid eeeeee
+tabl pad 20px 10px
+border bottom solid eeeeee
+border left solid eeeeee
+hide post code start
+context
+post context display none
+
+tabl code width 750px
+tabl code width 750px overflow hidden
+style
+head
+bodi
+wrap
+header
+script name sinatra applic error height width
+summari
+strong except strong strong path
+strong
+except messag
+
+first strong file strong code
+frame first filenam split last code
+strong locat strong code frame first
+code
+last strong line
+strong frame first lineno
+
+
+clear
+
+
+backtrac condens
+backtrac
+href expando
+onclick toggl backtrac expand
+strong jump strong
+href info
+href post info post
+href cooki info cooki
+href info
+
+clear
+
+backtrac
+
+
+frame frame
+frame context line frame context line
+
+frame info frame frame
+code frame filenam code
+code strong frame strong code
+
+
+code frame frame
+frame context
+start frame context lineno
+context
+onclick toggl
+frame context line
+context line code line code
+
+
+
+
+start frame lineno context
+onclick toggl
+context line context code
+frame context line code
+
+
+frame post context
+start frame lineno post context
+post onclick toggl
+frame post context line
+post context line code line code
+
+
+
+clear
+
+
+
+
+
+
+
+
+backtrac
+
+
+info
+
+tabl
+
+variabl
+valu
+
+sort
+
+
+code inspect
+
+
+tabl
+
+data data
+
+clear
+
+
+post
+post info post
+post post
+tabl
+
+variabl
+valu
+
+post sort
+
+
+code inspect
+
+
+tabl
+
+data post data
+
+clear
+post
+
+cooki
+cooki info cooki
+cooki
+tabl
+
+variabl
+valu
+
+cooki
+
+
+code inspect
+
+
+tabl
+
+data cooki data
+
+clear
+cooki
+
+rack
+info rack
+tabl
+
+variabl
+valu
+
+sort
+
+
+code
+
+
+tabl
+clear
+rack
+
+explan see error
+enabl code show except code set
+wrap
+bodi
+html
+html
+
+
+sinatra
+version
+
+sinatra
+
+test
+
+method
+
+path param
+request rack mock request sinatra applic
+respons request path input param param
+
+
+post path param
+request rack mock request sinatra applic
+respons request post path input param param
+
+
+path param
+request rack mock request sinatra applic
+respons request path input param param
+
+
+delet path param
+request rack mock request sinatra applic
+respons request delet path input param param
+
+
+follow
+respons locat
+
+
+method miss name arg
+respons send name arg
+
+
+
+
+
+
+
+file dirnam file unit
+test spec
+
+test unit test case
+
+
+respons
+
+
+
+test unit
+file dirnam file method
+
+test unit test case send sinatra test method
+
+sinatra applic option merg
+
+
+file dirnam file helper
+
+context static file
+
+specifi serv root
+sinatra applic option file dirnam file
+
+
+bodi equal
+
+
+
+
+file dirnam file helper
+
+context sinatra
+
+setup
+sinatra applic
+
+
+specifi handl event
+name
+hello param name
+
+
+blake
+
+
+bodi equal hello blake
+
+
+specifi follow redirect
+
+redirect blake
+
+
+blake
+mizerani
+
+
+
+redirect
+bodi equal
+
+follow
+
+bodi equal mizerani
+
+
+specifi bodi set content end event
+
+sinatra event context instanc expect never
+
+bodi
+stop hello
+stop world
+
+
+
+bodi
+
+
+bodi equal hello
+
+
+
+
+file dirnam file helper
+
+context templat gener
+
+specifi read file symbol
+
+file
+name alena
+render view directori file dirnam file view
+
+
+file
+
+bodi equal rock alena
+
+
+
+
+test check readm exampl work
+file expand path helper file
+
+readm test test unit test case
+exampl
+mock hello world
+
+bodi hello world
+
+
+section rout
+exampl
+mock
+show someth
+
+post creat someth
+
+replac someth
+
+patch modifi someth
+
+delet annihil someth
+
+option appeas someth
+
+
+
+bodi show someth
+
+post
+bodi creat someth
+
+
+bodi replac someth
+
+patch
+bodi modifi someth
+
+delet
+bodi annihil someth
+
+option
+bodi appeas someth
+
+
+exampl
+mock
+hello name
+match hello hello
+param name
+hello param name
+
+
+
+hello
+bodi hello
+
+hello
+bodi hello
+
+
+exampl
+mock hello name hello
+
+hello
+bodi hello
+
+hello
+bodi hello
+
+
+exampl
+mock
+
+match hello world
+param splat inspect hello world
+
+
+download
+match download path file
+param splat inspect path file
+
+
+
+hello world
+bodi hello world
+
+download path file
+bodi path file
+
+
+exampl
+mock
+hello
+hello param captur first
+
+
+
+hello
+bodi hello
+
+hello
+bodi hello
+
+
+exampl
+mock
+hello
+hello
+
+
+
+hello
+bodi hello
+
+hello
+bodi hello
+
+
+
+file dirnam file helper
+
+context look request
+
+setup
+sinatra applic
+
+
+specifi return
+block proc hello
+defin event block
+
+result lookup
+request method
+path info
+
+
+result
+result block block
+
+
+specifi take param path
+block proc hello
+defin event block
+
+result lookup
+request method
+path info
+
+
+result
+result block block
+result param equal
+
+
+
+
+context return
+
+setup
+sinatra applic
+
+
+specifi event found
+request rack mock request
+result request
+result found
+result bodi equal found
+
+
+specifi success
+defin event
+hello world
+
+
+request rack mock request
+result request
+result
+result bodi equal hello world
+
+
+specifi object result
+
+tester with each
+
+
+
+
+
+
+
+defin event
+tester with each
+
+
+request rack mock request
+result request
+result
+result bodi equal foobarbaz
+
+
+
+specifi bodi last
+
+defin event
+bodi blake
+mizerani
+
+
+request rack mock request
+result request
+result
+result bodi equal blake
+
+
+
+
+
+context event
+
+setup
+sinatra applic
+
+
+specifi evalu clean context
+sinatra event context
+
+
+
+
+
+defin event
+
+
+
+request rack mock request
+result request
+result
+result bodi equal
+
+
+specifi access request respons param
+defin event
+param param
+
+
+request rack mock request
+result request
+result
+result bodi equal foobaz
+
+
+specifi filter agent
+
+defin event agent window
+request http user agent
+
+
+rack mock request default merg http user agent window
+
+request rack mock request
+result request
+result
+result bodi equal window
+
+rack mock request default merg http user agent
+
+request rack mock request
+result request
+result
+
+rack mock request default delet http user agent
+
+
+
+
+
+
+
+file expand path helper file
+
+erb test test unit test case
+engin
+tilt erb templat
+
+
+setup
+tilt prefer engin
+
+
+
+block
+mock
+view file dirnam file view
+block
+
+
+
+
+use correct engin
+equal engin tilt
+
+
+render inlin string
+
+
+equal bodi
+
+
+render file view path
+hello
+
+equal hello world bodi
+
+
+take local option
+
+local
+local local
+
+
+equal bodi
+
+
+render inlin layout
+mock
+layout thi upcas
+sparta
+
+
+
+equal thi sparta bodi
+
+
+render file layout
+hello world layout layout2
+
+bodi layout n hello world
+
+
+render block
+mock
+contain
+thi
+
+sparta
+
+
+contain
+
+
+
+equal thi sparta bodi
+
+
+use nest fashion partial whatnot
+mock
+templat inner inner inner
+templat outer outer inner outer
+outer
+
+
+
+
+equal outer inner inner outer bodi
+
+
+
+
+
+erubi
+erubi test erb test
+engin tilt erubi templat
+
+load error
+warn skip erubi test
+
+file expand path helper file
+rack
+
+rack test test unit test case
+setup
+sinatra
+sinatra
+
+
+build middlewar
+endpoint middlewar
+rack builder
+middlewar
+endpoint
+
+
+
+check middlewar
+build middlewar
+
+bodi
+
+bodi
+
+
+work middlewar front rack lock lock enabl
+enabl lock
+check rack lock
+
+
+work middlewar behind rack lock lock enabl
+enabl lock
+check rack lock
+
+
+work middlewar front rack lock lock disabl
+disabl lock
+check rack lock
+
+
+work middlewar behind rack lock lock disabl
+disabl lock
+check rack lock
+
+
+file dirnam file helper
+
+context layout gener
+
+setup
+sinatra applic
+
+
+specifi inlin
+
+layout
+thi content
+
+
+
+render blake
+
+
+
+
+bodi equal thi blake
+
+
+
+specifi name layout
+
+layout pretti
+content
+
+
+pretti
+render layout pretti
+
+
+pretti
+render
+
+
+pretti
+bodi equal
+
+pretti
+bodi equal
+
+
+
+specifi read file inlin
+
+
+titl welcom hello program
+render blake layout layout
+view directori file dirnam file view
+
+
+
+bodi equal welcom hello program blake
+
+
+
+
+file dirnam file helper
+
+context event context
+
+specifi ds lifi setter
+
+sinatra event context stub everyth rack respons
+
+statu
+argument error
+
+
+
+
+
+file dirnam file sinatra
+file dirnam file sinatra test spec
+
+mocha
+file dirnam file sinatra
+
+rubygem
+test spec
+
+context simpl event
+
+simpl request hash method path
+
+request method method upcas
+path info path
+
+
+
+invok simpl path request path
+event sinatra event path
+event invok simpl request hash request path
+
+
+specifi last valu
+block proc simpl
+result invok simpl block
+result
+result block block
+result param equal hash
+
+
+specifi take param path
+result invok simpl
+result
+result param equal
+
+unscap
+result invok simpl blake 20mizerani
+result
+result param equal blake mizerani
+
+
+specifi ignor mani
+result invok simpl
+result
+
+
+specifi understand splat
+invok simpl
+invok simpl
+invok simpl
+
+
+
+file dirnam file helper
+
+context custom error gener
+
+setup
+sinatra applic option error
+
+
+teardown
+sinatra applic option error
+
+
+specifi overrid
+
+
+found
+bodi equal found
+
+error
+custom
+
+
+
+found
+bodi equal custom
+
+
+
+specifi overrid
+
+
+asdf
+
+
+
+statu equal
+bodi equal intern server error
+
+
+error
+custom request sinatra error messag
+
+
+
+
+
+statu equal
+bodi equal custom asdf
+
+
+
+
+
+
+
+
+
+rubi
+sinatra
+simpl
+rubi
+code
+sinatra
+server thin
+connect
+
+
+halt login param user
+chat local user param user gsub
+
+
+stream provid text event stream
+stream keep open
+connect
+callback connect delet
+
+
+
+post
+connect data param
+respons without entiti bodi
+
+
+
+
+layout
+html
+head
+titl super simpl chat sinatra titl
+meta charset
+script http ajax googleapi ajax lib jqueri jqueri script
+head
+bodi bodi
+html
+
+login
+form action
+label user user name label
+input name user valu
+input type submit valu
+form
+
+chat
+chat
+
+script
+read
+event sourc stream
+onmessag chat append data
+
+write
+form live submit
+post user
+focu
+prevent default
+
+script
+
+form
+input placehold type messag
+form

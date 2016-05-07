@@ -1,0 +1,13903 @@
+libdir file dirnam file
+load path unshift libdir load path libdir
+
+libdir task rake sort task load task
+depend
+pakyow support
+pakyow core
+pakyow present
+pakyow mailer
+pakyow realtim
+
+
+depend
+
+
+argv first help argv first
+put file open file join path command usag consol read
+
+unshift
+
+setup
+pakyow stage argv first
+
+reload
+put reload
+pakyow reload
+
+
+
+argv clear
+start
+
+argv first help argv first
+put file open file join path command usag server read
+
+unshift
+
+setup
+
+valid arg
+port argv index
+argv port
+pakyow config server port argv port
+argv delet port
+argv delet port
+
+valid arg
+
+port argv index port
+pakyow config server port argv port gsub port
+argv delet port
+
+
+valid arg
+pakyow argv first
+
+put file open file join path command usag server read
+
+
+fileutil
+
+pakyow
+gener
+app gener
+
+start
+argv first
+help
+put file open file join path command usag read
+
+gener argv first
+gener build
+
+
+
+
+initi dest
+file expand path file templat
+dest dest
+
+
+build
+put gener project dest
+
+file directori dest entri dest
+copi
+
+argv clear
+folder dest would like popul anyway
+
+get chomp
+copi
+
+put abort
+
+
+
+
+exec
+put done dest pakyow server start
+
+
+
+
+copi file dest
+copi
+file util dest
+
+
+perform setup bundl instal
+exec
+file util dest
+put run bundl instal
+system bundl instal
+
+
+
+
+
+bundler setup
+
+pakyow
+
+pakyow defin
+configur
+config avail across environ
+name pakyow
+
+
+configur develop
+develop config
+
+
+configur prototyp
+environ run front prototyp backend
+ignor rout
+
+
+configur stage
+stage config
+
+
+configur product
+product config
+
+
+middlewar builder
+todo definit want chang secret
+builder rack session cooki pakyow config name session secret sekret
+
+
+pakyow bind
+defin bind
+
+pakyow helper
+defin method avail rout bind
+
+pakyow rout
+defin rout
+
+someth work uncom line
+
+put hello
+
+
+securerandom
+json
+pakyow support
+pakyow core
+websocket parser
+celluloid
+
+rel pakyow realtim helper
+rel pakyow realtim hook
+rel pakyow realtim context
+rel pakyow realtim deleg
+rel pakyow realtim registri simpl registri
+rel pakyow realtim registri redi registri
+rel pakyow realtim redi subscript
+rel pakyow realtim websocket
+rel pakyow realtim config
+rel pakyow realtim except
+rel pakyow realtim messag handler
+rel pakyow realtim messag handler call rout
+pakyow
+helper
+return work realtim context current context
+
+
+socket
+realtim context
+
+
+return session uniqu realtim
+
+
+socket
+session socket secur random
+
+
+return uniqu connect request lifecycl
+
+
+socket connect
+socket connect secur random
+
+
+return digest creat connect socket
+
+
+socket digest socket connect
+digest sha1 hexdigest socket socket connect
+
+
+
+websocket parser
+rel connect
+
+pakyow
+realtim
+websocketi stuff
+
+
+websocket connect
+celluloid
+final shutdown
+
+initi
+
+
+
+handshak handshak
+socket hijack
+
+handshak valid
+respons handshak accept respons
+respons render socket
+setup
+
+error handshak error first
+
+respons rack respons
+respons render socket
+
+handshak error error handshak error
+
+
+
+shutdown
+timer cancel timer
+socket close socket socket close
+
+
+push
+logger debug send messag
+web socket messag json write socket
+
+
+
+
+handshak
+header
+upgrad http upgrad
+web socket version http websocket version
+websocket http websocket
+
+
+web socket client handshak header
+
+
+hijack
+rack hijack call
+rack hijack
+
+
+setup
+parser web socket parser
+
+parser messag messag
+
+logger debug receiv messag messag
+push messag handler handl json pars messag rack session
+except
+logger error websocket encount error
+logger error messag
+backtrac line
+logger error line
+
+
+
+
+parser error
+logger error receiv error
+shutdown
+
+
+parser close statu messag
+socket web socket messag close data
+deleg unregist
+shutdown
+
+logger info client close connect statu statu reason messag
+termin
+
+
+parser ping payload
+socket web socket messag pong payload data
+
+
+timer celluloid everi read
+
+
+read
+
+parser socket read nonblock 16384
+wait readabl
+
+
+
+
+handshak error except
+
+
+
+pakyow
+realtim
+singleton deleg socket traffic use configur registri
+
+
+deleg
+singleton
+
+attr reader registri connect channel
+
+initi
+registri config realtim registri instanc
+
+connect
+channel
+
+
+regist websocket instanc uniqu
+regist connect
+connect connect
+
+registri channel channel
+channel channel
+channel channel connect
+
+
+
+unregist connect
+unregist
+registri unregist
+
+connect connect delet
+channel channel connect
+connect delet connect
+
+
+
+subscrib websocket identifi channel
+subscrib channel
+registri subscrib channel channel
+
+
+unsubscrib websocket identifi channel
+unsubscrib channel
+registri unsubscrib channel channel
+
+
+push messag channel server client
+push messag channel
+channel channel
+connect channel channel pair channel connect
+connect connect
+connect push
+payload messag
+channel channel
+
+
+
+
+
+
+
+
+connect channel channel
+regexp regexp channel gsub
+channel select channel conn
+channel match regexp
+
+
+
+
+
+rel websocket
+rel config
+
+pakyow
+realtim
+context deal realtim connect context
+
+
+context
+
+initi
+
+
+
+return instanc connect deleg
+
+
+deleg
+deleg instanc
+
+
+subscrib current session connect channel
+
+
+subscrib channel
+channel array channel flatten
+argument error channel
+deleg subscrib socket digest socket connect channel
+
+
+unsubscrib current session connect channel
+
+
+unsubscrib channel
+channel array channel flatten
+argument error channel
+deleg unsubscrib socket digest socket connect channel
+
+
+push messag channel
+
+
+push channel
+channel array channel flatten
+argument error channel
+deleg push channel
+
+
+
+
+pakyow init
+celluloid logger pakyow logger
+
+
+pakyow rout
+http upgrad websocket
+logger info upgrad websocket
+
+socket connect param socket connect
+socket digest socket digest socket connect
+
+creat websocket connect
+conn pakyow realtim websocket socket digest
+
+regist connect
+pakyow realtim deleg instanc regist socket digest conn
+
+halt pakyow noth
+halt
+
+
+
+pakyow process
+respons header content type text html
+bodi respons bodi
+bodi gsub bodi bodi data socket connect socket connect
+
+
+
+redi
+celluloid redi
+celluloid
+
+pakyow
+realtim
+manag subscript channel instanc
+connect belong
+
+
+redi subscript
+celluloid
+celluloid
+
+final shutdown
+
+initi
+config config realtim redi
+config driver celluloid
+
+redi redi config
+channel
+
+
+subscrib channel
+channel
+channel channel
+async
+
+
+
+
+
+redi subscrib channel
+messag channel
+redi registri instanc push json pars channel
+
+
+
+
+shutdown
+channel
+redi unsubscrib channel
+
+
+
+
+pakyow
+realtim
+registri messag handler handler subscrib websocket
+action handl incom messag action return respons
+
+
+messag handler
+regist handler action name
+
+
+regist name block
+handler
+handler name block
+
+
+call handler receiv websocket messag
+
+
+handl messag session
+action messag action
+
+handler handler fetch action
+miss messag handler could find messag handler name action
+
+
+handler call messag session
+messag
+
+
+
+
+
+pakyow
+realtim
+miss messag handler error
+
+
+rel registri simpl registri
+rel registri redi registri
+
+pakyow config regist realtim config
+
+registri keep connect
+config registri pakyow realtim simpl registri
+
+redi config hash
+config redi redi localhost 6379
+
+use keep track channel redi
+config redi channel
+
+develop opt
+
+opt registri pakyow realtim simpl registri
+stage opt
+
+opt registri pakyow realtim redi registri
+
+product opt
+
+opt registri pakyow realtim redi registri
+
+
+rel config
+
+pakyow
+realtim
+repres realtim connect websocket
+
+
+connect
+deleg
+deleg instanc
+
+
+logger
+pakyow logger
+
+
+
+
+pakyow realtim messag handler regist call rout messag session respons
+path messag split
+path part path split
+path part json
+path part join join
+
+rack mock request method messag method
+pakyow socket
+pakyow data messag input
+rack session session
+
+todo product want push messag queue
+avail instanc pick rather
+current instanc handl traffic socket
+respons pakyow call
+
+respons statu respons
+respons header respons
+respons bodi respons bodi
+respons
+
+json
+redi
+singleton
+
+rel redi subscript
+
+pakyow
+realtim
+singleton manag connect type websocket redi
+
+thi intend registri product system
+
+
+redi registri
+singleton
+
+initi
+redi redi config realtim redi
+
+
+channel
+channel
+
+
+unregist
+redi hdel channel
+
+
+subscrib channel channel
+channel channel concat array channel uniq
+redi hset channel channel json
+resubscrib channel
+
+
+unsubscrib channel channel
+channel channel array channel
+redi hset channel channel json
+resubscrib channel
+
+
+
+
+termin current subscrib creat
+subscrip current channel
+resubscrib channel
+subscrib termin subscrib
+subscrib redi subscript
+subscrib subscrib channel
+
+
+return use store channel
+channel
+config realtim redi
+
+
+return channel specif channel
+channel
+valu redi hget channel
+valu json pars valu channel channel
+
+
+
+
+singleton
+
+pakyow
+realtim
+singleton manag connect type websocket
+
+intend use product
+
+
+simpl registri
+singleton
+
+initi
+channel
+
+
+channel
+channel fetch
+
+
+unregist
+channel delet
+
+
+subscrib channel channel
+channel
+channel concat array channel channel channel uniq
+
+
+unsubscrib channel channel
+channel
+channel channel array channel channel channel
+
+
+
+
+pakyow support
+pakyow core
+celluloid
+
+rack test
+
+disabl logger stage
+pakyow init
+pakyow logger rack null logger
+celluloid logger pakyow logger
+
+
+stage
+celluloid logger rack null logger
+
+coverag
+simplecov
+simplecov consol
+simpl cov formatt simpl cov formatt consol
+simpl cov start
+
+pakyow realtim
+spec helper
+
+rel mixin pubsub spec
+
+share exampl websocket helper
+respons
+respons
+
+
+request
+rack request rack
+
+
+valid handshak
+web socket client handshak valid accept respons respons
+
+
+invalid handshak
+web socket client handshak valid accept respons respons error
+
+
+rack
+rack mock request socket connect socket connect
+http upgrad header upgrad
+http websocket version header version
+http websocket header
+rack logger rack null logger
+rack hijack hijack
+rack hijack hijack
+rack session socket socket
+
+
+
+rack session
+rack session socket socket
+
+
+
+
+
+
+header upgrad
+websocket
+
+
+header version
+
+
+
+header
+
+
+
+hijack
+
+
+
+hijack
+string io
+
+
+socket
+
+
+
+socket connect
+
+
+
+socket digest
+socket socket connect
+
+
+
+share exampl pubsub
+rack test method
+exampl websocket helper
+
+
+pakyow
+
+
+
+socket digest
+
+
+
+origin registri pakyow realtim deleg instanc instanc variabl registri
+pakyow realtim deleg instanc instanc variabl registri registri
+
+allow respons receiv render
+allow web socket client handshak receiv valid handshak
+allow instanc pakyow receiv socket digest socket digest
+
+pakyow stage
+rack
+
+
+
+pakyow realtim deleg instanc instanc variabl registri origin registri
+
+
+share exampl subscrib
+
+registri unregist
+
+
+subscrib websocket channel
+channel index channel
+post channel channel rack session
+expect registri channel channel
+expect registri channel length
+
+
+
+
+context subscrib websocket singl channel
+channel
+
+
+
+exampl subscrib
+
+
+context subscrib websocket multipl channel
+channel
+
+
+
+exampl subscrib
+
+
+describ publish messag channel
+context socket subscrib channel
+succe without send messag
+post channel rack session
+
+
+
+context socket subscrib channel
+skip
+
+
+context multipl socket subscrib channel
+context socket subscrib channel
+skip
+
+
+context socket subscrib channel
+skip
+
+
+
+
+describ notifi client conn
+mix conn bodi
+
+describ connect websocket
+skip
+
+rel support helper
+
+pakyow defin
+rout
+post
+socket subscrib param channel
+
+
+post
+socket push param param channel
+
+
+
+
+describ simpl registri
+registri
+pakyow realtim simpl registri instanc
+
+
+exampl pubsub
+
+
+describ redi registri
+registri
+pakyow realtim redi registri instanc
+
+
+exampl pubsub
+
+
+spec helper
+pakyow realtim config
+
+describ configur
+regist realtim config
+expect pakyow config realtim pakyow config
+
+
+describ option
+opt
+pakyow config realtim
+instanc variabl default
+instanc variabl opt
+key
+
+
+describ registri
+defin
+expect opt registri
+
+
+set registri
+expect pakyow config realtim registri pakyow realtim simpl registri
+
+
+
+describ redi
+defin
+expect opt redi
+
+
+
+describ redi
+defin
+expect opt redi
+
+
+
+
+spec helper
+pakyow realtim websocket
+
+describ pakyow realtim websocket
+exampl websocket helper
+
+websocket
+pakyow realtim websocket request socket digest
+
+
+
+allow respons receiv render
+allow web socket client handshak receiv valid handshak
+
+
+child connect
+expect pakyow realtim websocket ancestor pakyow realtim connect
+
+
+celluloid actor
+expect pakyow realtim websocket ancestor celluloid
+
+
+context termin actor
+call shutdown
+skip prove easi
+
+todo revisit
+expect websocket receiv shutdown
+websocket termin
+
+
+
+describ initi
+set
+expect websocket instanc variabl socket digest
+
+
+creat handshak
+header
+upgrad header upgrad
+web socket version header version
+websocket header
+
+
+expect web socket client handshak receiv http exampl header valid handshak
+websocket
+
+
+hijack request
+skip
+
+
+context handshak valid
+parser
+web socket parser messag error close ping
+
+
+
+allow web socket client handshak receiv valid handshak
+
+
+call accept respons handshak
+expect valid handshak receiv accept respons
+websocket
+
+
+render socket respons
+expect valid handshak accept respons receiv render hijack
+websocket
+
+
+creat websocket parser
+expect web socket parser receiv parser
+websocket
+
+
+describ websocket parser
+
+allow web socket parser receiv parser
+
+
+creat messag listen
+expect parser receiv messag
+websocket
+
+
+creat error listen
+expect parser receiv error
+websocket
+
+
+creat close listen
+expect parser receiv close
+websocket
+
+
+creat ping listen
+expect parser receiv ping
+websocket
+
+
+
+
+context handshak invalid
+respons
+rack respons reason render
+
+
+
+allow web socket client handshak receiv invalid handshak
+allow rack respons receiv respons
+
+
+describ respons
+creat respons
+expect rack respons receiv
+
+
+websocket
+pakyow realtim handshak error
+
+
+
+render socket respons
+expect respons receiv render hijack
+
+
+websocket
+pakyow realtim handshak error
+
+
+
+rais handshak error
+expect websocket error pakyow realtim handshak error
+
+
+
+
+
+spec helper
+pakyow realtim redi subscript
+
+describ pakyow realtim redi subscript
+skip
+
+spec helper
+pakyow realtim config
+pakyow realtim registri redi registri
+
+describ pakyow realtim redi registri
+registri
+pakyow realtim redi registri
+
+
+channel
+chan1 chan2 chan3
+
+
+
+
+
+
+redi
+redi hdel
+
+
+singleton
+expect registri instanc registri instanc
+
+
+describ channel
+context channel
+
+registri instanc subscrib channel channel
+
+
+
+registri instanc unregist
+
+
+return channel
+expect registri instanc channel channel
+
+
+
+context channel
+return
+expect registri instanc channel nope
+
+
+
+
+describ unregist
+
+registri instanc subscrib channel channel
+
+origin redi registri instanc instanc variabl redi
+registri instanc instanc variabl redi redi
+
+
+
+registri instanc instanc variabl redi origin redi
+registri instanc unregist
+
+
+delet
+registri instanc unregist
+expect redi receiv hdel pakyow config realtim redi
+
+
+
+describ subscrib channel
+
+registri instanc unregist
+
+
+subscrib channel
+expect registri instanc channel
+registri instanc subscrib channel channel
+expect registri instanc channel channel
+
+
+
+describ unsubscrib channel
+
+registri instanc subscrib channel channel
+
+
+unsubscrib channel
+expect registri instanc channel channel
+registri instanc unsubscrib channel channel
+expect registri instanc channel
+
+
+
+spec helper
+pakyow realtim context
+pakyow realtim helper
+
+describ pakyow realtim context
+
+instanc pakyow socket socket connect socket digest 123321
+
+
+context
+pakyow realtim context
+
+
+describ initi
+set
+expect context instanc variabl
+
+
+
+describ deleg
+return deleg singleton
+expect context deleg pakyow realtim deleg instanc
+
+
+
+describ subscrib
+share exampl subscrib
+subscrib websocket channel socket digest
+expect pakyow realtim deleg instanc receiv subscrib
+socket digest socket connect
+pass
+
+
+context subscrib channel
+
+
+
+context call channel
+rais error
+expect context subscrib error argument error
+
+
+
+context call singl channel
+channel
+channel
+
+
+pass
+channel
+
+
+exampl subscrib
+
+
+context call mani channel
+channel
+channel channel
+
+
+pass
+channel
+
+
+exampl subscrib
+
+
+context call channel
+channel
+channel channel
+
+
+pass
+channel flatten
+
+
+exampl subscrib
+
+
+
+describ unsubscrib
+share exampl unsubscrib
+unsubscrib websocket channel socket digest
+expect pakyow realtim deleg instanc receiv unsubscrib
+socket digest socket connect
+pass
+
+
+context unsubscrib channel
+
+
+
+context call channel
+rais error
+expect context unsubscrib error argument error
+
+
+
+context call singl channel
+channel
+channel
+
+
+pass
+channel
+
+
+exampl unsubscrib
+
+
+context call mani channel
+channel
+channel channel
+
+
+pass
+channel
+
+
+exampl unsubscrib
+
+
+context call channel
+channel
+channel channel
+
+
+pass
+channel flatten
+
+
+exampl unsubscrib
+
+
+
+describ push
+
+
+
+
+share exampl push
+push messag channel
+expect pakyow realtim deleg instanc receiv push
+
+pass
+
+
+context push channel
+
+
+
+context call channel
+rais error
+expect context push error argument error
+
+
+
+context call singl channel
+channel
+channel
+
+
+pass
+channel
+
+
+exampl push
+
+
+context call mani channel
+channel
+channel channel
+
+
+pass
+channel
+
+
+exampl push
+
+
+context call channel
+channel
+channel channel
+
+
+pass
+channel flatten
+
+
+exampl push
+
+
+
+spec helper
+pakyow realtim helper
+pakyow realtim context
+
+helper includ
+pakyow helper
+
+session
+session
+
+
+
+describ realtim helper
+includ
+helper includ
+
+
+describ socket
+creat realtim context
+expect pakyow realtim context receiv includ
+includ socket
+
+
+return creat context
+expect includ socket pakyow realtim context
+
+
+
+describ socket
+creat string
+expect secur random receiv
+includ socket
+
+
+context creat string
+
+
+
+
+
+allow secur random receiv
+
+
+return creat string
+expect includ socket
+
+
+set session socket creat string
+includ socket
+expect includ session socket
+
+
+
+describ subsequ call
+replac current session socket valu
+includ session socket
+includ socket
+expect includ socket
+
+
+
+
+describ socket connect
+creat string
+expect secur random receiv
+includ socket connect
+
+
+context creat string
+
+
+
+
+
+allow secur random receiv
+
+
+return creat string
+expect includ socket connect
+
+
+
+describ subsequ call
+replac current valu
+includ instanc variabl socket connect
+includ socket connect
+expect includ socket connect
+
+
+
+
+describ socket digest
+creat digest conn
+conn
+expect digest sha1 receiv hexdigest includ socket conn
+includ socket digest conn
+
+
+
+spec helper
+pakyow realtim registri simpl registri
+
+describ pakyow realtim simpl registri
+registri
+pakyow realtim simpl registri
+
+
+channel
+chan1 chan2 chan3
+
+
+
+
+
+
+singleton
+expect registri instanc registri instanc
+
+
+describ channel
+context channel
+
+registri instanc subscrib channel channel
+
+
+
+registri instanc unregist
+
+
+return channel
+expect registri instanc channel channel
+
+
+
+context channel
+return
+expect registri instanc channel nope
+
+
+
+
+describ unregist
+
+registri instanc subscrib channel channel
+
+
+delet channel
+expect registri instanc channel channel
+registri instanc unregist
+expect registri instanc channel
+
+
+
+describ subscrib channel
+subscrib channel
+expect registri instanc channel
+registri instanc subscrib channel channel
+expect registri instanc channel channel
+
+
+
+describ unsubscrib channel
+
+registri instanc subscrib channel channel
+
+
+unsubscrib channel
+expect registri instanc channel channel
+registri instanc unsubscrib channel channel
+expect registri instanc channel
+
+
+
+spec helper
+pakyow realtim connect
+
+describ pakyow realtim connect
+connect
+pakyow realtim connect
+
+
+describ deleg
+return deleg singleton
+expect connect deleg pakyow realtim deleg instanc
+
+
+
+describ logger
+return pakyow logger
+expect connect logger pakyow logger
+
+
+
+spec helper
+pakyow realtim deleg
+
+describ pakyow realtim deleg
+deleg
+pakyow realtim deleg instanc
+
+
+registri
+pakyow realtim simpl registri instanc registri instanc
+channel channel
+unregist
+subscrib channel
+unsubscrib channel
+
+
+registri instanc
+instanc pakyow realtim simpl registri
+
+
+channel
+chan1 chan2 chan3
+
+
+
+
+
+
+connect
+pakyow realtim connect push
+
+
+describ initi
+set registri instanc configur registri
+expect deleg registri pakyow config realtim registri instanc
+
+
+
+context interact registri
+
+deleg instanc variabl registri registri
+
+
+
+deleg instanc variabl registri pakyow config realtim registri instanc
+
+
+describ regist
+
+deleg regist connect
+
+
+
+deleg unregist
+
+
+regist connect
+expect deleg connect connect
+
+
+regist connect channel registri
+channel channel
+expect deleg channel channel connect
+
+
+
+
+describ unregist
+
+deleg unregist
+
+
+unregist registri
+expect registri receiv unregist
+
+
+unregist connect
+expect deleg connect
+
+
+unregist connect channel
+channel channel
+expect deleg channel fetch channel connect
+
+
+
+
+describ subscrib
+
+deleg subscrib channel
+
+
+subscrib registri channel
+expect registri receiv subscrib channel channel
+
+
+
+describ unsubscrib
+
+deleg unsubscrib channel
+
+
+unsubscrib registri channel
+expect registri receiv unsubscrib channel channel
+
+
+
+describ push
+
+deleg regist connect
+deleg subscrib channel
+
+
+
+deleg unregist
+
+
+channel
+chan1
+
+
+unsubscrib channel
+chan2 chan3
+
+
+messag
+
+
+
+push messag connect regist channel
+deleg push messag channel
+expect connect receiv push
+payload messag
+channel channel
+
+
+
+push messag connect regist channel
+deleg push messag unsubscrib channel
+expect connect receiv push
+
+
+
+
+pakyow support
+pakyow core
+pakyow present
+pakyow mailer
+
+rel test help request
+rel test help respons
+
+rel test help mock present mock
+rel test help mock statu mock
+
+rel test help observ observ present
+rel test help observ observ view
+
+rel test help helper
+rel test help simul
+rel test help simul
+
+pakyow
+test help
+setup
+pakyow stage test
+
+pakyow match
+present pakyow test help observ present present
+
+
+
+
+rel simul
+
+pakyow
+test help
+helper
+simul name path method session cooki block
+pakyow test help simul
+name path
+method method
+param
+session session
+cooki cooki
+
+
+block
+
+
+method simul
+
+pakyow rout eval http method method
+defin method method name path arg block
+simul name path method method arg block
+
+
+
+
+
+rel simul
+
+pakyow
+test help
+simul
+attr reader path method param
+
+initi name path method param session cooki
+path router path name path param
+method method
+param param
+
+request method method upcas
+request path path
+path info path
+queri string param join join
+rack session session
+rack request cooki hash cooki
+rack input string io
+pakyow param param
+
+
+
+block
+pakyow
+process
+
+simul
+
+block given
+
+
+
+
+
+router
+pakyow router instanc
+
+
+
+
+forward
+
+pakyow
+test help
+simul
+extend forward
+
+redirect status
+
+attr reader
+deleg request respons present
+deleg respons statu type format
+deleg present view
+
+initi
+
+
+
+redirect
+redirect status respons statu
+respons header locat
+
+
+path router path
+respons header locat path
+
+
+
+statu
+
+
+
+
+
+rerout
+request first path request path
+
+
+request path router path
+
+
+
+
+
+
+
+router
+pakyow router instanc
+
+
+
+
+pakyow
+test help
+observ
+todo version exist view context consid dri
+view class
+pakyow present view
+pakyow present view collect
+pakyow present partial
+pakyow present templat
+pakyow present contain
+pakyow present view compos
+
+
+method miss name arg block
+handl valu observ send name arg block
+
+
+todo like need handl nest observ
+observ scope action travers valu
+observ
+observ
+scope scope
+action action
+travers travers
+valu valu
+
+
+
+observ scope action travers valu
+observ
+observ observ
+observ scope scope
+observ action action
+observ travers travers
+
+valu pair
+observ valu
+
+
+
+
+
+
+
+
+
+
+handl valu valu
+view class valu
+travers
+observ view
+parent present
+view pakyow present view view pakyow present view collect
+travers travers
+travers valu scope
+
+
+parent
+
+
+valu pakyow present view collect
+valu instanc variabl view collect view
+observ view collect view parent travers
+
+
+
+observ view valu parent travers
+
+
+valu
+
+
+
+
+rel observ
+
+pakyow
+test help
+observ view
+observ
+attr reader view present travers
+
+initi view present travers
+view view
+present present
+travers travers
+
+
+observ
+view
+
+
+
+
+
+
+data block
+view data view datum
+block call handl valu view datum
+
+
+
+appli data bind context block
+present observ view scope appli travers data data bind bind context context block block
+
+result view appli data bind bind context context view datum
+block call handl valu view datum
+
+
+handl valu result
+
+
+append append view
+present observ view scope append travers view append view
+handl valu view append append view
+
+
+prepend prepend view
+present observ view scope prepend travers view prepend view
+handl valu view prepend prepend view
+
+
+view
+present observ view scope travers view view
+handl valu view view
+
+
+view
+present observ view scope travers view view
+handl valu view view
+
+
+replac replac view
+present observ view scope replac travers view replac view
+handl valu view replac replac view
+
+
+scope name
+view scope name length
+
+
+prop name
+view prop name length
+
+
+exist
+view length
+
+
+appli data
+valu
+valu data data data
+present observ view scope appli travers valu
+
+
+bound valu
+view text valu
+
+
+append append view
+valu
+valu view append view append view
+present observ view scope append travers valu
+
+
+prepend prepend view
+valu
+valu view prepend view prepend view
+present observ view scope prepend travers valu
+
+
+view
+valu
+valu view view view
+present observ view scope travers valu
+
+
+view
+valu
+valu view view view
+present observ view scope travers valu
+
+
+replac replac view
+valu
+valu view replac view replac view
+present observ view scope replac travers valu
+
+
+
+
+pakyow
+test help
+observ logger
+initi
+string io
+logger pakyow logger
+log
+
+
+string
+string string
+
+
+method miss method arg block
+logger send method arg block
+
+
+
+
+rel observ
+
+pakyow
+test help
+observ present
+observ
+attr reader present
+
+initi present
+present present
+
+
+observ
+present
+
+
+
+
+pakyow
+respons
+statu
+pakyow test help mock statu statu
+
+
+
+pakyow
+request
+param
+pakyow param
+
+
+
+pakyow
+test help
+mock present
+attr reader call
+
+initi present
+present present
+call
+
+
+method miss method arg block
+present send method arg block
+call method arg
+
+
+
+
+
+pakyow
+test help
+mock statu
+attr reader valu
+
+initi valu
+valu valu
+
+
+equal valu
+equal valu symbol
+equal valu pakyow respons statu code lookup equal valu
+
+
+valu equal valu
+
+
+
+valu
+
+
+
+
+pakyow support
+pakyow core
+pakyow present
+pakyow mailer
+pakyow realtim
+pakyow
+
+pakyow test help request
+pakyow test help respons
+
+pakyow test help mock present mock
+pakyow test help mock statu mock
+
+pakyow test help observ observ present
+pakyow test help observ observ view
+pakyow test help observ observ logger
+pakyow test help observ realtim observ context
+pakyow test help observ realtim observ mutat
+
+pakyow test help helper
+pakyow test help simul
+pakyow test help simul
+
+pakyow
+test help
+setup path setup
+path
+
+pakyow match
+present pakyow test help observ present present
+
+
+pakyow process
+pakyow test help realtim observ mutat instanc reset
+
+
+pakyow stage test test
+
+
+
+
+pakyow present view context view class pakyow test help observ view
+
+pakyow
+helper
+socket
+socket pakyow test help realtim observ context
+
+
+
+
+pakyow
+present
+view context
+mutat mutat data
+pakyow test help realtim observ mutat instanc mutat mutat data
+
+
+
+
+rel simul
+
+pakyow
+test help
+helper
+simul name path method session cooki block
+pakyow test help simul
+name path
+method method
+param
+session session
+cooki cooki
+
+
+
+block
+
+
+method simul
+
+pakyow rout eval http method method
+defin method method name path arg block
+simul name path method method arg block
+
+
+
+
+
+rel simul
+
+pakyow
+test help
+simul
+attr reader path method param
+
+initi name path method param session cooki
+path router path name path param
+method method
+param param
+
+request method method upcas
+request path path
+path info path
+queri string param join join
+rack session session
+rack request cooki hash cooki
+rack input string io
+pakyow param param
+rack logger pakyow test help observ logger
+merg hash
+
+
+block
+simul call context process
+
+block given
+
+
+
+
+
+router
+pakyow router instanc
+
+
+
+
+forward
+
+pakyow
+test help
+simul
+extend forward
+
+redirect status
+
+attr reader
+deleg request respons present socket socket digest socket connect
+deleg respons statu type format
+deleg present view
+
+initi
+
+
+
+redirect
+redirect status respons statu
+respons header locat
+
+
+path router path
+respons header locat path
+
+
+
+statu
+
+
+
+
+
+rerout
+request first path request path
+
+
+request path router path
+
+
+
+
+
+subscrib
+
+channel
+
+channel
+
+
+
+unsubscrib
+subscrib
+
+
+push messag
+socket push messag
+
+
+
+request rack logger
+
+
+
+
+router
+pakyow router instanc
+
+
+channel
+socket deleg registri channel socket digest socket connect
+
+
+
+
+pakyow
+test help
+observ
+todo version exist view context consid dri
+view class
+pakyow present view
+pakyow present view collect
+pakyow present partial
+pakyow present templat
+pakyow present contain
+pakyow present view compos
+
+
+method miss name arg block
+handl valu observ send name arg block
+
+
+todo like need handl nest observ
+observ scope action travers valu
+observ
+observ
+scope scope
+action action
+travers travers
+valu valu
+
+
+
+observ scope action travers valu
+observ
+observ observ
+observ scope scope
+observ action action
+observ travers travers
+
+valu pair
+observ valu
+
+
+
+
+
+
+
+
+
+
+handl valu valu
+view class valu
+travers
+observ view
+parent present
+view pakyow present view view pakyow present view collect
+travers travers
+travers valu scope
+
+
+parent
+
+
+valu pakyow present view collect
+valu instanc variabl view collect view
+observ view collect view parent travers
+
+
+
+observ view valu parent travers
+
+
+valu
+
+
+
+
+pakyow
+respons
+statu
+pakyow test help mock statu statu
+
+
+
+pakyow
+param overrid
+param
+fetch pakyow param
+
+
+
+request
+prepend param overrid
+
+
+pakyow
+test help
+mock present
+attr reader call
+
+initi present
+present present
+call
+
+
+method miss method arg block
+present send method arg block
+call method arg
+
+
+
+
+
+pakyow
+test help
+mock statu
+attr reader valu
+
+initi valu
+valu valu
+
+
+equal valu
+equal valu symbol
+equal valu pakyow respons statu code lookup equal valu
+
+
+valu equal valu
+
+
+
+valu
+
+
+
+
+rel pakyow test
+
+coverag
+simplecov
+simplecov consol
+
+simpl cov formatt simpl cov formatt consol
+simpl cov start
+
+rel support helper
+
+context test rout redirect
+appear redirect
+redirect
+expect redirect
+
+
+
+appear redirect path
+redirect
+expect redirect
+
+
+
+expos type redirect
+redirect
+expect redirect found
+
+
+
+rel support helper
+
+context test rout present
+appear present view path
+
+expect present path
+
+
+
+context view path chang
+appear present view path
+present path
+expect present path
+
+
+
+
+context view composit chang
+context use differ templat
+templat name
+altern
+
+
+expos compos templat
+compos templat templat templat name
+expect view templat name templat name
+
+
+
+
+context replac partial
+expos compos partial
+
+
+
+context view titl chang
+expos titl present view
+titl titl
+expect view titl
+
+
+
+
+context view contain scope
+appear contain scope
+scope
+expect view scope post
+
+
+
+
+context view contain scope
+appear contain scope
+scope
+expect view scope
+
+
+
+
+context rout match view data
+appear match scope data
+
+
+context rout repeat view data
+appear repeat scope data
+
+
+context rout bind data view
+appear bound data scope
+
+context view contain form field
+appear bound data field
+
+
+
+context rout appli data view
+data
+name
+
+
+appear bound data appli scope
+scope data data
+view scope post view
+expect view appli data
+
+check specif valu
+view data view datum
+expect view prop name bound datum name
+
+
+
+
+
+appear bound data appli scope
+scope data data
+expect view scope appli data
+
+
+
+context appli scope nest
+data
+
+
+name post
+comment
+name comment
+
+
+
+
+
+appear bound data nest scope
+nest data data
+view scope post view
+expect view appli data
+
+check specif valu
+view data view datum
+expect view prop name bound datum name
+expect view scope comment appli datum comment
+
+
+
+
+
+appear bound data nest scope name
+nest data data
+expect view scope comment appli
+
+
+
+
+
+context rout manipul node view
+context chang attribut
+appear attribut chang
+attribut name valu
+expect view scope post attr valu
+
+
+
+
+context remov
+appear node remov
+remov
+expect view scope post exist
+
+
+
+
+context chang text
+text
+test123
+
+
+appear text chang
+text text text
+expect view scope post first text text
+
+
+
+
+context chang html
+html
+span html span
+
+
+appear html chang
+html html html
+expect view scope post first html html
+
+
+
+
+context append anoth view
+text
+append
+
+
+view
+view text
+
+
+appear node append
+append text text
+expect view scope post first append
+
+
+
+know append
+append text text
+expect view scope post first append view
+
+
+
+
+context prepend anoth view
+text
+prepend
+
+
+view
+view text
+
+
+appear node prepend
+prepend text text
+expect view scope post first prepend
+
+
+
+know prepend
+prepend text text
+expect view scope post first prepend view
+
+
+
+
+context ad anoth view
+text
+
+
+
+view
+view text
+
+
+appear node ad
+text text
+expect view scope post first
+
+
+
+know ad
+text text
+expect view scope post first view
+
+
+
+
+context ad anoth node
+text
+
+
+
+view
+view text
+
+
+appear node ad
+text text
+expect view scope post first
+
+
+
+know ad
+text text
+expect view scope post first view
+
+
+
+
+context replac anoth view
+text
+replac
+
+
+view
+view text
+
+
+appear node replac
+replac text text
+expect view scope post first replac
+
+
+
+know replac
+replac text text
+expect view scope post first replac view
+
+
+
+
+
+context test rout write
+describ
+contain valu log
+
+
+context mix valu bind
+describ valu
+reflect bind valu
+
+
+context test rout send mail
+describ mail
+expos recipi
+expos mail path
+
+
+rel support helper
+
+context test rout rerout
+appear rerout
+rerout
+expect rerout
+
+
+
+appear rerout path
+rerout
+expect rerout
+
+
+
+rel support helper
+
+context test rout
+rout rout path
+
+expect statu
+
+
+
+rout rout name
+
+expect statu
+
+
+
+rout group rout name
+
+expect statu
+
+
+
+describ set context
+
+
+
+
+respect context
+expect statu
+
+
+
+describ respons code
+equal success request
+
+expect statu
+
+
+
+equal request miss rout
+miss
+expect statu
+
+
+
+equal request fail rout
+fail
+expect statu
+
+
+
+
+describ nice respons code
+equal success request
+
+expect statu
+
+
+
+
+describ respons type
+expos respons type
+
+expect type text html
+
+
+
+expos nice respons type
+
+expect format html
+
+
+
+expos nice respons type
+index json
+expect format json
+
+
+
+
+context param
+recogn param
+
+expect param
+
+
+
+
+context format
+recogn format
+index json
+expect format json
+
+
+
+
+context session
+recogn session
+session
+expect session
+
+
+
+
+context cooki
+recogn cooki
+cooki
+expect cooki
+
+
+
+
+rel spec helper
+
+rel test pakyow
+
+pakyow test help setup
+
+r spec configur config
+config pakyow test help helper
+
+pakyow defin
+configur test
+
+output
+
+present view store file join file dirnam file view
+
+
+rout
+
+
+fail fail
+fail
+
+
+redirect redirect
+redirect
+
+
+rerout rerout
+rerout
+
+
+group
+
+
+
+present present path
+present path param path
+
+
+titl titl titl
+present path
+view titl param titl
+
+
+scope scope
+data param data
+view scope post appli data
+
+
+
+nest nest
+data param data
+view scope post appli data view datum
+view scope comment appli datum comment
+
+
+
+
+view manipul
+
+attribut attribut
+present path scope
+view scope post attr param name param valu
+
+
+remov remov
+present path scope
+view scope post remov
+
+
+text text
+present path scope
+view scope post text param text
+
+
+html html
+present path scope
+view scope post html param html
+
+
+append append
+present path scope
+view scope post append view param text
+
+
+prepend prepend
+present path scope
+view scope post prepend view param text
+
+
+
+present path scope
+view scope post view param text
+
+
+
+present path scope
+view scope post view param text
+
+
+replac replac
+present path scope
+view scope post replac view param text
+
+
+view composit
+
+compos templat templat
+present path
+view templat param templat
+
+
+
+rel support unit helper
+rel test help simul
+
+describ pakyow test help simul
+
+instanc request request respons respons request respons
+
+
+request
+instanc request
+
+
+respons
+instanc respons statu statu type type format format header header
+
+
+statu
+
+
+
+type
+text html
+
+
+format
+html
+
+
+header
+locat redirect
+
+
+simul
+pakyow test help simul
+
+
+make avail reader
+expect simul
+
+
+describ deleg
+return request
+expect simul request request
+
+
+return respons
+expect simul respons respons
+
+
+return respons statu
+expect simul statu respons statu
+
+
+return respons type
+expect simul type respons type
+
+
+return respons format
+expect simul format respons format
+
+
+
+describ redirect
+context respons redirect statu
+return
+expect simul redirect
+
+
+
+context respons locat header
+header
+
+
+
+return
+expect simul redirect
+
+
+
+context respons locat header
+context request redirect
+statu
+
+
+
+return
+expect simul redirect
+
+
+context test redirect type
+context type match
+return
+expect simul redirect
+
+
+
+context type match
+return
+expect simul redirect
+
+
+
+
+
+context request redirect
+statu
+
+
+
+return
+expect simul redirect
+
+
+context test redirect type
+context type match
+return
+expect simul redirect
+
+
+
+context type match
+return
+expect simul redirect
+
+
+
+
+
+context request redirect
+statu
+
+
+
+return
+expect simul redirect
+
+
+context test redirect type
+context type match
+return
+expect simul redirect
+
+
+
+context type match
+return
+expect simul redirect
+
+
+
+
+
+context request redirect statu
+statu
+pakyow test help simul redirect status sampl
+
+
+context test redirect locat
+context locat match
+return
+expect simul redirect
+
+
+
+context locat match
+return
+expect simul redirect redirect
+
+
+
+
+
+
+
+describ rerout
+context request rerout
+
+allow request receiv first path
+allow request receiv path
+
+
+return
+expect simul rerout
+
+
+
+context request rerout
+
+allow request receiv first path
+allow request receiv path
+
+
+return
+expect simul rerout
+
+
+context test rerout locat
+context locat match
+
+allow request receiv first path
+allow request receiv path
+
+
+return
+expect simul rerout
+
+
+
+context locat match
+
+allow request receiv first path
+allow request receiv path
+
+
+return
+expect simul rerout
+
+
+
+
+
+
+rel support unit helper
+rel test help helper
+
+helper includ
+pakyow test help helper
+
+
+describ pakyow test help helper
+instanc
+helper includ
+
+
+simul
+instanc simul
+
+
+describ simul
+name
+
+
+
+method
+
+
+
+
+
+
+
+session
+user
+
+
+cooki
+user
+
+
+creat run simul name method param session cooki
+expect simul receiv
+
+expect pakyow test help simul receiv
+name
+method method
+param
+session session
+cooki cooki
+simul
+
+instanc simul
+name
+method method
+
+session session
+cooki cooki
+
+
+
+
+describ http method
+creat method http method
+pakyow rout eval http method method
+expect pakyow test help helper method defin method
+
+
+
+forward call simul
+expect instanc receiv simul method
+instanc
+
+
+
+rel support unit helper
+rel test help simul
+
+describ pakyow test help simul
+simul
+pakyow test help simul
+name path
+method method
+param param
+session session
+cooki cooki
+
+
+
+name path
+
+
+
+method
+
+
+
+param
+
+
+
+session
+user
+
+
+cooki
+user
+
+
+describ initi
+creat environ
+expect simul instanc hash
+
+
+describ creat environ
+contain request method
+expect simul request method method upcas
+
+
+contain request path
+expect simul request path name path
+
+
+contain path info
+expect simul path info name path
+
+
+contain queri string
+expect simul queri string
+
+
+contain rack session
+expect simul rack session session
+
+
+contain rack request cooki hash
+expect simul rack request cooki hash cooki
+
+
+contain rack input
+expect simul rack input instanc string io
+
+
+
+expos path
+expect simul path name path
+
+
+expos method
+expect simul method method
+
+
+expos param
+expect simul param param
+
+
+
+describ
+
+origin pakyow
+pakyow instanc pakyow null object
+
+
+
+pakyow origin
+
+
+creat simul
+expect pakyow test help simul receiv pakyow
+simul
+
+
+context block given
+return simul
+expect simul instanc pakyow test help simul
+
+
+
+context block given
+call block simul
+expect simul control
+
+
+
+
+rel spec helper
+rel support unit helper
+rel test help respons
+
+describ pakyow respons
+describ statu
+return mock statu valu
+pakyow respons
+statu
+
+expect statu instanc pakyow test help mock statu
+expect statu valu
+
+
+
+todo write test present
+rel support unit helper
+rel test help mock statu mock
+
+describ pakyow test help mock statu
+code
+
+
+
+mock
+pakyow test help mock statu code
+
+
+initi valu
+expect mock valu code
+
+
+typecast integ
+expect mock code
+
+
+describ equal
+equal ident statu code
+expect mock code
+
+
+equal nice name statu
+expect mock
+
+
+
+libdir file dirnam file
+load path unshift libdir load path libdir
+
+gem
+mail
+premail
+
+base
+mailer mailer
+mailer config mailer
+mailer helper
+pakyow
+app helper
+mailer view path
+mailer store view path present store
+
+
+
+pakyow
+mailer
+attr accessor view messag process
+
+store view path view store
+view view store view view path
+
+
+initi view content
+view view
+content content
+
+messag mail
+messag config mailer sender
+messag content type config mailer content type
+messag deliveri method config mailer deliveri method config mailer deliveri option
+
+
+deliv recipi subject
+html content html
+text content text
+
+html
+messag bodi text
+
+messag html part
+content type text html charset config mailer encod
+bodi html
+
+
+messag text part
+bodi text
+
+
+
+messag subject subject subject
+
+array recipi deliv
+
+
+content type html
+process fetch type
+
+
+
+
+process
+process
+process content
+
+view
+premail premail view html html string input encod config mailer encod
+
+premail warn
+pakyow logger warn messag level render properli client
+
+
+process content text content premail plain text
+process content html premail inlin
+
+process content text content
+
+
+process
+
+
+process content
+
+
+deliv recipi
+messag recipi
+messag deliv
+
+
+
+pakyow config regist mailer config
+sender name
+config sender pakyow
+
+mimetyp
+config content type text html charset pakyow config mailer encod
+
+deliveri method send mail
+config deliveri method sendmail
+
+deliveri option necessari deliveri method
+config deliveri option enabl starttl auto
+
+encod
+config encod
+
+pakyow
+configur
+autoload mailer mailer configur mailer
+
+base
+mailer
+configur mailer
+
+
+
+
+pakyow
+configur
+mailer
+
+attr accessor sender content type deliveri method deliveri option
+
+sender
+sender pakyow
+
+
+content type
+content type text html charset
+
+
+deliveri method
+deliveri method sendmail
+
+
+deliveri option
+deliveri option enabl starttl auto
+
+
+
+
+
+test applic pakyow applic
+configur test
+present view test view
+
+
+thi keep actual
+detect handler
+test handler
+
+
+test mailer pakyow mailer
+deliv
+deliv
+
+
+deliv recipi
+deliv
+deliv recipi
+
+
+rubygem
+test unit
+
+shoulda
+
+pakyow core pakyow core
+pakyow present pakyow present
+pakyow mailer pakyow mailer
+
+test mailer
+test applic
+support helper
+
+mailer test minitest test
+setup
+pakyow stage test
+
+
+test mailer properli initi
+mailer
+
+equal mail messag messag
+equal view view
+
+
+test set view set messag bodi
+mailer
+equal hello from pakyow mailer view text strip
+
+
+test subject
+subject
+
+mailer
+deliv bogu test subject
+
+equal subject messag subject
+
+
+test send recipi
+bogu test
+
+mailer
+deliv
+
+deliv
+
+
+test send multipl recipi
+bogus1 test bogus2 test
+
+mailer
+deliv
+
+
+deliv
+
+
+
+mailer
+test mailer store test messag pakyow present store
+
+
+pakyow defin
+configur test
+present view store test view
+
+
+thi keep actual
+detect handler
+test handler
+
+
+test mailer pakyow mailer
+deliv
+deliv
+
+
+deliv recipi
+deliv
+deliv recipi
+
+
+rubygem
+minitest
+minitest unit
+minitest autorun
+
+
+pakyow support pakyow support
+pakyow core pakyow core
+pakyow present pakyow present
+pakyow mailer pakyow mailer
+
+support test mailer
+support test applic
+rubygem
+pakyow core
+
+hello app pakyow applic
+rout
+
+respons bodi pakyow say hello
+
+
+
+
+hello app
+libdir file dirnam file
+load path unshift libdir load path libdir
+
+gem
+find
+rack
+rack file
+logger
+
+
+base
+core base
+pakyow
+pakyow
+app context
+attr reader request respons
+
+initi request respons
+request request
+respons respons
+
+
+
+pakyow
+
+respons object
+respons rack respons
+attr reader format
+
+statu code name
+continu
+switch protocol
+
+
+creat
+accept
+authorit inform
+content
+reset content
+partial content
+
+multipl choic
+move perman
+found
+other
+modifi
+proxi
+switch proxi
+temporari redirect
+
+request
+unauthor
+payment requir
+forbidden
+found
+method allow
+accept
+proxi authent requir
+request timeout
+conflict
+gone
+length requir
+precondit fail
+request entiti larg
+request long
+unsupport media type
+request rang satisfi
+expect fail
+teapot
+
+intern server error
+implement
+gateway
+servic unavail
+gateway timeout
+http version support
+variant also negoti
+insuffici storag
+loop detect
+bandwidth limit exceed
+extend
+network authent requir
+
+
+statu code lookup
+
+switch protocol
+
+
+creat
+accept
+authorit inform
+content
+reset content
+partial content
+
+multipl choic
+move perman
+found
+
+modifi
+proxi
+reserv
+temporari redirect
+
+request
+unauthor
+payment requir
+forbidden
+found
+method allow
+accept
+proxi authent requir
+request timeout
+conflict
+gone
+length requir
+precondit fail
+request entiti larg
+request
+unsupport media type
+request rang satisfi
+expect fail
+teapot
+
+intern server error
+implement
+gateway
+servic unavail
+gateway timeout
+http version support
+variant also negoti
+insuffici storag
+loop detect
+bandwidth exceed
+extend
+network authent requir
+
+
+initi arg
+
+
+content type text html
+format rack mime mime type type
+
+
+format format
+format format
+content type rack mime mime type format
+
+
+type
+content type
+
+
+
+pakyow
+rais context avail
+no context error standard error
+
+rais config object avail
+config error standard error
+
+rais rout look exist
+miss rout standard error
+
+rais templat part exist
+unknown templat part standard error
+
+error standard error
+
+
+pakyow
+method access anywher
+helper
+context
+context no context error
+
+
+logger
+request logger
+
+
+router
+rout lookup
+
+
+request
+context request
+
+method request
+
+respons
+context respons
+
+method respons
+
+param
+request param
+
+
+session
+request session
+
+
+cooki
+request cooki
+
+
+config
+pakyow config
+
+
+
+method access
+app helper
+
+pakyow
+rout eval
+rout merger
+
+attr reader path hook group rout handler lookup templat
+
+http method post patch delet
+default mixin rest
+
+
+default arg
+instanc arg
+
+mixin default
+default mixin mixin instanc pakyow rout mixin
+
+instanc
+
+
+scope rout arg
+path hook templat group
+valu rout instanc variabl
+arg valu
+
+
+arg
+
+
+
+initi path hook templat group
+path path
+
+hook hook
+templat templat
+group group
+
+rout http method inject
+lookup rout group
+handler
+
+
+path eval within
+
+descend path
+descend path path
+
+
+rout
+merg rout rout
+
+
+block
+instanc exec block
+
+
+creat retreiv name rout
+
+name block
+block given
+name block
+
+name
+
+
+
+creat handler
+
+handler arg block
+arg aargv normal arg name symbol code integ proc hook hash
+
+
+pass proc
+arg arg
+pass block
+block block given
+
+build
+build arg hook
+
+handler unshift arg name arg code
+
+
+group arg block
+name hook pars group arg arg
+
+evalu rout eval scope path descend path group name hook hook
+evalu block
+
+merg evalu
+
+
+arg block
+path name hook pars arg arg
+
+evalu rout eval scope path file join descend path path group name hook hook
+evalu block
+
+merg evalu
+
+
+templat arg block
+arg aargv normal arg name symbol hook hash
+templat arg name arg hook block
+
+
+expand name name arg block
+arg aargv normal arg path string hook hash
+path arg path
+hook arg hook
+templat templat name
+
+evalu rout expans eval scope path file join descend path path group name hook hook
+evalu direct path path
+evalu templat name templat
+evalu block
+
+merg evalu
+
+
+arg block
+build rout arg block
+
+
+http method method
+defin method method arg block
+build rout method arg block
+
+
+
+expans templat
+method miss method arg block
+templat defin method
+expand method arg block
+
+
+
+
+
+templat defin templat
+templat templat
+
+
+
+
+build rout method arg block
+arg aargv normal arg path string regex path regexp name symbol proc array hook hash
+
+path arg path arg regex path
+name arg name
+
+arg
+pass
+arg arg
+pass block
+block block given
+
+merg rout hook scope hook
+hook merg hook arg hook hook
+
+build
+build hook
+
+path regexp
+regex path
+var
+
+prepend scope path scope
+path file join path path
+path string normal path path
+
+regex var path
+regex var build rout matcher path
+
+
+regist rout regex var name path method
+
+
+regist rout rout
+rout rout rout
+
+group
+bucket lookup group group
+
+bucket lookup rout
+
+
+bucket rout rout
+
+
+build rout matcher path
+path path regexp
+
+check var
+path path path index
+
+var
+var
+regex rout path
+rout segment path split
+rout segment index segment
+segment
+segment gsub
+var posit
+regex rout regex rout segment
+
+
+regexp regex rout
+var
+
+
+group
+group
+
+
+build main hook
+hook normal hook hook
+
+concat hook around hook hook around
+concat hook hook hook
+concat main main
+concat hook hook hook
+concat hook around hook hook around
+
+
+
+
+pars arg arg
+
+arg
+hash hook
+
+symbol name
+
+path
+
+
+
+
+
+
+pars group arg arg
+
+arg
+hash hook
+
+name
+
+
+
+
+
+
+
+
+pakyow
+rout expans eval rout eval
+attr writer direct path
+
+block
+templat rout templat eval scope path path group group hook hook
+templat direct path direct path
+templat templat block
+
+path templat rout path
+
+
+
+instanc exec templat post process templat post process
+
+
+templat expans name templat
+expans name expans name
+templat block templat
+
+hook merg hook hook templat
+
+
+action method arg block
+hook pars action arg arg
+block block given
+
+rout info templat
+rout templat rout action method
+
+rout
+unshift
+
+hook merg hook hook hook
+rout build hook
+
+regist rout rout
+
+
+action group arg block
+name hook pars action group arg arg
+group templat group name name
+
+hook merg hook hook group
+group expans name hook block
+
+
+action arg block
+name hook pars action arg arg
+templat name name
+
+hook merg hook hook
+expans name hook block
+
+
+method miss method arg block
+templat action method
+action method arg block
+templat method
+action method arg block
+templat group method
+action group method arg block
+
+
+
+no method error
+unknown templat part action group name method
+
+
+expand arg block
+arg file join templat nest path gsub path arg
+arg block
+
+
+
+
+
+pars action arg arg
+
+arg
+hash hook
+
+proc
+
+
+
+
+
+
+pars action arg arg
+
+arg
+hash hook
+
+symbol name
+
+
+
+
+
+
+pars action group arg arg
+
+arg
+hash hook
+
+name
+
+
+
+
+
+
+
+
+pakyow
+
+handl look path name rout popul
+path data
+
+rout lookup
+helper
+
+path name data
+rout name rout name
+data popul rout data file join rout
+
+
+group name
+group name
+
+
+
+
+
+name rout name
+defin group
+router instanc rout name group
+
+router instanc rout name
+
+
+
+popul rout data
+var rout
+
+split path request split rout
+
+var
+split path posit data delet
+
+
+file join split path join
+
+
+
+forward
+
+pakyow
+includ defin rout mixin
+includ rout set
+rout
+includ base
+standard error pakyow rout intend includ modul base class
+
+base extend class method
+base instanc variabl rout rout eval
+
+
+class method
+attr reader rout
+extend forward
+deleg rout post delet
+handler group templat action expand
+
+
+
+pakyow
+rout templat eval rout eval
+attr accessor direct path
+
+initi arg
+
+
+group
+namespac
+
+rout path path
+nest path path
+
+
+action name
+rout action name
+
+
+group name
+group name name
+
+
+name
+name name
+
+
+rout action name
+lookup fetch group fetch group name
+
+
+name name
+namespac name
+
+
+group name name
+group name
+
+
+build hook
+
+
+hook hook
+
+
+
+arg
+path name hook pars arg arg
+namespac name path hook
+
+
+group arg
+name hook pars group arg arg
+group name hook
+
+
+rout path block
+rout path block given
+rout path rout path
+path rout path
+
+
+nest path block
+nest path block given
+nest path nest path
+
+
+post process block
+post process block given
+post process block
+
+
+
+core helper
+core multilog
+core context
+core request
+core respons
+core loader
+core router
+core rout merger
+core rout
+core rout
+core rout
+core rout expans
+core rout templat
+core rout templat default
+core rout lookup
+core
+core error
+core config
+core config
+core config server
+core config cooki
+core config logger
+
+middlewar
+core middlewar logger
+core middlewar
+core middlewar reload
+
+pakyow
+attr accessor logger
+
+configur logger
+log
+
+file directori config logger path
+path file join config logger path config logger filenam
+
+
+file open path
+sync config logger sync
+
+log
+standard error
+warn error open path write
+
+
+
+log stdout config output
+
+log count multi log log log
+
+pakyow logger logger config logger level config logger color config logger auto flush
+
+
+pakyow
+rout merger
+
+
+merg rout
+merg rout
+merg rout rout rout
+merg handler rout handler
+merg lookup rout lookup
+merg templat rout templat
+
+
+merg
+merg
+
+
+merg rout rout
+rout concat rout
+rout concat rout
+rout patch concat rout patch
+rout post concat rout post
+rout delet concat rout delet
+
+
+merg handler handler
+handler concat handler
+
+
+merg lookup lookup
+lookup rout merg lookup rout
+lookup group deep merg lookup group
+
+
+merg templat templat
+templat merg templat
+
+
+todo accept arg
+merg hook
+normal
+normal hook
+normal hook
+
+merg
+concat
+concat
+around concat around
+
+
+
+
+copi hook hook
+
+hook
+hook
+around hook around
+
+
+
+normal hook hook
+hook
+
+around type
+forc
+hook type array hook type
+
+lookup hook alreadi proc
+hook type hook type hook
+hook symbol hook hook
+
+
+
+hook
+
+
+
+pakyow
+rout set
+rout merger
+
+attr reader rout lookup
+
+initi
+rout post patch delet
+lookup rout group
+handler
+
+templat
+
+
+block
+evalu rout eval default
+evalu block
+merg evalu
+
+
+return rout tupl
+regex var name path
+
+match path method
+path string normal path path
+
+want request still know head match
+method method
+method method head
+
+rout method
+todo without condit fall
+
+regexp
+data match path
+data
+
+string
+path
+
+
+
+
+
+
+
+
+handl name code
+handler
+name code name code
+
+
+todo error
+
+
+
+name base rout lookup
+rout name group
+lookup rout name group
+
+group rout lookup group group
+group rout name
+
+todo error perhap specif except rescu router
+
+
+
+name base lookup
+name
+name
+
+
+
+
+pakyow
+multi log
+initi target
+target target
+
+
+write arg
+target write arg
+
+
+close
+target close
+
+
+flush
+target flush
+
+
+
+pakyow
+
+
+attr reader path
+
+prepar stage environ
+load config middlewar set load path
+
+prepar env
+prepar
+
+load config environ
+load config env
+
+load block middlewar stack
+load middlewar
+
+load path
+unshift
+
+prepar
+
+
+stage prepar return instanc thi
+essenti everyth run
+
+stage env
+stage
+prepar env
+stage
+
+
+
+
+
+run stage
+
+env
+run
+
+run
+builder stage env
+detect handler builder host config server host port config server port server
+trap stop server
+trap term stop server
+
+
+
+defin
+
+defin block
+set path file reload later
+path string pars path caller caller
+instanc block
+
+
+defin rout
+
+rout name main block
+name block
+rout name block
+
+rout
+
+
+
+accept block ad middlewar stack
+
+middlewar block
+middlewar block
+
+
+creat environ
+
+configur block
+config block
+
+
+fetch stack name
+
+stack name
+stack name
+
+
+add block stack stack name
+
+stack name block
+stack stack name block
+
+
+add block stack stack name
+
+stack name block
+stack stack name block
+
+
+builder
+builder rack builder
+
+
+prepar
+prepar
+
+
+return applic run
+
+run
+run
+
+
+return applic stage
+
+stage
+stage
+
+
+conveni method base configur
+
+config
+pakyow config
+
+
+reset
+prepar
+stage
+run
+
+rout
+config
+middlewar
+
+stack
+init load process rout match error name
+stack name
+stack name
+
+
+
+load config env
+env array env
+env env env first config environ env
+
+config load env env
+config env first
+
+specif config first
+env
+config proc config
+config config config proc
+
+
+config
+proc config
+config config proc
+
+
+
+
+
+load middlewar
+middlewar
+instanc exec builder
+
+
+builder rack method overrid
+builder middlewar static config
+builder middlewar logger config
+builder middlewar reload config auto reload
+
+
+detect handler
+handler puma thin mongrel webrick
+handler unshift config server handler config server handler
+
+handler handler
+
+rack handler handler
+load error
+name error
+
+
+
+
+stop server
+server respond stop
+server stop
+server respond stop
+server stop
+
+ungrac necessari
+process
+
+
+
+
+helper
+app helper
+
+attr writer context
+
+initi
+pakyow
+pakyow configur logger
+
+call stack init
+
+want load boot
+auto reload everi request
+load config auto reload
+
+call stack init
+
+
+return primari first load
+
+
+config
+
+
+
+
+
+
+call
+process
+
+
+call everi request
+
+process
+call stack process
+
+request
+respons
+
+respons format base request
+format format
+
+context app context
+
+initi cooki
+
+found
+halt
+call stack rout
+
+found router perform context
+call stack match
+
+
+call stack rout
+
+found
+handl
+
+config error browser
+respons content type text html
+
+view file file join file expand path file view error html
+content file open view file read
+
+path string normal path request path
+path path
+
+content gsub view path path index html path html
+content gsub rout path path
+
+respons bodi
+respons bodi content
+
+
+
+
+cooki
+
+call stack process
+
+respons finish
+standard error error
+call stack error
+
+request error error
+
+handl found
+
+config error browser
+respons content type text html
+
+view file file join file expand path file view error html
+content file open view file read
+
+path string normal path request path
+path path
+
+nice sourc error backtrac match
+
+content gsub file nice sourc gsub file expand path config root
+content gsub line nice sourc
+
+content gsub escap html error
+content gsub trace error backtrac escap html join
+
+respons bodi
+respons bodi content
+
+
+call stack error
+
+respons finish
+
+
+found
+found
+
+
+thi useless method part extern
+reload
+reload file
+load config path
+
+reset config
+env config load env
+config reset
+
+reload config
+load config env
+
+load
+
+
+action
+
+interrupt applic return respons immedi
+
+halt
+halt respons
+
+
+rout request differ logic
+
+rerout locat method
+locat router instanc path locat
+request setup locat method
+
+call stack rout
+call stack match
+router rerout request
+call stack rout
+
+
+send data respons immedi accept string data file
+mime type auto detect default octet stream option file name
+
+file mime type guess otherwis mime type file name
+whatev respons
+
+send file data type send
+file data file
+data file data read
+
+auto type base file type
+type rack mime mime type string split last file data path
+
+data file data
+
+
+header
+header content type type type
+header content disposit attach filenam send send
+
+context app context request respons data respons statu respons header merg header
+halt
+
+
+redirect locat immedi
+
+redirect locat statu code
+locat router instanc path locat
+
+header respons respons header
+header header merg locat locat
+
+context app context request respons statu code header
+halt
+
+
+handl name code logic
+call stack rout
+router handl name code logic
+call stack rout
+
+
+conveni method defin rout instanc
+
+rout name main block
+rout name block
+load rout
+
+
+
+
+call stack stack
+stack stack block
+instanc exec block
+
+
+
+reload applic file path present specifi
+
+load
+call stack load
+
+load file
+loader loader
+loader load path config
+
+load rout
+load rout
+
+call stack load
+
+
+load rout
+router router instanc reset
+rout pair name block
+router name block
+config ignor rout
+
+
+cooki
+request cooki pair
+respons cooki
+
+cooki alreadi valu ignor
+initi cooki initi cooki
+
+cooki default
+respons cooki
+path config cooki path
+expir config cooki expir
+valu
+
+
+
+delet cooki longer present
+initi cooki
+respons delet cooki request cooki
+
+
+
+store cooki begin request cycl
+comparison cycl
+initi cooki
+initi cooki
+request cooki
+initi cooki
+
+
+
+
+
+reset
+
+pakyow
+rout
+rest
+pakyow rout
+
+templat rest
+resourc group
+
+nest path path file join path resourc
+view path nest path gsub split reject join
+
+reset view path
+present path file join view path show present
+
+
+
+
+show resourc reset view path
+
+post creat
+
+edit resourc edit
+patch updat resourc
+replac resourc
+delet remov resourc
+
+group collect
+member resourc
+
+post process
+show rout weird move rout avoid conflict
+show index rout find index rout rout show
+rout rout delet show index
+
+
+
+
+
+
+
+singleton
+
+pakyow
+singleton manag rout set
+
+router
+singleton
+
+attr reader set
+
+initi
+set
+
+
+todo want set
+reset
+set
+
+
+
+creat
+
+name block
+set name rout set
+set name block
+
+
+iter rout set return first match rout
+
+rout name group
+set
+rout name group
+
+
+
+
+miss rout could find rout name
+
+
+perform initi rout request
+
+perform context pakyow match
+match context request
+match call block given
+
+trampolin
+
+
+rerout request
+
+rerout request
+match request
+
+
+find invok handler name statu code
+
+handl name code pakyow logic
+respons statu name code name code integ
+
+set
+handl name code
+respons statu
+logic trampolin
+
+
+
+
+
+look popul path data
+
+path name path data
+name path string
+name path
+name path hash
+rout lookup group name path key path name path valu data
+
+rout lookup path name path data
+
+
+
+look rout group
+
+group name
+rout lookup group name
+
+
+call defin
+
+name
+set
+name
+
+call
+
+instanc exec
+
+
+
+
+
+
+
+
+
+call rout function order share context
+
+call
+instanc exec
+
+
+find first match rout request path method
+return rout function rout
+
+match request
+path string normal path request path
+method request method
+
+match data
+set
+match data match path method
+match
+
+
+
+match
+match
+
+handl rout param
+todo
+request param merg hash strhash data path path data match
+
+todo
+request rout path match
+
+
+
+
+
+call rout function catch function
+thrown rerout
+
+trampolin
+rout
+
+
+call
+
+get mean call return normal
+fall
+block
+
+rerout invok handler call block block valu block
+neither call block fall
+
+rout
+
+fall
+
+
+
+rout
+
+
+extract data path
+
+data path path match var
+data
+data match
+
+match name
+data match
+
+
+data
+
+
+
+json
+
+pakyow
+
+request object
+request rack request
+attr accessor rest rout path control action format
+error path method path method format
+
+initi arg
+
+
+path
+method
+format
+
+path path info
+method request method downcas
+
+setup
+
+
+path path
+path path
+path path
+
+
+method method
+method method
+method method
+
+
+format format
+format format format html
+format format
+format format
+
+
+first path
+path
+
+
+first method
+method
+
+
+first format
+format
+
+
+session
+rack session
+
+
+cooki
+cooki hash strhash
+
+
+return indiffer param hash util strhash info indiffer hash
+param
+param hash strhash merg pakyow data merg json pars bodi read
+json json error
+param hash strhash
+
+
+return compon
+path part
+path split path
+
+
+refer
+refer http refer
+
+
+return refer compon
+refer part
+refer part refer split refer
+
+
+setup path path method
+request format path path
+work path path path method
+
+
+todo move util
+split
+
+split
+
+
+
+
+
+
+rout var
+rout path
+rout path regexp
+rout path index
+
+
+
+
+work path path path method
+base rout ignor format string split last path
+
+path base rout
+method method method
+
+
+request format path path
+path format string split last path
+format format format format length format format length format
+
+
+
+pakyow
+handl load reload pakyow applic develop
+mode file automat reload modifi
+loader
+
+load file provid path decend child directori
+load path path
+recurs path
+
+
+
+
+recurs
+time
+file exist
+walk path
+file test directori path
+path split
+
+config auto reload
+time path time path file mtime path time path
+load path
+time path file mtime path
+
+
+path
+
+
+
+
+
+
+pakyow
+config
+
+attr accessor
+
+
+regist name
+config pakyow config name
+config default
+
+config
+config name config
+
+instanc
+defin method name config name
+
+
+config
+
+
+deregist name
+config delet name
+
+
+reset
+config valu reset
+
+
+config block
+instanc block
+
+
+attr reader config name
+
+initi name config
+config name name
+opt
+env
+config config
+
+
+default
+config defin default default
+default pakyow config config name default config
+
+
+name
+config pakyow config config name name
+config
+
+env name config
+
+
+
+clear name
+env delet name
+
+
+valu name arg
+valu opt fetch name config error config valu avail config name name
+valu instanc exec arg valu valu proc
+valu
+
+
+name
+context default default
+context instanc variabl opt name
+
+
+reset
+opt
+
+
+method miss method arg
+method
+opt arg
+
+config
+config env config env config
+config default default
+
+config config
+
+config valu method arg
+config error
+
+
+
+config error config valu avail config name method
+
+
+
+
+pakyow config regist cooki config
+config path
+config expir time
+
+pakyow config regist server config
+
+port start pakyow server
+config port 3000
+
+host start pakyow server
+config host
+
+explicitli handler puma
+config handler
+
+
+pakyow config regist config
+
+reload everi request
+config auto reload
+
+error display browser
+config error browser
+
+locat root directori
+config root file dirnam
+
+locat resourc
+config resourc
+resourc
+file join root
+
+
+
+locat sourc code
+config file join root
+
+environ provid
+config environ develop
+
+action rout
+config action index
+
+rout ignor
+config ignor rout
+
+view visibl without rout defin
+config view visibl
+
+whether pakyow stdout
+config output
+
+whether pakyow write
+config
+
+whether pakyow serv file
+config
+
+store path definit
+config path pakyow path
+
+store env
+config load env
+
+develop opt
+
+opt auto reload
+opt error browser
+opt
+
+stage opt
+
+opt auto reload
+opt error browser
+opt output
+opt
+
+product opt
+
+opt auto reload
+opt error browser
+opt output
+opt
+
+
+pakyow config regist logger config
+
+level
+config level debug
+
+file place
+config path file join pakyow config root
+
+name file
+config filenam pakyow
+
+whether file sync
+config sync
+
+whether file flush automat
+config auto flush
+
+whether file color
+config color
+
+develop opt
+
+opt sync
+opt auto flush
+opt color
+
+stage opt
+
+opt sync
+opt auto flush
+opt color
+
+product opt
+
+opt sync
+opt auto flush
+opt color
+
+
+pakyow
+middlewar
+static
+initi
+
+
+
+call
+resourc path
+
+
+halt
+pakyow
+respons
+request
+context app context
+send file open resourc path
+
+
+call
+
+
+
+
+
+
+path info
+
+config resourc pair name path
+resourc path file join path path info
+file exist resourc path
+resourc path
+
+
+
+
+
+
+
+
+pakyow
+middlewar
+reload
+initi
+
+
+
+call
+pakyow reload
+call
+
+
+
+
+pakyow
+logger
+level
+debug
+info
+warn
+error
+fatal
+unknown
+
+
+level color
+debug cyan
+info green
+warn yellow
+error
+fatal
+unknown
+
+
+color tabl
+black
+
+green
+yellow
+blue
+magenta
+cyan
+white
+
+
+reset
+color
+bold
+
+initi stdout level format auto flush
+level level level level symbol
+level format auto flush level format auto flush
+mutex mutex
+
+
+sever unknown
+
+
+
+format sever format
+mutex synchron
+write
+flush auto flush
+
+
+
+write
+
+sever
+sever level unknown
+sever level
+
+write sever
+
+
+
+
+debug
+level debug
+
+
+info
+level info
+
+
+warn
+level warn
+
+
+error
+level error
+
+
+fatal
+level fatal
+
+
+format level
+color level color level
+color color tabl index color reset
+
+
+level color level
+level color level level
+
+
+close
+close
+
+
+
+
+
+pakyow
+middlewar
+logger
+handl log error occur
+pakyow error
+error request error
+pakyow logger error error error backtrac join
+
+
+initi
+
+
+
+call
+rack logger pakyow logger
+
+result
+differ time began
+pakyow logger request method request remot addr began
+result call
+
+
+statu result
+pakyow logger statu nice statu statu differ
+
+result
+
+
+time
+time
+
+time time 1000
+time round
+
+
+nice statu statu
+pakyow respons statu code name statu
+
+
+
+
+test present pakyow present base
+load
+
+
+pakyow defin
+configur
+config execut
+overwrit config
+
+
+configur test
+overwrit config
+file join test support loader
+
+
+
+rout redirect
+redirect rout redirect
+
+
+
+
+pakyow
+attr accessor handler
+
+thi keep actual
+detect handler
+test handler
+
+
+reset
+pakyow
+pakyow config reset
+
+prepar
+run
+stage
+
+rout proc
+statu proc
+
+
+
+
+
+test handler
+arg
+
+
+rubygem
+minitest
+minitest unit
+minitest autorun
+
+
+file join file dirnam file pakyow support pakyow support
+file join file dirnam file pakyow core
+
+rel
+rel mock router
+test handler
+test model
+test present
+test control
+string util test
+rout block evalu
+
+req re helper
+mock request path method header
+opt
+path info path
+request method method upcas
+rack input string io
+merg header
+
+pakyow request opt
+
+pakyow request path info path request method http refer rack input
+path path
+method
+pakyow
+setup
+
+
+
+mock respons
+pakyow respons
+
+
+mock router
+attr reader rerout handl
+
+rerout arg
+rerout
+
+
+handl arg
+handl
+
+
+thi use loader test test reload object
+reload
+
+support helper
+
+pakyow
+test
+respons test minitest test
+test rack respons
+rack respons pakyow respons superclass
+
+
+
+
+support helper
+
+pakyow
+test
+router test minitest test
+attr accessor regist
+attr accessor call
+
+req re helper
+
+setup
+call
+pakyow stage test
+pakyow context app context mock request mock respons
+pakyow reload
+
+
+test router singleton
+router instanc router instanc
+
+
+test rout set regist
+test
+router instanc test
+test regist
+
+
+regist
+
+
+test rout look name
+router instanc test
+
+
+
+router instanc rout
+rais miss rout router instanc rout
+
+
+test rout call order
+test
+router instanc test
+
+test call
+
+
+
+test call
+
+
+three
+test call
+
+
+three
+
+
+router instanc perform app context mock request
+equal call
+
+
+test request rerout
+test
+router instanc test
+
+rerout
+
+
+
+test call rerout
+
+
+
+router instanc perform app context mock request
+equal rerout call
+
+
+test request rerout method
+test
+router instanc test
+
+rerout
+
+
+
+test call rerout
+
+
+
+router instanc perform app context mock request
+equal rerout call
+
+
+test handler call router
+test
+router instanc test
+
+handl
+
+
+handler
+test call handl
+
+
+
+respons
+pakyow context app context
+router instanc perform app context mock request
+
+equal handl call
+equal statu
+
+
+
+
+
+support helper
+
+pakyow
+test
+loader test minitest test
+setup
+loader pakyow loader
+loader load path path
+
+
+test recurs load file
+object defin reload
+
+
+test tell time
+pakyow config auto reload
+
+time loader time
+touch file join path reload
+loader load path path
+
+time first
+loader time first
+
+
+
+
+path
+file join test support loader
+
+
+
+pakyow loader
+attr accessor time
+
+
+
+support helper
+
+pakyow
+test
+applic test minitest test
+test applic path inherit
+pakyow config path test path
+
+
+test applic run
+test
+equal run
+
+
+test stage run
+test
+stage
+
+
+test applic stage
+stage test
+equal run
+
+
+test detect stage applic
+stage test
+equal stage
+
+
+test base config return
+equal pakyow config config
+
+
+test initi
+env test
+stage env
+equal env first pakyow
+
+
+test initi
+
+pakyow
+test
+equal pakyow pakyow
+
+
+test configur block execut
+equal config execut
+
+
+test config superced
+equal overwrit config
+
+
+test config load middlewar
+
+
+valu
+middlewar
+valu config
+
+
+stage test
+
+equal valu
+
+
+test multipl middlewar load
+
+
+value1
+middlewar
+value1 config
+
+
+value2
+middlewar
+value2 config
+
+
+stage test
+
+equal value1
+equal value2
+
+
+test builder yield middlewar
+
+
+builder
+middlewar
+builder
+
+
+stage test
+
+instanc rack builder builder
+
+
+
+
+reset
+reset
+pakyow reset
+
+
+pakyow
+
+
+test path
+file join test support
+
+
+
+
+
+support helper
+
+pakyow
+test
+request test minitest test
+req re helper
+
+setup
+request mock request http refer
+
+
+test rack request
+rack request pakyow request superclass
+
+
+test path call path info
+equal request path request path info
+
+
+test method proper format
+equal request method
+
+
+test split
+equal request path part length
+equal request path part
+
+
+test refer split
+equal request refer part length
+equal request refer part
+
+
+test pars json bodi
+request instanc variabl
+rack input string io hello goodby
+request instanc variabl
+equal goodby request param hello
+
+
+test handl json
+request instanc variabl
+rack input string io hello goodby
+request instanc variabl
+equal request param hello
+
+
+
+
+support helper
+
+stringio
+
+pakyow
+test
+log test minitest test
+setup
+pakyow config logger color
+text
+
+
+teardown
+file util file file exist file
+
+
+test consol
+stdout
+stdout string io
+pakyow configur logger
+pakyow logger text
+
+equal text strip stdout string strip
+
+stdout
+
+
+test file
+pakyow config logger path path
+pakyow config logger auto flush
+pakyow configur logger
+pakyow logger text
+
+file exist file
+equal text strip file file read strip
+
+
+
+
+file
+file join path pakyow
+
+
+path
+file join test
+
+
+
+
+support helper
+
+pakyow
+test
+helper test minitest test
+pakyow helper
+req re helper
+
+setup
+pakyow stage test
+pakyow context app context mock request mock respons
+
+
+test return
+pakyow pakyow
+
+
+test request return
+test
+pakyow context app context
+pakyow request
+pakyow
+
+
+test respons return
+test
+pakyow context app context
+pakyow respons
+pakyow
+
+
+test router lookup return
+pakyow router pakyow rout lookup
+
+
+test param return
+pakyow context app context mock request
+pakyow param pakyow param
+
+
+test session return
+pakyow context app context mock request
+equal pakyow session pakyow request session
+
+
+test cooki return
+pakyow context app context mock request
+pakyow cooki pakyow cooki
+
+
+test helper includ
+pakyow ancestor pakyow app helper
+
+
+
+
+rel support helper
+
+pakyow
+test
+rest rout test minitest test
+req re helper
+
+setup
+pakyow stage test
+pakyow context app context mock request mock respons
+
+
+test action support
+rout set
+
+
+
+rest test test
+creat edit updat replac show remov
+send
+
+
+
+
+rout tupl match match test path test name
+rout tupl match match test path test name
+rout tupl match match test post path test name creat
+rout tupl match match test edit path test test edit name edit
+rout tupl match match test patch path test test name updat
+rout tupl match match test path test test name replac
+rout tupl match match test path test test name show
+rout tupl match match test delet path test test name remov
+
+
+test rout defin pass action
+rout set
+
+
+
+rest test test
+action
+
+
+
+rout tupl match match test path test name
+match test post
+
+
+test member rout
+rout set
+
+
+
+rest test test
+member
+
+
+
+
+
+rout tupl match match test path test test
+
+
+test collect rout
+rout set
+
+
+
+rest test test
+collect
+
+
+
+
+
+rout tupl match match test path test
+
+
+test collect rout show first
+rout set
+
+
+
+rest test test
+show
+
+collect
+
+
+
+
+
+rout tupl match match test path test
+
+
+test collect rout show last
+rout set
+
+
+
+rest test test
+collect
+
+
+
+show
+
+
+
+rout tupl match match test path test
+
+
+test nest resourc
+rout set
+
+
+
+rest test test
+rest nest nest
+action
+
+
+
+
+rout tupl match match test nest path test test nest
+
+
+test show view path
+skip
+
+
+test show conflict
+rout set
+
+
+
+rest test test
+action show
+action
+
+
+
+rout tupl match match test path test
+
+
+
+
+todo move helper dupe test
+rout tupl opt
+match opt match
+
+match rout found
+match
+
+match match
+equal opt regex match mismatch regex opt regex
+equal opt var match mismatch var opt var
+equal opt name match mismatch name opt name
+equal opt match mismatch opt
+equal opt path match mismatch path opt path
+
+
+
+
+
+
+support helper
+
+pakyow
+test
+test class
+
+test fn
+pakyow rout
+
+
+mock eval
+initi
+call
+
+
+method miss name arg
+call name
+
+
+call
+call
+
+
+
+rout mixin test minitest test
+setup
+pakyow stage test
+
+
+test error includ
+rais standard error
+test class instanc exec pakyow rout
+
+
+
+test call forward rout
+origin test fn instanc variabl rout
+
+mock eval
+test fn instanc variabl rout
+
+post delet handler group templat action expand call
+test fn send call
+call call call call
+
+
+test fn instanc variabl rout origin
+
+
+test rout modul includ
+
+
+
+
+test fn
+
+pakyow rout test
+test fn
+pakyow rout rest
+
+
+pakyow reload
+
+pakyow router instanc set test
+
+
+
+
+rel support helper
+
+pakyow
+test
+rout set test minitest test
+req re helper
+
+setup
+pakyow stage test
+pakyow context app context mock request mock respons
+
+
+test regist fetchabl
+rout eval
+
+
+
+
+
+
+
+
+
+
+
+
+
+test rout creat match
+rout set
+
+
+
+
+
+
+
+rout tupl match
+
+
+test rout creat match
+rout set
+
+
+
+
+
+
+
+
+
+rout tupl match
+
+
+post post
+
+rout tupl match post post post post
+
+
+
+
+rout tupl match
+
+
+delet delet
+
+rout tupl match delet delet delet delet
+
+
+test head match
+rout set
+
+
+
+
+
+
+rout tupl match head
+
+
+test pass rout
+rout set
+
+
+
+
+
+
+
+
+match
+
+
+test rout defin without
+rout set
+
+
+
+
+
+match
+
+
+test singl passabl rout
+rout set
+
+
+
+
+
+
+test key rout match
+rout set
+
+
+
+
+
+match
+match post
+match
+match
+
+rout set
+
+
+
+
+
+match
+match post
+match
+match
+
+
+test rout var extract avail request
+router instanc
+test
+
+
+
+data
+context app context mock request data
+router instanc perform context
+equal data context request param
+
+
+
+test regexp name captur extract avail request
+router instanc
+test
+
+
+
+data
+context app context mock request data
+router instanc perform context
+equal data context request param
+
+
+
+test rout referenc name
+rout set
+
+
+
+
+
+rout
+rout
+
+
+test rout name first
+rout set
+
+
+
+
+
+rout
+rout
+
+
+test handler regist match
+rout set
+
+name
+code
+
+
+
+handler
+
+
+handler tupl handl name name code
+handler tupl handl code name code
+handl
+handl
+
+
+test hook ad rout
+rout set
+
+
+
+
+
+
+
+
+
+
+
+
+
+match
+
+
+
+
+match
+
+
+
+
+
+test hook ad rout name
+rout set
+
+
+
+
+
+
+
+
+
+
+
+
+match
+
+
+
+
+
+test hook ad handler
+rout set
+
+
+
+
+
+
+
+
+
+handler
+handler
+
+
+handl
+
+
+
+
+handl
+
+
+
+
+
+test hook ad handler name
+rout set
+
+
+
+
+
+
+
+
+
+handler
+
+
+handl
+
+
+
+
+
+test group rout match
+rout set
+
+group test group
+
+
+
+
+match
+
+
+test group rout inherit hook
+rout set
+
+
+
+
+
+
+
+
+
+
+group test group
+
+
+
+
+match
+
+
+
+
+
+test namespac rout match
+rout set
+
+
+test
+
+
+
+
+match
+match
+
+
+test namespac name first
+rout set
+
+
+test
+
+
+
+
+match
+match
+
+
+test namespac rout inherit hook
+rout set
+
+
+
+
+
+
+
+
+
+
+test
+
+
+
+
+match
+
+
+
+
+
+test rout templat defin expand
+rout set
+
+
+
+
+templat test templat
+root
+
+
+expand test templat test expans
+action root
+
+
+
+match
+
+
+test rout templat expand dynam
+rout set
+
+
+
+
+templat test templat
+root
+
+
+test templat test expans
+root
+
+
+
+match
+
+
+test rout templat defin hook action
+rout set
+
+
+
+
+
+
+templat test templat
+root
+
+
+test templat test expans
+root
+
+
+
+match
+
+
+hook defin expans prioriti
+
+
+
+test rout templat defin group
+rout set
+
+
+templat test templat
+group group
+
+
+test templat test expans
+group
+group
+
+
+
+
+match group
+
+
+test rout templat group handl hook
+rout set
+
+
+
+
+
+
+templat test templat
+group group
+
+
+test templat test expans
+group
+group
+
+
+
+
+match group
+
+
+hook defin expans prioriti
+
+
+
+test rout templat defin namespac
+rout set
+
+
+templat test templat
+
+
+
+test templat test expans
+
+namespac
+
+
+
+
+match namespac
+
+
+test rout templat namespac handl hook
+rout set
+
+
+
+
+
+
+templat test templat
+
+
+
+test templat test expans
+
+namespac
+
+
+
+
+match namespac
+
+
+hook defin expans prioriti
+
+
+
+test rout defin templat expans
+rout set
+
+
+
+
+templat test templat
+
+
+expand test templat test expans
+
+
+
+
+match
+
+
+test templatecept
+rout set
+
+
+
+
+
+templat test templat
+root
+
+
+expand test templat test expans
+root
+
+expand test templat nest expans
+root
+
+
+
+
+match
+match
+
+
+test rout path overridden
+rout set
+
+
+
+
+
+templat test templat
+rout path path file join path
+
+root
+
+
+expand test templat test expans
+
+root
+
+
+
+match
+match
+
+
+test nest path overridden
+rout set
+
+
+
+
+templat test templat
+nest path path file join path nest
+
+root
+
+
+expand test templat test expans
+expand test templat nest expans
+root
+
+
+
+
+match nest
+
+
+test templat expand without name
+rout set
+
+
+
+
+templat test templat
+
+
+expand test templat
+
+
+
+
+match
+
+
+test hook defin templat use
+rout set
+
+
+
+
+
+templat test templat
+
+
+expand test templat
+
+
+
+
+match
+
+
+
+
+
+test nest group inherit hook
+rout set
+
+
+
+
+
+group first group
+group second group
+
+
+
+
+
+match
+
+
+
+
+
+
+
+rout tupl match data
+match rout found
+match
+
+match match
+equal data match mismatch regex
+equal data match mismatch var
+equal data match mismatch name
+equal data match mismatch
+equal data match mismatch path
+
+
+handler tupl match data
+match handler found
+match
+
+equal data match mismatch name
+equal data match mismatch code
+equal data match mismatch
+
+
+
+
+
+support helper
+
+pakyow
+test
+rout lookup test minitest test
+req re helper
+
+setup
+pakyow stage test
+pakyow context app context mock request mock respons
+
+
+test path name rout
+router instanc
+test
+
+
+
+equal rout lookup path
+
+
+test path popul
+router instanc
+test
+foo1
+foo2
+
+
+equal rout lookup path foo1
+equal rout lookup path foo2
+
+
+test group rout look name group
+router instanc
+test
+group
+
+
+
+
+equal rout lookup group path
+
+
+test namespac rout look name group
+router instanc
+test
+
+
+
+
+
+equal rout lookup group path
+
+namespac rout avail group
+rais miss rout
+rout lookup path
+
+
+
+test error look invalid path
+rais miss rout
+rout lookup path miss
+
+
+
+
+test templat rout avail expans name
+router instanc
+test
+rest test test
+
+
+member
+
+
+
+collect
+
+
+
+
+
+equal test rout lookup group test path
+equal test rout lookup group test path test
+equal test rout lookup group test path
+
+
+
+
+
+support helper
+
+pakyow
+attr writer router
+
+
+pakyow
+test
+app action minitest test
+pakyow helper
+req re helper
+
+test applic halt
+reset
+
+
+pakyow halt
+
+halt
+
+
+equal halt
+
+
+test applic redirect
+reset
+locat
+
+pakyow redirect locat
+
+
+
+equal pakyow respons statu
+equal locat pakyow respons header locat
+
+
+test applic redirect issu rout lookup
+reset
+
+
+pakyow redirect redirect rout
+
+
+
+equal pakyow respons statu
+equal redirect pakyow respons header locat
+
+
+test applic redirect respect statu
+reset
+locat
+
+pakyow redirect locat
+
+
+
+equal pakyow respons statu
+equal locat pakyow respons header locat
+
+
+test applic redirect halt
+reset
+
+
+pakyow redirect
+
+halt
+
+
+equal halt
+
+
+test applic rerout path
+reset
+
+path
+router mock router
+pakyow router router
+pakyow context app context mock request path mock respons
+pakyow rerout path
+
+equal pakyow request method
+equal path pakyow request path
+router rerout
+
+
+test applic rerout path method
+reset
+
+path
+method
+router mock router
+pakyow router router
+pakyow context app context mock request path mock respons
+pakyow rerout path method
+
+equal method pakyow request method
+equal path pakyow request path
+router rerout
+
+
+test applic handl
+reset
+
+router mock router
+pakyow router router
+pakyow handl
+
+router handl
+
+
+test data sent applic
+reset
+
+data
+
+halt
+pakyow send data
+
+
+equal data pakyow respons bodi
+equal text html pakyow respons header content type
+
+
+test data sent applic type
+reset
+
+data
+type text
+
+halt
+pakyow send data type
+
+
+equal data pakyow respons bodi
+equal type pakyow respons header content type
+
+
+test file sent applic
+reset
+
+path file join file dirnam file support
+
+data file open path read
+
+halt
+pakyow send file open path
+
+
+equal data pakyow respons bodi
+equal text plain pakyow respons header content type
+
+
+test file sent applic type
+reset
+pakyow context app context mock request mock respons
+
+type text plain
+path file join file dirnam file support
+
+data file open path read
+
+halt
+pakyow send file open path type
+
+
+equal data pakyow respons bodi
+equal type pakyow respons header content type
+
+
+test file sent applic type attach
+reset
+pakyow context app context mock request mock respons
+
+
+type text plain
+path file join file dirnam file support
+
+data file open path read
+
+halt
+pakyow send file open path type
+
+
+equal data pakyow respons bodi
+equal type pakyow respons header content type
+equal attach filenam pakyow respons header content disposit
+
+
+
+
+reset
+
+test
+pakyow context app context mock request mock respons
+
+
+reset
+reset
+pakyow reset
+
+
+pakyow
+
+
+test path
+file join test support
+
+
+
+
+support helper
+
+describ pakyow config
+
+pakyow config regist test config
+config
+config proc file join proc
+config proc file join proc
+
+
+
+
+pakyow config deregist test
+
+
+regist config
+expect pakyow config instanc variabl config test
+
+
+creat getter regist config
+expect pakyow config test instanc pakyow config
+
+
+deregist config
+pakyow config deregist test
+expect pakyow config instanc variabl config test
+
+
+set valu config option
+expect pakyow config test
+
+
+eval proc valu
+expect pakyow config test proc proc
+
+
+pass arg proc valu
+expect pakyow config test proc proc
+
+
+context specif valu
+
+pakyow config test test opt
+opt
+
+
+
+
+pakyow config test clear test
+
+
+give preced valu
+expect pakyow config test
+
+
+clear valu
+pakyow config test clear test
+expect pakyow config test
+
+
+
+context specif valu
+
+pakyow config config
+test
+
+
+
+
+pakyow config reset
+
+
+give preced valu
+expect pakyow config test
+
+
+reset valu
+pakyow config reset
+expect pakyow config test
+
+
+
+describ config option ad registr
+
+pakyow config test extern valu
+
+
+set config option
+expect pakyow config test extern valu
+
+
+protect valu reset
+pakyow config reset
+expect pakyow config test extern valu
+
+
+allow valu overridden
+pakyow config test extern value2
+expect pakyow config test extern value2
+
+
+
+rubygem
+rspec
+
+
+
+file expand path pakyow support pakyow support file
+file expand path pakyow core pakyow core file
+
+pakyow config test
+libdir file dirnam file
+load path unshift libdir load path libdir
+
+gem
+nokogiri
+
+base
+present base
+present
+
+present present
+present config present
+present helper
+present
+pakyow
+present
+nokogiri doc
+partial regex
+
+attr accessor scope
+
+breadth first
+queue
+queue
+node queue shift
+reject
+node
+queue concat node children
+
+
+
+
+path child
+path
+
+path child
+
+child ancestor
+sinc ancestor goe root stop level
+children
+
+path unshift children index child
+child
+
+
+path
+
+
+path within path child path parent path
+parent path index step
+step child path
+
+
+
+
+
+path path
+
+
+path
+path
+
+path
+child children
+child
+
+
+
+
+
+
+
+
+view path path
+view view path path
+view relat view
+
+workaround nokogiri jrubi http github sparklemot nokogiri issu 1060
+view document error
+
+view
+
+
+html
+html
+
+
+html
+
+titl titl
+
+
+titl first
+inner html nokogiri html fragment titl
+head first
+child nokogiri html fragment titl titl titl
+
+
+
+titl
+titl first
+inner text
+
+
+
+instanc alloc
+instanc
+instanc
+
+
+initi html
+html match html
+nokogiri html document pars html
+
+nokogiri html fragment html
+
+
+
+initi copi origin
+
+
+solv memori leak believ
+caus nokogiri like approach much
+sinc neg affect perform
+
+http gist github bryanp 2048ae4a38f94c9d97ef
+origin nokogiri html document fragment
+nokogiri html fragment origin html
+
+origin
+
+
+
+soft copi
+
+
+
+attribut name valu
+name valu
+
+
+attribut name
+name
+
+
+remov attribut name
+remov attribut name
+
+
+updat attribut name valu
+nokogiri element children count
+children first name valu
+
+attribut name valu
+
+
+
+remov
+parent
+best remov children
+children remov
+
+remov
+
+
+
+clear
+blank
+inner html
+
+
+text
+inner text
+
+
+text text
+content text
+
+
+html
+inner html
+
+
+html html
+inner html nokogiri html fragment html
+
+
+append append
+content append nokogiri doc append append
+child content
+
+
+prepend prepend
+content prepend nokogiri doc prepend prepend
+first child children first
+first child previou sibl content
+
+content
+
+
+
+insert
+content insert nokogiri doc insert insert
+content
+
+
+insert
+content insert nokogiri doc insert insert
+content
+
+
+replac replac
+content replac nokogiri doc replac replac
+
+parent
+children remov
+inner html content
+
+replac content
+
+
+
+scope name
+scope select scope name
+
+
+prop scope name prop name
+scope scope select scope scope name
+scope prop select prop prop name
+
+
+contain name
+contain contain name
+contain
+
+
+scope
+find scope
+
+
+contain
+find contain
+
+
+partial
+find partial
+
+
+
+html html
+
+
+tagnam
+name
+
+
+option valu
+option valu valu first
+
+
+
+
+return hash describ scope
+find scope ignor root
+scope
+breadth first
+ignor root
+scope config present scope attribut
+
+scope
+nokogiri doc
+scope scope
+prop find prop
+
+
+
+root node need first hash
+scope want nest scope insid
+
+scope last nest
+
+scope last nest find scope
+reject children travers
+reject
+
+
+
+scope
+
+
+return hash contain name
+find contain
+contain
+
+travers
+nokogiri comment
+match text strip match contain
+name match
+
+contain name nokogiri doc
+
+
+contain
+
+
+find prop
+prop
+breadth first
+deeper scope
+reject config present scope attribut
+
+prop config present prop attribut
+prop prop prop nokogiri doc
+
+
+prop
+
+
+find partial
+partial
+
+travers
+nokogiri comment
+match html strip match partial regex
+
+name match
+partial name nokogiri doc
+
+
+partial
+
+
+
+
+
+pakyow
+present
+binder set
+attr reader scope
+
+initi block
+scope
+option
+config
+
+instanc exec block
+
+
+scope name block
+scope scope eval
+bind option config scope block
+
+scope name bind
+option name option
+config name config
+
+
+match prop prop scope bindabl bind
+bind scope scope bind prop
+
+
+option prop scope prop bindabl context
+block option scope prop
+bind bind eval prop bindabl context
+valu bind instanc exec bind valu bindabl context block
+valu unshift config scope prop
+valu
+
+
+
+prop scope prop bind
+bind scope scope bind prop
+
+
+bind scope scope bind
+merg pass bind bind
+scope scope merg bind
+
+
+
+scope eval
+helper
+
+initi
+bind
+option
+config
+
+
+block
+instanc block
+bind option config
+
+
+bind name block
+bind name block
+
+
+option name block
+option name block
+config name
+
+
+rest rout group
+bind root
+rout router instanc group rout group
+
+
+view view
+action view attr action valu
+action action
+
+rout param param
+view tagnam form
+bindabl
+view prepend view input type hidden name method valu patch
+rout param rout group
+action updat
+
+action creat
+
+
+view attr action rout path action rout param
+view attr method post
+
+
+
+
+
+
+
+
+pakyow
+view store
+attr reader store name store path templat
+
+initi store path path store name
+store name store name
+store path array store path path
+
+load templat
+load path info
+
+
+view path
+
+path view path
+
+miss view
+
+
+
+
+templat name path
+name path name path templat
+
+name path symbol
+templat name name path
+
+path name path templat
+
+
+
+page view path
+view path view path page
+
+argument error cannot build page path view path
+path view path page
+
+
+partial view path
+path view path partial
+
+
+partial view path name
+partial view path name
+
+
+compos view path
+path view path compos
+
+
+view view path
+compos view path view
+
+
+iter known view yield
+view
+path info pair path info
+info compos view path
+
+
+
+info
+path info pair path info
+info path
+
+
+
+expand path view path
+store path store path
+path file join store path view path
+
+file extnam path
+path glob path
+
+path file exist path
+
+
+
+
+
+
+build full path partial
+
+expand partial path path partial
+store path path partial html
+expand partial path path
+part path split
+
+underscor
+expand path expand path part part join
+
+attempt find extens
+match glob expand path
+miss partial could find partial extens expand path match
+
+expand path file extnam match
+
+
+
+
+path view path
+normal path normal path view path
+info path info normal path
+
+info
+miss view view path view path
+
+todo need consid whose respons make dup
+info info
+
+
+
+templat name name
+load templat
+
+templat templat name
+miss templat templat name name
+
+
+templat
+
+
+load templat
+templat load
+
+templat
+store path store path
+path templat path store path
+file exist path
+
+entri path file
+file
+
+templat templat load file join path file
+templat templat name templat
+
+
+
+miss templat dir templat found templat
+templat load
+
+
+templat load
+templat load
+
+
+templat path store path
+file join store path config present templat store name
+
+
+load path info
+path info
+
+keep page previou path
+page
+
+store path store path
+walk store path path
+skip root
+path store path
+
+templat
+path templat path store path
+
+skip partial file
+file basenam path
+
+skip folder file pick
+glob file join path index
+
+normal path normal path path store path
+
+path directori know index page
+previou index page instead allow
+partial overridden path
+page use
+file directori path
+get path previou page
+prev path normal path
+page page prev path
+prev path
+prev path prev path split join
+
+page page
+
+page page load path
+page normal path page
+
+
+page
+templat templat name page info templat
+
+todo effici redund call
+partial partial path path
+
+compos templat page partial
+compos view compos path normal path templat templat page page includ partial
+
+info
+page page
+templat templat
+partial partial
+compos compos
+
+
+path info normal path info
+
+
+
+
+normal path path store path
+store path
+rel path path gsub store path
+
+rel path path
+store path store path
+rel path rel path gsub store path
+
+
+
+rel path rel path gsub file extnam rel path
+rel path rel path gsub index
+rel path string normal path rel path
+
+rel path
+
+
+partial path view path
+view path file dirnam view path file directori view path
+view path normal path view path
+
+partial
+store path store path
+walk store path path
+skip partial
+file basenam path
+
+skip directori
+file directori path
+
+skip file within view path
+within normal path file dirnam path store path view path
+
+name file basenam path split
+partial name path
+
+
+
+creat instanc
+partial name path
+partial name partial load path
+
+
+partial
+
+
+
+forward
+
+pakyow
+helper
+
+app helper
+extend forward
+
+deleg present store store content view
+templat page path path compos compos precompos
+
+view
+view context present view
+
+
+partial arg
+view context present partial arg
+
+
+templat
+view context present templat
+
+
+page
+view context present page
+
+
+contain arg
+view context present contain arg
+
+
+present
+present
+
+
+bind name
+present bind name bind
+
+
+
+pakyow
+present
+string doc render
+render structur
+structur flatten reject
+hash attrifi
+join
+
+
+ignor attr contain partial
+attrifi attr
+attr delet ignor attr attr
+attr attr
+join
+
+
+
+
+forward
+
+pakyow
+present
+view
+extend forward
+
+deleg titl titl remov clear text html
+
+object respons pars manipul render
+underli html document view
+
+attr reader
+
+scope view belong
+
+attr accessor scope
+
+creat view run content regist view processor format
+
+param content string content view
+param format symbol format content
+
+initi content format html
+config present view present process content format
+
+
+initi copi origin view
+
+
+origin view
+scope origin view scope
+
+
+creat view soft copi
+
+soft copi
+copi view soft copi
+copi scope scope
+copi
+
+
+creat view
+
+string doc
+nokogiri doc
+
+
+view
+view instanc variabl
+view
+
+
+creat view file
+
+load path
+file read path format file format path
+
+
+
+
+
+
+allow multipl attribut
+
+view attr style
+
+attr attr
+attribut attr
+bind attribut attr
+
+
+text text
+text text call text text proc
+text text
+
+
+html html
+html html call html html proc
+html html
+
+
+append view
+append view
+
+
+prepend view
+prepend view
+
+
+view
+view
+
+
+view
+view
+
+
+replac view
+replac view view view view
+replac replac
+
+
+scope name
+name name
+scope name inject view collect name coll scope
+view view scope
+view scope name
+coll view
+
+
+
+prop name
+name name
+prop scope name inject view collect scope coll prop
+view view prop
+view scope scope
+coll view
+
+
+
+version
+version
+attribut data version
+
+
+version
+attribut data version
+
+
+compon name
+name name
+compon name inject view collect scope coll compon
+view view compon
+view scope scope
+coll view
+
+
+
+call
+view block
+
+creat context view manipul perform
+
+block
+block ariti
+instanc exec block
+
+
+
+
+
+
+
+call
+view datum block
+
+yield view match dataum thi driven view
+mean datum yield view avail
+singl view view datum pair yield
+
+basic bret
+
+data block
+datum array data first
+block ariti
+instanc exec datum block
+
+block call datum
+
+
+
+call
+index view datum block
+
+yield view match dataum index
+
+index data block
+data datum
+block ariti
+instanc exec datum block
+
+block call datum
+
+
+
+
+call
+match data view collect
+
+return view collect object manipul match data
+singl view view collect collect consist copi
+data length
+
+match data
+data array data
+coll view collect scope
+
+alway mean view
+data
+remov
+
+origin view match first datum
+coll
+
+work
+
+creat view datum
+data inject coll coll
+dupe view work soft copi
+work dupe view
+work dupe view
+coll dupe view
+
+
+
+collect
+coll
+
+
+call
+repeat data view datum block
+
+match data yield view datum pair
+
+repeat data block
+match data data block
+
+
+call
+repeat index data view datum block
+
+match data yield view datum pair index
+
+repeat index data block
+match data index data block
+
+
+call
+bind data
+
+bind singl datum across exist scope
+
+bind data bind context block
+datum array data first
+bind data scope datum scope first bind context
+
+
+data hash
+data
+data respond
+data
+
+
+attr send data data
+block
+
+block ariti
+instanc exec datum block
+
+block call datum
+
+
+
+call
+bind index data
+
+bind data across exist scope yield view datum pair index
+
+bind index block
+bind datum
+block ariti
+instanc exec datum block
+
+block call datum
+
+
+
+
+call
+appli data
+
+match data bind data view
+
+appli data bind context block
+match data bind data bind bind context context block
+
+
+includ partial
+partial partial
+partial partial
+
+mixin partial
+partial partial info
+partial partial partial info
+partial
+partial info replac partial
+
+
+refind partial
+partial partial
+
+mix partial includ partial want includ
+partial count partial key partial key count partial key count
+includ partial
+
+
+
+
+
+html
+html
+
+html
+
+compon
+attr send data valu
+
+
+compon name
+compon
+attr send data valu
+
+
+
+
+bind data scope data scope info bind
+data
+scope info
+
+scope scope info scope
+bind data root data scope bind
+
+scope info prop prop info
+unbound
+prop prop info prop
+prop info
+
+doc helper form field tagnam
+form field name scope prop
+
+
+data prop data prop binder instanc scope prop scope prop bind
+valu binder instanc valu scope prop scope prop data bind
+
+doc helper form field tagnam
+bind form field scope prop valu data
+
+
+bind data valu
+
+handl unbound data scope prop
+
+
+
+
+
+bind data root data scope bind
+valu binder instanc valu scope prop scope root data bind
+valu
+
+valu hash bind attribut valu bind valu valu
+
+
+bind data data
+data hash bind attribut data bind valu data
+
+
+data prop data prop
+data hash data prop data prop data hash data method defin prop
+
+
+bind valu valu
+valu string valu
+
+tagnam
+doc helper without valu
+
+doc helper close
+overrid valu
+attribut valu attribut valu
+attribut valu valu
+
+
+html valu
+
+
+
+bind form field scope prop valu bindabl
+special bind checkbox radio button
+tagnam input attribut type checkbox attribut type radio
+bind check field valu
+special bind select
+tagnam select
+bind select field scope prop valu bindabl
+
+
+
+bind check field valu
+valu attribut valu attribut valu valu
+attribut check check
+
+remov attribut check
+
+
+coerc string sinc boolean often use fail bind view
+valu
+
+
+bind select field scope prop valu bindabl
+creat select option scope prop valu bindabl
+select option valu valu
+
+
+form field name scope prop
+attribut name attribut name overwrit name alreadi defin
+attribut name scope prop
+
+
+creat select option scope prop valu bindabl
+option binder instanc option scope prop scope prop bindabl
+option
+
+option node nokogiri html document fragment pars
+nokogiri html builder option node
+option length
+optgroup
+option first
+
+contain valu content
+array
+option valu
+option shift
+like object string start group
+
+optgroup label
+option shift
+
+option index
+start group
+optgroup array
+
+option valu
+option shift
+
+
+
+
+
+
+
+remov exist option
+clear
+
+gener option
+append option node html
+
+
+select option valu valu
+option option valu valu
+option
+
+option attribut select select
+
+
+handl unbound data scope prop
+pakyow logger warn unbound data scope prop pakyow logger
+unbound
+
+
+bind attribut attr
+attr attr
+attr
+content
+call inner html proc
+bind valu
+
+view
+call
+
+
+attr attr
+attr attribut
+call attr send attr proc
+
+
+remov attribut attr
+
+attr send attr
+
+
+
+
+
+
+
+pakyow
+present
+bind eval
+pakyow helper
+
+attr reader context bindabl
+
+initi prop bindabl context
+prop prop
+bindabl bindabl
+context context
+
+
+valu
+bindabl hash
+bindabl prop
+bindabl respond prop
+bindabl send prop
+
+
+
+
+
+yaml
+
+present view store
+present view
+present templat
+present page
+present contain
+present partial
+present view collect
+present binder
+present binder
+present attribut
+present except
+present view compos
+present nokogiri
+present string
+present string parser
+present string render
+present bind
+present helper
+present view version
+present view context
+
+pakyow
+present
+
+
+pakyow
+present
+view collect
+enumer
+
+attr reader view scope
+
+initi scope
+view
+scope scope
+
+
+
+view
+
+
+attr attr
+inject attribut collect coll view
+coll view attr attr
+
+
+
+remov
+remov
+
+
+clear
+clear
+
+
+text
+text
+
+
+text text
+text text
+
+
+html
+html
+
+
+html html
+html html
+
+
+html
+html join
+
+
+html
+
+append content
+view
+view append content
+
+
+
+prepend content
+view
+view prepend content
+
+
+
+
+view
+view
+
+
+
+
+
+concat view
+view concat view
+
+
+
+view
+
+
+length
+view length
+
+
+scope name
+inject view collect name coll view
+scope view scope name
+scope
+
+scope inject coll coll scope view
+coll scope view
+
+
+
+
+prop name
+inject view collect scope coll view
+scope view prop name
+scope
+
+scope inject coll coll scope view
+coll scope view
+
+
+
+
+version
+view
+view version
+
+
+
+
+
+compon name
+inject view collect scope coll view
+scope view compon name
+scope
+
+scope inject coll coll scope view
+coll scope view
+
+
+
+
+call
+view block
+
+creat context view manipul perform
+
+block
+block ariti
+instanc exec block
+
+
+
+
+
+
+
+call
+view datum block
+
+yield view match dataum datum yield
+view data avail view collect
+mean block yield length time
+
+basic bret
+
+data block
+data array data
+index view
+datum data
+datum
+
+block ariti
+view instanc exec data block
+
+block call view data
+
+
+
+
+call
+index view datum block
+
+yield view match datum index datum yield
+view data avail view collect
+mean block yield length time
+
+index data block
+
+data datum
+block ariti
+instanc exec datum block
+
+block call datum
+
+
+
+
+
+
+call
+match data view collect
+
+manipul current collect match data view collect object
+consist copi data index data length
+
+match data
+data array data
+
+alway mean view
+data
+remov
+
+length data length
+data length view
+view remov
+
+
+work
+data length
+dupe view work soft copi
+work dupe view
+work dupe view
+dupe view
+
+
+
+
+
+
+
+call
+repeat data view datum block
+
+match data yield view datum pair
+
+repeat data block
+match data data block
+
+
+call
+repeat index data view datum block
+
+match data yield view datum pair index
+
+repeat index data block
+match data index data block
+
+
+call
+bind data
+
+bind data across exist scope
+
+bind data bind context block
+data view datum
+view bind datum bind bind context context
+block
+
+block ariti
+view instanc exec datum block
+
+block call view datum
+
+
+
+
+call
+bind index data
+
+bind data across exist scope yield view datum pair index
+
+bind index block
+
+bind datum
+block ariti
+instanc exec datum block
+
+block call datum
+
+
+
+
+
+
+call
+appli data
+
+match data bind data view
+
+appli data bind context block
+match data bind data bind bind context context block
+
+
+
+
+pakyow
+present
+attribut
+type
+hash style
+bool select check disabl readonli multipl
+mult
+
+
+initi name valu control
+type type attribut name
+name name
+valu deconstruct attribut valu type valu type
+control control
+
+
+
+valu
+valu array valu type mult valu proc
+valu valu
+updat valu
+
+
+ensur valu pass contain valu
+valu
+type
+mult
+valu valu valu valu
+bool
+valu valu
+
+valu valu valu valu match valu
+
+
+updat valu
+
+
+opposit
+deni valu
+type
+mult
+valu delet valu
+bool
+valu valu
+
+valu gsub valu
+
+
+updat valu
+
+
+attribut
+attribut attribut
+
+
+pass method call valu
+method miss method arg
+valu send method arg
+updat valu
+
+
+
+return full string valu
+
+valu valu
+valu valu call deconstruct attribut valu type attribut name type valu proc
+valu construct attribut valu type valu type name
+
+valu
+
+
+valu
+valu
+
+
+ancestor
+ancestor
+
+
+
+
+updat valu
+updat valu
+
+updat valu
+control remov attribut name
+
+control updat valu attribut name updat valu
+
+
+
+type attribut attribut
+attribut attribut
+
+bool type bool attribut
+mult type mult attribut
+hash type hash attribut
+singl
+
+
+deconstruct attribut valu type valu type
+valu valu type singl
+valu valu split type mult
+valu type bool
+valu hash valu type hash
+
+
+construct attribut valu type valu type attribut
+valu type singl
+valu join type mult
+valu attribut type bool
+valu join join type hash
+
+
+valu hash valu
+valu
+
+valu split inject style
+style split
+
+
+
+
+
+
+attribut
+initi
+
+attribut
+
+
+method miss method arg
+method method
+
+method
+attribut arg
+valu arg
+
+attribut method gsub
+valu arg
+
+
+method
+attribut attribut valu
+
+attribut attribut
+
+
+
+arg
+method miss arg
+
+
+arg
+method miss arg
+
+
+updat valu attribut attribut valu
+updat attribut attribut valu
+
+
+remov attribut attribut
+remov attribut attribut
+
+
+
+
+attribut attribut valu
+attribut attribut valu
+
+
+attribut attribut
+attribut attribut
+attribut attribut attribut attribut
+
+
+
+
+
+
+attribut collect
+enumer
+
+initi
+attribut
+
+
+attribut
+attribut attribut
+
+
+
+
+attribut
+
+
+method miss method arg
+attribut inject attribut collect coll
+coll send method arg
+
+
+
+
+attribut inject
+
+
+arg
+method miss arg
+
+
+arg
+method miss arg
+
+
+
+
+pakyow
+present
+page
+matter matcher
+
+
+load path view store name
+format string split last path
+name file basenam path
+content file test file path file read path
+
+page name content path format view store name
+
+
+
+attr reader path content
+
+initi name content path format html view store name
+name content path format name content path format
+
+info templat pakyow config present view view store name
+contain
+
+content
+pars info
+pars content
+
+
+
+initi copi origin page
+
+
+copi content
+contain
+origin page instanc variabl contain pair
+contain
+
+
+
+content contain
+content contain
+
+contain contain fetch contain
+miss contain contain name contain path
+
+
+contain
+
+
+info
+info
+info
+
+
+page
+content page content
+
+
+contain name
+contain fetch name
+miss contain contain name name path
+
+
+
+contain
+contain pair name contain name contain
+
+
+
+
+pars info
+info pars front matter content
+info info info hash
+
+info merg hash symbol info
+
+
+pars content
+remov yaml front matter
+content gsub
+
+process content
+content present process content format
+
+find content name contain
+within regex within within
+
+content scan within regex
+contain name
+contain contain name contain
+
+
+find content
+contain contain content gsub within regex
+
+
+pars front matter content
+match matter
+matter content match matter matcher
+
+remov open close
+matter matter split
+matter
+matter
+
+yaml load matter join
+
+
+
+
+pakyow
+present
+templat view
+attr accessor name
+
+
+load path
+format string split last path
+content file read path
+name file basenam path
+
+name content format format
+
+
+
+initi name content format html
+name name
+content format format
+
+
+initi copi origin templat
+
+
+copi
+origin templat
+
+
+contain name
+view contain name
+
+
+build page
+contain contain
+name contain
+
+
+contain replac page content name
+miss contain
+thi proven use matter
+decid remov save fill consol
+inform like ignor
+
+pakyow logger info content name page page path
+
+
+
+view
+
+
+
+
+pakyow
+present
+present
+
+process content format
+format format
+
+pakyow
+content
+
+
+present present
+content
+
+
+processor present processor store format
+pakyow logger warn processor defin extens format format html
+content
+
+
+processor call content
+
+
+
+pakyow init
+present present
+
+
+pakyow match
+present pakyow present
+present prepar context context
+
+
+pakyow rout
+present present
+found
+context respons bodi present content
+
+found found
+
+
+
+pakyow load
+present load
+
+
+pakyow error
+config error browser
+context respons bodi present content present present
+
+
+
+attr accessor processor store binder path context compos
+
+initi
+setup
+
+
+store name
+name
+view store name
+
+view store store
+
+
+
+store name
+store name
+
+path
+setup path path
+
+
+load
+load processor
+load view
+load bind
+
+
+prepar context context
+context context
+
+context request rout var
+path string remov rout var context request rout path
+
+path context request path
+
+
+setup
+
+
+present
+view
+miss view
+
+
+
+content
+present view
+present view compos present compos html present html
+
+
+view
+compos view miss view
+
+
+view path
+compos path path
+
+
+
+
+
+
+precompos
+view compos view
+
+
+view view
+view view
+
+set view mean longer need compos
+compos
+
+
+templat templat
+miss compos cannot templat without compos compos
+compos templat templat
+
+
+templat
+miss compos cannot templat without compos compos
+compos templat
+
+
+page page
+miss compos cannot page without compos compos
+compos page page
+
+
+page
+miss compos cannot page without compos compos
+compos page
+
+
+contain name
+miss compos cannot contain without compos compos
+compos contain name
+
+
+partial name
+miss compos cannot partial without compos compos
+compos partial name
+
+
+path path
+setup path path
+
+
+compos opt block
+compos path opt block
+
+
+compos path opt block
+compos view compos path store path opt block
+compos opt block given
+
+compos compos
+
+
+path
+path
+
+
+
+
+setup
+view compos
+store
+
+
+setup path path explicit
+compos compos path path
+compos compos
+path path
+
+
+
+miss view view path path
+explicit pakyow logger debug messag
+
+
+load view
+view store
+
+pakyow config present view store pair name path
+view store name view store path name
+
+
+
+load bind
+binder binder instanc reset
+
+pakyow bind pair name block
+binder name block
+
+
+
+load processor
+processor store pakyow processor
+
+
+compos path path
+view store name store
+
+store compos path
+miss view
+
+
+
+
+
+
+
+
+pakyow
+present
+string doc
+attr reader structur
+
+titl regex titl titl
+
+initi html
+structur string doc parser html structur
+
+
+structur structur node
+instanc alloc
+instanc instanc variabl structur structur
+instanc instanc variabl node node
+instanc
+
+
+object
+object object string doc
+string doc object
+
+
+initi copi origin
+
+
+origin structur origin instanc variabl structur
+structur util deep origin structur
+
+
+origin node
+node structur origin node index
+
+
+
+creat string doc instanc structur dupe node
+
+soft copi
+string doc structur structur node node util deep node
+
+
+titl
+titl search match
+match
+
+
+
+titl titl
+titl search match
+gsub titl regex titl titl titl
+
+
+
+attribut name valu
+attribut
+attribut name valu
+
+updat attribut attribut
+
+attribut name
+attribut name
+
+
+remov attribut name
+attribut delet name
+
+
+remov
+structur delet equal node
+
+
+clear
+children clear
+
+
+text
+html gsub
+
+
+text text
+clear
+children text
+
+
+html
+string doc render render children
+
+
+html html
+clear
+children html
+
+
+append
+string doc
+
+node
+children push node
+
+children concat structur
+
+
+
+prepend
+string doc
+
+node
+children unshift node
+
+children unshift structur
+
+
+
+
+string doc
+
+node
+structur insert node index node
+
+structur concat structur
+
+
+
+
+string doc
+
+node
+structur unshift node
+
+structur unshift structur
+
+
+
+replac
+string doc
+index node index
+
+node
+structur insert index node
+
+structur insert index structur
+
+
+structur delet index
+
+
+scope scope name
+scope select scope scope name
+
+
+prop scope name prop name
+scope scope select scope scope name
+scope prop select prop prop name
+
+
+contain name
+contain fetch name
+
+
+compon name
+compon select compon name
+
+
+channel name
+find channel scope name
+
+
+contain
+find contain node node structur
+
+
+partial
+find partial node node structur
+
+
+scope
+find scope node node structur
+
+
+compon
+find compon node node structur
+
+
+html
+string doc render render node node structur
+
+html
+
+
+todo without render
+least compar string doc string doc
+
+
+
+node
+structur structur
+node structur
+
+
+node index
+node
+structur index equal node
+
+
+node
+node
+
+
+tagnam
+node gsub
+
+
+option valu
+string doc structur node select option
+option valu valu
+
+
+
+
+
+titl search
+structur flatten
+string
+match match titl regex
+match
+
+
+
+
+return structur repres attribut node
+
+attribut
+node
+
+
+attribut name
+attribut name
+
+
+children
+node
+
+
+find contain structur primari structur structur contain
+structur
+structur inject contain
+contain
+contain string doc structur primari structur node
+
+find contain
+
+
+
+
+find partial structur primari structur structur partial
+structur inject partial
+partial
+partial string doc structur primari structur node
+
+find partial
+
+
+
+
+find scope structur primari structur structur scope
+scope structur inject scope
+data scope
+scope
+string doc structur primari structur node
+scope data scope
+prop find node prop concat find prop
+nest find scope
+
+
+version data version
+scope version version
+
+
+scope
+
+find scope root node decend nest scope
+find scope node data scope
+
+
+
+scope
+
+
+find prop structur primari structur structur prop
+structur
+find node prop primari structur prop
+
+
+prop
+
+
+find node prop node primari structur structur prop
+node data prop
+prop
+string doc structur primari structur node node
+prop node data prop
+
+
+
+node data scope
+find prop node node prop
+
+
+prop
+
+
+find channel scope name
+scope scope
+scope attribut data channel name
+scope
+
+
+find channel scope nest name
+
+
+
+find compon structur primari structur structur compon
+compon structur inject compon
+data
+
+string doc structur primari structur node
+compon data
+
+
+find scope
+
+
+
+compon
+
+
+
+
+pakyow
+present
+doc helper
+close
+area base basefont input link meta
+
+
+form field
+input select textarea button
+
+
+without valu
+select
+
+
+
+
+pakyow
+present
+string doc parser
+partial regex
+contain regex contain
+
+initi html
+html html
+structur
+
+
+structur
+structur pars string html
+
+
+
+
+pars html return nest structur repres document
+
+pars
+structur
+
+nokogiri html document
+structur doctyp html
+
+
+breadth first node queue
+node
+queue concat node children
+
+
+
+children node children reject nokogiri text
+attribut node attribut
+children signific node
+structur node html
+
+signific node
+scope node prop node option node compon node
+attr structur attribut inject attr attr
+attr attr name attr valu
+attr
+
+
+close pars node
+close node name close node name
+structur node name attr structur close
+contain node
+match node text strip match contain regex
+name match
+structur node html contain name
+partial node
+match node html strip match partial regex
+name match
+structur node html partial name
+
+
+attr attribut inject name valu
+close pars node
+close node name close node name
+structur node name attr close
+
+
+
+
+structur
+
+
+signific node
+scope node prop node contain node partial node option node compon node
+
+
+scope node
+node data scope
+
+
+
+prop node
+node data prop
+
+
+
+contain node
+node nokogiri comment
+node text strip match contain regex
+
+
+
+partial node
+node nokogiri comment
+node html strip match partial regex
+
+
+
+option node
+node name option
+
+
+compon node
+node data
+
+
+
+breadth first
+queue
+queue
+reject
+node queue shift
+node queue
+
+
+
+
+string string
+string match html
+nokogiri html document pars string
+
+nokogiri html fragment string
+
+
+
+self close area base basefont input link meta
+close
+self close
+
+
+
+
+
+pakyow
+present
+partial view
+
+
+
+pakyow present view version
+attr reader version
+
+initi view
+view find view view version
+view find view view attribut data view find view view version
+version view
+
+
+initi copi origin view
+
+
+origin view soft copi origin view
+version origin view version view view soft copi
+version first
+
+
+appli data bind context block
+data array data
+
+data
+
+cleanup
+
+
+cleanup
+
+match data bind data bind bind context context block
+
+
+
+version data block
+data array data
+coll view collect
+
+data
+version remov
+
+remov
+
+
+view process version data first block
+work view
+coll view
+
+data inject coll coll datum
+dupe
+view process version dupe datum block
+
+work view
+work view
+coll view
+
+
+coll
+
+
+
+bind data bind context block
+version view
+view bind data bind bind context context block
+
+
+
+version
+version view
+view view version version
+
+
+cleanup
+
+
+
+
+cleanup
+version reject view view remov
+version
+
+
+method miss method arg block
+send method arg block
+
+
+
+
+process version version datum block
+block ariti
+version instanc exec datum block
+
+block call version datum
+
+
+version
+
+
+pakyow
+present
+contain view
+
+
+
+pakyow
+present
+view compos
+
+path store path opt block
+view compos store path opt block
+
+
+
+extend forward
+
+deleg templat titl titl
+deleg part prop compon
+
+attr reader store path page partial
+
+initi store path opt block
+store store
+path path
+
+page opt fetch page
+path
+
+
+templat opt fetch templat
+page page page info templat path
+
+
+partial
+
+
+partial includ opt fetch includ
+
+partial store partial path path
+
+
+instanc exec block block given
+
+
+initi copi origin
+
+
+store path page templat partial view ivar
+valu origin instanc variabl ivar
+valu
+
+valu hash
+valu
+valu pair valu valu valu
+
+valu valu
+
+
+instanc variabl ivar valu
+
+
+
+view
+build view
+
+method compos view
+
+templat templat
+templat
+templat
+
+
+templat templat
+
+
+
+templat templat
+templat templat
+templat name
+templat store templat templat
+
+
+templat templat
+
+
+
+
+page page
+page page
+page name
+page store page page
+
+
+page page
+
+
+
+
+includ partial
+partial merg remap partial partial
+
+
+partial partial
+partial merg remap partial partial
+
+
+partial name
+partial partial name
+partial
+
+
+contain name
+contain page contain name
+contain
+
+
+part
+creat hold part
+part view collect view part partial partial
+
+current templat
+part templat
+
+page contain
+page contain contain
+part contain
+
+
+determin partial includ
+avail partial part inject part
+concat part partial key
+
+
+avail partial part
+partial select name
+avail partial name
+pair partial
+part partial
+
+
+part
+
+
+scope name
+collect part scope name
+
+partial nest scope prop bound
+collect view
+view includ partial
+
+
+collect version
+view version collect view
+
+collect
+
+
+
+
+
+build view
+miss templat templat provid view compos templat
+miss page page provid view compos page
+
+view templat build page includ partial
+
+titl
+titl page info titl
+view titl titl titl
+
+view
+
+
+remap partial partial
+hash partial name partial path
+partial path partial
+partial partial path
+
+partial partial load store expand partial path partial path
+
+
+name partial
+
+
+
+
+
+
+singleton
+
+pakyow
+present
+singleton manag binder set instanc handl
+creation registr set provid mechan
+augment data bound valu set
+
+binder
+singleton
+
+access regist binder set
+
+attr reader set
+
+initi
+set
+
+
+reset regist binder set
+
+binder reset instanc
+
+reset
+set
+
+
+
+creat regist binder name block pass
+defin bind thi block evalu context
+creat binder
+
+binder set
+
+param name symbol name binder creat
+
+name block
+set name binder set block
+
+
+return valu scope prop appli defin bind data
+
+param scope symbol scope name
+param prop symbol prop name
+param bindabl symbol data bound
+param bind symbol addit bind take consider determin valu
+param context symbol context pass defin bind
+
+valu scope prop scope prop bindabl bind context
+bind set lazi
+match prop prop scope bindabl bind
+find match
+match
+
+
+bind
+bind bind eval prop bindabl context
+bind instanc exec bind valu bindabl context bind
+valu
+bindabl hash
+bindabl fetch prop bindabl prop
+bindabl method defin prop
+bindabl send prop
+
+
+
+
+return bind defin scope prop
+
+scope prop scope prop bind
+set lazi
+prop scope prop bind
+find prop
+prop
+
+
+
+return option scope prop
+
+option scope prop scope prop bindabl context
+set lazi
+option prop scope prop bindabl context
+find option
+option
+
+
+
+
+
+pakyow
+present
+miss templat dir error
+miss view error
+miss templat error
+miss page error
+miss partial error
+miss compos error
+miss contain error
+
+
+pakyow
+present
+thi wrapper view view collect pass current
+app context bind method thi object expect
+use intern
+
+view context
+helper
+view class view view collect partial templat contain view version
+
+ariti misc view method behavior
+instanc exec
+
+exec ariti index repeat
+repeat index bind bind index appli
+
+initi view context
+view view
+context context
+
+
+view method expect context mix
+
+bind bind index appli method
+defin method method data karg block
+karg context context
+view send method data karg wrap method block
+handl valu
+
+
+
+view method view expect context
+
+index repeat repeat index method
+defin method method arg block
+view send method arg wrap method block
+handl valu
+
+
+
+scope name
+collect view scope name
+
+collect view version collect version
+view version collect view
+
+collect
+
+
+handl valu
+
+
+pass handl valu
+
+method miss method arg block
+view send method arg block
+handl valu
+
+
+
+
+view
+view class
+
+
+return context return view valu
+
+handl valu valu
+view valu
+view context valu context
+
+
+valu
+
+
+wrap block substitut view current view context
+
+wrap method block
+block
+
+proc arg
+arg
+view view context context
+find view context
+
+block ariti
+exec ariti method
+reject view context handl edg case around order
+argument view method sinc view present
+situat present alway first
+instanc exec arg reject
+view context
+block
+
+block call arg
+
+
+
+
+
+
+pakyow config regist present config
+
+regist view store
+config view store
+store
+file join pakyow config root view
+
+
+
+view view store
+config view
+
+conveni option lookup view view store name
+config view store name
+view pakyow config present view
+view fetch store name view
+
+
+templat view store
+config templat dir templat
+
+conveni option lookup templat view store name
+config templat store name
+dir pakyow config present templat dir
+dir fetch store name dir
+
+
+attribut expect scope definit
+config scope attribut data scope
+
+attribut expect prop definit
+config prop attribut data prop
+
+document use pars render view
+config view string doc
+
+pakyow
+
+
+bind
+processor
+
+bind name main block
+name block
+bind name block
+
+bind
+
+
+
+processor arg block
+arg format
+processor format block
+
+
+
+processor
+processor
+
+
+
+conveni method defin bind instanc
+
+bind name main block
+bind name block
+
+
+
+rel support helper
+
+describ view store
+
+store view store spec support view
+
+
+find path file
+expect store
+expect store
+expect store
+expect store
+
+
+find path
+expect store
+expect store
+expect store
+expect store
+
+
+find undefin path
+expect store miss
+expect store miss
+expect store miss
+expect store miss
+
+
+use templat
+expect store templat name
+expect store templat name
+
+expect store templat pageless name
+expect store templat pageless name
+expect store templat pageless name
+expect store templat pageless name
+
+
+use page specifi templat
+expect store templat name
+
+
+use page specifi titl
+expect custom titl store view titl titl
+
+
+templat titl reset titl specifi
+expect pakyow store view titl titl
+
+
+fail templat
+skip todo rewrit sinc load view fail templat
+expect store templat templat error standard error
+
+
+use page content
+expect index store view html bodi children html strip
+
+
+use name page content
+expect multi side store view multi html bodi children html strip
+
+
+fall back page
+expect index store view page html bodi inner text strip
+
+
+includ partial current path
+expect partial1 store view partial html bodi children html strip
+
+
+test partial overridden
+expect partial1 store view partial overrid html bodi children html strip
+
+
+partial partial
+expect partial2 store view partial incept html bodi children html strip
+
+
+templat includ partial
+expect partial1 store view partial templat html bodi children html strip
+
+
+templat retriev name
+templat store templat multi
+expect multi templat html titl inner html strip
+
+
+partial retriev path
+name partial1
+partial store partial name
+expect partial1 partial html strip
+
+
+partial includ multipl time
+expect partial1partial1 store view partial multipl html bodi inner text strip gsub
+
+
+view build modifi templat
+html store templat html
+store view
+
+expect html store templat html
+
+
+iter view
+store view view path
+expect view pakyow present view
+
+
+
+ignor dotfil
+expect store templat vimswap error pakyow present miss view
+
+
+support helper
+
+describ pakyow present view context
+view
+view bind view
+
+
+context
+context
+
+
+view context
+view context view context
+
+
+set view initi
+expect view context instanc variabl view view
+
+
+set context initi
+expect view context instanc variabl context context
+
+
+return work view
+expect view context instanc variabl view view
+
+
+pass call view
+expect view receiv
+view context
+
+
+includ helper
+expect view context ancestor pakyow helper
+
+
+context call method return view
+return view context
+view context bind
+expect view context
+expect view context
+
+
+
+context call method return view
+return valu
+expect view context view context
+
+
+
+context call view method expect context
+bind bind index appli method
+pass context method
+expect view receiv method hash includ context context
+view context send method
+
+
+
+
+context call view method exec view
+view context
+view context view context
+
+
+describ
+yield context
+view context
+expect view context
+
+
+
+exec context
+
+view context
+expect view context
+
+
+
+describ
+yield context
+view context
+expect view context
+
+
+
+exec context
+
+view context
+expect view context
+
+
+
+describ index
+yield context
+view context index
+expect view context
+
+
+
+exec context
+
+view context index
+expect view context
+
+
+
+describ repeat
+yield context
+view context repeat
+expect view context
+
+
+
+exec context
+
+view context repeat
+expect view context
+
+
+
+describ repeat index
+yield context
+view context repeat index
+expect view context
+
+
+
+exec context
+
+view context repeat index
+expect view context
+
+
+
+describ bind
+yield context
+view context bind
+expect view context
+
+
+
+exec context
+
+view context bind
+expect view context
+
+
+
+describ bind index
+yield context
+view context bind index
+expect view context
+
+
+
+exec context
+
+view context bind index
+expect view context
+
+
+
+describ appli
+yield context
+view context appli
+expect view context
+
+
+
+exec context
+
+view context appli
+expect view context
+
+
+
+
+rel support helper
+
+describ view version
+store
+view store spec support view
+
+
+version
+view context view compos path store version
+
+
+
+view context view compos path store version
+
+
+
+view context view compos path store version
+
+
+view
+context view instanc variabl view
+
+
+context appli dataset
+
+context scope post appli data
+
+
+data
+
+
+
+context version
+context
+version
+
+
+render noth
+expect context view scope post length
+
+
+
+context version
+context
+
+
+
+render version
+expect view scope post first version
+
+
+
+
+context appli dataset
+data
+
+titl bodi version
+titl bodi version
+titl bodi version
+
+
+
+context
+
+
+
+context version specifi
+
+context scope post appli data
+
+
+context version
+context
+
+
+
+render first version datum
+expect view scope post version
+expect view scope post version
+expect view scope post version
+
+
+
+context version
+context
+
+
+
+render version datum
+expect view scope post version
+expect view scope post version
+expect view scope post version
+
+
+
+
+context version specifi
+context
+
+
+
+
+context scope post version data view datum
+view datum version
+bind data
+
+
+render specifi version datum
+expect view scope post version
+expect view scope post version
+expect view scope post version
+
+
+
+
+rel support helper
+
+describ processor
+req re helper
+
+
+pakyow stage test
+pakyow present prepar context app context mock request
+
+
+
+teardown
+
+
+process view
+pakyow present store view processor
+html html bodi inner text strip
+expect html
+
+
+process multipl format
+pakyow present store view processor2
+html html bodi inner text strip
+expect html
+
+
+rel support helper
+
+describ helper
+
+context mock present context
+
+
+deleg present
+store store content view partial templat templat page page path path compos precompos deleg
+deleg deleg
+context send deleg
+expect context present call deleg
+
+
+
+return context view
+expect context view view context
+
+
+return context partial
+expect context partial view context
+
+
+return context templat
+expect context templat view context
+
+
+return context page
+expect context page view context
+
+
+return context contain
+expect context contain view context
+
+
+rel support helper
+
+share exampl insignific
+return structur singl item
+expect structur length
+
+
+return structur contain entir document
+expect structur html
+
+
+
+describ string doc parser
+describ structur
+context pars insignific html
+context attribut
+html
+structur string doc parser html structur
+
+exampl insignific
+
+
+context attribut
+html fooclass
+structur string doc parser html structur
+
+exampl insignific
+
+
+
+context pars signific html
+html data scope fooclass data scope
+structur string doc parser html structur
+
+return structur item signific node
+expect structur length
+
+
+break signific node separ part
+expect structur length
+
+
+describ structur signific node
+signific structur structur
+
+includ open
+expect signific structur
+
+
+includ attribut
+expect signific structur data scope
+expect signific structur fooclass
+
+
+describ structur attribut
+last structur signific structur
+
+includ close bracket open
+expect last structur
+
+
+includ content
+expect last structur
+
+
+includ close
+expect last structur
+
+
+
+
+
+describ html nest signific node
+todo
+
+
+
+
+
+rel support helper
+
+describ nokogiri doc
+doctyp html
+
+node
+doctyp alloc
+instanc variabl children
+
+
+
+doctyp nokogiri doc
+
+exampl spec
+exampl scope spec
+exampl attr spec
+exampl repeat spec
+exampl match spec
+exampl build spec
+
+rel support helper
+
+describ pakyow present view
+describ nokogiri doc
+
+pakyow config present view pakyow present nokogiri doc
+
+
+exampl form bind spec
+
+
+describ string doc
+
+pakyow config present view pakyow present string doc
+
+
+exampl form bind spec
+
+
+rel support helper
+view compos helper
+
+describ view compos
+
+store view store spec support view
+
+
+compos path
+expect compos view view index html
+
+
+compos page
+expect compos helper page compos view view compos compos index html
+
+
+fail compos without path page
+expect compos helper error argument error
+
+
+compos path overridden templat
+expect compos compos templat view view compos index html
+
+
+compos path overridden page
+expect compos compos page multi index view view multi multi index html
+
+
+compos path overridden templat page includ
+expect
+compos
+templat
+page compos
+includ
+compos partial
+
+view view compos index html compos partial html
+
+
+compos method chain
+expect compos templat multi view view multi index html
+
+
+compos block
+expect compos
+templat multi
+view view multi index html
+
+
+expos templat
+compos compos
+expect compos templat templat
+
+
+expos page
+compos compos
+expect compos page page
+
+
+expos partial
+compos compos partial
+expect compos partial partial1 partial
+
+
+handl contain modif
+compos compos
+compos contain remov
+
+expect compos view html bodi children html strip
+
+
+handl partial modif
+compos compos partial
+partial compos partial partial1
+partial remov
+
+expect compos view html bodi children html strip
+
+
+handl attribut modif
+compos compos attribut
+compos contain scope attr attr style
+background
+
+
+expect compos view html bodi style background
+
+
+handl replac
+compos compos
+compos contain replac
+
+expect compos view html bodi children html strip
+
+
+set templat titl
+compos compos
+compos titl
+expect compos view titl
+
+
+get templat titl
+compos compos
+compos titl
+expect compos titl
+
+
+get scope part
+compos compos scope
+expect compos scope scope length
+
+
+get prop part
+skip reli unscop prop current support
+compos compos scope
+expect compos prop prop length
+
+
+rel support helper
+view bind helper
+
+describ view
+
+view view
+
+
+describ
+yield context
+view
+expect view
+
+
+
+call block context view
+
+view
+
+
+
+expect view
+
+
+
+describ
+
+data
+
+
+yield view datum pair
+view data datum
+expect view
+expect data datum
+
+
+
+call block context view yield datum
+
+datum
+view data datum
+
+datum datum
+
+
+expect view
+expect data datum
+
+
+stop view
+count
+view time datum
+count
+
+
+expect count
+
+
+handl data
+data
+view data datum
+expect data datum
+
+
+
+
+rel support helper
+
+describ string doc render
+describ render
+html data scope fooclass data scope
+structur string doc parser html structur
+
+flatten structur ident string
+expect string doc render render structur html
+
+
+todo need mani test case feel comfort
+
+
+
+rel support helper
+
+describ view collect
+
+coll view collect
+coll view
+coll view
+
+
+describ
+yield context
+coll
+expect coll
+
+
+
+call block context view
+
+coll
+
+
+
+expect coll
+
+
+
+describ
+
+data
+
+
+yield view datum pair
+
+coll data datum
+expect coll
+expect data datum
+
+
+
+
+
+call block context view yield datum
+view
+data
+coll data datum
+view
+data datum
+
+
+data count time
+expect coll view
+expect data data
+
+
+
+stop view
+count
+coll coll count time datum
+count
+
+
+expect count coll count
+
+
+stop data
+count
+coll data datum
+count
+
+
+expect count data count
+
+
+handl data
+data
+coll data datum
+expect data datum
+
+
+
+
+describ index
+
+data
+
+
+yield view datum pair
+count
+coll index data datum
+expect coll
+expect data datum
+expect count
+
+count
+
+
+
+call block context view yield datum
+view
+data
+
+coll index data datum
+view
+data datum
+
+
+
+data count time
+expect coll view
+expect data data
+expect
+
+
+
+
+describ match
+
+data
+view view helper singl
+view match view scope contact
+view view match match data
+
+
+creat collect view
+expect view length data length
+
+
+set creat view
+view view
+expect view match scope view scope
+
+
+
+
+describ repeat
+match call
+view repeat test view collect
+view view helper singl
+
+view repeat
+
+expect view call match
+expect view call
+
+
+
+describ repeat index
+match call index
+view repeat test view collect
+view view helper singl
+
+view repeat index
+
+expect view call match
+expect view call index
+
+
+
+describ bind
+
+data
+
+coll view collect
+coll view helper singl
+coll view helper singl
+
+
+yield view datum pair
+
+coll bind data datum
+expect coll
+expect data datum
+
+
+
+
+
+call block context view yield datum
+view
+data
+coll bind data datum
+view
+data datum
+
+
+data count time
+expect coll view
+expect data data
+
+
+
+bind hash
+data full name jugyo kohno email jugyo exampl
+view view helper singl
+view scope contact bind data
+
+ndoc view view
+
+expect data full name contact span first content
+expect data email contact first content
+
+
+bind object
+data contact jugyo kohno jugyo exampl
+view view helper singl
+view scope contact bind data
+
+ndoc view view
+
+expect data full name contact span first content
+expect data email contact first content
+
+
+bind data across view
+data
+full name dylan email dylan
+full name jack white email jack white
+full name charl mingu email charl mingu
+
+
+view view helper mani scope contact
+view bind data
+
+data index datum
+ndoc view view
+expect datum full name span first content
+expect datum email first content
+
+
+
+stop bind data
+view view helper mani scope contact
+count
+data
+
+view bind data view datum
+count
+
+
+expect count data length
+
+
+stop bind view
+view view helper mani scope contact
+count
+data
+
+view bind data view datum
+count
+
+
+expect count view length
+
+
+
+describ bind index
+
+data
+
+coll view collect
+coll view helper singl
+coll view helper singl
+
+
+yield view datum pair
+
+coll bind index data datum index
+expect coll
+expect data datum
+expect index
+
+
+
+
+
+call block context view yield datum
+view
+data
+
+coll bind index data datum
+view
+data datum
+
+
+
+data count time
+expect coll view
+expect data data
+expect
+
+
+
+
+describ appli
+match bind
+view repeat test view collect
+view view helper singl
+
+view appli
+
+expect view call match
+expect view call bind
+
+
+
+rel support helper
+
+todo test contain partial scope refer node
+modifi modifi
+
+describ string doc
+doctyp html
+node
+doctyp string doc
+
+describ initi
+pars html string doc parser
+skip
+
+
+set instanc variabl valu parser
+skip
+
+
+
+exampl spec
+exampl scope spec
+exampl attr spec
+exampl repeat spec
+exampl match spec
+exampl build spec
+exampl bind spec
+
+support helper
+req re helper
+setup helper
+
+describ binder
+
+setup
+
+
+
+teardown
+
+
+defin rest bind
+pakyow bind
+scope
+rest
+
+
+pakyow present load
+
+data pakyow present binder valu scope prop root pakyow context
+view view string doc form data scope form
+data view call view
+nokogiri html fragment view html form
+expect action
+expect post method
+
+data pakyow present binder valu scope prop root pakyow context
+view view string doc form data scope form
+data view call view
+form nokogiri html fragment view html form
+input nokogiri html fragment view html input
+expect form action
+expect post form method
+expect hidden input type
+expect method input name
+expect patch input valu
+
+
+defin nest rest bind
+pakyow bind
+scope
+rest
+
+
+pakyow present load
+
+
+pakyow context request param
+data pakyow present binder valu scope prop root pakyow context
+view view string doc form data scope form
+data view call view
+nokogiri html fragment view html form
+expect action
+expect post method
+
+data pakyow present binder valu scope prop root pakyow context
+view view string doc form data scope form
+data view call view
+nokogiri html fragment view html form
+expect action
+expect post method
+
+
+rel support helper
+setup helper
+
+describ present
+req re helper
+
+
+pakyow config present view pakyow present string doc
+store test
+pakyow stage test
+present pakyow present
+path
+present prepar context app context mock request path
+
+
+
+teardown
+
+
+context test view
+
+reset index content
+
+
+built request
+expect present view pakyow present view compos
+expect present view compos view
+
+page present store page path
+templat present store templat path
+view present store view path
+
+expect view present view compos
+expect page present compos page
+expect templat present compos templat
+
+
+return content
+view present store view path
+expect view html present content
+
+
+rebuilt path
+origin view present view
+expect origin view present view
+
+present path multi
+expect origin view present view
+expect pakyow present view compos present view
+
+
+cach
+file spec support view index html
+content reload
+origin content file open file read
+file open file write content
+compos present view compos html bodi inner text strip
+
+expect origin content strip compos
+
+
+reload
+file spec support view index html
+content reload
+origin content file open file read
+file open file write content
+present load
+setup
+compos present view compos html bodi children html strip
+
+expect content compos
+
+
+view compos
+path compos
+comparison view present store view path
+present compos path
+
+expect comparison view present view compos
+
+
+overidden
+present view view
+expect present view html
+
+
+test exist
+expect present view
+expect present view fail
+
+
+
+context test path
+retriev
+path multi
+present path path
+expect path present path
+
+
+
+context test store
+chang
+origin store present store
+present store test
+expect origin store present store
+
+
+
+context test templat
+rout access
+expect present store templat path present compos templat
+
+
+instanc retriev
+templat present store templat multi
+present templat templat
+expect templat present compos templat
+
+
+name retriev
+name multi
+templat present store templat name
+present templat name
+expect templat present compos templat
+
+
+use current templat
+present templat multi
+expect multi present view compos titl
+
+
+
+context test page
+rout access page
+expect present store page path present compos page
+
+
+retriev
+page present store page
+present page page
+expect page present compos page
+
+
+use current page
+page present store page
+present page page
+compos present view compos html bodi inner text strip
+
+expect page content strip compos
+
+
+
+context test present
+correct valu
+expect present present
+
+present prepar context app context mock request fail
+
+expect present present
+
+
+
+context test compos
+compos current context
+path compos
+present prepar context app context mock request path
+expect present store view path present compos view
+
+
+precompos
+present prepar context app context mock request compos
+compos present compos
+
+present precompos
+expect compos view present view
+
+
+
+context test partial
+
+present view partial partial partial1
+partial partial load spec support view partial1 html
+expect partial present view partial partial
+
+
+
+rel support helper
+
+describ page
+
+store view store spec support view
+
+
+allow access contain
+contain store page contain
+
+expect contain contain
+expect contain html strip index
+
+
+rspec
+
+
+
+file expand path pakyow support pakyow support file
+file expand path pakyow core pakyow core file
+file expand path pakyow present file
+
+file join file dirnam file helper file file
+file join file dirnam file mixin file file
+
+rel test
+view bind helper
+
+
+match html
+nokogiri html document pars
+
+nokogiri html fragment
+
+
+
+reset index content
+file spec support view index html
+content file read file
+file open file file file write index content index
+
+
+view
+
+view mani creat view string
+contact data scope contact
+span data prop full name john span
+data prop email john exampl
+
+contact data scope contact
+span data prop full name john span
+data prop email john exampl
+
+contact data scope contact
+span data prop full name john span
+data prop email john exampl
+
+
+
+view singl creat view string
+contact data scope contact
+span data prop full name john span
+data prop email john exampl
+
+
+
+view unscop creat view string
+span data prop span
+
+
+pakyow defin
+configur test
+present view store
+spec support view
+test spec support view
+
+
+
+processor data
+data gsub
+
+
+mock present context
+pakyow app helper
+attr reader present context
+
+initi
+present mock present
+context app context
+
+
+mock present
+initi
+call
+
+
+method miss method arg
+call method
+
+
+call method
+call method
+
+
+req re helper
+mock request path method header
+opt
+path info path
+request method method upcas
+rack input string io
+merg header
+
+pakyow request opt
+
+
+mock respons
+pakyow respons
+
+
+repeat test view collect pakyow present view collect
+attr reader call
+
+initi arg
+call
+
+
+
+repeat arg block
+call repeat
+
+
+
+repeat index arg block
+call repeat index
+
+
+
+match arg block
+call match
+
+
+
+
+arg block
+call
+
+
+
+index arg block
+call index
+
+
+
+bind arg block
+call bind
+
+
+
+view collect helper
+view collect
+view
+view collect
+
+
+setup helper
+setup
+pakyow stage test
+
+pakyow router instanc pakyow
+expand rest
+action creat
+action updat
+
+expand rest
+action creat
+action updat
+
+
+
+
+pakyow context app context mock request mock respons
+
+pakyow bind
+scope
+rest
+
+
+
+pakyow present load
+
+
+teardown
+binder instanc reset
+
+
+view compos helper
+compos helper opt block
+view compos path store opt block
+
+
+compos path opt block
+view compos path store path opt block
+
+
+compos context context opt block
+view compos context store context request path opt block
+
+
+view templat name page path partial
+templat store templat templat name
+page page load store expand path page path
+
+partial hash partial name path
+name partial load store expand path path
+
+
+templat build page includ partial
+
+
+view bind helper
+creat view string string
+view string
+
+
+view helper type
+view fetch type
+
+
+ndoc view view
+nokogiri html fragment view
+
+
+contact
+attr accessor full name email
+
+initi full name email
+full name full name
+email email
+
+
+share exampl bind spec
+store
+view store spec support view
+
+
+describ bind data view
+context scope defin view prop partial
+view
+view context view compos path store prop partial
+
+
+data
+prop1 prop1 prop2 prop2 prop3 prop3
+
+
+bind data prop
+view scope scope1 bind data
+expect view scope scope1 prop prop1 text data prop1
+expect view scope scope1 prop prop2 text data prop2
+expect view scope scope1 prop prop3 text data prop3
+
+view scope scope2 bind data
+expect view scope scope2 prop prop2 text data prop2
+
+
+
+
+share exampl attr spec
+describ attribut
+view
+string html bodi data scope attr bodi html
+view doctyp string
+
+
+coll
+view scope attr
+
+
+node
+coll
+
+
+describ text attr
+set valu
+valu
+node attr titl valu
+expect node attr titl valu
+
+coll attr titl valu
+expect coll attr titl valu
+
+
+set valu hash syntax
+valu hfoo
+node attr titl valu
+expect node attr titl valu
+
+coll attr titl valu
+expect coll attr titl valu
+
+
+append valu
+valu
+append valu
+node attr titl valu
+node attr titl append valu
+expect node attr titl valu append valu
+
+
+ensur valu
+valu
+node attr titl valu
+expect node attr titl valu
+
+
+node attr titl valu
+expect node attr titl valu
+
+
+deni valu
+valu
+node attr titl valu
+node attr titl deni valu
+expect node attr titl
+
+
+delet valu
+valu foobar
+node attr titl valu
+node attr titl delet
+expect node attr titl
+node attr titl delet
+expect node attr titl
+
+
+
+describ attr
+set valu
+valu
+node attr valu
+expect node attr valu
+node attr valu
+expect node attr valu
+
+
+
+describ mult attr
+append valu
+valu
+append valu
+node attr valu
+node attr append valu
+expect node attr valu append valu
+
+
+ensur valu
+valu
+node attr valu
+expect node attr valu
+
+
+node attr valu
+expect node attr valu
+
+
+deni valu
+valu
+node attr valu
+node attr deni valu
+expect node attr
+
+
+handl method
+valu
+node attr push valu
+expect node attr valu
+
+
+
+describ bool attr
+set valu
+node attr disabl
+expect node attr disabl valu
+
+
+ensur valu
+node attr disabl
+expect node attr disabl valu
+
+
+deni valu
+node attr disabl
+node attr disabl deni
+expect node attr disabl valu
+
+
+
+describ hash attr
+set valu
+node attr style color
+expect node attr style color
+
+node attr style color blue
+expect node attr style color blue
+
+
+
+assign valu mass
+hash titl
+
+node attr hash
+expect node attr titl hash titl
+expect node attr hash
+
+
+modifi valu lambda
+node attr titl
+node attr titl
+expect node attr titl foobar
+
+node attr
+node attr push
+expect node attr
+
+
+
+share exampl form bind spec
+view
+pakyow present view
+form data scope
+input data prop unnam
+input data prop name name name
+input data prop unvalu
+input data prop valu valu valu
+input type checkbox data prop check valu valu
+input type radio data prop check radio valu valu
+textarea data prop textarea textarea
+select data prop select option valu option option valu option option valu option select
+form
+
+
+
+context bind unnam field
+set name attr
+view scope bind unnam test
+expect view scope prop unnam attr name unnam
+
+
+
+context bind name field
+name attr
+view scope bind name test
+expect view scope prop name attr name name
+
+
+
+context bind unvalu field
+set valu attr
+view scope bind unvalu test
+expect view scope prop unvalu attr valu test
+
+
+
+context bind valu field
+valu attr
+view scope bind valu test
+expect view scope prop valu attr valu valu
+
+
+
+context bind checkbox
+context valu match
+set check
+view scope bind check valu
+expect view scope prop check attr check valu
+
+
+
+
+context bind radio button
+context valu match
+set check
+view scope bind check radio valu
+expect view scope prop check radio attr check valu
+
+
+
+
+context bind textarea
+set valu content
+view scope bind textarea test
+expect view scope prop textarea text test
+
+
+
+context bind select
+context valu match option valu
+select option
+view scope bind select
+nokogiri html fragment view
+expect option select select
+
+
+context valu string
+select option
+view scope bind select
+nokogiri html fragment view
+expect option select select
+
+
+
+
+context bind option defin
+
+binder instanc
+scope
+option select
+
+
+
+
+
+
+
+binder instanc reset
+
+
+creat option
+view scope bind select
+nokogiri html fragment view
+
+opt option
+expect opt length
+
+opt
+opt
+
+expect valu
+expect valu
+
+expect inner text
+expect inner text
+
+
+context option
+
+binder instanc
+scope
+option select
+
+
+
+
+
+
+
+binder instanc reset
+
+
+set option
+view scope bind select
+nokogiri html fragment view
+
+opt option
+expect opt length
+
+opt
+opt
+opt
+
+expect valu
+expect valu
+expect valu
+
+expect inner text
+expect inner text
+expect inner text
+
+
+
+
+
+function test view build
+
+share exampl build spec
+
+origin doctyp pakyow config present view
+pakyow config present view doctyp
+
+
+
+pakyow config present view origin doctyp
+
+
+describ build view multipl instanc partial
+view
+pakyow present view
+partial
+partial
+
+
+
+partial
+pakyow present partial
+data scope
+
+
+
+compos
+view includ partial partial
+
+
+context modifi partial
+modifi instanc
+compos scope text
+expect compos scope text
+expect compos scope text
+
+
+
+
+spec necessari test string doc nokogiri doc expect
+provid follow
+
+repres full document
+node repres first node full document
+doctyp name
+
+share exampl spec
+describ
+html data scope fooclass foocont strong strongtext strong
+
+describ attribut
+chang attribut valu
+valu barclass
+node attribut valu
+expect node attribut valu
+
+
+
+describ attribut
+retriev attribut valu
+expect node attribut fooclass
+
+
+
+describ remov attribut
+remov attribut
+node remov attribut
+expect node attribut
+
+
+
+describ remov
+remov node
+remov
+expect html
+
+
+
+describ clear
+remov content
+clear
+expect html
+
+
+
+describ text
+return text content
+expect text foocont strongtext
+
+
+
+describ text
+set text content
+text replac
+expect text replac
+
+
+
+describ html
+return html content
+expect node html foocont strong strongtext strong
+
+
+
+describ html
+set html content
+html replac
+expect html replac
+
+
+
+describ append
+append content
+node append append
+expect text foocont strongtext append
+
+
+append
+append doctyp append
+expect text foocont strongtext append
+
+
+
+describ prepend
+prepend content
+prepend prepend
+expect text prepend foocont strongtext
+
+
+prepend
+prepend doctyp prepend
+expect text prepend foocont strongtext
+
+
+
+describ
+add content node
+
+node
+expect html gsub html
+
+
+add node
+
+node doctyp
+expect html gsub html
+
+
+
+describ
+add content node
+
+node
+expect html gsub html
+
+
+add node focu
+
+node doctyp
+expect html gsub html
+
+
+
+describ replac
+replac content
+replac replac
+replac replac
+expect html replac
+
+
+replac
+replac replac
+replac doctyp replac
+expect html replac
+
+
+
+describ tagnam
+return tagnam node
+skip
+
+
+
+describ option
+find option valu
+skip
+
+
+
+describ contain
+share exampl contain
+describ unnam contain
+doctyp unnam html
+
+name contain
+expect contain truthi
+
+
+includ contain
+expect contain html contain
+
+
+
+describ name contain
+doctyp name html
+
+name contain
+expect contain contain name truthi
+
+
+includ contain node
+expect contain contain name html contain contain name
+
+
+
+
+context contain level
+unnam html contain
+name html contain
+contain name
+
+exampl contain
+
+
+context contain nest within signific node
+unnam html data scope contain
+name html data scope contain
+contain name
+
+exampl contain
+
+
+context contain nest within insignific node
+unnam html contain
+name html contain
+contain name
+
+exampl contain
+
+
+
+share exampl partial
+name partial
+expect partial partial name truthi
+
+
+includ partial node
+expect partial partial name html partial name
+
+
+
+describ partial
+context partial level
+html
+partial name
+exampl partial
+
+
+context partial nest within signific node
+html data scope
+partial name
+exampl partial
+
+
+context partial nest within insignific node
+html
+partial name
+exampl partial
+
+
+
+share exampl scope prop
+name scope
+expect scope select scope scope name count
+
+
+includ scope node
+expect scope html data scope data prop
+
+
+describ scope prop
+name prop
+expect scope prop count
+
+
+includ prop node
+expect scope prop html data prop
+
+
+
+
+describ scope
+context scope level
+html data scope data prop
+scope name
+exampl scope prop
+
+
+context scope nest within insignific node
+html data scope data prop
+scope name
+exampl scope prop
+
+
+context scope nest within scope
+html data scope data scope data prop
+
+includ nest scope parent scope
+expect scope nest array
+expect scope nest scope
+
+
+
+context prop inlin scope
+html data scope data prop
+
+find prop
+expect scope prop count
+
+
+
+context prop nest scope
+html data scope data scope data prop
+
+nest prop parent scope
+expect scope prop count
+
+
+
+
+
+function test view match
+
+share exampl match spec
+
+origin doctyp pakyow config present view
+pakyow config present view doctyp
+
+
+
+pakyow config present view origin doctyp
+
+
+describ match view data
+view
+pakyow present view
+data scope
+
+
+
+context data view
+data
+
+result view datum
+view scope match data
+expect view scope length data length
+
+
+
+context data
+data
+
+result view
+view scope match data
+expect view scope length data length
+
+
+
+context view sibl
+view
+pakyow present view
+data scope span span
+
+
+
+data
+
+respect origin order node
+view scope match data
+expect view html strip data scope data scope data scope span span
+
+
+
+
+describ match view collect data
+view
+pakyow present view
+data scope
+data scope
+data scope
+
+
+
+context number view data
+data
+
+result view datum
+view scope match data
+expect view scope length data length
+
+
+
+context view data
+data
+
+result view datum
+view scope match data
+expect view scope length data length
+
+
+
+context data view
+data
+
+result view datum
+view scope match data
+expect view scope length data length
+
+
+
+context data
+data
+
+result view collect
+view scope match data
+expect view scope length data length
+
+
+
+
+function test view repetit
+
+share exampl repeat spec
+
+origin doctyp pakyow config present view
+pakyow config present view doctyp
+
+
+
+pakyow config present view origin doctyp
+
+
+describ repeat view collect data
+context repeat view includ partial
+view
+pakyow present view
+partial
+
+
+
+partial
+pakyow present partial
+data scope
+data prop valu
+
+
+
+
+properli bind data scope found partial
+data
+valu
+valu
+valu
+
+
+view includ partial partial
+
+view scope repeat data datum
+bind datum
+
+
+view scope index subview
+expect subview prop valu text data valu
+
+
+
+context nest scope
+partial
+pakyow present partial
+data scope
+data scope
+data prop valu
+
+
+
+
+
+properli bind data nest scope
+data
+valu
+valu
+valu
+
+
+view includ partial partial
+
+view scope repeat data datum
+scope bind datum
+
+
+view scope index subview
+expect subview scope prop valu text data valu
+
+
+
+
+
+
+share exampl scope spec
+describ scope
+view
+string
+data scope post
+data prop titl titl
+
+data prop bodi bodi
+
+data scope comment
+data scope comment
+
+
+
+view doctyp string
+
+
+find singl scope
+expect view scope post length
+expect view scope post length
+
+
+find multipl scope
+expect view scope post scope comment length
+
+
+find nest scope
+expect view scope comment length
+expect view scope post length
+expect view scope post scope comment length
+
+
+ignor invalid scope
+expect view scope fail length
+
+
+find prop
+expect view scope post prop titl html titl
+expect view scope post prop bodi html bodi
+
+
+nest scope within
+post bind view scope first
+post bind nest nest
+expect nest post bind
+
+
+
+
+rel support
+rel support
+rel support
+rel support file
+rel support hash
+rel support string
+rel support aargv
+pakyow
+util
+
+unclon symbol fixnum
+deep valu
+valu unclon valu
+
+valu hash
+result valu
+valu result deep deep
+result
+valu array
+result valu
+result clear
+valu result deep
+result
+
+valu
+
+
+
+
+
+
+visit file walk directori
+walk block
+
+entri
+partit partit file file
+file partit
+dir partit
+file start
+dir walk block start
+
+
+
+put
+walk full path
+path full path gsub regexp
+path
+
+prefix
+path scan size time
+prefix
+
+
+path gsub
+put prefix path
+
+
+
+within dir1 dir2
+dir1 split dir2 split
+
+
+array
+object
+object respond
+object
+
+object
+
+
+
+string
+split seper string last
+split last
+split index rindex
+split index
+left split index
+right split index length split index
+left right
+
+
+remov rout var rout spec
+rout spec
+rout spec split
+
+
+join
+
+
+
+
+pars path caller caller
+caller match
+
+
+normal path path
+path path regexp
+
+path path path length path
+path path path length path path length
+path
+
+
+capit string
+string slice capit string slice
+
+
+aargv
+normal arg opt
+hash opt name opt
+type opt
+
+name valu type arg type
+reject pair pair
+
+
+valu type valu type
+valu find valu valu type
+
+
+hash
+deep merg second
+merger proc hash hash merg merger
+merg second merger
+
+
+deep merg second
+merger proc hash hash merg merger
+merg second merger
+
+
+creat indiffer hash thi mean indifferent hash
+
+
+access like
+
+
+strhash hash
+indifferent hash
+
+
+convert key symbol
+symbol key hash
+hash hash
+
+
+convert key valu symbol
+symbol hash
+hash hash
+
+
+
+
+strhash
+indifferent hash
+hash pair valu
+hash indifferent valu valu hash
+
+
+indiffer hash merg hash
+
+
+strhash
+indiffer hash
+hash hash hash symbol
+
+
+file
+format path
+file extnam path delet
+
+
+rel support hash
+
+describ hash
+describ deep merg
+skip
+
+
+describ deep merg
+skip
+
+
+describ strhash
+skip
+
+
+describ symbol key
+skip
+
+
+describ symbol
+skip
+
+
+rel support
+
+describ array
+describ
+skip
+
+
+rel support file
+
+describ file
+describ format
+skip
+
+
+rel support
+
+describ pakyow util
+describ deep
+skip
+
+
+rel support
+
+describ
+describ walk
+skip
+
+
+describ
+skip
+
+
+describ within
+skip
+
+
+rel support string
+
+describ string
+describ remov rout var
+remov rout var
+expect string remov rout var
+expect string remov rout var bret bret
+expect string remov rout var bret bret
+expect string remov rout var bret bret
+expect string remov rout var bret bret
+expect string remov rout var bret bret
+expect string remov rout var bret bret
+expect string remov rout var fred barney fred barney
+expect string remov rout var fred fred barney barney fred barney
+expect string remov rout var fred barney fred barney
+expect string remov rout var fred barney fred barney
+expect string remov rout var fred barney fred barney
+
+
+
+describ split last
+split last
+expect string split last
+expect string split last
+expect string split last
+expect string split last
+expect string split last three four three four
+expect string split last three three
+expect string split last three three
+
+
+accur window
+expect string pars path caller test test applic test test applic
+
+
+
+
+rel support aargv
+
+describ aargv
+
+name arg
+
+
+
+expect
+
+
+
+
+expect aargv normal string symbol expect
+expect aargv normal string symbol expect
+
+
+mix valu
+
+
+
+expect
+
+
+
+
+expect aargv normal string symbol expect
+
+
+respect real valu
+
+
+
+expect
+
+
+
+
+expect aargv normal string symbol expect
+
+
+ignor valu
+
+
+expect
+
+
+
+expect aargv normal string symbol expect
+
+
+

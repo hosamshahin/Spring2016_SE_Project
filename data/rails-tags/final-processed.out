@@ -1,0 +1,557 @@
+version argv
+
+version
+put usag rubi instal version
+
+
+
+activesupport activemodel activerecord actionpack actionview actionmail railti framework
+put instal framework
+framework build framework gemspec instal framework version rdoc framework version
+
+
+put instal rail
+build rail gemspec
+instal rail version rdoc
+rail version
+rail
+return version current load rail version
+version
+version version string
+
+
+version
+major
+minor
+tini
+alpha
+
+string major minor tini compact join
+
+
+bust prelud
+bundler
+bundler setup
+
+copyright 2004 2014 david heinemei hansson
+
+permiss herebi grant free charg person obtain
+copi softwar associ document file
+softwar deal softwar without restrict includ
+without limit right copi modifi merg publish
+distribut sublicens sell copi softwar
+permit person softwar furnish subject
+follow condit
+
+copyright notic permiss notic shall
+includ copi substanti portion softwar
+
+softwar provid without warranti kind
+express impli includ limit warranti
+merchant fit particular purpos
+noninfring event shall author copyright holder
+liabl claim damag other liabil whether action
+contract tort otherwis aris from connect
+with softwar other deal softwar
+
+
+activ support
+activ support rail
+action view version
+
+action view
+extend activ support autoload
+
+encod flag code
+
+eager autoload
+autoload base
+autoload context
+autoload compil templat action view context
+autoload digestor
+autoload helper
+autoload lookup context
+autoload layout
+autoload path set
+autoload record identifi
+autoload render
+autoload rout url for
+autoload templat
+autoload view path
+
+autoload render
+autoload render
+autoload abstract render
+autoload partial render
+autoload templat render
+autoload stream templat render
+
+
+autoload action view templat resolv
+autoload resolv
+autoload path resolv
+autoload optim file system resolv
+autoload fallback file system resolv
+
+
+autoload action view buffer
+autoload output buffer
+autoload stream buffer
+
+
+autoload action view flow
+autoload output flow
+autoload stream flow
+
+
+autoload action view templat error
+autoload miss templat
+autoload action view error
+autoload encod error
+autoload miss request error
+autoload templat error
+autoload wrong encod error
+
+
+
+autoload test case
+
+eager load
+
+action view helper eager load
+action view templat eager load
+html eager load
+
+
+
+activ support core string output safeti
+
+activ support load i18n
+i18n load path file dirnam file action view local
+
+action view render
+activ support core remov method
+
+action view
+layout revers common pattern includ share header footer mani templat isol chang
+repeat setup inclus pattern page look like
+
+render share header
+hello world
+render share footer
+
+thi approach decent keep common structur isol chang content verbos
+ever want chang structur includ chang templat
+
+with layout flip around common structur know insert chang content thi mean
+header footer mention place like
+
+header part layout
+
+footer part layout
+
+content page look like
+
+hello world
+
+render time content page comput insert layout like
+
+header part layout
+hello world
+footer part layout
+
+access share variabl
+
+layout access variabl specifi content page vice versa thi allow layout
+refer materi render time
+
+page titl
+
+
+content page fulfil refer render time
+
+page titl welcom
+world coloni offer chanc start life
+
+result render
+
+welcom
+world coloni offer chanc start life
+
+layout assign
+
+either specifi layout declar use layout method give
+name control place view layout
+subclass layout specifi inherit layout use normal rubi inherit
+
+instanc post control templat name view layout post html
+templat use action post control control inherit
+post control
+
+instanc weblog post control need templat name
+view layout weblog post html
+
+sinc control inherit applic control
+view layout applic html layout specifi
+provid
+
+inherit exampl
+
+bank control action control base
+bank html exist
+
+exchang control bank control
+exchang html exist
+
+currenc control bank control
+
+inform control bank control
+layout inform
+
+teller control inform control
+teller html exist
+
+employe control inform control
+employe html exist
+layout
+
+vault control bank control
+layout access level layout
+
+till control bank control
+layout
+
+exampl three implicit lookup scenario
+bank control use bank layout
+exchang control use exchang layout
+currenc control inherit layout bank control
+
+howev layout explicitli explicitli layout win
+inform control use inform layout explicitli
+teller control also use inform layout parent explicitli
+employe control use employe layout layout reset parent configur
+vault control choos layout dynam call access level layout method
+till control layout
+
+type layout
+
+layout basic regular templat name templat need specifi static sometim
+want altern layout depend runtim inform whether someon log thi
+done either specifi method refer symbol use inlin method proc
+
+method refer prefer approach variabl layout use like
+
+weblog control action control base
+layout writer reader
+
+index
+fetch post
+
+
+
+writer reader
+log writer layout reader layout
+
+
+
+request index action process layout vari depend whether person access
+log
+
+want inlin method proc someth like
+
+weblog control action control base
+layout proc control control log writer layout reader layout
+
+
+argument given proc evalu context
+current control anyway
+
+weblog control action control base
+layout proc log writer layout reader layout
+
+
+cours common specifi layout still plain templat name
+
+weblog control action control base
+layout weblog standard
+
+
+templat look alway view layout folder point
+layout folder direct also layout layout demo layout demo
+
+set layout forc look filesystem fallback parent behavior none exist
+set use enabl templat lookup overrid previou configur parent
+
+applic control action control base
+layout applic
+
+
+post control applic control
+will applic layout
+
+
+comment control applic control
+will search comment layout fallback applic layout
+layout
+
+
+condit layout
+
+layout appli action control still option render
+given action action without layout restrict layout singl action action
+option pass layout call exampl
+
+weblog control action control base
+layout weblog standard
+
+
+
+
+
+thi assign weblog standard weblog control layout action action
+render directli without wrap layout around render view
+
+both condit accept arbitrari number method refer
+text valid
+
+use differ layout action render call
+
+action layout make perfect sens defin control wide layout describ
+sometim except action want differ layout rest control
+pass layout option render call exampl
+
+weblog control action control base
+layout weblog standard
+
+help
+render action help layout help
+
+
+
+thi overrid control wide weblog standard layout render help action help layout instead
+layout
+extend activ support concern
+
+action view render
+
+includ
+attribut layout layout condit instanc accessor
+layout
+layout condit
+write layout method
+
+
+deleg layout condit
+
+class method
+inherit klass nodoc
+
+klass write layout method
+
+
+thi mix layout condit provid thi mean
+layout condit use method use
+layout condit nodoc
+
+
+determin whether current action layout definit
+check action name condit
+layout method
+
+return
+boolean action layout definit otherwis
+condit layout
+
+
+condit layout condit
+
+condit
+action name
+condit
+action name
+
+
+
+
+
+
+specifi layout
+
+specifi layout
+string string templat name
+symbol call method specifi symbol templat name
+there layout
+argument error
+forc layout behavior inherit
+
+paramet
+layout layout
+
+option condit
+action appli layout
+appli layout action
+layout layout condit
+layout condit condit
+
+condit condit array
+layout condit condit
+
+layout layout
+write layout method
+
+
+creat layout method call layout
+
+layout explicitli mention look layout control name
+noth found procedur find layout
+write layout method nodoc
+remov possibl method layout
+
+prefix impli layout name blayout layout
+behavior lookup context find impli layout name prefix inspect first
+name claus name
+behavior
+
+rubi
+
+rubi
+
+
+layout definit layout
+string
+layout inspect
+symbol
+rubi
+layout layout
+behavior layout
+layout string layout
+argument error your layout method layout return layout
+return string
+
+
+rubi
+proc
+defin method layout proc layout
+layout proc
+rubi
+result layout proc layout ariti
+behavior result
+result
+rubi
+
+
+
+argument error layout must specifi string symbol proc
+
+name claus
+
+
+rubi file line
+layout
+condit layout
+layout definit
+
+name claus
+
+
+layout
+rubi
+
+
+
+
+layout suppli look templat name
+valu method
+
+return
+string templat name
+impli layout name nodoc
+control path
+
+
+
+normal option option nodoc
+
+
+layout option
+layout option delet layout
+option layout layout option layout
+
+
+
+attr intern writer action layout
+
+initi nodoc
+action layout
+
+
+
+control whether action render use layout
+want disabl layout set
+current action render without layout
+either overrid method control
+action action layout attribut
+render
+action layout
+action layout
+
+
+
+
+condit layout
+
+
+
+thi overwritten write layout method
+layout
+
+determin layout given name take account name type
+
+paramet
+name name templat
+layout option name
+name
+string normal layout name
+proc name
+proc layout
+proc layout
+
+
+argument error
+string proc expect layout pass name inspect
+
+
+
+normal layout valu
+valu string valu blayout layout valu valu
+
+
+return layout control
+option rais except layout could found
+
+paramet
+layout layout found
+argument error except rais default
+
+return
+templat templat object layout
+layout layout
+
+valu layout action layout
+name error
+could render layout messag
+
+
+layout action layout valu
+argument error
+there layout view path inspect
+
+
+normal layout valu
+
+
+layout option
+option key bodi text plain html inlin partial option layout
+
+
+

@@ -1,0 +1,14663 @@
+lotu version
+lotu applic
+lotu contain
+lotu logger
+lotu environ
+
+complet framework rubi
+
+sinc
+
+http lotusrb
+lotu
+return root project level directori
+
+pathnam root path
+
+sinc
+
+exampl
+lotu root pathnam user luca code bookshelf
+root
+environ root
+
+
+return current environ
+
+string current environ
+
+sinc
+
+lotu environ environ
+
+exampl
+lotu develop
+
+environ environ
+
+
+check specifi environ match current environ
+
+multipl name given return least
+match current environ
+
+true class fals class result check
+
+sinc
+
+lotu
+
+exampl singl name
+put lotu develop
+
+lotu develop
+lotu develop
+
+lotu product
+
+exampl multipl name
+put lotu develop
+
+lotu develop test
+lotu product stage
+name
+environ environ name
+
+
+return environ
+
+lotu environ environ
+
+
+sinc
+environ
+environ
+
+
+hanami version
+hanami applic
+hanami contain
+hanami environ
+hanami server
+
+complet framework rubi
+
+sinc
+
+http hanamirb
+hanami
+default public directori freez
+
+return root project level directori
+
+pathnam root path
+
+sinc
+
+exampl
+hanami root pathnam user luca code bookshelf
+root
+environ root
+
+
+directori
+root join default public directori
+
+
+return current environ
+
+string current environ
+
+sinc
+
+hanami environ environ
+
+exampl
+hanami develop
+
+environ environ
+
+
+check specifi environ match current environ
+
+multipl name given return least
+match current environ
+
+true class fals class result check
+
+sinc
+
+hanami
+
+exampl singl name
+put hanami develop
+
+hanami develop
+hanami develop
+
+hanami product
+
+exampl multipl name
+put hanami develop
+
+hanami develop test
+hanami product stage
+name
+environ environ name
+
+
+return environ
+
+hanami environ environ
+
+
+sinc
+environ
+environ
+
+
+rel lotu
+thread
+pathnam
+dotenv
+lotu util hash
+lotu lotusrc
+
+lotu
+defin expos inform lotu environ
+
+sinc
+
+environ
+standard rack
+
+sinc
+
+rack rack freez
+
+standard lotu
+
+sinc
+
+lotu lotu freez
+
+default lotu environ
+
+sinc
+
+default develop freez
+
+default file name
+
+sinc
+
+default dotenv freez
+
+default environ file name
+
+sinc
+
+default dotenv freez
+
+default configur directori applic root
+
+sinc
+
+default config config freez
+
+standard lotu host
+
+sinc
+
+lotu host lotu host freez
+
+default http host
+
+sinc
+
+default host localhost freez
+
+default address listen
+
+sinc
+
+listen host freez
+
+standard lotu port
+
+sinc
+
+lotu port lotu port freez
+
+default lotu http port
+
+sinc
+
+default port 2300
+
+default rack configur file
+
+sinc
+
+default rackup config freez
+
+default environ configur file
+
+sinc
+
+default environ config environ freez
+
+code reload environ
+
+sinc
+
+code reload develop freez
+
+initi lotu environ
+
+accept option configur command
+those set overrid default defin object
+
+when initi set standard variabl rack lotu
+rack lotu
+
+also evalu configur environ
+locat config directori set file
+export variabl
+
+format file compat dotenv foreman
+gem
+
+param option hash overrid option variou environ
+attribut
+
+lotu environ environ
+
+lotu command consol
+lotu command rout
+lotu command server
+lotu environ config
+
+exampl defin variabl
+
+tree config
+config
+
+develop
+environ
+
+config
+
+
+
+config develop
+
+
+lotu environ
+
+lotu environ
+environ develop
+
+framework defin var
+lotu develop
+rack develop
+
+lotu host localhost
+lotu port 2300
+
+user defin var
+
+
+
+lotu environ evalu first master configur
+then evalu develop current environ
+develop set defin last file overrid
+defin parent overwritten
+set left untouch
+initi option
+option lotu lotusrc root read
+option merg util hash option symbol
+mutex mutex
+mutex synchron var
+
+
+current environ
+
+order decid valu look follow var
+
+lotu
+rack
+
+miss fall back defalt develop
+
+string current environ
+
+sinc
+
+lotu environ default
+environ
+environ lotu rack default
+
+
+sinc
+
+lotu name
+environ name
+name environ
+
+
+bundler group
+
+array group
+
+sinc
+
+
+http bundler group html
+bundler group
+environ
+
+
+applic root
+
+default current work directori
+lotu assum command execut
+
+pathnam applic root
+
+sinc
+root
+root pathnam
+
+
+applic config directori
+
+applic configur store
+
+order decid valu look follow sourc
+
+option config
+
+miss fall back config
+
+when rel path given option assum locat
+applic root absolut path use
+
+pathnam config directori
+
+sinc
+
+lotu environ default config
+lotu environ root
+config
+config root join option fetch config default config
+
+
+http host name
+
+order decid valu look follow sourc
+
+option host
+lotu host
+
+miss fall back follow default
+
+localhost develop
+environ
+
+string http host name
+
+sinc
+
+lotu environ default host
+lotu environ listen host
+host
+host option fetch host
+lotu host host
+
+
+
+http port
+
+order decid valu look follow sourc
+
+option port
+lotu port
+
+miss fall back 2300
+
+integ port
+
+sinc
+
+lotu environ default port
+port
+port option fetch port lotu port default port
+
+
+path rack configur file
+
+order decid valu look follow sourc
+
+option rackup
+
+miss fall back config
+
+when rel path given option assum locat
+applic root absolut path use
+
+pathnam path rack configur file
+
+sinc
+rackup
+root join option fetch rackup default rackup
+
+
+path environ configur file
+
+order decid valu look follow sourc
+
+option environ
+
+miss fall back
+config environ
+
+when rel path given option assum locat
+applic root absolut path use
+
+pathnam path applic
+
+sinc
+
+lotu environ default environ config
+config
+root join option fetch environ config join default environ config
+
+
+determin activ code reload current environ
+run server
+
+order decid valu look follow sourc
+
+option code reload
+
+miss fall back follow default
+
+develop
+environ
+
+true class fals class result check
+
+sinc
+
+lotu command server
+lotu environ code reload
+code reload
+option fetch code reload code reload environ
+
+
+serial relev set hash
+
+lotu util hash
+
+sinc
+
+option
+option merg
+environ environ
+config config
+rackup rackup
+host host
+port port
+
+
+
+
+
+sinc
+
+var
+lotu var
+applic var
+
+
+sinc
+
+lotu var
+lotu rack environ
+lotu host host
+lotu port port
+
+
+sinc
+
+applic var
+dotenv load config join default dotenv
+dotenv overload config join default dotenv environ
+
+
+sinc
+
+host
+environ default default host listen host
+
+
+
+lotu util kernel
+lotu environ
+lotu config framework configur
+lotu config load path
+lotu config asset
+lotu config rout
+lotu config map
+lotu config session
+lotu config configur
+lotu config secur
+lotu config cooki
+
+lotu
+configur lotu applic
+
+sinc
+configur
+sinc
+
+
+lotu configur
+scheme http freez
+
+initi configur instanc
+
+lotu configur
+
+sinc
+
+initi
+proc
+environ
+configur hash
+
+
+block configur load
+path specif environ
+
+param environ symbol configur environ name
+param proc configur block
+
+
+
+sinc
+
+configur environ path
+environ path
+configur environ config configur root path
+environ
+configur environ
+
+
+
+
+
+
+
+load configur
+
+param string applic
+
+
+
+sinc
+
+load
+
+evalu configur
+
+
+
+
+return secur polici
+
+lotu config secur
+
+sinc
+
+lotu config secur
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+secur frame option allow
+secur content secur polici script http api exampl
+
+
+
+
+bookshelf applic configur secur frame option allow
+bookshelf applic configur secur content secur polici script http api exampl
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+secur frame option allow
+secur content secur polici script http api exampl
+
+
+
+secur
+secur config secur
+
+
+root applic
+
+return current directori reason
+command must execut level directori project
+
+reason constraint cannot satisfi pleas
+configur root directori command execut
+everywher
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload root valu
+set given valu
+param valu string pathnam pathnam root directori
+
+overload root
+get valu
+pathnam
+errno enoent path cannot found
+
+sinc
+
+http rubi core html method
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur root pathnam path root
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+root path anoth root
+
+
+
+root valu
+valu
+root valu
+
+util kernel pathnam root realpath
+
+
+
+applic
+
+return rubi applic instanc
+applic bookshelf applic return bookshelf
+
+thi valu init time configur
+load load
+
+lotu applic namespac control view live
+applic without pollut
+howev reason want level class valu
+object level rubi
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload valu
+set given valu
+param valu class modul valid rubi
+
+overload
+get valu
+class modul rubi
+
+sinc
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur bookshelf
+
+lookup namespac control bookshelf
+bookshelf control dashboard
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+object
+
+
+
+
+bookshelf applic configur object
+
+lookup level control object
+dashboard control
+valu
+valu
+valu
+
+
+
+
+
+lotu layout applic
+
+
+
+accept symbol layout name when applic load
+lookup correspond
+
+view layout otherwis specifi
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload layout valu
+set given valu
+param valu symbol layout name
+
+overload layout
+get valu
+symbol layout name
+
+sinc
+
+http rdoc info gem lotu view lotu layout
+http rdoc info gem lotu view lotu view configur layout
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur layout
+
+view render without layout
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+layout applic
+
+
+
+view
+dashboard
+index
+bookshelf view
+
+
+json index index
+layout
+
+
+
+
+
+bookshelf applic configur layout applic
+
+view bookshelf view applic layout
+differ valu
+
+bookshelf view dashboard index layout
+bookshelf view applic layout
+
+bookshelf view dashboard json index layout
+lotu view render null layout
+layout valu
+valu
+layout valu
+
+layout
+
+
+
+templat root
+applic recurs look templat path
+
+equal applic root
+
+otherwis specifi differ rel path root
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload templat valu
+set given valu
+param valu string rel path templat root
+
+overload templat
+get valu
+pathnam templat root
+
+sinc
+
+lotu configur root
+http rdoc info gem lotu view lotu view configur root
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur templat
+pathnam root path
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+templat templat
+
+
+
+
+bookshelf applic configur templat
+pathnam root path templat
+templat valu
+valu
+templat valu
+
+root join templat
+
+
+
+applic serv asset directori
+
+equal directori applic
+root
+
+otherwis differ rel path root
+
+overload asset
+get valu
+lotu config asset asset root
+
+sinc
+
+lotu configur serv asset
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur asset
+pathnam root path
+
+exampl ad asset path
+lotu
+
+bookshelf
+applic lotu applic
+configur
+serv asset
+asset
+vendor asset
+
+
+
+
+
+bookshelf applic configur asset
+lotu config asset root pathnam root path asset path
+
+asset
+asset config asset root
+
+
+configur serv asset
+enabl asset disabl
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+sinc
+
+overload serv asset valu
+set given valu
+param valu true class fals class
+
+overload serv asset
+get valu
+true class fals class
+
+lotu configur asset
+
+exampl get serv asset configur
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur serv asset
+
+
+exampl enabl asset
+lotu
+
+bookshelf
+applic lotu applic
+configur
+serv asset
+
+
+
+
+bookshelf applic configur serv asset
+
+serv asset valu
+valu
+serv asset
+
+serv asset valu
+
+
+
+configur cooki
+enabl cooki disabl
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload cooki option
+set given valu option
+param option hash true class fals class
+
+overload cooki
+get valu
+lotu config cooki
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur cooki
+lotu config cooki 0x0000000329f880 option option httponli secur
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+cooki domain lotusrb
+
+
+
+
+bookshelf applic configur cooki
+lotu config cooki 0x0000000329f880 option domain lotusrb option domain lotusrb httponli secur
+cooki option
+option
+cooki config cooki option
+
+cooki config cooki option
+
+
+
+configur session
+enabl session disabl
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+given class adapt use session middlewar
+given string adapt resolv name use
+session middlewar
+given symbol adapt assum name
+rack session use session middlewar
+cooki rack session cooki
+
+option domain infer host configur
+secur flag infer scheme configur
+
+overload session adapt option
+set given valu
+param adapt class string symbol rack middlewar session manag
+param option hash option session middlewar
+
+overload session
+disabl session
+
+overload session
+get valu
+lotu config session session configur
+
+sinc
+
+lotu configur host
+lotu configur scheme
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur session
+lotu config session 0x00000001ca0c28 enabl
+
+exampl set valu symbol
+lotu
+
+bookshelf
+applic lotu applic
+configur
+session cooki secret abc123
+
+
+
+
+bookshelf applic configur session
+lotu config session 0x00000001589458 enabl adapt cooki option domain localhost secur
+
+exampl disabl previusli enabl session
+lotu
+
+bookshelf
+applic lotu applic
+configur
+session cooki
+session
+
+
+
+
+bookshelf applic configur session
+lotu config session 0x00000002460d78 enabl
+
+session adapt option
+adapt
+session config session
+
+session config session adapt option
+
+
+
+applic load path
+applic recurs load rubi file path
+
+order allow develop decid
+structur
+
+lotu config load path load path
+
+sinc
+
+lotu configur root
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur load path
+lotu config load path 0x007ff4fa212310 path
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+load path
+control
+view
+
+
+
+
+
+bookshelf applic configur asset
+lotu config load path 0x007fe3a20b18e0 path control view
+load path
+load path config load path
+
+
+applic rout
+
+specifi rout applic pass block
+rel path find file describ
+
+
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload rout
+specifi rout given block
+param proc rout definit
+
+overload rout path
+specifi rel path find rout file
+param path string rel path
+
+overload rout
+get valu
+lotu config rout rout
+
+sinc
+
+http rdoc info gem lotu router lotu router
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur rout
+
+
+exampl set valu pass block
+lotu
+
+bookshelf
+applic lotu applic
+configur
+rout
+dashboard index
+resourc book
+
+
+
+
+
+bookshelf applic configur rout
+lotu config rout 0x007ff50a991388 proc 0x007ff50a991338 path pathnam
+
+exampl set valu pass rel path
+lotu
+
+bookshelf
+applic lotu applic
+configur
+rout config rout
+
+
+
+
+bookshelf applic configur rout
+lotu config rout 0x007ff50a991388 path pathnam config rout
+rout path
+path block given
+rout config rout root path
+
+rout
+
+
+
+bodi pars configur
+
+specifi parser specif mime type applic thi method
+applic parser exist custom parser
+applic
+
+array
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload bodi parser parser
+specifi bodi parser
+param parser array bodi parser definit
+
+overload bodi parser
+get valu
+array parser
+
+sinc
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur bodi parser
+
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+bodi parser json xml parser
+
+
+
+
+bookshelf applic configur bodi parser
+json xml parser
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+bodi parser json
+bodi parser xml parser
+
+
+
+
+bookshelf applic configur bodi parser
+xml parser
+
+bodi parser parser
+parser
+bodi parser
+
+bodi parser parser
+
+
+
+applic middlewar
+
+specifi middlewar applic thi method
+applic underli middlewar stack
+middlewar applic middlewar stack
+contain rack static rack method overrid howev
+asset specifi configur block
+rack static remov
+
+sinc
+
+http rdoc info gem rack rack static
+lotu middlewar
+
+exampl
+lotu
+
+bookshelf
+applic lotu applic
+configur
+middlewar rack method overrid must revalid
+middlewar rack e tag
+
+
+
+middlewar
+middlewar lotu middlewar
+
+
+applic collect map
+
+specifi collect applic pass block
+rel path find file describ
+
+
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload map
+specifi map given block
+param proc map definit
+
+overload map path
+specifi rel path find map file
+param path string rel path
+
+overload map
+get valu
+lotu config map map
+
+sinc
+
+http rdoc info gem lotu model lotu mapper
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur map
+
+
+exampl set valu pass block
+lotu
+
+bookshelf
+applic lotu applic
+configur
+map
+collect user
+entiti user
+
+attribut integ
+attribut name string
+
+
+
+
+
+
+bookshelf applic configur map
+lotu config map 0x007ff50a991388 proc 0x007ff123991338 path pathnam
+
+exampl set valu pass rel path
+lotu
+
+bookshelf
+applic lotu applic
+configur
+map config map
+
+
+
+
+bookshelf applic configur map
+lotu config rout 0x007ff50a991388 path pathnam config map
+map path
+path block given
+map config map root path
+
+map
+
+
+
+adapt configur
+applic instanti adapt instanc base configur
+
+given option must pair type
+runtim framework
+argument error
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload adapt option
+set given type
+param option hash option adapt
+
+overload adapt
+get valu
+hash adapt option
+
+sinc
+
+lotu configur adapt
+http rdoc info gem lotu model lotu model configur adapt
+
+exampl
+lotu
+
+bookshelf
+applic lotu applic
+configur
+adapt type sqlite3
+
+
+
+
+bookshelf applic configur adapt
+type sqlite3
+adapt option
+option
+adapt option
+
+adapt
+
+
+
+format fallback request without strict
+requir mime type
+
+given format must coercibl symbol valid mime type
+runtim framework
+lotu control unknown format error
+
+valu html
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload format format
+set given valu
+param format symbol format
+type error cannot coerc symbol
+
+overload format
+get valu
+symbol
+
+sinc
+
+http rdoc info gem lotu control lotu control configur format
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur format html
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+format json
+
+
+
+
+bookshelf applic configur format json
+format format
+format
+format util kernel symbol format
+
+format html
+
+
+
+scheme applic
+thi use router helper gener absolut ur ls
+
+valu http
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload scheme valu
+set given valu
+param valu string scheme
+
+overload scheme
+get valu
+string
+
+sinc
+
+http wikipedia wiki scheme
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur scheme http
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+scheme http
+
+
+
+
+bookshelf applic configur scheme http
+scheme valu
+valu
+scheme valu
+
+scheme http
+
+
+
+check applic use
+
+fals class true class result check
+
+sinc
+
+lotu configur scheme
+
+scheme scheme
+
+
+host applic
+thi use router helper gener absolut ur ls
+
+valu localhost
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload host valu
+set given valu
+param valu string host
+
+overload scheme
+get valu
+string
+
+sinc
+
+http wikipedia wiki scheme
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur host localhost
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+host bookshelf
+
+
+
+
+bookshelf applic configur host bookshelf
+host valu
+valu
+host valu
+
+host host
+
+
+
+port applic
+thi use router helper gener absolut ur ls
+
+valu 2300
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload port valu
+set given valu
+param valu port
+type error given valu cannot coerc integ
+
+overload scheme
+get valu
+string
+
+sinc
+
+http wikipedia wiki scheme
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+bookshelf applic configur port 2300
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+port 8080
+
+
+
+
+bookshelf applic configur port 8080
+port valu
+valu
+port integ valu
+
+port port
+
+
+
+defin rel pattern find control
+
+lotu support multipl architectur applic structur
+set help understand find applic
+control action
+
+equal control control action
+that mean control must structur like
+bookshelf control dashboard index bookshelf
+applic control first valu
+specifi pattern dashboard control
+index action
+
+thi pattern must alway contain control action
+thi pattern should use accordingli view pattern valu
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload control pattern valu
+set given valu
+param valu string control pattern
+
+overload control pattern
+get valu
+string
+
+sinc
+
+lotu configur view pattern
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+rout
+dashboard index
+
+
+
+
+control
+dashboard
+bookshelf control
+
+action index
+call param
+
+
+
+
+
+
+
+bookshelf applic configur control pattern
+control control action
+
+control must live bookshelf control
+
+bookshelf control dashboard index
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+control pattern control control action
+
+rout
+dashboard index
+
+
+
+
+dashboard control
+bookshelf control
+
+action index
+call param
+
+
+
+
+
+bookshelf applic configur control pattern
+control control action
+
+control directli bookshelf
+
+bookshelf dashboard control index
+
+exampl set valu level name structur
+lotu
+
+bookshelf
+applic lotu applic
+configur
+object
+control pattern control control action
+
+rout
+dashboard index
+
+
+
+
+
+dashboard control
+bookshelf control
+
+action index
+call param
+
+
+
+
+bookshelf applic configur control pattern
+control control action
+
+control level
+
+dashboard control index
+control pattern valu
+valu
+control pattern valu
+
+control pattern control control action
+
+
+
+defin rel pattern find view
+
+lotu support multipl architectur applic structur
+set help understand find applic
+view
+
+equal view control action
+that mean view must structur like
+bookshelf view dashboard index bookshelf
+applic view first valu specifi
+pattern dashboard correspond control name
+index view correspond action name
+
+thi pattern must alway contain control action
+thi pattern should use accordingli control pattern valu
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload view pattern valu
+set given valu
+param valu string view pattern
+
+overload control pattern
+get valu
+string
+
+sinc
+
+lotu configur control pattern
+
+exampl get valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+rout
+dashboard index
+
+
+
+
+view
+dashboard
+index
+bookshelf view
+
+
+
+
+
+bookshelf applic configur view pattern
+view control action
+
+view must live bookshelf view
+
+bookshelf view dashboard index
+
+exampl set valu
+lotu
+
+bookshelf
+applic lotu applic
+configur
+view pattern control action
+
+rout
+dashboard index
+
+
+
+
+dashboard
+index
+bookshelf view
+
+
+
+
+bookshelf applic configur view pattern
+control action
+
+view directli bookshelf
+
+bookshelf dashboard index
+
+exampl set valu level name structur
+lotu
+
+bookshelf
+applic lotu applic
+configur
+object
+view pattern control action
+
+rout
+dashboard index
+
+
+
+
+
+dashboard
+index
+bookshelf view
+
+
+
+bookshelf applic configur view pattern
+control action
+
+view level
+
+dashboard index
+view pattern valu
+valu
+view pattern valu
+
+view pattern view control action
+
+
+
+decid handl except http statu uncaught
+
+valu configur except
+specifi http statu rest
+
+valu except caught
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload handl except valu
+set given valu
+param valu true class fals class
+
+overload handl except
+get valu
+true class fals class
+
+sinc
+
+http rdoc info gem lotu control lotu control configur handl except
+http httpstatu
+
+exampl enabl
+lotu
+
+bookshelf
+applic lotu applic
+configur
+rout
+error error index
+
+
+
+load
+
+
+control error
+bookshelf control
+
+action index
+call param
+argument error
+
+
+
+
+
+error intern server error
+
+exampl disabl
+lotu
+
+bookshelf
+applic lotu applic
+configur
+handl except
+
+rout
+error error index
+
+
+
+load
+
+
+control error
+bookshelf control
+
+action index
+call param
+argument error
+
+
+
+
+
+error rais argument error
+handl except valu
+valu
+handl except
+
+handl except valu
+
+
+
+lazili collect level set lotu model
+configur appli applic load
+
+note thi forward configur lotu model without
+check befor featur pleas look
+current lotu model version instal
+
+note thi overrid configur applic
+
+lotu config framework configur configur
+
+sinc
+
+http rubydoc info gem lotu model lotu model configur
+
+exampl defin set
+lotu
+lotu model
+
+bookshelf
+applic lotu applic
+configur
+model adapt type memori memori localhost databas
+
+
+
+
+exampl overrid set
+lotu
+lotu model
+
+bookshelf
+applic lotu applic
+configur
+adapt type postgr localhost databas
+model adapt type memori memori localhost databas
+
+
+
+
+memori adapt overrid
+model
+model config framework configur
+
+
+lazili collect level set lotu control
+configur appli applic load
+
+note thi forward configur lotu control without
+check befor featur pleas look
+current lotu control version instal
+
+note thi overrid configur applic
+
+lotu config framework configur configur
+
+sinc
+
+http rubydoc info gem lotu control lotu control configur
+
+exampl defin set
+lotu
+
+bookshelf
+applic lotu applic
+configur
+control format json
+
+
+
+
+exampl overrid set
+lotu
+
+bookshelf
+applic lotu applic
+configur
+handl except
+control handl except
+
+
+
+
+except handl
+control
+control config framework configur
+
+
+lazili collect level set lotu view
+configur appli applic load
+
+note thi forward configur lotu view without
+check befor featur pleas look
+current lotu view version instal
+
+note thi overrid configur applic
+
+lotu config framework configur configur
+
+sinc
+
+http rubydoc info gem lotu view lotu view configur
+
+exampl defin set
+lotu
+
+bookshelf
+applic lotu applic
+configur
+view layout applic
+
+
+
+
+exampl overrid set
+lotu
+
+bookshelf
+applic lotu applic
+configur
+layout applic
+view layout backend
+
+
+
+
+backend layout
+view
+view config framework configur
+
+
+
+sinc
+
+evalu configur
+configur instanc
+
+
+sinc
+
+configur
+configur environ
+
+
+
+lotu util attribut
+lotu framework
+lotu configur
+lotu loader
+lotu render polici
+lotu middlewar
+
+lotu
+full stack lotu applic
+
+sinc
+
+exampl
+lotu
+
+bookshelf
+applic lotu applic
+
+
+applic
+overrid rubi class inherit
+
+sinc
+
+
+http rubi core class html method inherit
+inherit base
+
+
+base
+lotu util class attribut
+
+attribut configur
+configur configur
+
+
+synchron
+applic base
+
+
+
+registri lotu applic current rubi process
+
+regist applic
+
+sinc
+
+applic
+synchron
+applic
+
+
+
+configur applic
+yield given block context configur
+
+param environ symbol configur environ name
+param proc configur block
+
+sinc
+
+lotu configur
+
+exampl
+lotu
+
+bookshelf
+applic lotu applic
+configur
+
+
+
+
+configur environ
+configur configur environ
+
+
+return rout applic
+
+lotu router rout
+
+sinc
+
+lotu configur rout
+attr reader rout
+
+rout applic
+
+param lotu router
+
+sinc
+
+attr writer rout
+
+render polici
+
+param lotu render polici
+
+sinc
+
+attr accessor render
+
+initi load instanc applic
+
+lotu applic instanc applic
+
+sinc
+initi
+load
+
+
+eager load applic configur activ framework
+duplic mechan
+
+param applic lotu applic class lotu applic
+
+
+sinc
+
+exampl
+lotu
+
+one file
+applic lotu applic
+configur
+rout
+dashboard index
+
+
+
+load
+
+
+control dashboard
+one file control
+
+action index
+call param
+bodi hello
+
+
+
+
+load applic
+lotu loader applic load
+
+
+preload regist applic yield configur
+prepar framework
+
+thi use test suit want make lotu framework
+readi preload applic code
+
+thi allow test compon view action isol
+faster boot time
+
+
+
+sinc
+preload
+synchron
+applic load
+
+
+
+
+
+full preload regist applic
+
+thi use consol want applic code avail
+
+
+
+sinc
+
+preload applic
+synchron
+applic
+
+
+
+
+
+return configur applic
+
+sinc
+
+
+lotu applic configur
+configur
+configur
+
+
+return applic name
+
+sinc
+
+name
+name
+
+
+process request
+thi method make lotu applic compat rack protocol
+
+param hash rack
+
+array serial rack respons
+
+sinc
+
+http rack github
+lotu applic middlewar
+call
+render render
+middlewar call
+
+
+rack middlewar stack
+
+lotu middlewar middlewar stack
+
+sinc
+
+
+lotu middlewar
+middlewar
+middlewar configur middlewar
+
+
+
+
+yield given block critic section
+
+sinc
+
+synchron
+mutex synchron
+
+
+
+
+
+pathnam
+dotenv
+
+lotu
+creat read lotusrc file root applic
+
+sinc
+
+lotusrc
+lotusrc name file
+
+sinc
+
+
+lotu lotusrc path file
+file name lotusrc freez
+
+architectur valu
+
+sinc
+
+
+lotu lotusrc read
+default architectur contain freez
+
+architectur write lotusrc file
+
+sinc
+
+
+lotu lotusrc read
+architectur architectur freez
+
+test suit valu
+
+sinc
+
+
+lotu lotusrc read
+default test suit minitest freez
+
+test suit write lotusrc file
+
+sinc
+
+
+lotu lotusrc read
+test test freez
+
+templat valu
+
+sinc
+
+
+lotu lotusrc read
+default templat freez
+
+templat write lotusrc file
+
+sinc
+
+
+lotu lotusrc read
+templat templat freez
+
+initi lotusrc applic root enviro option
+creat lotusrc file exist root given
+
+param root pathnam applic root
+param option hash environ option
+
+lotu environ initi
+initi root option
+root root
+option option
+
+note line order auto upgrad applic gener
+lotusrb consid remov futur
+creat
+
+
+read lotusrc file pars valu
+
+lotu util hash pars valu
+
+exampl default valu file exist
+lotu lotusrc pathnam read
+architectur contain test minitest templat
+
+exampl custom valu file exist
+option architect applic test rspec templat slim
+lotu lotusrc pathnam option read
+architectur applic test rspec templat slim
+read
+exist
+lotusrc option dotenv load path file
+util hash lotusrc option symbol
+
+
+
+
+
+creat lotusrc file exist
+
+sinc
+
+
+lotu lotusrc default architectur
+lotu lotusrc architectur
+lotu lotusrc default test suit
+lotu lotusrc test
+lotu lotusrc default templat
+lotu lotusrc templat
+creat
+exist
+rcfile file path file
+rcfile put architectur option fetch architectur default architectur
+rcfile put test option fetch test default test suit
+rcfile put templat option fetch templat default templat
+rcfile close
+
+
+
+check lotusrc file exist
+
+sinc
+
+
+boolean lotusrc file path exist
+exist
+path file exist
+
+
+return lotusrc file path
+
+sinc
+
+
+pathnam lotusrc file path
+
+lotu lotusrc file name
+path file
+root join file name
+
+
+
+thor
+lotu environ
+lotu version
+
+lotu
+thor
+thor action
+
+desc version print lotu version
+version
+put lotu version
+
+
+desc server start lotu server
+method option port alias desc port server
+method option server desc choos specif rack handler webrick thin
+method option rackup desc rackup configur file path load config
+method option host desc host address bind
+method option debug desc turn debug output
+method option warn desc turn warn
+method option daemon desc server daemon fork detach
+method option desc path write file daemon
+method option environ desc path environ configur config environ
+method option code reload desc code reload type
+method option help alias desc display usag messag
+
+server
+option help
+invok help server
+
+lotu command server
+lotu command server environ start
+
+
+
+desc consol start lotu consol
+method option environ desc path environ configur config environ
+method option engin desc choos specif consol engin ripl
+method option help alias desc display usag method
+
+consol
+option help
+invok help consol
+
+lotu command consol
+lotu command consol environ start
+
+
+
+desc rout print rout
+method option environ desc path environ configur config environ
+method option help alias desc display usag method
+
+rout
+option help
+invok help rout
+
+lotu command rout
+lotu command rout environ start
+
+
+
+desc gener applic
+method option databas alias desc applic databas type string filesystem
+method option architectur alias desc applic architectur type string contain
+method option applic desc applic name type string
+method option applic base desc applic base type string
+method option path desc path type string
+method option test desc applic test framework rspec minitest type string minitest
+method option lotu head desc lotu head type
+method option help alias desc display usag method
+
+name
+option help name
+invok help
+
+lotu command
+lotu command name environ start
+
+
+
+desc gener gener action
+method option applic base desc applic base type string
+method option path desc applic path type string app
+method option skip view desc skip creation view templat action type
+method option help alias desc display usag method
+
+sinc
+
+gener type name name
+option help type name name
+invok help gener
+
+lotu command gener
+lotu command gener type name name environ start
+
+
+
+lotu command
+regist lotu command subcommand manag oper
+
+
+
+environ
+lotu environ option
+
+
+
+lotusrb
+
+bundler
+lotu environ bundler group
+
+lotu router
+lotu view
+lotu control
+lotu action glue
+
+lotu control configur
+prepar
+lotu action glue
+
+
+pathnam
+
+lotu
+welcom
+initi
+root pathnam join templat realpath
+bodi root join welcom html read
+
+
+call
+bodi
+
+
+
+lotu environ
+
+lotu
+root
+lotu environ root
+
+
+lotu
+defin version
+
+sinc
+version freez
+
+logger
+lotu util string
+
+lotu
+lotu logger
+
+implement rubi logger
+use stdout output devic
+
+
+
+when lotu applic initi creat logger specif applic
+instanc bookshelf applic bookshelf logger avail
+
+thi use auto tag output booshelf
+
+when use stand alon lotu logger info tag line share
+
+
+
+avail sever level logger
+
+debug
+error
+fatal
+info
+unknown
+warn
+
+those level avail instanc method
+
+sinc
+
+http rubi stdlib libdoc logger rdoc logger html
+http rubi stdlib libdoc logger rdoc logger sever html
+
+exampl basic usag
+lotu
+
+bookshelf
+applic lotu applic
+
+
+
+initi applic follow code
+bookshelf applic load
+
+bookshelf applic
+
+bookshelf logger info hello
+2015 10 t21 727259 80487 info bookshelf hello
+
+bookshelf logger info hello
+2015 10 t21 727259 80487 info bookshelf hello
+
+exampl standalon usag
+lotu
+
+lotu logger info hello
+2015 10 t21 727259 80487 info lotu hello
+
+lotu logger info hello
+2015 10 t21 727259 80487 info lotu hello
+
+exampl custom tag
+lotu
+
+lotu logger info hello
+2015 10 t21 727259 80487 info hello
+logger logger
+lotu logger formatt
+
+sinc
+
+
+http rubi stdlib libdoc logger rdoc logger formatt html
+formatt logger formatt
+sinc
+
+attr writer applic name
+
+sinc
+
+
+http rubi stdlib libdoc logger rdoc logger formatt html method call
+call sever time prognam
+prognam applic name prognam
+sever time prognam
+
+
+
+default applic name
+thi use fallback tag purpos
+
+sinc
+
+default applic name lotu freez
+
+sinc
+
+attr writer applic name
+
+initi logger
+
+param applic name string option applic name use
+tag purpos
+
+sinc
+initi applic name
+stdout
+
+applic name applic name
+formatt lotu logger formatt applic name applic name
+
+
+return current applic name use tag purpos
+
+string applic name
+
+sinc
+applic name
+applic name applic name applic name
+
+
+
+sinc
+
+applic name
+name name
+util string name
+
+name
+
+
+sinc
+
+applic name
+default applic name
+
+
+
+lotu util
+lotu view
+lotu view null view
+
+lotu
+render polici
+
+sinc
+
+render polici
+statu
+header
+bodi
+
+lotu action lotu action freez
+
+success status freez
+render format html freez
+
+initi configur
+control pattern configur control pattern gsub control action
+view pattern configur view pattern
+configur
+templat configur templat
+
+
+render respons
+bodi render respons
+
+respons bodi array bodi bodi
+respons
+
+
+
+render respons
+action render
+render action action respons
+render statu page action respons
+
+
+
+render action action respons
+success respons
+view action respons render
+action exposur
+
+
+
+
+render statu page action respons
+render statu page action respons
+lotu view default render templat respons statu respons respons format html
+
+
+
+render
+action delet lotu action action render action
+
+
+success respons
+success status respons statu
+
+
+render statu page action respons
+render format action format
+
+
+view action respons
+respons bodi
+captur control pattern match action name
+util class load view pattern control captur control action captur action
+
+view null view respons bodi
+
+
+
+
+thread
+lotu router
+
+lotu
+contain
+attr reader rout
+
+configur
+mutex synchron configur
+
+
+initi
+mutex synchron
+configur presenc
+rout lotu router configur
+
+
+
+call
+rout call
+
+
+
+configur presenc
+variabl defin configur
+argument error applic mount
+
+
+
+
+lotu util
+lotu util kernel
+lotu util string
+lotu rout
+lotu rout
+lotu action session
+lotu config secur
+lotu action rout helper
+
+lotu
+load applic
+
+sinc
+
+loader
+initi applic
+applic applic
+configur applic configur
+
+mutex mutex
+
+
+load
+mutex synchron
+load configur
+configur framework
+load configur load path
+load rack
+load framework
+
+
+
+
+attr reader applic configur
+
+load configur
+configur load applic
+
+
+configur framework
+configur model framework defin lotu model
+configur control framework
+configur view framework
+configur logger
+
+
+configur control framework
+config configur
+defin control
+control lotu control duplic
+handl except config handl except
+format config format
+header
+lotu config secur frame option header config secur frame option
+lotu config secur content secur polici header config secur content secur polici
+
+
+config cooki enabl
+lotu action cooki
+prepar lotu action cooki
+cooki config cooki option
+
+prepar lotu action session config session enabl
+prepar lotu action rout helper
+
+config control appli
+
+
+control control
+
+
+
+configur view framework
+config configur
+defin view
+view lotu view duplic
+root config templat
+layout config layout
+
+config view appli
+
+
+view view
+
+
+
+configur model framework
+config configur
+lotu model load applic defin model
+model lotu model duplic applic
+adapt config adapt config adapt
+map config map config map
+
+config model appli
+
+
+applic model model
+
+
+
+configur logger
+applic defin logger
+logger lotu logger applic
+applic logger logger
+
+
+
+load framework
+load view framework
+load model framework
+
+
+load view framework
+
+view load
+
+
+
+load model framework
+load model framework
+
+applic
+applic model load
+
+
+
+load model framework
+lotu model load applic defin model
+model applic model
+model configur adapt
+
+
+
+lotu model load
+defin lotu model
+
+
+load configur load path
+configur load path load configur root
+
+
+load rack
+assign rout applic
+
+applic class
+assign render polici
+assign rack rout
+load rack middlewar
+
+
+assign render polici
+applic render render polici configur
+
+
+assign rack rout
+applic rout applic rout
+
+
+load rack middlewar
+configur middlewar load applic
+
+
+assign rout applic
+applic defin rout
+rout lotu rout applic rout
+applic rout rout
+
+
+
+applic
+applic util class load
+util string applic name
+
+
+
+applic rout
+resolv lotu rout endpoint resolv pattern configur control pattern
+lotu rout default
+lotu router
+parser configur bodi parser
+resolv resolv
+
+scheme configur scheme
+host configur host
+port configur port
+configur rout
+
+
+
+
+configur applic
+
+
+
+lotu
+rack middlewar stack applic
+
+sinc
+
+middlewar
+instanti middlewar stack
+
+param configur lotu configur applic configur
+
+lotu middlewar stack
+
+sinc
+
+
+lotu configur
+initi configur
+stack
+configur configur
+
+
+load middlewar stack
+
+param applic lotu applic applic load middlewar
+
+lotu middlewar load middlewar stack
+
+sinc
+
+
+http rdoc info gem rack rack builder
+load applic
+
+builder rack builder
+load stack applic
+stack arg block builder load middlewar arg block
+builder applic rout
+
+
+
+
+process request
+thi method make middlewar stack compat rack protocol
+
+param hash rack
+
+array serial rack respons
+
+sinc
+
+call
+builder call
+
+
+middlewar stack
+
+param middlewar object rack middlewar
+param arg array option argument rack middlewar
+param proc option block rack middlewar
+
+array middlewar ad
+
+sinc
+middlewar arg
+stack middlewar arg
+
+
+
+sinc
+load middlewar middlewar
+middlewar
+string
+middlewar
+
+middlewar
+
+
+
+
+sinc
+load stack applic
+stack load
+load session middlewar
+load asset middlewar
+load welcom page applic
+rack method overrid
+
+
+
+
+
+default welcom page
+
+
+sinc
+load welcom page applic
+applic rout defin
+lotu welcom
+lotu welcom
+
+
+
+session middlewar
+
+
+sinc
+load session middlewar
+configur session enabl
+configur session middlewar
+
+
+
+asset middlewar
+
+
+sinc
+load asset middlewar
+configur serv asset
+configur asset entri path children
+rack static url children root path
+
+
+
+
+
+lotu util escap
+
+lotu
+rout factori
+
+lotu applic factori instanti associ
+rout constant applic
+
+sinc
+rout
+initi factori
+
+param rout lotu router rout
+
+lotu rout factori
+
+sinc
+initi rout
+rout rout
+
+
+return rel path given rout name
+
+param name symbol rout name
+param arg array option argument pass
+wrap rout
+
+lotu util escap safe string correspond rel
+
+lotu rout invalid rout except
+
+sinc
+
+http rdoc info gem lotu router lotu router path instanc method
+
+exampl basic exampl
+lotu
+
+bookshelf
+applic lotu applic
+configur
+rout
+login session login
+
+
+
+
+
+bookshelf rout path login
+login
+
+bookshelf rout path login dashboard
+login 2 fdashboard
+
+exampl dynam finder
+lotu
+
+bookshelf
+applic lotu applic
+configur
+rout
+login session login
+
+
+
+
+
+bookshelf rout login path
+login
+
+bookshelf rout login path dashboard
+login 2 fdashboard
+path name arg
+util escap safe string rout path name arg
+
+
+return absolut path given rout name
+
+param name symbol rout name
+param arg array option argument pass
+wrap rout
+
+lotu util escap safe string correspond absolut
+
+lotu rout invalid rout except
+
+sinc
+
+http rdoc info gem lotu router lotu router instanc method
+
+exampl basic exampl
+lotu
+
+bookshelf
+applic lotu applic
+configur
+rout
+scheme http
+host bookshelf
+
+login session login
+
+
+
+
+
+bookshelf rout login
+http bookshelf login
+
+bookshelf rout login dashboard
+http bookshelf login 2 fdashboard
+
+exampl dynam finder
+lotu
+
+bookshelf
+applic lotu applic
+configur
+rout
+scheme http
+host bookshelf
+
+login session login
+
+
+
+
+
+bookshelf rout login
+http bookshelf login
+
+bookshelf rout login dashboard
+http bookshelf login 2 fdashboard
+name arg
+util escap safe string rout name arg
+
+
+
+sinc
+
+method miss arg
+name rout type split path
+
+type
+send type name rout arg
+
+
+
+
+
+
+lotu
+applic name
+
+sinc
+applic name
+
+word prohibit form applic name
+
+sinc
+reserv word lotu freez
+
+
+initi check reserv word
+
+applic name need translat quit way
+first must check reserv word reject
+invalid secondli assum invalid must abl
+output roughli given follow chang
+
+downcas
+surround space remov
+intern whitespac render underscor
+underscor duplic
+
+output must also transform
+environ variabl
+
+lotu applic name instanc applic name
+
+sinc
+initi name
+name sanit name
+valid
+
+
+
+return clean applic name
+
+exampl
+applic name
+
+sinc
+
+name
+
+
+
+return applic name uppercas alphanumer charact
+underscor
+
+exampl
+applic name
+
+sinc
+
+name upcas gsub
+
+
+
+return potenti applic name match reserv
+word
+
+exampl
+lotu applic name invalid lotu
+
+sinc
+invalid name
+reserv word name
+
+
+
+
+
+rais runtim error explan provid name invalid
+
+
+sinc
+valid
+invalid name
+runtim error
+applic name must follow
+reserv word join
+
+
+
+
+clean string function applic name
+
+
+sinc
+sanit name
+name
+downcas
+strip
+gsub
+gsub
+
+
+
+lotu util string
+
+lotu
+action
+rout helper full stack lotu applic
+
+given applic call applic runtim
+lotu creat rout factori call rout
+
+includ everi control
+
+sinc
+
+exampl usag control
+lotu
+
+control protect
+index
+action
+
+call param
+redirect rout root path
+
+
+
+rout helper
+includ base
+factori util string base rout
+
+base eval file line
+
+
+rout
+factori
+
+eval
+
+
+
+
+lotu view templat finder
+
+lotu
+view
+view render success respons
+
+sinc
+
+default
+lotu view
+configur reset
+
+layout
+root pathnam file dirnam file join templat realpath
+templat
+
+titl
+respons first
+
+
+render root templat name context
+format context format
+templat default templat finder root templat name format find
+
+templat
+templat context render
+
+context
+
+
+
+
+
+lotu
+view
+null object pattern view
+
+sinc
+
+null view
+initi bodi
+bodi bodi
+
+
+render context
+bodi
+
+
+
+
+lotu
+view
+default templat finder view render templat finder
+templat finder
+
+sinc
+
+initi root templat name format
+root root
+option templat templat name format format
+
+
+
+root
+root
+
+
+
+
+lotu
+config
+asset configur
+
+sinc
+
+asset util load path
+default directori freez
+
+sinc
+
+initi root
+root root
+path array default directori
+
+
+sinc
+
+entri
+hash hash
+path
+path exist
+hash path path children child child basenam
+
+
+hash
+
+
+sinc
+
+
+path
+
+
+
+sinc
+
+realpath path
+root join path realpath
+
+
+
+
+lotu config mapper
+
+lotu
+config
+map mapper
+
+error messag
+must specifi block file databas map definit
+
+
+
+
+lotu
+config
+cooki configur
+
+sinc
+
+cooki
+
+return rout applic
+
+hash option cooki
+
+sinc
+
+attr reader option
+
+cooki configur
+
+httponli option enabl
+prevent attack steal cooki java script
+alert document cooki fail
+
+param option hash true class fals class option cooki option
+param configur lotu configur applic configur
+
+sinc
+
+
+http github rack rack blob master rack util cooki header
+http owasp index http onli
+
+exampl enabl cooki
+
+applic lotu applic
+configur
+
+cooki
+
+
+
+
+exampl enabl cooki option
+
+applic lotu applic
+configur
+
+cooki
+
+
+
+initi configur option
+option option
+option httponli secur configur
+option merg option option hash
+
+
+return cooki enabl
+
+true class fals class enabl cooki
+
+sinc
+
+enabl
+option respond option option
+
+
+
+
+lotu config mapper
+
+lotu
+config
+defin configur applic
+specif environ
+
+sinc
+
+configur mapper
+
+error messag
+must specifi block file configur definit
+
+
+
+
+lotu
+config
+secur polici store
+
+sinc
+secur
+sinc
+
+
+lotu loader configur control framework
+frame option header frame option freez
+
+sinc
+
+
+lotu loader configur control framework
+content secur polici header content secur polici freez
+
+frame option header valu
+
+overload frame option valu
+set given valu
+param valu string frame option header
+
+overload frame option
+get valu
+string frame option header valu
+
+sinc
+frame option valu
+valu
+frame option
+
+frame option valu
+
+
+
+content polici secur header valu
+
+overload content secur polici valu
+set given valu
+param valu string content secur polici header
+
+overload content secur polici
+get valu
+string content secur polici header valu
+
+sinc
+content secur polici valu
+valu
+content secur polici
+
+content secur polici valu
+
+
+
+
+
+ipaddr
+lotu util string
+
+lotu
+config
+session configur
+
+sinc
+
+session
+
+rubi rack session adapt
+
+sinc
+
+rack namespac rack session freez
+
+localhost string detect localhost host configur
+
+sinc
+
+blacklist domain localhost freez
+
+http session configur
+
+param adapt symbol string class session adapt
+param option hash option session option
+param configur lotu configur applic configur
+
+sinc
+
+
+http rubydoc info github rack rack rack session abstract
+initi adapt option configur
+adapt adapt
+option option
+configur configur
+
+
+check session enabl
+
+fals class true class result check
+
+sinc
+
+enabl
+adapt
+
+
+return rack middlewar option
+
+array rack middlewar option
+
+sinc
+
+middlewar
+middlewar adapt
+symbol
+rack namespac util string adapt classifi
+
+adapt
+
+
+middlewar option
+
+
+
+
+sinc
+
+option
+option merg option
+
+
+sinc
+
+option
+configur
+domain domain secur configur
+
+
+
+
+
+domain
+domain configur host
+blacklist domain domain address domain
+domain
+
+
+
+address string
+ip addr string
+
+
+
+
+lotu
+config
+collect set given framework configur
+forward applic load
+
+sinc
+
+framework configur basic object
+sinc
+
+initi
+set
+
+
+sinc
+
+appli configur
+set arg
+configur send arg
+
+
+
+sinc
+
+method miss arg
+set push arg
+
+
+
+
+lotu util load path
+
+lotu
+config
+defin load path applic load
+
+sinc
+
+load path util load path
+pattern freez
+
+load root
+root root
+
+path
+glob path join pattern file file
+
+
+
+
+realpath path
+root join path realpath
+
+
+
+
+
+lotu config mapper
+
+lotu
+config
+defin rout
+
+sinc
+
+rout mapper
+
+error messag
+must specifi block file rout definit
+
+
+
+
+lotu util kernel
+
+lotu
+config
+defin map lotu model
+
+sinc
+
+mapper
+extnam
+
+initi root path
+path path
+path root join path root path
+
+
+proc
+
+
+code realpath read
+proc code
+
+
+
+realpath
+util kernel pathnam path extnam realpath
+errno enoent
+argument error error messag
+
+
+error messag
+must specifi block file
+
+
+
+
+lotu
+command
+thor
+
+
+desc consol start consol
+
+desc consol start consol
+method option environ desc path environ configur config environ
+
+consol name
+option help
+invok help consol
+
+lotu command consol
+lotu command consol name environ start
+
+
+
+
+
+environ
+lotu environ option
+
+
+
+
+lotu
+command
+consol
+method
+reload
+put reload
+kernel exec consol
+
+
+
+engin
+
+ripl ripl
+
+freez
+
+attr reader option
+
+initi environ
+environ environ
+option environ option
+
+
+start
+clear argv attempt pars rest
+argv shift argv
+environ config
+
+conveni method main object bind
+toplevel bind send method
+lotu applic preload applic
+
+engin start
+
+
+engin
+load engin option fetch engin engin lookup
+
+
+
+
+engin lookup
+engin find klass object defin klass engin first
+
+
+engin
+engin last
+
+
+load engin engin
+engin
+load error
+
+object
+engin fetch engin
+argument error unknown consol engin engin
+
+
+
+
+
+
+pathnam
+lotu applic name
+lotu util string
+lotu util
+
+lotu
+command
+
+gener namespac lotu gener applic freez
+
+attr reader name sourc target option
+
+initi name path environ
+name applic name real name name path
+option environ option
+arch option fetch architectur
+
+target pathnam join option fetch path name path
+sourc pathnam option fetch sourc file dirnam file gener applic join arch
+
+
+
+lotu gener applic arch
+command util string arch classifi
+command util class load gener namespac command
+
+
+start
+command start
+
+
+
+real name name path
+name path file separ
+argument error invalid applic name want applic path pleas path option
+
+
+name path file basenam getwd name path
+
+
+
+
+pathnam
+lotu util string
+lotu util
+
+lotu
+command
+sinc
+
+gener
+sinc
+
+gener namespac lotu gener freez
+freez
+slice type slice freez
+
+sinc
+
+error standard error
+
+
+sinc
+
+attr reader sourc target name name option
+
+sinc
+
+initi type name name
+
+name name
+
+type sanit type type
+name name
+sourc pathnam file dirnam file gener type realpath
+target pathnam realpath
+
+util string name classifi
+option sanit name option name merg option merg option
+
+
+sinc
+
+start
+gener start
+error
+put messag
+
+
+
+sinc
+
+root
+root pathnam option path name join file separ
+
+
+sinc
+
+spec root
+spec root pathnam spec
+
+
+sinc
+
+model root
+model root pathnam file basenam getwd
+join file separ
+
+
+
+sinc
+
+gener
+lotu gener type
+name util string type classifi
+util class load gener namespac name
+
+
+sinc
+
+sanit name option name
+
+applic name
+applic base name
+
+
+
+sinc
+
+sanit type type
+type slice type type
+
+
+
+
+rack
+
+lotu
+command
+rack compat server
+
+
+
+bundl exec lotu server
+
+run applic use server specifi gemfil
+puma unicorn
+
+enabl code reload
+thi featur implement process fork requir shotgun
+
+sinc
+
+server rack server
+attr reader option
+
+initi
+
+option extract option
+
+code reload
+shotgun
+shotgun loader rackup
+
+
+
+primarili remov rack chunk middlewar
+caus safari content length bug
+middlewar
+hash
+deploy concat rack content length rack common logger
+develop concat deploy rack show except rack lint
+
+
+
+start
+code reload
+shotgun enabl copi write
+shotgun preload
+
+
+
+
+
+
+extract option
+option merg
+config rackup
+host host
+port port
+access log
+
+
+
+code reload
+code reload
+
+
+
+
+lotu
+command
+rout
+initi environ
+environ environ
+
+
+start
+environ config
+put lotu contain rout inspector
+
+
+
+
+lotu util
+
+lotu
+command
+
+consol
+attr reader name option environ
+
+initi name environ
+name name
+environ environ
+option environ option
+load config
+
+
+start
+exec connect string
+
+
+
+
+config
+name
+constant lotu util class load pattern lotu util string name classifi
+lotu util class load pattern constant applic load
+lotu util class load pattern constant model configur
+
+lotu model configur
+
+
+
+adapt config
+config adapt config
+
+
+mapper
+config mapper
+
+
+adapt
+lotu util class load pattern adapt config name lotu model adapt
+
+
+connect string
+adapt mapper adapt config connect string
+
+
+load config
+option config
+
+
+
+
+
+lotu
+view
+intern server error view
+lotu view
+
+layout
+templat
+
+
+
+lotu util
+lotu view intern server error view
+lotu view found view
+
+lotu
+view
+view loader
+success state freez
+class prefix lotu view freez
+class suffix view freez
+namespac separ freez
+suffix replac freez
+
+load respons config
+util class load name respons config
+
+
+
+name respons config
+respons
+success state
+name action respons config
+
+name statu respons
+
+
+
+name action respons config
+action respons
+action name extract action name action config
+config view action name action name config view suffix
+
+
+name statu respons
+name http statu code respons
+class prefix name gsub class suffix
+
+
+extract action name action config
+altern action name action name action name split namespac separ
+gsub config control suffix suffix replac action name altern action name
+
+
+
+
+lotu
+view
+not found view
+lotu view
+
+layout
+templat
+
+
+
+lotu
+rout
+rack applic respond resourc cannot found
+
+sinc
+
+default
+default code
+default bodi found freez
+content type content type freez
+
+null action
+lotu action
+
+call
+
+
+
+call
+action null action call
+default code content type action content type default bodi action
+
+
+
+
+deleg
+
+lotu
+gener
+abstract gener
+
+
+sinc
+abstract simpl deleg
+initi gener
+
+param command thor thor instanc come lotu
+
+sinc
+
+initi command
+command
+
+
+start gener
+
+not implement error
+
+
+sinc
+start
+not implement error
+
+
+
+
+lotu gener
+lotu util string
+
+lotu
+gener
+model abstract
+
+sinc
+
+initi command
+
+
+model util string name underscor
+model name util string model classifi
+
+sourc root sourc
+
+
+sinc
+
+start
+opt
+model name model name
+
+
+templat
+entiti entiti path
+repositori repositori path
+
+
+option test
+rspec
+templat merg
+entiti spec rspec entiti spec path
+repositori spec rspec repositori spec path
+
+
+templat merg
+entiti spec minitest entiti spec path
+repositori spec minitest repositori spec path
+
+
+
+templat
+templat sourc join target join opt
+
+
+
+
+sinc
+
+entiti path
+model root join entiti model
+
+
+sinc
+
+repositori path
+model root join repositori model repositori
+
+
+sinc
+
+entiti spec path
+spec root join file basenam getwd entiti model spec
+
+
+sinc
+
+repositori spec path
+spec root join file basenam getwd repositori
+model repositori spec
+
+
+
+
+
+lotu gener
+lotu util string
+
+lotu
+gener
+sinc
+
+action abstract
+sinc
+
+action separ
+
+sinc
+
+suffix freez
+
+sinc
+
+templat suffix html freez
+
+sinc
+
+default templat freez
+
+sinc
+
+initi command
+
+
+name util string name underscor
+control action name split action separ
+control name util string control classifi
+action name util string action classifi
+
+sourc root sourc
+
+
+sinc
+
+start
+exist
+action
+
+opt
+
+control control name
+action action name
+action path action path without suffix
+view path view path without suffix
+templat path templat path
+
+
+test type option test
+rspec
+rspec
+
+minitest
+
+
+templat
+action spec test type action spec path
+
+
+option skip view
+templat merg
+action action path
+view view path
+templat templat path
+view spec test type view spec path
+
+
+templat merg
+action without view action path
+
+
+
+gener rout
+
+templat
+templat sourc join target join opt
+
+
+
+
+sinc
+
+exist
+target join root exist
+lotu command gener error unknown name
+
+
+
+sinc
+
+action
+action
+lotu command gener error unknown action pleas action name syntax control name action name
+
+
+
+sinc
+
+gener rout
+path target join rout path
+path dirnam mkpath
+
+file util touch path
+
+insert file
+insert file rout path
+control name
+
+
+
+sinc
+
+rout path
+root join config rout suffix
+
+
+sinc
+
+action path
+action path without suffix suffix
+
+
+sinc
+
+view path
+view path without suffix suffix
+
+
+sinc
+
+action path without suffix
+root join control control action
+
+
+sinc
+
+view path without suffix
+root join view control action
+
+
+sinc
+
+templat path
+root join templat control action templat suffix option fetch templat default templat
+
+
+sinc
+
+action spec path
+spec root join name control control action spec suffix
+
+
+sinc
+
+view spec path
+spec root join name view control action spec suffix
+
+
+
+
+securerandom
+lotu gener
+lotu util string
+lotu applic name
+
+lotu
+gener
+slice abstract
+initi command
+
+
+applic name applic name option fetch applic
+slice name applic name
+upcas slice name applic name
+classifi slice name util string slice name classifi
+
+sourc pathnam file dirnam file gener slice
+target target join app slice name
+
+slice base option fetch applic base
+
+sourc root sourc
+
+
+start
+opt
+slice name slice name
+upcas slice name upcas slice name
+classifi slice name classifi slice name
+slice base slice base
+
+
+templat
+applic applic
+config rout config rout
+config map config map
+action control home index
+view applic layout view applic layout
+templat applic html templat applic html
+view view home index
+templat templat html templat home index html
+
+
+directori
+javascript
+stylesheet
+
+
+test directori spec mini test r spec
+directori
+spec opt slice name featur
+spec opt slice name control
+spec opt slice name view
+
+
+
+config environ
+
+
+rel app applic
+inject file target join config environ rel
+nrequir rel app opt slice name applic
+
+
+mount slice insid lotu contain configur
+inject file target join config environ lotu contain configur match
+mount opt classifi slice name applic opt slice base
+
+
+
+environ
+
+develop test environ
+databas file develop
+append file target join config environ
+opt upcas slice name databas file opt slice name environ
+
+
+session secret abc123 random
+append file target join config environ
+opt upcas slice name session secret secur random
+
+
+
+
+file
+
+templat
+templat sourc join target join opt
+
+
+
+empti directori
+
+directori flatten
+gitkeep gitkeep
+templat sourc join gitkeep target join gitkeep opt
+
+
+
+
+
+shellword
+lotu gener
+lotu gener slice
+
+lotu
+gener
+applic
+contain abstract
+initi command
+
+
+slice gener slice command
+lotu head option fetch lotu head
+test option test
+databas option databas
+lotu model version
+
+sourc root sourc
+
+
+start
+
+opt
+name name
+lotu head lotu head
+test test
+databas databas
+databas config databas config
+lotu model version lotu model version
+
+
+templat
+lotusrc lotusrc
+gemfil gemfil
+config config
+config environ config environ
+config config
+config develop config develop
+config test config test
+name name
+config map config map
+
+
+directori
+
+name entiti
+name repositori
+
+
+option test
+rspec
+templat merg
+rakefil rspec rakefil
+rspec rspec rspec
+spec helper rspec spec spec helper
+featur helper rspec spec featur helper
+capybara rspec spec support capybara
+
+minitest
+templat merg
+rakefil minitest rakefil
+spec helper minitest spec spec helper
+featur helper minitest spec featur helper
+
+
+
+directori
+spec name entiti
+spec name repositori
+spec support
+
+
+templat
+templat sourc join target join opt
+
+
+directori flatten
+gitkeep gitkeep
+templat sourc join gitkeep target join gitkeep opt
+
+
+present
+templat sourc join gitignor target join gitignor opt
+init shellword escap target captur
+
+
+slice gener start
+
+
+
+
+present
+file directori sourc join
+
+
+databas config
+
+databas
+databas
+type databas type
+
+
+
+databas
+
+mysql mysql
+mysql2 mysql2
+postgresql
+postgr
+sqlite sqlite3
+sqlite3 sqlite3
+databas
+
+
+databas type
+databas
+mysql mysql2 postgresql postgr sqlite sqlite3
+
+filesystem
+file system
+memori
+memori
+
+
+
+databas
+
+develop databas base develop
+test databas base test
+
+
+
+databas base
+databas
+mysql
+mysql localhost name
+mysql2
+mysql2 localhost name
+postgresql postgr
+postgr localhost name
+sqlite sqlite3
+sqlite shellword escap name
+memori
+memori localhost name
+
+file name
+
+
+
+
+
+
+thread
+pathnam
+hanami util
+hanami util hash
+hanami hanamirc
+
+dotenv
+load error
+
+
+hanami
+defin expos inform hanami environ
+
+sinc
+
+environ
+standard rack
+
+sinc
+
+rack rack freez
+
+standard hanami
+
+sinc
+
+hanami hanami freez
+
+default hanami environ
+
+sinc
+
+default develop freez
+
+product environ
+
+sinc
+
+product product freez
+
+rack product environ deploy
+
+sinc
+
+rack deploy deploy freez
+
+default environ file name
+
+sinc
+
+default dotenv freez
+
+default configur directori applic root
+
+sinc
+
+default config config freez
+
+standard hanami host
+
+sinc
+
+hanami host hanami host freez
+
+default http host
+
+sinc
+
+default host localhost freez
+
+default address listen
+
+sinc
+
+listen host freez
+
+standard hanami port
+
+sinc
+
+hanami port hanami port freez
+
+default hanami http port
+
+sinc
+
+default port 2300
+
+default rack configur file
+
+sinc
+
+default rackup config freez
+
+default environ configur file
+
+sinc
+
+default environ config environ freez
+
+code reload environ
+
+sinc
+
+code reload develop freez
+
+sinc
+
+contain contain freez
+
+sinc
+
+contain path app freez
+
+sinc
+
+applic freez
+
+sinc
+
+applic path freez
+
+sinc
+
+serv static asset serv static asset freez
+
+sinc
+
+serv static asset enabl freez
+
+initi hanami environ
+
+accept option configur command
+those set overrid default defin object
+
+when initi set standard variabl rack hanami
+rack hanami
+
+also evalu configur environ
+locat config directori set file
+export variabl
+
+format file compat dotenv foreman
+gem
+
+param option hash overrid option variou environ
+attribut
+
+hanami environ environ
+
+hanami command consol
+hanami command rout
+hanami command server
+hanami environ config
+
+exampl defin variabl
+
+tree
+
+
+
+develop
+
+
+
+
+
+develop
+
+
+hanami environ
+
+hanami environ
+environ develop
+
+framework defin var
+hanami develop
+rack develop
+
+hanami host localhost
+hanami port 2300
+
+user defin var
+
+
+
+hanami environ evalu first master configur
+then evalu develop current environ
+develop set defin last file overrid
+defin parent overwritten
+set left untouch
+initi option
+option hanami hanamirc root option
+option merg util hash option symbol
+mutex mutex
+mutex synchron var
+
+
+current environ
+
+order decid valu look follow var
+
+hanami
+rack
+
+miss fall back defalt develop
+
+rack environ deploy translat hanami product
+
+string current environ
+
+sinc
+
+hanami environ default
+environ
+environ hanami rack default
+
+
+sinc
+
+hanami name
+environ name
+name environ
+
+
+bundler group
+
+array group
+
+sinc
+
+
+http bundler group html
+bundler group
+environ
+
+
+applic root
+
+default current work directori
+hanami assum command execut
+
+pathnam applic root
+
+sinc
+root
+root pathnam
+
+
+applic config directori
+
+applic configur store
+
+order decid valu look follow sourc
+
+option config
+
+miss fall back config
+
+when rel path given option assum locat
+applic root absolut path use
+
+pathnam config directori
+
+sinc
+
+hanami environ default config
+hanami environ root
+config
+config root join option fetch config default config
+
+
+http host name
+
+order decid valu look follow sourc
+
+option host
+hanami host
+
+miss fall back follow default
+
+localhost develop
+environ
+
+string http host name
+
+sinc
+
+hanami environ default host
+hanami environ listen host
+host
+host option fetch host
+hanami host host
+
+
+
+http port
+
+order decid valu look follow sourc
+
+option port
+hanami port
+
+miss fall back 2300
+
+integ port
+
+sinc
+
+hanami environ default port
+port
+port option fetch port hanami port default port
+
+
+path rack configur file
+
+order decid valu look follow sourc
+
+option rackup
+
+miss fall back config
+
+when rel path given option assum locat
+applic root absolut path use
+
+pathnam path rack configur file
+
+sinc
+rackup
+root join option fetch rackup default rackup
+
+
+path environ configur file
+
+order decid valu look follow sourc
+
+option environ
+
+miss fall back
+config environ
+
+when rel path given option assum locat
+applic root absolut path use
+
+pathnam path applic
+
+sinc
+
+hanami environ default environ config
+config
+root join option fetch environ config join default environ config
+
+
+requir applic environ
+
+config environ
+
+sinc
+
+applic environ
+config
+
+
+determin activ code reload current environ
+run server
+
+order decid valu look follow sourc
+
+option code reload
+
+miss fall back follow default
+
+develop
+environ
+
+true class fals class result check
+
+sinc
+
+hanami command server
+hanami environ code reload
+code reload
+option fetch code reload code reload environ
+
+
+sinc
+
+architectur
+option fetch architectur
+put cannot recogn hanami architectur pleas check hanamirc
+
+
+
+
+sinc
+
+contain
+architectur contain
+
+
+sinc
+
+serv asset
+serv static asset enabl serv static asset
+
+
+sinc
+
+app path
+option fetch path
+architectur
+contain contain path
+applic applic path
+
+
+
+
+serial relev set hash
+
+hanami util hash
+
+sinc
+
+option
+option merg
+environ environ
+config config
+app path app path
+rackup rackup
+host host
+port port
+
+
+
+
+
+sinc
+
+var
+applic var
+hanami var
+
+
+sinc
+
+hanami var
+hanami rack environ
+hanami host host
+hanami port port
+
+
+sinc
+
+applic var
+defin dotenv dotenv root join default dotenv environ exist
+dotenv overload dotenv
+
+
+sinc
+
+host
+environ default default host listen host
+
+
+sinc
+
+rack
+rack
+rack deploy
+product
+
+rack
+
+
+
+
+hanami util kernel
+hanami util deprec
+hanami environ
+hanami config configur
+hanami config cooki
+hanami config framework configur
+hanami config load path
+hanami config logger
+hanami config map
+hanami config rout
+hanami config secur
+hanami config session
+
+hanami
+configur hanami applic
+
+sinc
+configur
+sinc
+
+
+hanami configur
+scheme http freez
+
+initi configur instanc
+
+hanami configur
+
+sinc
+
+initi
+proc
+environ
+configur hash
+
+
+block configur load
+path specif environ
+
+param environ symbol configur environ name
+param proc configur block
+
+
+
+sinc
+
+configur environ path
+environ path
+configur environ config configur root path
+environ
+configur environ
+
+
+
+
+
+
+
+load configur
+
+param string applic
+
+
+
+sinc
+
+load
+
+evalu configur
+
+
+
+
+return secur polici
+
+hanami config secur
+
+sinc
+
+hanami config secur
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+secur frame option allow
+secur content secur polici script http api exampl
+
+
+
+
+bookshelf applic configur secur frame option allow
+bookshelf applic configur secur content secur polici script http api exampl
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+secur frame option allow
+secur content secur polici script http api exampl
+
+
+
+secur
+secur config secur
+
+
+forc redirect http scheme
+
+boolean
+
+sinc
+
+hanami rout forc ssl
+forc valu
+valu
+forc valu
+
+forc
+
+
+
+root applic
+
+return current directori reason
+command must execut level directori project
+
+reason constraint cannot satisfi pleas
+configur root directori command execut
+everywher
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload root valu
+set given valu
+param valu string pathnam pathnam root directori
+
+overload root
+get valu
+pathnam
+errno enoent path cannot found
+
+sinc
+
+http rubi core html method
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur root pathnam path root
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+root path anoth root
+
+
+
+root valu
+valu
+root valu
+
+util kernel pathnam root realpath
+
+
+
+applic
+
+return rubi applic instanc
+applic bookshelf applic return bookshelf
+
+thi valu init time configur
+load load
+
+hanami applic namespac control view live
+applic without pollut
+howev reason want level class valu
+object level rubi
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload valu
+set given valu
+param valu class modul valid rubi
+
+overload
+get valu
+class modul rubi
+
+sinc
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur bookshelf
+
+lookup namespac control bookshelf
+bookshelf control dashboard
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+object
+
+
+
+
+bookshelf applic configur object
+
+lookup level control object
+dashboard control
+valu
+valu
+valu
+
+
+
+
+
+hanami layout applic
+
+
+
+accept symbol layout name when applic load
+lookup correspond
+
+view layout otherwis specifi
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload layout valu
+set given valu
+param valu symbol layout name
+
+overload layout
+get valu
+symbol layout name
+
+sinc
+
+http rdoc info gem hanami view hanami layout
+http rdoc info gem hanami view hanami view configur layout
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur layout
+
+view render without layout
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+layout applic
+
+
+
+view
+dashboard
+index
+bookshelf view
+
+
+json index index
+layout
+
+
+
+
+
+bookshelf applic configur layout applic
+
+view bookshelf view applic layout
+differ valu
+
+bookshelf view dashboard index layout
+bookshelf view applic layout
+
+bookshelf view dashboard json index layout
+hanami view render null layout
+layout valu
+valu
+layout valu
+
+layout
+
+
+
+templat root
+applic recurs look templat path
+
+equal applic root
+
+otherwis specifi differ rel path root
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload templat valu
+set given valu
+param valu string rel path templat root
+
+overload templat
+get valu
+pathnam templat root
+
+sinc
+
+hanami configur root
+http rdoc info gem hanami view hanami view configur root
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur templat
+pathnam root path
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+templat templat
+
+
+
+
+bookshelf applic configur templat
+pathnam root path templat
+templat valu
+valu
+templat valu
+
+root join templat
+
+
+
+applic serv asset directori
+
+equal directori applic
+root
+
+otherwis differ rel path root
+
+overload asset
+get valu
+hanami config asset asset root
+
+sinc
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur asset
+pathnam root path
+
+exampl ad asset path
+hanami
+
+bookshelf
+applic hanami applic
+configur
+asset
+sourc
+vendor asset
+
+
+
+
+
+
+bookshelf applic configur asset
+hanami config asset root pathnam root path asset path
+asset
+asset
+asset
+
+asset config framework configur
+
+
+
+configur cooki
+enabl cooki disabl
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload cooki option
+set given valu option
+param option hash true class fals class
+
+overload cooki
+get valu
+hanami config cooki
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur cooki
+hanami config cooki 0x0000000329f880 option option httponli secur
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+cooki domain hanamirb
+
+
+
+
+bookshelf applic configur cooki
+hanami config cooki 0x0000000329f880 option domain hanamirb option domain hanamirb httponli secur
+cooki option
+option
+cooki config cooki option
+
+cooki config cooki option
+
+
+
+configur session
+enabl session disabl
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+given class adapt use session middlewar
+given string adapt resolv name use
+session middlewar
+given symbol adapt assum name
+rack session use session middlewar
+cooki rack session cooki
+
+option domain infer host configur
+secur flag infer scheme configur
+
+overload session adapt option
+set given valu
+param adapt class string symbol rack middlewar session manag
+param option hash option session middlewar
+
+overload session
+disabl session
+
+overload session
+get valu
+hanami config session session configur
+
+sinc
+
+hanami configur host
+hanami configur scheme
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur session
+hanami config session 0x00000001ca0c28 enabl
+
+exampl set valu symbol
+hanami
+
+bookshelf
+applic hanami applic
+configur
+session cooki secret abc123
+
+
+
+
+bookshelf applic configur session
+hanami config session 0x00000001589458 enabl adapt cooki option domain localhost secur
+
+exampl disabl previusli enabl session
+hanami
+
+bookshelf
+applic hanami applic
+configur
+session cooki
+session
+
+
+
+
+bookshelf applic configur session
+hanami config session 0x00000002460d78 enabl
+
+session adapt option
+adapt
+session config session
+
+session config session adapt option
+
+
+
+applic load path
+applic recurs load rubi file path
+
+order allow develop decid
+structur
+
+hanami config load path load path
+
+sinc
+
+hanami configur root
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur load path
+hanami config load path 0x007ff4fa212310 path
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+load path
+control
+view
+
+
+
+
+
+bookshelf applic configur asset
+hanami config load path 0x007fe3a20b18e0 path control view
+load path
+load path config load path
+
+
+applic rout
+
+specifi rout applic pass block
+rel path find file describ
+
+
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload rout
+specifi rout given block
+param proc rout definit
+
+overload rout path
+specifi rel path find rout file
+param path string rel path
+
+overload rout
+get valu
+hanami config rout rout
+
+sinc
+
+http rdoc info gem hanami router hanami router
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur rout
+
+
+exampl set valu pass block
+hanami
+
+bookshelf
+applic hanami applic
+configur
+rout
+dashboard index
+resourc book
+
+
+
+
+
+bookshelf applic configur rout
+hanami config rout 0x007ff50a991388 proc 0x007ff50a991338 path pathnam
+
+exampl set valu pass rel path
+hanami
+
+bookshelf
+applic hanami applic
+configur
+rout config rout
+
+
+
+
+bookshelf applic configur rout
+hanami config rout 0x007ff50a991388 path pathnam config rout
+rout path
+path block given
+rout config rout root path
+
+rout
+
+
+
+bodi pars configur
+
+specifi parser specif mime type applic thi method
+applic parser exist custom parser
+applic
+
+array
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload bodi parser parser
+specifi bodi parser
+param parser array bodi parser definit
+
+overload bodi parser
+get valu
+array parser
+
+sinc
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur bodi parser
+
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+bodi parser json xml parser
+
+
+
+
+bookshelf applic configur bodi parser
+json xml parser
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+bodi parser json
+bodi parser xml parser
+
+
+
+
+bookshelf applic configur bodi parser
+xml parser
+
+bodi parser parser
+parser
+bodi parser
+
+bodi parser parser
+
+
+
+applic middlewar
+
+specifi middlewar applic thi method
+applic underli middlewar stack
+middlewar applic middlewar stack
+contain rack static rack method overrid howev
+asset specifi configur block
+rack static remov
+
+sinc
+
+http rdoc info gem rack rack static
+hanami middlewar
+
+exampl
+hanami
+
+bookshelf
+applic hanami applic
+configur
+middlewar rack method overrid must revalid
+middlewar rack e tag
+
+
+
+middlewar
+middlewar hanami middlewar
+
+
+applic collect map
+
+specifi collect applic pass block
+rel path find file describ
+
+
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload map
+specifi map given block
+param proc map definit
+
+overload map path
+specifi rel path find map file
+param path string rel path
+
+overload map
+get valu
+hanami config map map
+
+sinc
+
+http rdoc info gem hanami model hanami mapper
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur map
+
+
+exampl set valu pass block
+hanami
+
+bookshelf
+applic hanami applic
+configur
+map
+collect user
+entiti user
+
+attribut integ
+attribut name string
+
+
+
+
+
+
+bookshelf applic configur map
+hanami config map 0x007ff50a991388 proc 0x007ff123991338 path pathnam
+
+exampl set valu pass rel path
+hanami
+
+bookshelf
+applic hanami applic
+configur
+map config map
+
+
+
+
+bookshelf applic configur map
+hanami config rout 0x007ff50a991388 path pathnam config map
+map path
+path block given
+map config map root path
+
+map
+
+
+
+adapt configur
+applic instanti adapt instanc base configur
+
+given option must pair type
+runtim framework
+argument error
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload adapt option
+set given type
+param option hash option adapt
+
+overload adapt
+get valu
+hash adapt option
+
+sinc
+
+hanami configur adapt
+http rdoc info gem hanami model hanami model configur adapt
+
+exampl
+hanami
+
+bookshelf
+applic hanami applic
+configur
+adapt type sqlite3
+
+
+
+
+bookshelf applic configur adapt
+type sqlite3
+adapt option
+option
+adapt option
+
+adapt
+
+
+
+format fallback request without strict
+requir mime type
+
+given format must coercibl symbol valid mime type
+runtim framework
+hanami control unknown format error
+
+valu html
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload request format format
+set given valu
+param format symbol format
+type error cannot coerc symbol
+
+overload request format
+get valu
+symbol
+
+sinc
+
+http rdoc info gem hanami control hanami control configur request format
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur request format html
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+request format json
+
+
+
+
+bookshelf applic configur request format json
+request format format
+format
+request format util kernel symbol format
+
+request format html
+
+
+
+format use respons regardless request type
+
+given format must coercibl symbol valid mime type
+runtim framework
+hanami control unknown format error
+
+valu html
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload respons format format
+set given valu
+param format symbol format
+type error cannot coerc symbol
+
+overload respons format
+get valu
+symbol
+
+sinc
+
+http rdoc info gem hanami control hanami control configur respons format
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur respons format html
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+respons format json
+
+
+
+
+bookshelf applic configur respons format json
+respons format format
+format
+respons format util kernel symbol format
+
+respons format
+
+
+
+format fallback request without strict
+requir mime type
+
+sinc
+
+deprec request format instead
+format format
+hanami util deprec format deprec pleas request format
+request format format
+
+
+scheme applic
+thi use router helper gener absolut ur ls
+
+valu http
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload scheme valu
+set given valu
+param valu string scheme
+
+overload scheme
+get valu
+string
+
+sinc
+
+http wikipedia wiki scheme
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur scheme http
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+scheme http
+
+
+
+
+bookshelf applic configur scheme http
+scheme valu
+valu
+scheme valu
+
+scheme http
+
+
+
+check applic use
+
+fals class true class result check
+
+sinc
+
+hanami configur scheme
+
+scheme scheme
+
+
+host applic
+thi use router helper gener absolut ur ls
+
+valu localhost
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload host valu
+set given valu
+param valu string host
+
+overload scheme
+get valu
+string
+
+sinc
+
+http wikipedia wiki scheme
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur host localhost
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+host bookshelf
+
+
+
+
+bookshelf applic configur host bookshelf
+host valu
+valu
+host valu
+
+host host
+
+
+
+port applic
+thi use router helper gener absolut ur ls
+
+valu 2300
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload port valu
+set given valu
+param valu port
+type error given valu cannot coerc integ
+
+overload scheme
+get valu
+string
+
+sinc
+
+http wikipedia wiki scheme
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+
+
+
+bookshelf applic configur port 2300
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+port 8080
+
+
+
+
+bookshelf applic configur port 8080
+port valu
+valu
+port integ valu
+
+port port
+
+
+
+defin rel pattern find control
+
+hanami support multipl architectur applic structur
+set help understand find applic
+control action
+
+equal control control action
+that mean control must structur like
+bookshelf control dashboard index bookshelf
+applic control first valu
+specifi pattern dashboard control
+index action
+
+thi pattern must alway contain control action
+thi pattern should use accordingli view pattern valu
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload control pattern valu
+set given valu
+param valu string control pattern
+
+overload control pattern
+get valu
+string
+
+sinc
+
+hanami configur view pattern
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+rout
+dashboard index
+
+
+
+
+control dashboard
+index
+bookshelf action
+
+call param
+
+
+
+
+
+
+bookshelf applic configur control pattern
+control control action
+
+control must live bookshelf control
+
+bookshelf control dashboard index
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+control pattern control control action
+
+rout
+dashboard index
+
+
+
+
+dashboard control
+index
+bookshelf action
+
+call param
+
+
+
+
+
+bookshelf applic configur control pattern
+control control action
+
+control directli bookshelf
+
+bookshelf dashboard control index
+
+exampl set valu level name structur
+hanami
+
+bookshelf
+applic hanami applic
+configur
+object
+control pattern control control action
+
+rout
+dashboard index
+
+
+
+
+
+dashboard control
+index
+incud bookshelf action
+
+call param
+
+
+
+
+bookshelf applic configur control pattern
+control control action
+
+control level
+
+dashboard control index
+control pattern valu
+valu
+control pattern valu
+
+control pattern control control action
+
+
+
+defin rel pattern find view
+
+hanami support multipl architectur applic structur
+set help understand find applic
+view
+
+equal view control action
+that mean view must structur like
+bookshelf view dashboard index bookshelf
+applic view first valu specifi
+pattern dashboard correspond control name
+index view correspond action name
+
+thi pattern must alway contain control action
+thi pattern should use accordingli control pattern valu
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload view pattern valu
+set given valu
+param valu string view pattern
+
+overload control pattern
+get valu
+string
+
+sinc
+
+hanami configur control pattern
+
+exampl get valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+rout
+dashboard index
+
+
+
+
+view
+dashboard
+index
+bookshelf view
+
+
+
+
+
+bookshelf applic configur view pattern
+view control action
+
+view must live bookshelf view
+
+bookshelf view dashboard index
+
+exampl set valu
+hanami
+
+bookshelf
+applic hanami applic
+configur
+view pattern control action
+
+rout
+dashboard index
+
+
+
+
+dashboard
+index
+bookshelf view
+
+
+
+
+bookshelf applic configur view pattern
+control action
+
+view directli bookshelf
+
+bookshelf dashboard index
+
+exampl set valu level name structur
+hanami
+
+bookshelf
+applic hanami applic
+configur
+object
+view pattern control action
+
+rout
+dashboard index
+
+
+
+
+
+dashboard
+index
+bookshelf view
+
+
+
+bookshelf applic configur view pattern
+control action
+
+view level
+
+dashboard index
+view pattern valu
+valu
+view pattern valu
+
+view pattern view control action
+
+
+
+decid handl except http statu uncaught
+
+valu configur except
+specifi http statu rest
+
+valu except caught
+
+thi part reason method call
+argument correspond instanc variabl when
+call without alreadi valu
+
+overload handl except valu
+set given valu
+param valu true class fals class
+
+overload handl except
+get valu
+true class fals class
+
+sinc
+
+http rdoc info gem hanami control hanami control configur handl except
+http httpstatu
+
+exampl enabl
+hanami
+
+bookshelf
+applic hanami applic
+configur
+rout
+error error index
+
+
+
+load
+
+
+control error
+index
+bookshelf action
+
+call param
+argument error
+
+
+
+
+
+error intern server error
+
+exampl disabl
+hanami
+
+bookshelf
+applic hanami applic
+configur
+handl except
+
+rout
+error error index
+
+
+
+load
+
+
+control error
+index
+bookshelf action
+
+call param
+argument error
+
+
+
+
+
+error rais argument error
+handl except valu
+valu
+handl except
+
+handl except valu
+
+
+
+lazili collect level set hanami model
+configur appli applic load
+
+note thi forward configur hanami model without
+check befor featur pleas look
+current hanami model version instal
+
+note thi overrid configur applic
+
+hanami config framework configur configur
+
+sinc
+
+http rubydoc info gem hanami model hanami model configur
+
+exampl defin set
+hanami
+hanami model
+
+bookshelf
+applic hanami applic
+configur
+model adapt type memori memori localhost databas
+
+
+
+
+exampl overrid set
+hanami
+hanami model
+
+bookshelf
+applic hanami applic
+configur
+adapt type postgr localhost databas
+model adapt type memori memori localhost databas
+
+
+
+
+memori adapt overrid
+model
+model config framework configur
+
+
+lazili collect level set hanami control
+configur appli applic load
+
+note thi forward configur hanami control without
+check befor featur pleas look
+current hanami control version instal
+
+note thi overrid configur applic
+
+hanami config framework configur configur
+
+sinc
+
+http rubydoc info gem hanami control hanami control configur
+
+exampl defin set
+hanami
+
+bookshelf
+applic hanami applic
+configur
+control request format json
+
+
+
+
+exampl overrid set
+hanami
+
+bookshelf
+applic hanami applic
+configur
+handl except
+control handl except
+
+
+
+
+except handl
+control
+control config framework configur
+
+
+lazili collect level set hanami view
+configur appli applic load
+
+note thi forward configur hanami view without
+check befor featur pleas look
+current hanami view version instal
+
+note thi overrid configur applic
+
+hanami config framework configur configur
+
+sinc
+
+http rubydoc info gem hanami view hanami view configur
+
+exampl defin set
+hanami
+
+bookshelf
+applic hanami applic
+configur
+view layout applic
+
+
+
+
+exampl overrid set
+hanami
+
+bookshelf
+applic hanami applic
+configur
+layout applic
+view layout backend
+
+
+
+
+backend layout
+view
+view config framework configur
+
+
+defin config logger instanc logger configur
+
+thi instanc use gener hanami logger avail applic
+
+config logger configur logger instanc
+
+sinc
+
+exampl defin logger
+hanami
+
+bookshelf
+applic hanami applic
+configur
+logger stream path file
+
+load
+
+
+control error
+index
+bookshelf action
+
+call param
+bookshelf logger info log stdout
+
+
+
+
+
+logger
+logger config logger
+
+
+thi option use bridg contain router applic
+
+string nil class path prefix rout
+
+sinc
+
+path prefix valu
+valu
+path prefix
+
+path prefix valu
+
+
+
+
+
+sinc
+
+evalu configur
+configur instanc
+
+
+sinc
+
+configur
+configur environ
+
+
+
+hanami util attribut
+hanami framework
+hanami configur
+hanami loader
+hanami logger
+hanami render polici
+hanami middlewar
+
+hanami
+full stack hanami applic
+
+sinc
+
+exampl
+hanami
+
+bookshelf
+applic hanami applic
+
+
+applic
+overrid rubi class inherit
+
+sinc
+
+
+http rubi core class html method inherit
+inherit base
+
+
+base
+hanami util class attribut
+
+attribut configur
+configur configur
+
+
+synchron
+applic base
+
+
+
+return rout applic
+
+hanami router rout
+
+sinc
+
+hanami configur rout
+attr reader rout
+
+rout applic
+
+param hanami router
+
+sinc
+
+attr writer rout
+
+render polici
+
+param hanami render polici
+
+sinc
+
+attr accessor render
+
+initi load instanc applic
+
+hanami applic instanc applic
+
+sinc
+initi option
+configur path prefix option path prefix
+load
+
+
+return configur applic
+
+sinc
+
+
+hanami applic configur
+configur
+configur
+
+
+return applic name
+
+sinc
+
+name
+name
+
+
+process request
+thi method make hanami applic compat rack protocol
+
+param hash rack
+
+array serial rack respons
+
+sinc
+
+http rack github
+hanami render polici render
+hanami applic middlewar
+call
+render render middlewar call
+
+
+rack middlewar stack
+
+hanami middlewar middlewar stack
+
+sinc
+
+
+hanami middlewar
+middlewar
+middlewar configur middlewar
+
+
+
+
+registri hanami applic current rubi process
+
+regist applic
+
+sinc
+
+applic
+synchron
+applic
+
+
+
+configur applic
+yield given block context configur
+
+param environ symbol configur environ name
+param proc configur block
+
+sinc
+
+hanami configur
+
+exampl
+hanami
+
+bookshelf
+applic hanami applic
+configur
+
+
+
+
+configur environ
+configur configur environ
+
+
+eager load applic configur activ framework
+duplic mechan
+
+param applic hanami applic class hanami applic
+
+
+sinc
+
+exampl
+hanami
+
+one file
+applic hanami applic
+configur
+rout
+dashboard index
+
+
+
+load
+
+
+control dashboard
+index
+one file action
+
+call param
+bodi hello
+
+
+
+
+load applic
+hanami loader applic load
+
+
+preload regist applic yield configur
+prepar framework
+
+thi use test suit want make hanami framework
+readi preload applic code
+
+thi allow test compon view action isol
+faster boot time
+
+
+
+sinc
+preload
+synchron
+applic load
+
+
+
+
+
+full preload regist applic
+
+thi use consol want applic code avail
+
+
+
+sinc
+
+preload applic
+synchron
+applic
+
+
+
+
+
+
+
+yield given block critic section
+
+sinc
+
+synchron
+mutex synchron
+
+
+
+
+
+
+hanami
+
+bundler hanami environ bundler group
+
+pathnam
+hanami environ
+hanami util string
+
+hanami
+welcom
+initi
+root pathnam join templat realpath
+
+
+call
+request path request path
+bodi root join welcom html read result bind
+
+bodi
+
+
+applic name
+contain
+
+
+
+
+contain
+environ contain
+
+
+applic
+applic hanami applic applic
+applic select
+request path configur path prefix
+first
+
+
+
+util string applic downcas
+
+
+
+hanami environ
+
+hanami
+root
+hanami environ root
+
+
+hanami
+defin full version
+
+sinc
+version freez
+
+hanami util
+hanami view
+hanami view null view
+
+hanami
+render polici
+
+sinc
+
+render polici
+statu
+header
+bodi
+
+hanami action hanami action freez
+
+success status freez
+render format html freez
+
+initi configur
+control pattern configur control pattern gsub control action
+view pattern configur view pattern
+configur
+templat configur templat
+
+
+render respons
+bodi render respons
+
+respons bodi array bodi bodi bodi respond
+respons
+
+
+
+render respons
+action render
+render action action respons
+render statu page action respons
+
+
+
+render action action respons
+success respons
+view action respons render
+action exposur
+
+
+
+
+render statu page action respons
+render statu page action
+hanami view default render templat respons statu respons respons format html
+
+
+
+render
+action delet hanami action action render action
+
+
+success respons
+success status respons statu
+
+
+render statu page action
+render format action format
+
+
+view action respons
+respons bodi respond respons bodi
+captur control pattern match action name
+util class load view pattern control captur control action captur action
+
+view null view respons bodi
+
+
+
+
+hanami util escap
+
+hanami
+rout factori
+
+hanami applic factori instanti associ
+rout constant applic
+
+sinc
+rout
+initi factori
+
+param rout hanami router rout
+
+hanami rout factori
+
+sinc
+initi rout
+rout rout
+
+
+return rel path given rout name
+
+param name symbol rout name
+param arg array option argument pass
+wrap rout
+
+hanami util escap safe string correspond rel
+
+hanami rout invalid rout except
+
+sinc
+
+http rdoc info gem hanami router hanami router path instanc method
+
+exampl basic exampl
+hanami
+
+bookshelf
+applic hanami applic
+configur
+rout
+login session login
+
+
+
+
+
+bookshelf rout path login
+login
+
+bookshelf rout path login dashboard
+login 2 fdashboard
+
+exampl dynam finder
+hanami
+
+bookshelf
+applic hanami applic
+configur
+rout
+login session login
+
+
+
+
+
+bookshelf rout login path
+login
+
+bookshelf rout login path dashboard
+login 2 fdashboard
+path name arg
+util escap safe string rout path name arg
+
+
+return absolut path given rout name
+
+param name symbol rout name
+param arg array option argument pass
+wrap rout
+
+hanami util escap safe string correspond absolut
+
+hanami rout invalid rout except
+
+sinc
+
+http rdoc info gem hanami router hanami router instanc method
+
+exampl basic exampl
+hanami
+
+bookshelf
+applic hanami applic
+configur
+rout
+scheme http
+host bookshelf
+
+login session login
+
+
+
+
+
+bookshelf rout login
+http bookshelf login
+
+bookshelf rout login dashboard
+http bookshelf login 2 fdashboard
+
+exampl dynam finder
+hanami
+
+bookshelf
+applic hanami applic
+configur
+rout
+scheme http
+host bookshelf
+
+login session login
+
+
+
+
+
+bookshelf rout login
+http bookshelf login
+
+bookshelf rout login dashboard
+http bookshelf login 2 fdashboard
+name arg
+util escap safe string rout name arg
+
+
+
+sinc
+
+method miss arg
+name rout type split path
+
+type
+send type name rout arg
+
+
+
+
+
+
+test helper
+
+describ lotu logger
+
+
+clear defin
+object send remov test logger object constant test logger
+
+
+like logger set level info
+test logger lotu logger
+test logger info must equal
+
+
+alway stdout
+output
+stub stdout constant
+test logger lotu logger
+logger test logger
+logger info
+
+
+output must match
+
+
+applic name
+output
+stub stdout constant
+test logger lotu logger
+logger test logger
+logger info
+
+
+output must match
+
+
+
+test logger lotu logger
+test logger applic name must equal lotu
+
+
+infer apptag
+app2
+test logger lotu logger
+
+hoge
+test logger send applic name must equal app2
+
+
+
+app2 hoge
+
+
+use custom applic name overrid
+test logger lotu logger applic name
+
+output
+stub stdout constant
+test logger info
+
+
+output must match
+
+
+format sever sever applic name messag
+stub time
+output
+stub stdout constant
+test logger lotu logger
+test logger info
+
+output must equal 1988 01 t00 000000 process info lotu
+
+
+
+test helper
+
+describ lotu setup
+describ requir
+
+lotu rack
+
+lotu util silenc warn
+bundler bundler
+
+bundler modul
+extend
+
+group
+requir group group
+
+
+requir group
+requir group
+
+
+
+
+lotu setup
+
+
+
+lotu util silenc warn
+bundler bundler
+
+
+
+requir bundler group
+lotu environ
+bundler requir group must equal bundler group
+
+
+
+test helper
+
+describ lotu
+
+lotu test
+
+
+describ
+return environ name
+lotu must equal test
+
+
+
+describ
+describ environ match
+describ singl name
+describ environ symbol
+return
+lotu test must equal
+
+
+describ environ string
+return
+lotu test must equal
+
+
+
+
+describ multipl name
+describ environ var symbol
+return
+lotu develop test product must equal
+
+
+describ environ var string
+return
+lotu develop test product must equal
+
+
+
+describ environ var string symbol
+return
+lotu develop test product must equal
+
+
+
+
+
+describ environ match
+
+lotu develop
+
+
+describ singl name
+describ environ symbol
+return
+lotu test must equal
+
+
+describ environ string
+return
+lotu test must equal
+
+
+
+
+describ multipl name
+describ environ var symbol
+return
+lotu test product must equal
+
+
+describ environ var string
+return
+lotu test product must equal
+
+
+
+describ environ var string symbol
+return
+lotu test product must equal
+
+
+
+
+
+
+test helper
+
+describ lotu loader
+
+applic coffe shop applic
+
+
+describ load
+
+review applic load
+
+
+http github lotu lotu issu
+gener applic rout
+defin review rout expect review rout
+
+
+
+describ load
+describ framework
+gener applic framework
+defin coffe shop control expect coffe shop control
+defin coffe shop action expect coffe shop action
+defin coffe shop view expect coffe shop view
+defin coffe shop model expect coffe shop model
+defin coffe shop entiti expect coffe shop entiti
+defin coffe shop repositori expect coffe shop repositori
+defin coffe shop present expect coffe shop present
+defin coffe shop logger expect coffe shop logger
+
+
+gener applic rout
+defin coffe shop rout expect coffe shop rout
+
+
+configur control custom action
+coffe shop control configur action must equal coffe shop action
+
+
+configur control format
+coffe shop control configur format must equal html
+
+
+gener control
+defin coffe shop control expect coffe shop control
+
+
+gener view
+defin coffe shop view expect coffe shop view
+
+
+assign root coffe shop view
+coffe shop view configur root must equal applic configur root join templat
+
+
+assign layout coffe shop view
+coffe shop view configur layout must equal lotu view render null layout
+
+
+
+describ applic
+describ rout
+assign rout
+expect lotu router applic configur rout
+applic rout path root must equal expect path root
+
+
+assign custom endpoint resolv
+resolv applic rout instanc variabl router instanc variabl resolv
+resolv instanc variabl must equal coffe shop
+
+
+assign custom
+applic rout instanc variabl router instanc variabl
+must kind lotu rout default
+
+
+assign scheme host port configur
+rout applic rout
+rout root must equal http lotu coffeeshop 2300
+
+
+
+describ middlewar
+preload middlewar
+applic middlewar must kind lotu middlewar
+
+
+
+describ logger
+name along output
+output
+stub stdout constant
+beer shop
+applic lotu applic load
+
+beer shop logger info
+
+
+output must match beer shop
+
+
+
+
+describ final
+freez coffe shop view
+coffe shop view configur root must frozen
+
+
+
+
+test helper
+lotu router
+
+describ lotu configur
+
+mock app
+
+
+rack
+lotu
+lotu host
+lotu port
+
+mock app
+configur lotu configur
+chdir
+
+
+
+object send remov mock app
+
+
+describ configur
+describ block given
+overrid config
+configur configur
+layout
+
+
+configur configur test
+layout test
+load
+
+configur layout must equal
+
+
+describ
+
+lotu environ
+configur lotu configur
+
+
+
+lotu
+
+
+set config base
+configur configur
+layout
+
+
+configur configur environ
+layout environ
+load
+
+configur layout must equal environ
+
+
+
+
+describ block given
+load default valu
+configur root must equal pathnam realpath
+
+
+
+describ rel path given
+
+configur configur develop
+layout develop
+
+
+
+describ valid
+path fixtur config develop
+
+configur path
+configur configur develop path
+configur load
+configur layout must equal develop
+configur handl except must equal
+
+
+
+describ unknown
+path fixtur config unknown
+
+rais error
+configur configur develop path
+
+
+configur load
+must argument error
+
+
+
+
+
+describ root
+describ valu given
+describ string
+root
+
+expand real path
+configur root root
+configur root must equal pathnam root realpath
+
+
+
+describ pathnam
+root pathnam
+
+expand real path
+configur root root
+configur root must equal pathnam root realpath
+
+
+
+describ pathnam
+
+root path
+attr reader valu
+
+initi valu
+valu valu
+
+
+pathnam
+pathnam valu
+
+
+
+
+
+object send remov root path
+
+
+root root path
+
+expand real path
+configur root root
+configur root must equal pathnam root valu realpath
+
+
+
+
+describ valu given
+
+configur root
+
+
+return valu
+configur root must equal pathnam realpath
+
+
+
+
+describ adapt
+describ previous
+return
+configur adapt must
+
+
+
+describ
+
+configur adapt type sqlite3
+
+
+return configur valu
+configur adapt must equal type sqlite3
+
+
+
+
+describ
+describ previous
+return
+configur must
+
+
+describ configur load
+
+configur load mock app
+
+
+return valu
+configur must equal mock app
+
+
+
+
+describ previous
+
+configur object
+
+
+return valu
+configur must equal object
+
+
+describ configur load
+
+configur configur
+object
+
+
+configur load mock app
+
+
+return return valu configur block
+configur must equal object
+
+
+
+
+
+describ load path
+
+configur root
+
+
+describ
+
+configur load path must
+
+
+
+allow path
+configur load path
+configur load path must
+
+
+
+describ rout
+describ block given
+rout proc root
+
+set rout
+configur rout rout
+
+router lotu router configur rout
+router path root must equal
+
+
+
+describ rel path given
+describ valid
+path fixtur rout
+
+set rout
+configur rout path
+
+router lotu router configur rout
+router path root must equal
+
+
+
+describ unknown
+path fixtur unknown
+
+rais error
+configur rout path
+
+
+lotu router configur rout
+must argument error
+
+
+
+
+
+describ bodi parser
+describ previous
+default
+configur bodi parser must equal
+
+
+
+describ
+
+configur bodi parser json
+
+
+return configur valu
+configur bodi parser must equal json
+
+
+
+describ alreadi
+
+configur bodi parser json
+
+
+describ valu
+
+configur bodi parser
+
+
+return
+configur bodi parser must equal
+
+
+
+
+
+
+
+describ middlewar
+return instanc lotu middlewar
+configur middlewar must instanc lotu middlewar
+
+
+
+describ map
+describ block given
+map proc collect custom
+
+set databas map
+configur map map
+
+mapper lotu model mapper configur map
+mapper collect custom must kind lotu model map collect
+
+
+
+describ rel path given
+describ valid
+path fixtur map
+
+set rout
+configur map path
+
+mapper lotu model mapper configur map
+mapper collect custom must kind lotu model map collect
+
+
+
+describ unknown
+path fixtur unknown
+
+rais error
+configur map path
+
+
+lotu model mapper configur map
+must argument error
+
+
+
+
+
+describ layout
+describ previous
+default
+configur layout must
+
+
+
+describ call argument
+set valu
+configur layout
+configur layout must equal
+
+
+
+describ call
+set valu
+configur layout
+configur layout must
+
+
+
+
+describ templat
+describ previous
+equal configur root
+configur root wont
+configur templat must equal configur root
+
+
+
+describ
+
+configur templat templat
+
+
+return configur valu
+configur templat must equal configur root join templat
+
+
+
+
+describ cooki
+describ previous
+
+cooki configur cooki
+cooki enabl must equal
+
+
+
+describ
+
+configur cooki
+
+
+return configur valu
+configur cooki enabl must equal
+
+
+
+describ alreadi
+
+configur cooki
+
+
+describ valu
+
+configur cooki
+
+
+return
+configur cooki enabl must equal
+
+
+
+
+
+
+describ session
+describ previous
+enabl
+configur session wont enabl
+
+
+
+describ without option
+
+configur session cooki
+
+
+enabl
+configur session must enabl
+
+
+return configur valu middlewar
+configur session middlewar must equal rack session cooki domain secur
+
+
+return valu option
+option domain secur
+option configur session middlewar
+
+option must equal option
+
+
+
+describ option
+
+configur session cooki secur expir 2592000
+
+
+merg option valu
+option configur session middlewar
+option domain must
+option expir must equal 2592000
+option secur must equal
+
+
+
+describ alreadi
+
+configur session cooki
+
+rack session
+file system
+
+
+
+
+
+rack session send remov file system
+
+
+describ configur
+
+configur session rack session file system
+
+
+return
+configur session middlewar must equal rack session file system domain secur
+
+
+
+describ
+
+configur session
+
+
+disabl
+configur session wont enabl
+
+
+
+
+
+describ asset
+
+configur root test fixtur collabor app
+
+
+describ serv asset previous
+serv asset
+configur serv asset must equal
+
+
+
+describ serv asset
+
+configur serv asset
+
+describ directori name
+return configur valu
+expect
+stylesheet
+favicon
+javascript
+font
+imag
+
+actual configur asset entri valu flatten
+expect expect
+actual must expect
+
+
+
+
+describ emtpi
+
+configur asset instanc variabl path
+
+
+return
+configur asset wont
+
+
+
+describ ad asset path
+
+configur asset
+vendor asset
+vendor anoth asset path
+
+
+
+return
+expect
+stylesheet
+favicon
+javascript
+font
+imag
+
+
+
+actual configur asset entri valu flatten
+expect expect
+actual must expect
+
+
+
+describ emtpi
+
+configur asset instanc variabl path
+
+
+return
+configur asset wont
+
+
+
+
+describ ad rel path
+
+configur asset
+vendor asset
+
+
+
+return
+expect
+stylesheet
+favicon
+javascript
+font
+imag
+lotu
+
+actual configur asset entri valu flatten
+expect expect
+actual must expect
+
+
+
+
+
+
+describ format
+describ previous
+return
+configur format must equal html
+
+
+
+describ
+
+configur format json
+
+
+return valu
+configur format must equal json
+
+
+
+rais error given format cannot coerc symbol
+configur format must type error
+
+
+
+describ scheme
+describ previous
+default specif valu
+configur scheme must equal http
+
+
+
+describ call argument
+set valu
+configur scheme scheme http
+configur scheme must equal scheme
+
+
+
+
+describ host
+
+lotu host
+lotu
+
+
+describ previous
+
+configur lotu configur
+
+
+default specif valu
+configur host must equal localhost
+
+
+
+describ
+
+lotu host lotustest
+configur lotu configur
+
+
+return valu
+configur host must equal lotustest
+
+
+
+describ call argument
+set valu
+configur host host lotusrb
+configur host must equal host
+
+
+
+
+describ port
+describ previous
+default 2300
+configur port must equal 2300
+
+
+
+describ
+
+lotu port 2306
+configur lotu configur
+
+
+
+lotu port
+
+
+return valu
+configur port must equal 2306
+
+
+
+describ call argument
+set valu
+configur port port 8080
+configur port must equal port
+
+
+
+
+describ control pattern
+describ previous
+default specif valu
+configur control pattern must equal control control action
+
+
+
+describ call argument
+set valu
+configur control pattern pattern control control action
+configur control pattern must equal pattern
+
+
+
+
+describ view pattern
+describ previous
+default specif valu
+configur view pattern must equal view control action
+
+
+
+describ call argument
+set valu
+configur view pattern pattern control view action
+configur view pattern must equal pattern
+
+
+
+
+describ freez
+
+configur freez
+
+
+must frozen
+configur must frozen
+
+
+rais error load
+configur load bookshelf must runtim error
+
+
+rais error mutat root
+configur root must runtim error
+
+
+rais error mutat asset
+configur asset asset must runtim error
+
+
+rais error mutat templat
+configur templat templat must runtim error
+
+
+rais error mutat configur block
+configur configur proc must runtim error
+
+
+rais error mutat control pattern
+configur control pattern control action must runtim error
+
+
+rais error mutat view pattern
+configur view pattern control action must runtim error
+
+
+rais error mutat format
+configur format must runtim error
+
+
+rais error mutat scheme
+configur scheme http must runtim error
+
+
+rais error mutat host
+configur host exampl must runtim error
+
+
+rais error mutat port
+configur port must runtim error
+
+
+rais error mutat layout
+configur layout anoth must runtim error
+
+
+rais error mutat load path
+configur load path control must runtim error
+
+
+rais error mutat
+configur object must runtim error
+
+
+rais error mutat rout
+configur rout proc must runtim error
+
+
+rais error mutat handl except set
+configur handl except must runtim error
+
+
+
+test helper
+rack mock
+
+describ lotu contain
+describ configur
+
+mount rack app rack
+lotu contain configur
+
+
+allow defin mount applic block
+lotu contain variabl configur expect lotu contain configur equal
+
+
+allow redefin configur
+mount rack app rack2
+lotu contain configur
+
+lotu contain variabl configur expect lotu contain configur equal
+
+
+
+describ initi
+describ defin applic
+
+lotu contain configur
+mount rack app rack
+
+
+
+wrap router
+rout lotu contain rout
+rout must kind lotu router
+
+
+
+describ without configur
+
+lotu contain remov variabl configur
+
+
+rais error initi
+except lotu contain must argument error
+except messag must equal lotu contain applic mount
+
+
+
+
+describ call
+
+lotu contain configur
+mount rack app rack
+
+
+
+forward call inner router
+rack mock request rack
+statu header bodi lotu contain call
+
+statu must equal
+header must equal
+bodi must equal hello rack app
+
+
+
+test helper
+
+describ lotu rout
+
+scheme http
+host lotusrb
+port
+origin lotu router scheme scheme host host port port
+root
+
+
+rout lotu rout origin
+
+
+describ path
+return path given name
+rout path root must equal
+
+
+rais error path cannot found
+rout path unknown must lotu rout invalid rout except
+
+
+return safe string
+rout path root must kind lotu util escap safe string
+
+
+
+describ
+return given name
+rout root must equal scheme host
+
+
+rais error cannot found
+rout unknown must lotu rout invalid rout except
+
+
+return safe string
+rout root must kind lotu util escap safe string
+
+
+
+describ dynam finder
+describ rel ur ls
+recogn name rout
+rout root path must equal
+
+
+rais error unknown path invok
+rout unknown path must lotu rout invalid rout except
+
+
+
+describ absolut ur ls
+recogn name rout
+rout root must equal scheme host
+
+
+rais error unknown invok
+rout unknown must lotu rout invalid rout except
+
+
+
+rais error unknown method
+rout must no method error
+
+
+
+test helper
+lotu root
+
+describ lotu
+describ root
+pathnam lotu root
+return root path
+pathnam getwd
+pathnam must equal
+
+
+
+test helper
+
+describ lotu applic
+
+applic coffe shop applic
+
+
+instanti configur object inherit
+backend backend applic
+frontend frontend applic
+
+backend configur wont equal frontend configur
+
+
+describ configur
+yield given block return configur
+configur coffe shop applic configur
+
+configur must kind lotu configur
+configur root must equal pathnam join coffe shop
+
+
+
+describ subclass
+
+lotu applic applic clear
+
+
+applic lotu applic
+load applic
+load
+
+
+load
+load
+
+
+configur
+
+
+
+
+
+object send remov
+
+
+regist subclass
+lotu applic applic must applic
+
+
+preload regist subclass
+lotu applic preload
+applic must load
+
+
+
+describ configur
+return configur
+applic configur must equal applic configur
+
+
+
+describ initi
+load framework applic
+applic rout must kind lotu router
+
+
+
+describ name
+return name
+applic name must equal applic name
+
+
+
+rubygem
+bundler setup
+
+coverag
+simplecov
+coveral
+
+simpl cov formatt simpl cov formatt multi formatt
+simpl cov formatt html formatt
+coveral simpl cov formatt
+
+
+simpl cov start
+command name test
+filter test
+
+
+
+fixtur root pathnam file dirnam file fixtur realpath
+
+minitest autorun
+unshift
+lotu
+
+minitest test
+isol
+minitest isol
+
+
+method defin isol
+defin method isol
+
+
+
+
+
+minitest
+lotusrc pathnam lotusrc
+lotusrc delet lotusrc exist
+
+
+lotu applic
+clear regist applic
+synchron
+applic clear
+
+
+
+
+lotu config load path
+clear
+path clear
+
+
+object
+path object
+
+
+
+path
+
+
+
+lotu middlewar attr reader stack
+
+pathnam file dirnam file join coffe shop templat mkpath
+
+fake rack builder
+attr reader stack
+
+initi
+stack
+instanc block given
+
+
+middlewar
+stack middlewar
+
+
+
+depend report
+lotu gem
+lotu util
+lotu valid
+lotu router
+lotu model
+lotu view
+lotu control
+freez
+
+initi
+depend depend
+
+
+
+travi
+
+depend
+sourc sourc
+put name sourc revis
+
+
+
+
+depend
+bundler environ depend find
+lotu gem name
+
+
+
+
+depend report
+
+stub stdout constant
+block block
+origin verbos verbos
+verbos
+
+origin stdout stdout
+stdout string io
+block
+toplevel bind block
+
+
+stdout string
+
+block block
+stdout origin stdout
+verbos origin verbos
+block
+toplevel bind block
+
+
+
+
+
+stub time
+time stub time 1988
+
+
+
+
+
+fixtur
+lotu model
+
+order
+lotu entiti
+
+attribut size coffe
+
+
+order repositori
+lotu repositori
+
+
+coffe shop
+applic lotu applic
+configur
+root pathnam file dirnam file join coffe shop
+layout
+
+load path clear
+templat templat
+
+scheme http
+host lotu coffeeshop
+
+rout
+root
+
+
+adapt type memori memori localhost
+map
+collect order
+entiti order
+
+attribut integ
+attribut size string
+attribut coffe string
+attribut integ
+
+
+
+
+
+
+review
+applic lotu applic
+configur
+rout
+root
+
+
+
+
+
+rack app
+call
+hello rack app
+
+
+
+backend
+
+call
+home
+
+
+
+
+tini app lotu applic
+configur
+rout
+home index
+
+
+
+test helper
+lotu middlewar
+
+describ lotu middlewar
+
+chdir
+config config
+mock app modul
+mock app applic class lotu applic
+configur config
+
+
+
+
+object send remov mock app
+
+
+applic mock app applic
+configur applic configur
+middlewar configur middlewar
+config
+proc
+root test fixtur collabor app
+serv asset
+
+
+
+contain rack method overrid
+middlewar stack must rack method overrid
+
+
+describ configur asset
+url configur asset entri valu flatten
+
+contain rack static
+middlewar stack must rack static url url root configur root join
+
+
+
+describ configur disabl asset
+config proc serv asset
+
+rack static
+middlewar stack flatten wont rack static
+
+
+
+describ configur session
+config
+proc
+session cooki
+host localhost
+
+
+
+domain session middlewar
+middlewar stack must rack session cooki domain secur
+
+
+describ configur domain
+config
+proc
+session cooki
+host
+
+
+
+domain session middlewar
+middlewar stack must rack session cooki domain secur
+
+
+
+describ configur domain
+config
+proc
+session cooki
+host
+
+
+
+domain equal host session middlewar
+middlewar stack must rack session cooki domain secur
+
+
+
+
+describ
+insert middlewar stack
+middlewar rack e tag
+middlewar stack must rack e tag
+
+
+insert middlewar stack argument
+middlewar rack e tag must revalid
+middlewar stack must rack e tag must revalid
+
+
+insert middlewar stack block
+block
+middlewar rack bodi proxi block
+middlewar stack must rack bodi proxi block
+
+
+
+test helper
+
+describ lotu environ
+
+lotu
+rack
+lotu host
+lotu port
+
+
+
+
+
+
+describ initi
+describ var
+
+chdir
+lotu environ config test fixtur config
+
+
+set var
+must equal
+
+
+set var environ
+must equal overrid
+must equal
+
+
+describ miss
+
+
+
+
+lotu environ
+
+
+var
+must
+must
+
+
+
+describ environ miss
+
+lotu test
+
+
+
+lotu environ config test fixtur config
+
+
+var
+must equal
+must
+
+
+
+
+
+describ environ
+describ lotu
+
+lotu test
+lotu environ
+
+
+return valu
+environ must equal test
+
+
+
+describ rack
+
+rack product
+lotu environ
+
+
+return valu
+environ must equal product
+
+
+
+describ none
+
+lotu environ
+
+
+default develop
+environ must equal develop
+
+
+
+describ
+
+lotu test
+rack product
+lotu environ
+
+
+give preced lotu
+environ must equal test
+
+
+
+describ var chang initi
+
+lotu environ
+
+
+alway valu
+environ must equal develop
+
+lotu test
+environ must equal develop
+
+
+
+
+describ environ
+describ environ match
+
+lotu test
+lotu environ
+
+
+describ singl name
+describ environ symbol
+return
+environ test must equal
+
+
+describ environ string
+return
+environ test must equal
+
+
+
+
+describ multipl name
+describ environ var symbol
+return
+environ develop test product must equal
+
+
+describ environ var string
+return
+environ develop test product must equal
+
+
+
+describ environ var string symbol
+return
+environ develop test product must equal
+
+
+
+
+
+describ environ match
+
+lotu develop
+lotu environ
+
+
+describ singl name
+describ environ symbol
+return
+environ test must equal
+
+
+describ environ string
+return
+environ test must equal
+
+
+
+
+describ multipl name
+describ environ var symbol
+return
+environ test product must equal
+
+
+describ environ var string
+return
+environ test product must equal
+
+
+
+describ environ var string symbol
+return
+environ test product must equal
+
+
+
+
+
+
+describ bundler group
+
+lotu environ
+
+
+return group bundler
+bundler group must equal environ
+
+
+
+describ config
+describ specifi
+
+lotu environ
+
+
+equal config
+config must equal pathnam join config
+
+
+
+describ specifi
+describ rel path
+
+lotu environ config test
+
+
+equal
+config must equal pathnam join test
+
+
+
+describ absolut path
+
+path file expand path config
+lotu environ config path
+
+
+equal
+config must equal pathnam path
+
+
+
+
+
+describ config
+describ specifi
+
+lotu environ
+
+
+equal config environ
+config must equal pathnam join config environ
+
+
+
+describ specifi
+describ rel path
+
+lotu environ environ
+
+
+assum locat root
+config must equal pathnam join
+
+
+
+describ absolut path
+
+path file expand path
+lotu environ environ path
+
+
+assum locat root
+config must equal pathnam path
+
+
+
+
+
+describ rackup
+describ specifi
+
+lotu environ
+
+
+equal config
+rackup must equal pathnam join config
+
+
+
+describ specifi
+describ rel path
+
+lotu environ rackup test
+
+
+assum locat root
+rackup must equal pathnam join test
+
+
+
+describ absolut path
+
+path file expand path absolut
+lotu environ rackup path
+
+
+assum locat root
+rackup must equal pathnam path
+
+
+
+
+
+describ host
+describ correspod option
+
+lotu environ host lotusrb test
+
+
+return valu
+host must equal lotusrb test
+
+
+
+describ correspond option
+describ lotu host
+
+lotu host lotu host
+lotu environ
+
+
+return valu
+host must equal lotu host
+
+
+
+describ current environ
+
+lotu environ
+
+
+return localhost
+host must equal localhost
+
+
+
+describ current environ
+
+lotu stage
+lotu environ
+
+
+return
+host must equal
+
+
+
+describ var
+
+lotu host lotushost test
+lotu test
+lotu environ
+
+
+give preced lotu host
+host must equal lotushost test
+
+
+
+
+describ correspond option var
+
+lotu host lotushost test
+lotu test
+lotu environ host lotusrb
+
+
+give preced option
+host must equal lotusrb
+
+
+
+describ var chang initi
+
+lotu environ
+
+
+alway valu
+host must equal localhost
+
+lotu host changedlotushost
+host must equal localhost
+
+
+
+
+describ port
+describ correspod option
+
+lotu environ port 1234
+
+
+return valu
+port must equal 1234
+
+
+
+describ correspond option
+describ lotu port
+
+lotu port 3244
+lotu environ
+
+
+return valu
+port must equal 3244
+
+
+
+describ var
+
+lotu environ
+
+
+default 2300
+port must equal 2300
+
+
+
+
+describ correspond option var
+
+lotu port 8206
+lotu environ port 2323
+
+
+give preced option
+port must equal 2323
+
+
+
+describ var chang initi
+
+lotu environ
+
+
+alway valu
+port must equal 2300
+
+lotu port 1223
+port must equal 2300
+
+
+
+
+describ code reload
+describ specifi
+describ
+
+lotu environ
+
+
+return
+code reload must equal
+
+
+
+describ specifi develop
+
+lotu develop
+lotu environ
+
+
+return
+environ must equal develop
+code reload must equal
+
+
+
+describ specifi test
+
+lotu test
+lotu environ
+
+
+return
+environ must equal test
+code reload must equal
+
+
+
+
+describ specifi
+describ
+
+lotu environ code reload
+
+
+return
+code reload must equal
+
+
+
+describ
+
+lotu environ code reload
+
+
+return
+code reload must equal
+
+
+
+
+
+describ lotusrc
+describ exist file
+
+
+
+thi lotusrc test minitest
+path pathnam test fixtur lotusrc exist
+path mkpath
+chdir path
+
+
+
+chdir
+
+
+use default inlin arg
+lotu environ
+option fetch test must equal minitest
+
+
+give prioriti inlin arg
+simul lotu bookshelf test rspec
+lotu environ test rspec
+option fetch test must equal rspec
+
+
+
+describ unexist file
+
+
+
+path pathnam test fixtur lotusrc exist
+path mkpath
+
+chdir path
+
+lotu environ
+
+
+
+chdir
+
+
+use default inlin arg
+lotu environ
+option fetch test must equal minitest
+
+
+give prioriti inlin arg
+simul lotu bookshelf test rspec
+lotu environ test rspec
+option fetch test must equal rspec
+
+
+
+
+describ option
+
+
+path pathnam test fixtur lotusrc exist
+path mkpath
+chdir path
+lotu environ
+
+
+
+chdir
+
+
+lotusrc merg option environemnt option
+option option
+option architectur must equal contain
+option test must equal minitest
+option templat must equal
+
+
+
+test helper
+lotu applic name
+
+describ lotu applic name
+
+describ format
+
+describ
+render downcas
+applic name lotu applic name
+applic name must equal
+
+
+render trim
+applic name lotu applic name
+applic name must equal
+
+
+render intern space underscor
+applic name lotu applic name
+applic name must equal
+
+
+render underscor duplic
+applic name lotu applic name
+applic name must equal
+
+
+
+
+describ
+render uppercas alphanumer charact underscor
+applic name lotu applic name
+applic name must equal
+
+
+
+
+
+describ reserv word
+prohibit lotu
+lotu applic name lotu must runtim error
+
+
+
+test helper
+
+describ lotu version
+return current version
+lotu version must equal
+
+
+test helper
+
+describ lotu lotusrc
+describ read
+describ file exist
+
+chdir
+
+chdir test fixtur lotusrc exist
+root pathnam
+lotusrc lotu lotusrc root
+
+
+
+chdir
+
+
+valu file
+option lotusrc read
+option architectur must equal contain
+option test must equal minitest
+option templat must equal
+
+
+valu although argument pass
+option architectur applic test rspec templat slim
+lotusrc lotu lotusrc root option
+option lotusrc read
+option architectur must equal contain
+option test must equal minitest
+option templat must equal
+
+
+
+describ file exist
+
+chdir
+
+chdir test fixtur lotusrc exist
+root pathnam
+
+
+
+chdir
+
+
+describ valu
+
+file pathnam join lotusrc
+lotusrc lotu lotusrc root
+
+
+
+file delet file
+
+
+read file
+option lotusrc read
+option architectur must equal contain
+option test must equal minitest
+option templat must equal
+
+
+
+describ custom valu
+
+file pathnam join lotusrc
+file unlink file exist
+
+option architectur applic test rspec templat slim
+lotusrc lotu lotusrc root option
+
+
+
+file delet file
+
+
+read file
+option lotusrc read
+option architectur must equal applic
+option test must equal rspec
+option templat must equal slim
+
+
+
+
+
+test helper
+
+describ lotu config session
+describ enabl
+identifi provid
+session lotu config session
+session wont enabl
+
+
+identifi provid
+session lotu config session cooki
+session must enabl
+
+
+
+describ middlewar
+
+session middlewar class
+
+
+
+object send remov session middlewar
+
+
+describ provid identifi
+return
+session lotu config session session middlewar
+session middlewar must equal session middlewar
+
+
+
+describ provid string identifi
+return string
+session lotu config session session middlewar
+session middlewar must equal session middlewar
+
+
+
+describ provid symbol identifi
+
+rack session
+some storag
+
+
+
+
+
+rack session send remov some storag
+
+
+return symbol name rack session
+session lotu config session storag
+session middlewar must equal rack session some storag
+
+
+
+describ option
+return pass option
+option domain exampl
+session lotu config session cooki option
+session middlewar must equal cooki option
+
+
+
+
+test helper
+
+describ lotu config map
+describ proc
+describ path given
+
+map lotu config map pathnam path
+
+
+describ
+path
+
+rais error
+rais argument error
+map proc
+
+
+
+
+describ point unknown file
+path unknown path
+
+rais error
+rais argument error
+map proc
+
+
+
+
+describ point valid file
+path fixtur map
+
+rais error
+kind proc map proc
+
+
+
+
+
+test helper
+
+describ lotu config rout
+describ proc
+describ path given
+
+rout lotu config rout pathnam path
+
+
+describ
+path
+
+rais error
+rais argument error
+rout proc
+
+
+
+
+describ point unknown file
+path unknown path
+
+rais error
+rais argument error
+rout proc
+
+
+
+
+describ point valid file
+path fixtur rout
+
+rais error
+kind proc rout proc
+
+
+
+
+
+test helper
+
+describ lotu config cooki
+config lotu configur
+
+describ enabl
+cooki enabl
+cooki lotu config cooki config
+cooki enabl must equal
+
+cooki lotu config cooki config
+cooki enabl must equal
+
+
+cooki enabl
+cooki lotu config cooki config
+cooki enabl must equal
+
+
+option pass
+cooki lotu config cooki config
+cooki enabl must equal
+
+
+
+describ option
+option pass
+option domain lotusrb path control secur httponli
+cooki lotu config cooki config option
+cooki option must equal option
+
+
+httponli secur
+cooki lotu config cooki config
+cooki option must equal httponli secur
+
+
+disabl httponli
+cooki lotu config cooki config httponli
+cooki option must equal httponli secur
+
+
+enabl secur
+config scheme http
+cooki lotu config cooki config
+
+cooki option must equal httponli secur
+
+
+disabl secur scheme http
+config scheme http
+cooki lotu config cooki config secur
+
+cooki option must equal httponli secur
+
+
+enabl secur scheme http
+config scheme http
+cooki lotu config cooki config secur
+
+cooki option must equal httponli secur
+
+
+
+test helper
+
+describ lotu config load path
+describ load
+recurs load rubi file path
+path lotu config load path
+path fixtur mail
+path load pathnam
+
+defin mail app dashboard control expect mail app dashboard control
+
+
+
+test helper
+
+describ lotu config mapper
+describ proc
+describ path given
+
+map lotu config mapper pathnam path
+
+
+describ
+path
+
+rais error
+rais argument error
+map proc
+
+
+
+
+describ point unknown file
+path unknown path
+
+rais error
+rais argument error
+map proc
+
+
+
+
+describ point valid file
+path fixtur mapper
+
+rais error
+kind proc map proc
+
+
+
+
+
+collect custom
+
+root
+put
+lotu
+
+inform tech
+applic lotu applic
+configur
+object
+
+control pattern control control action
+view pattern control action
+
+load path
+
+layout
+
+serv asset
+
+asset
+
+
+
+rout
+hardwar hardwar index
+error hardwar error
+action legaci hardwar legaci
+hardwar
+
+redirect legaci hardwar
+
+
+
+
+app layout
+lotu layout
+
+hardwar
+index
+lotu view
+
+
+hardwar control
+index
+lotu action
+
+call param
+
+
+
+error
+lotu action
+
+call param
+boom
+
+
+
+legaci
+lotu action
+
+call param
+redirect http localhost hardwar
+
+
+
+protect
+lotu action
+
+call param
+halt
+
+
+
+lotu
+lotu model
+
+secur header adapt type rubi engin jrubi
+jdbc sqlite3
+jdbc sq lite3 load driver
+jdbc sqlite
+
+sqlite3
+sqlite
+
+
+lotu model adapt adapt
+pathnam file dirnam file join test
+dirnam mkpath creat directori exist
+delet exist delet file exist
+secur header sqlite connect string secur header adapt type
+
+secur header sequel connect secur header sqlite connect string
+
+secur header creat tabl book
+primari
+string name
+
+
+secur header
+applic lotu applic
+configur
+layout applic
+load path
+rout config rout
+
+secur frame option allow
+secur content secur polici script http api googl
+
+adapt type secur header sqlite connect string
+map config map
+
+
+
+collect book
+entiti book
+repositori book repositori
+
+attribut integ
+attribut name string
+
+home index root
+resourc book
+secur header view applic layout
+lotu layout
+
+secur header view home
+index
+secur header view
+
+
+secur header control home
+index
+secur header action
+
+call param
+
+
+
+book repositori
+lotu repositori
+
+book
+lotu entiti
+
+attribut name
+
+cooki app
+applic lotu applic
+configur
+activ cooki
+cooki domain lotusrb path anoth control secur
+
+rout
+cooki cooki
+cooki cooki
+cooki option cooki option
+cooki cooki
+
+
+
+load
+
+
+control cooki
+
+cooki app action
+
+call param
+bodi cooki
+
+
+
+
+cooki app action
+
+call param
+bodi yummi
+cooki nomnomnom
+
+
+
+set with option
+cooki app action
+
+call param
+bodi option
+expir date time pars param expir
+
+cooki
+valu nomnomnom
+domain lotusrock
+path control
+expir expir date
+secur
+httponli
+
+
+
+
+
+cooki app action
+
+call param
+bodi delet
+cooki delet
+
+
+
+
+
+one file
+applic lotu applic
+configur
+rout
+dashboard index
+
+
+
+load
+
+
+control dashboard
+index
+one file action
+
+call param
+bodi hello
+
+
+
+
+handl except
+welcom app
+applic lotu applic
+configur
+
+
+
+middlewar stack
+applic lotu applic
+configur
+test lazi load rel name
+middlewar middlewar runtim
+
+test lazi load absolut name argument
+middlewar middlewar stack middlewar custom
+
+test alreadi load middlewar
+middlewar rack e tag
+
+rout
+home index
+
+
+
+load
+
+
+middlewar
+runtim
+initi
+
+
+
+call
+statu header bodi call
+header runtim 50m
+
+statu header bodi
+
+
+
+custom
+initi valu
+
+valu valu
+
+
+call
+statu header bodi call
+header custom valu
+
+statu header bodi
+
+
+
+
+control home
+index
+middlewar stack action
+
+call param
+bodi hello
+
+
+
+
+rexml document
+lotu rout pars parser
+
+xml parser lotu rout pars parser
+mime type
+applic text
+
+
+pars bodi
+result
+
+rexml document bodi
+element result name text
+
+result
+
+
+
+bodi parser app
+applic lotu applic
+configur
+bodi parser json xml parser
+
+rout
+post json parser bodi parser json
+patch parser bodi parser
+
+
+
+load
+
+
+control bodi parser
+
+json
+bodi parser app action
+call param
+bodi param success
+
+
+
+
+bodi parser app action
+call param
+bodi param success
+
+
+
+
+
+mail app
+dashboard control
+
+
+frontend
+applic lotu applic
+configur
+root file dirnam file
+load path
+control
+view
+
+
+layout frontend
+
+serv asset
+
+asset
+asset
+vendor asset
+
+
+rout
+resourc session
+
+
+
+
+frontend view frontend layout
+frontend layout
+
+frontend view session
+
+frontend view
+
+
+frontend control session
+
+frontend action
+
+call param
+
+
+
+backend
+applic lotu applic
+configur
+root file dirnam file
+load path
+control
+view
+
+
+serv asset
+
+asset
+
+
+
+layout backend
+
+rout
+resourc session
+
+
+
+
+backend view
+backend layout
+backend layout
+
+
+backend view session
+
+backend view
+
+
+backend control session
+
+backend action
+
+call param
+
+
+
+file expand path app backend applic file
+file expand path app frontend applic file
+blog
+applic lotu applic
+configur
+root
+exclud load path featur spec vendor
+
+rout
+post index
+post
+
+
+
+
+post
+control
+lotu control
+
+action index
+call param
+
+
+
+action rais
+call param
+problem
+
+
+
+
+post
+view
+index
+lotu view
+
+page titl
+layout page titl post
+
+
+
+
+applic layout
+lotu view layout
+root
+
+page titl
+blog
+
+
+configur
+authent
+
+authent
+bodi authent
+
+
+
+applic lotu applic
+configur
+handl except
+
+rout
+error error index
+twist twist index
+
+
+model adapt type memori memori localhost
+model map
+
+control format
+control charset koi8
+control prepar
+authent
+authent
+
+
+view root
+
+
+load
+
+
+control error
+index
+configur action
+
+call param
+argument error
+
+
+
+
+control twist
+index
+configur action
+
+call param
+
+
+
+
+lotu
+lotu model
+
+adapt type rubi engin jrubi
+jdbc sqlite3
+jdbc sq lite3 load driver
+jdbc sqlite
+
+sqlite3
+sqlite
+
+
+lotu model adapt adapt
+pathnam file dirnam file join test sqlite3
+dirnam mkpath creat directori exist
+delet exist delet file exist
+sqlite connect string adapt type
+
+sequel connect sqlite connect string
+
+creat tabl book
+primari
+string name
+
+
+collabor
+applic lotu applic
+configur
+layout applic
+load path
+rout config rout
+
+serv asset
+
+asset
+
+vendor asset
+vendor asset
+
+
+adapt type sqlite connect string
+map config map
+
+
+simul disabl secur header
+
+secur frame option deni
+secur content secur polici connect
+
+
+
+collect book
+entiti book
+repositori book repositori
+
+attribut integ
+attribut name string
+
+home index root
+error home error
+action legaci home legaci legaci
+index
+bodi render bodi
+present render present
+custom error custom error index
+redirect rout redirect rout index
+
+redirect legaci
+
+resourc book
+collabor view applic layout
+lotu layout
+
+collabor view home
+index
+collabor view
+
+
+collabor view book
+show
+collabor view
+
+
+collabor view book
+
+collabor view
+
+
+collabor view book
+index
+collabor view
+
+
+collabor view book
+edit
+collabor view
+
+
+collabor view render
+present
+collabor view
+
+render
+present
+
+
+
+collabor control protect
+index
+collabor action
+
+call param
+halt
+
+
+
+collabor control book
+collabor control
+
+
+collabor action
+expos book
+
+call param
+book book
+
+
+
+index
+collabor action
+expos book
+
+call param
+book book repositori
+
+
+
+show
+collabor action
+expos book
+
+call param
+book book repositori find param
+
+
+
+edit
+collabor action
+expos book
+
+call param
+book book repositori find param
+
+
+
+destroy
+collabor action
+
+call param
+book book repositori find param
+book repositori delet book
+
+redirect rout book
+
+
+
+creat
+collabor action
+
+call param
+book book param
+book book repositori creat book
+
+redirect rout book book
+
+
+
+updat
+collabor action
+
+call param
+book book repositori find param
+book updat param
+book book repositori updat book
+
+redirect rout book book
+
+
+
+collabor control custom error
+index
+collabor action
+
+call param
+halt
+
+
+
+collabor control render
+bodi
+collabor action
+
+call param
+bodi action
+
+
+
+present
+collabor action
+
+call param
+
+
+
+collabor control home
+index
+collabor action
+
+call param
+
+
+
+error
+collabor action
+
+call param
+standard error
+
+
+
+legaci
+collabor action
+
+call param
+redirect rout root
+
+
+
+collabor control redirect rout
+index
+collabor action
+
+call param
+redirect rout legaci path
+
+
+
+book repositori
+lotu repositori
+
+book
+lotu entiti
+
+attribut name
+
+lotu
+
+furnitur
+applic lotu applic
+configur
+layout applic
+rout config rout
+
+load path
+
+serv asset
+
+asset
+
+
+
+control pattern control control action
+view pattern control action
+
+
+
+catalog catalog index
+error catalog error
+action legaci catalog legaci
+catalog
+
+redirect legaci catalog
+furnitur view
+applic layout
+furnitur layout
+
+
+furnitur catalog
+index
+furnitur view
+
+
+furnitur catalog control
+index
+furnitur action
+
+call param
+
+
+
+error
+furnitur action
+
+call param
+boom
+
+
+
+legaci
+furnitur action
+
+call param
+redirect http localhost catalog
+
+
+
+protect
+furnitur action
+
+call param
+halt
+
+
+
+session app
+applic lotu applic
+configur
+session cooki secret 1234567890
+
+rout
+post session session creat
+session session show
+delet clear session session destroy
+
+
+
+load
+
+
+
+control session
+creat
+session app action
+
+call param
+session name param name
+bodi session creat session name
+
+
+
+show
+session app action
+
+call param
+bodi session name
+
+
+
+destroy
+session app action
+
+call param
+name session name
+session clear
+bodi session clear name
+
+
+
+
+magazin
+applic lotu applic
+configur
+root
+exclud load path featur spec vendor
+
+rout
+articl index
+
+
+
+
+articl
+index view
+lotu view
+
+page titl
+layout page titl articl
+
+
+
+applic layout
+lotu view layout
+
+page titl
+magazin
+
+
+articl control
+lotu control
+
+action index
+call param
+
+
+
+lint
+applic lotu applic
+configur
+rout
+home index
+greet home greet
+download home download
+
+
+
+load
+
+
+control home
+index
+lint action
+
+call param
+
+
+
+greet
+lint action
+
+call param
+bodi hello
+
+
+
+thi integr test action render
+pleas look lotu action glue send file
+download
+lint action
+
+call param
+send file file
+
+
+
+
+view home
+index
+lint view
+
+render
+view
+
+
+
+
+test helper
+rack test
+fixtur session applic
+
+describ session
+rack test method
+
+
+current
+chdir fixtur root join session
+session app applic
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+request
+last request
+
+
+session
+session
+
+respons bodi must equal
+
+
+allow session
+post session name lotu
+
+respons bodi must equal session creat lotu
+
+
+preserv session request
+post session name lotu
+session http cooki respons header cooki
+
+respons bodi must equal lotu
+
+
+allow clear session
+post session name lotu
+
+delet clear session http cooki respons header cooki
+respons bodi must equal session clear lotu
+
+session http cooki respons header cooki
+respons bodi must equal
+
+
+test helper
+rack test
+fixtur microservic app frontend applic
+fixtur microservic app backend applic
+
+describ lotu microservic applic
+rack test method
+
+
+current
+chdir fixtur root join microservic
+
+lotu router
+mount backend applic backend
+mount frontend applic
+
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+return success respons frontend resourc
+session
+
+respons statu must equal
+respons bodi must match titl frontend titl
+respons bodi must match session
+
+
+return success respons backend resourc
+backend session
+
+respons statu must equal
+respons bodi must match titl backend titl
+respons bodi must match session
+
+
+render respons come frontend action
+favicon
+
+respons statu must equal
+respons bodi wont
+
+
+render respons come frontend action
+backend favicon
+
+respons statu must equal
+respons bodi wont
+
+
+serv file frontend
+stylesheet applic
+respons statu must equal
+respons bodi wont
+
+javascript applic
+respons statu must equal
+respons bodi wont
+
+imag applic
+respons statu must equal
+respons bodi wont
+
+font cabin medium woff
+respons statu must equal
+respons bodi wont
+
+stylesheet found
+respons statu must equal
+respons bodi wont
+
+
+serv file backend
+backend stylesheet applic
+respons statu must equal
+respons bodi wont
+
+backend javascript applic
+respons statu must equal
+respons bodi wont
+
+backend imag applic
+respons statu must equal
+respons bodi wont
+
+backend font cabin medium woff
+respons statu must equal
+respons bodi wont
+
+backend stylesheet found
+respons statu must equal
+respons bodi wont
+
+
+render custom page frontend found resourc
+unknown
+
+respons statu must equal
+
+respons bodi must match titl found titl
+respons bodi must match found
+
+
+render custom page backend found resourc
+backend unknown
+
+respons statu must equal
+
+respons bodi must match titl found titl
+respons bodi must match found
+
+
+test helper
+rack test
+fixtur inform tech applic
+
+describ level lotu applic
+rack test method
+
+
+current
+chdir fixtur root join inform tech
+inform tech applic
+
+
+
+chdir current
+current
+
+reset control setup
+reset view setup
+
+
+reset control setup
+object send remov action
+object send remov control
+
+
+reset view setup
+object send remov layout
+object send remov view
+object send remov present
+
+
+
+
+
+
+respons
+last respons
+
+
+return success respons resourc
+return success respons resourc
+hardwar
+
+respons statu must equal
+respons bodi must match titl inform technolog titl
+respons bodi must match hardwar
+
+
+render respons come action
+favicon
+
+respons statu must equal
+respons bodi wont
+
+
+serv file
+stylesheet applic
+respons statu must equal
+respons bodi wont
+
+javascript applic
+respons statu must equal
+respons bodi wont
+
+imag applic
+respons statu must equal
+respons bodi wont
+
+font cabin medium woff
+respons statu must equal
+respons bodi wont
+
+stylesheet found
+respons statu must equal
+respons bodi wont
+
+
+render custom page found resourc
+unknown
+
+respons statu must equal
+
+respons bodi must match titl found titl
+respons bodi must match found
+
+
+render custom page server side error
+error
+
+respons statu must equal
+respons bodi must match titl intern server error titl
+respons bodi must match intern server error
+
+
+handl redirect rout
+handl redirect rout
+legaci
+follow redirect
+
+respons statu must equal
+respons bodi must match titl inform technolog titl
+respons bodi must match hardwar
+
+
+handl redirect action
+handl redirect action
+action legaci
+follow redirect
+
+respons statu must equal
+respons bodi must match titl inform technolog titl
+respons bodi must match hardwar
+
+
+handl thrown status action
+
+
+respons statu must equal
+respons bodi must match titl unauthor titl
+respons bodi must match unauthor
+
+
+test helper
+rack test
+fixtur bodi parser applic
+
+describ session
+rack test method
+
+
+current
+chdir fixtur root join bodi parser
+bodi parser app applic
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+request
+last request
+
+
+successfuli pars json bodi
+post json parser success content type applic json
+
+respons bodi must equal
+
+
+successfuli pars bodi
+patch parser success success content type applic
+
+respons bodi must equal
+
+
+successfuli pars alias mime
+patch parser success success content type text
+
+respons bodi must equal
+
+
+
+test helper
+rack test
+fixtur configur applic
+
+describ configur applic
+rack test method
+
+
+chdir
+current
+chdir fixtur root join configur
+configur applic
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+request
+last request
+
+
+describ handl except
+rais
+error must argument error
+
+
+
+describ configur framework
+yield configur block applic initi
+twist
+
+respons bodi must equal authent
+
+
+
+describ model configur
+forward set
+adapt configur model configur instanc variabl adapt
+adapt must kind lotu model adapt memori adapt
+
+
+
+describ control configur
+forward set
+configur control configur format must equal
+configur control configur charset must equal koi8
+
+
+
+describ view configur
+forward set
+configur view configur root must equal pathnam current
+
+
+
+test helper
+rack test
+fixtur cooki applic
+
+describ cooki
+rack test method
+
+
+current
+chdir fixtur root join cooki
+cooki app applic
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+request
+last request
+
+
+sucess get cooki
+cooki http cooki
+
+request cooki must equal
+
+respons bodi must equal
+respons header cooki must equal domain lotusrb path anoth control secur http onli
+
+
+succes set cooki
+cooki
+
+respons bodi must equal yummi
+respons header cooki must equal nomnomnom domain lotusrb path anoth control secur http onli
+
+
+sucess set cooki option
+week time
+cooki option expir week
+
+respons bodi must equal option
+respons header cooki must equal nomnomnom domain lotusrock path control expir week gmtime rfc2822 secur http onli
+
+
+sucess delet cooki
+cooki http cooki delet cooki
+
+request cooki must equal delet cooki
+
+respons bodi must equal delet
+respons header cooki must equal domain lotusrb path anoth control secur http onli ndelet expir 1970 0000
+
+
+test helper
+rack test
+fixtur middlewar stack applic
+
+describ middlewar stack
+rack test method
+
+
+current
+chdir fixtur root join middlewar stack
+middlewar stack applic
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+return success respons root path
+
+
+respons statu must equal
+respons bodi must equal hello
+
+respons header e tag wont
+respons header custom must equal
+respons header runtim must equal 50m
+
+
+return found respons asset
+logo
+
+respons statu must equal
+
+
+test helper
+fixtur blog applic
+fixtur magazin applic
+
+describ lotu applic
+isol
+
+describ standard layout
+
+blog rack mock request blog applic
+
+
+return success respons root path
+respons blog
+
+respons statu must equal
+respons bodi must match titl blog post titl
+respons bodi must match post
+
+
+return server side error execept rais
+respons blog
+
+respons statu must equal
+respons bodi must match titl intern server error titl
+respons bodi must match intern server error
+
+
+return found respons unknown path
+respons blog unknown
+
+respons statu must equal
+respons bodi must match titl found titl
+respons bodi must match found
+
+
+return imag directori
+respons blog favicon
+
+respons statu must equal
+
+
+
+describ rail layout
+
+magazin rack mock request magazin applic
+
+
+return success respons root path
+respons magazin
+
+respons statu must equal
+respons bodi must match titl magazin articl titl
+respons bodi must match articl
+
+
+
+
+
+
+articl
+templat
+form html
+index html
+html
+edit html
+view
+index articl view index
+show articl view show
+
+creat
+edit
+control articl control articl control index
+articl articl articl model
+repositori articl repositori
+
+
+
+
+
+
+control
+articl control articl control articl control index
+model
+articl articl
+repositori
+articl repositori articl repositori
+templat
+articl
+form html
+index html
+html
+edit html
+view
+articl
+index articl view index
+show
+
+creat
+edit
+test helper
+rack test
+fixtur welcom applic
+
+describ welcom page
+rack test method
+
+
+current
+chdir fixtur root join welcom
+welcom app applic
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+show welcom page rout
+
+
+respons statu must equal
+respons bodi must lotu
+
+
+test helper
+rack test
+fixtur furnitur applic
+
+describ modul lotu applic
+rack test method
+
+
+current
+chdir fixtur root join furnitur
+furnitur applic
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+return success respons resourc
+catalog
+
+respons statu must equal
+respons bodi must match titl furnitur titl
+respons bodi must match catalog
+
+
+render respons come action
+favicon
+
+respons statu must equal
+respons bodi wont
+
+
+serv file
+stylesheet applic
+respons statu must equal
+respons bodi wont
+
+javascript applic
+respons statu must equal
+respons bodi wont
+
+imag applic
+respons statu must equal
+respons bodi wont
+
+font cabin medium woff
+respons statu must equal
+respons bodi wont
+
+stylesheet found
+respons statu must equal
+respons bodi wont
+
+
+render custom page found resourc
+unknown
+
+respons statu must equal
+
+respons bodi must match titl found titl
+respons bodi must match found
+
+
+render custom page server side error
+error
+
+respons statu must equal
+respons bodi must match titl intern server error titl
+respons bodi must match intern server error
+
+
+handl redirect rout
+legaci
+follow redirect
+
+respons statu must equal
+respons bodi must match titl furnitur titl
+respons bodi must match catalog
+
+
+handl redirect action
+action legaci
+follow redirect
+
+respons statu must equal
+respons bodi must match titl furnitur titl
+respons bodi must match catalog
+
+
+handl thrown status action
+
+
+respons statu must equal
+respons bodi must match titl unauthor titl
+respons bodi must match unauthor
+
+
+test helper
+rack test
+fixtur lint applic
+
+describ session
+rack test method
+
+
+current
+chdir fixtur root join lint
+
+rack builder
+rack lint
+lint applic
+
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+request
+last request
+
+
+return bodi head request view
+head
+
+respons statu must equal
+respons bodi must equal
+
+
+return bodi head request direct bodi setter
+head greet
+
+respons statu must equal
+respons bodi must equal
+
+
+send file
+download
+
+respons statu must equal
+respons bodi wont
+
+
+return bodi head request file send
+head download
+
+respons statu must equal
+respons bodi must equal
+
+
+test helper
+rack test
+fixtur file applic
+
+describ file lotu applic
+rack test method
+
+
+current
+chdir fixtur root join file
+one file applic
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+return success respons root path
+
+
+respons statu must equal
+respons bodi must equal hello
+
+
+test helper
+rack test
+fixtur collabor app applic
+
+describ full stack lotu applic
+rack test method
+
+
+current
+chdir fixtur root join collabor app
+collabor applic
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+return success respons root path
+
+
+respons statu must equal
+respons bodi must match titl collabor titl
+respons bodi must match welcom
+
+
+render respons come action
+favicon
+
+respons statu must equal
+
+
+serv file
+stylesheet applic
+respons statu must equal
+respons bodi wont
+
+javascript applic
+respons statu must equal
+respons bodi wont
+
+imag applic
+respons statu must equal
+respons bodi wont
+
+font cabin medium woff
+respons statu must equal
+respons bodi wont
+
+stylesheet found
+respons statu must equal
+respons bodi wont
+
+
+serv file rel path
+lotu
+respons statu must equal
+respons bodi wont
+
+
+user provid custom templat render custom page
+request custom error http accept text html
+
+respons statu must equal
+
+respons bodi must match titl apo teapot titl
+respons bodi must match apo teapot
+
+
+html render custom page found resourc
+request unknown http accept text html
+
+respons statu must equal
+
+respons bodi must match titl found titl
+respons bodi must match found
+
+
+html return statu code messag
+request unknown http accept applic json
+
+respons statu must equal
+respons bodi must equal found
+
+
+html render custom page server side error
+error
+
+respons statu must equal
+respons bodi must match titl intern server error titl
+respons bodi must match intern server error
+
+
+html return error statu code messag
+request error http accept applic json
+
+respons statu must equal
+respons bodi must equal intern server error
+
+
+doesn render bodi alreadi action
+bodi
+
+respons statu must equal
+respons bodi must equal action
+
+
+render bodi custom render polici
+present
+
+respons statu must equal
+respons bodi must equal present
+
+
+handl redirect rout
+legaci
+
+respons statu must equal
+respons bodi must
+
+follow redirect
+
+respons statu must equal
+respons bodi must match titl collabor titl
+respons bodi must match welcom
+
+
+handl redirect action
+action legaci
+follow redirect
+
+respons statu must equal
+respons bodi must match titl collabor titl
+respons bodi must match welcom
+
+
+handl thrown status action
+
+
+respons statu must equal
+respons bodi must match titl unauthor titl
+respons bodi must match unauthor
+
+
+describ re tful crud
+
+book book name path success
+book book repositori persist book
+
+
+
+book repositori clear
+
+
+handl index action
+book
+
+respons statu must equal
+respons bodi must there book
+
+
+handl show action
+book book
+
+respons statu must equal
+
+respons bodi must book book
+respons bodi must book name path success
+
+
+handl edit action
+book book edit
+
+respons statu must equal
+
+respons bodi must form accept charset action book book method patch
+respons bodi must input name book name placehold name type text valu path success
+
+
+handl action
+book
+
+respons statu must equal
+
+respons bodi must form accept charset action book method post
+respons bodi must input name book name placehold name type text valu
+
+
+handl updat action
+patch book book name path failur
+
+respons statu must equal
+respons bodi must equal found
+
+follow redirect
+
+respons statu must equal
+respons bodi must book book
+respons bodi must book name path failur
+
+
+handl creat action
+post book name
+
+respons statu must equal
+respons bodi must equal found
+
+follow redirect
+
+respons statu must equal
+respons bodi must book name
+
+
+
+handl destroy action
+delet book book
+
+respons statu must equal
+respons bodi must equal found
+
+follow redirect
+
+respons statu must equal
+respons bodi must there book
+
+
+
+test rout helper action
+redirect rout
+
+respons statu must equal
+respons header locat must equal action legaci
+
+
+
+test helper
+rack test
+fixtur collabor app applic
+fixtur secur header app applic
+
+describ full stack lotu applic
+describ header
+rack test method
+
+
+current
+chdir fixtur root join collabor app
+collabor applic
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+return header valu
+
+
+respons header frame option must equal
+respons header content secur polici must equal
+
+
+
+describ overrid header
+rack test method
+
+
+current
+chdir fixtur root join secur header app
+secur header applic
+
+
+
+chdir current
+current
+
+
+
+
+
+
+respons
+last respons
+
+
+return overrid header valu
+
+
+respons header frame option must equal allow
+respons header content secur polici must equal script http api googl
+
+
+
+test helper
+
+describ lotu gener
+describ action
+option
+name
+name
+templat engin
+framework test minitest
+klass test
+
+creat temporari
+pathnam join integr gener
+rmtree exist
+mkpath
+
+chdir
+
+
+gener applic
+bundl exec lotu name deliveri option
+chdir root join name
+
+file open root join lotusrc
+write lotusrc
+architectur contain
+test framework test
+templat templat engin
+lotusrc
+
+
+
+gener action
+bundl exec lotu gener action name dashboard index
+
+
+gener action camlcas
+bundl exec lotu gener action name ancient book toggl visibl
+
+
+gener action without view
+bundl exec lotu gener action name dashboard skip view
+
+
+gener action camlcas without view
+bundl exec lotu gener action name dash board test case skip view
+
+
+gener model
+bundl exec lotu gener model klass
+
+
+gener contain
+bundl exec lotu gener name option
+
+
+chdir root
+chdir
+
+
+
+creat temporari
+gener applic
+gener action
+gener action without view
+
+
+
+chdir root
+
+
+describ applic gener action
+describ control action name underscor name
+gener action
+root join app control dashboard index must exist
+root join app view dashboard index must exist
+root join app templat dashboard index html must exist
+root join spec control dashboard index spec must exist
+root join spec view dashboard index spec must exist
+
+
+gener action without view
+root join app control dashboard must exist
+root join app view dashboard wont exist
+root join app templat dashboard html wont exist
+root join spec control dashboard spec must exist
+root join spec view dashboard spec wont exist
+
+
+
+describ control action name camel case name
+
+gener action camlcas
+gener action camlcas without view
+
+gener action
+root join app control ancient book toggl visibl must exist
+root join app view ancient book toggl visibl must exist
+root join app templat ancient book toggl visibl html must exist
+root join spec control ancient book toggl visibl spec must exist
+root join spec view ancient book toggl visibl spec must exist
+
+
+gener action without view
+root join app control dash board test must exist
+root join app view dash board test wont exist
+root join app templat dash board test html wont exist
+root join spec control dash board test spec must exist
+root join spec view dash board test spec wont exist
+
+
+
+
+describ applic gener model
+
+gener model
+
+describ model name underscor name
+gener model
+root join deliveri entiti test must exist
+root join deliveri repositori test repositori must exist
+root join spec deliveri entiti test spec must exist
+root join spec deliveri repositori test repositori spec must exist
+
+
+
+describ model name camel case name
+klass test case
+
+gener model
+root join deliveri entiti test must exist
+root join deliveri repositori test repositori must exist
+root join spec deliveri entiti test spec must exist
+root join spec deliveri repositori test repositori spec must exist
+
+
+
+
+describ applic gener contain
+option
+
+
+gener contain
+
+
+gener contain
+root join app control home index must exist
+root join app view home index must exist
+root join app templat home index html must exist
+root join app applic must exist
+root join app config rout must exist
+root join app config map must exist
+root join app view applic layout must exist
+root join app templat applic html must exist
+
+
+insert configur file
+content root join config environ read
+content must match mount applic
+content must match rel app applic
+content root join config develop read
+content must match databas
+content must match session secret
+content root join config test read
+content must match databas
+content must match session secret
+
+
+describ option applic base
+option applic base
+
+insert configur file
+content root join config environ read
+content must match mount applic
+
+
+
+
+describ applic gener minitest
+gener action spec
+content root join spec control dashboard index spec read
+content must must equal
+
+
+gener view spec
+content root join spec view dashboard index spec read
+content must must equal
+
+
+
+describ applic gener rspec
+framework test rspec
+
+gener action spec
+content root join spec control dashboard index spec read
+content must expect
+
+
+gener view spec
+content root join spec view dashboard index spec read
+content must expect
+
+
+
+describ applic gener haml
+templat engin haml
+
+gener haml templat
+root join app templat dashboard index html haml must exist
+
+
+
+describ unknown applic
+name unknown
+
+gener action
+root join app unknown control dashboard index wont exist
+root join app unknown view dashboard index wont exist
+root join app unknown templat dashboard index html wont exist
+root join spec unknown control dashboard index spec wont exist
+root join spec unknown view dashboard index spec wont exist
+
+
+
+
+minitest isol each
+enumer
+
+initi test
+test test
+
+
+
+test test
+isol
+test
+
+
+
+
+isol
+fork
+
+
+
+process wait
+
+
+
+minitest
+
+remov method
+
+
+test
+captur except
+
+
+
+
+report option
+suit runnabl runnabl
+isol serial suit partit respond isol isol
+
+isol each isol suit suit report option
+serial suit suit report option
+
+
+test helper
+lotu
+lotu command
+
+describ lotu command
+opt hash
+lotu environ opt
+command lotu command name
+lotu
+
+creat temporari
+pathnam join gener
+rmtree exist
+mkpath
+
+chdir
+root join name
+
+
+chdir root
+chdir
+
+
+
+creat temporari
+
+
+
+chdir root
+
+
+describ contain architectur
+contain option
+hash architectur contain applic applic base lotu head databas filesystem
+
+
+opt contain option
+name chirp
+
+
+captur command start
+
+
+describ gemfil
+gener
+content root join gemfil read
+content must match bundler
+content must match rake
+content must match lotusrb lotu version
+content must match lotu model
+content must match capybara
+
+
+describ lotu head option
+opt contain option merg lotu head
+
+gener
+content root join gemfil read
+content must match bundler
+content must match rake
+content must match lotu util github lotu util
+content must match lotu router github lotu router
+content must match lotu valid github lotu valid
+content must match lotu helper github lotu helper
+content must match lotu control github lotu control
+content must match lotu view github lotu view
+content must match lotu model github lotu model
+content must match lotusrb github lotu lotu
+
+
+
+describ minitest
+includ minitest
+content root join gemfil read
+content must match minitest
+
+
+
+describ rspec
+opt contain option merg test rspec
+
+includ rspec
+content root join gemfil read
+content must match rspec
+
+
+
+describ product group
+includ server exampl
+content root join gemfil read
+content must match group product
+content must match puma
+
+
+
+describ databas option
+describ mysql
+opt contain option merg databas mysql
+includ mysql
+content root join gemfil read
+content must match mysql
+
+
+
+describ mysql2
+opt contain option merg databas mysql2
+includ mysql2
+content root join gemfil read
+content must match mysql2
+
+
+
+describ postgresql
+opt contain option merg databas postgresql
+
+includ
+content root join gemfil read
+content must match
+
+
+
+describ postgr
+opt contain option merg databas postgr
+
+includ
+content root join gemfil read
+content must match
+
+
+
+describ sqlite
+opt contain option merg databas sqlite
+
+includ sqlite3
+content root join gemfil read
+content must match sqlite3
+
+
+
+describ sqlite3
+opt contain option merg databas sqlite3
+
+includ sqlite3
+content root join gemfil read
+content must match sqlite3
+
+
+
+
+
+describ rakefil
+describ minitest
+gener
+content root join rakefil read
+content must match rake test task
+content must match pattern spec spec
+content must match lib spec
+content must match task test
+content must match task spec test
+
+
+
+describ rspec
+opt contain option merg test rspec
+
+gener
+content root join rakefil read
+content must match r spec core rake task spec
+content must match task spec
+
+
+
+
+describ config
+gener
+content root join config read
+content must match config environ
+content must match lotu contain
+
+
+
+describ lotusrc
+describ minitest
+gener
+content root join lotusrc read
+content must match architectur contain
+content must match test minitest
+content must match templat
+
+
+
+describ rspec
+opt contain option merg test rspec
+
+gener
+content root join lotusrc read
+content must match test rspec
+
+
+
+
+describ gitignor
+gener
+content root join gitignor read
+content must match chirp develop
+content must match chirp test
+
+
+
+describ config environ
+gener
+content root join config environ read
+content must match rubygem
+content must match bundler setup
+content must match lotu setup
+content must match rel chirp
+
+content must match lotu contain configur
+
+
+
+describ config
+gener
+content root join config read
+content must match defin variabl
+
+
+
+describ config develop
+gener
+content root join config develop read
+content must match defin variabl develop environ
+content must match chirp databas file chirp develop
+
+
+describ simpl applic name
+name chirp
+
+sanit applic name variabl
+content root join config develop read
+content must match chirp databas file chirp develop
+
+
+
+describ databas option
+describ mysql
+opt contain option merg databas mysql
+gener config mysql
+content root join config develop read
+content must match chirp databas mysql localhost chirp develop
+
+
+
+describ mysql2
+opt contain option merg databas mysql2
+gener config mysql2
+content root join config develop read
+content must match chirp databas mysql2 localhost chirp develop
+
+
+
+describ postgresql
+opt contain option merg databas postgresql
+
+gener config postgresql
+content root join config develop read
+content must match chirp databas postgr localhost chirp develop
+
+
+
+describ postgr
+opt contain option merg databas postgr
+
+gener config postgr
+content root join config develop read
+content must match chirp databas postgr localhost chirp develop
+
+
+
+describ sqlite
+opt contain option merg databas sqlite
+
+gener config sqlite
+content root join config develop read
+content must match chirp databas sqlite chirp develop
+
+
+describ simpl applic name
+name chirp
+
+escap databas
+content root join config develop read
+content must match chirp databas sqlite chirp develop
+
+
+
+
+describ sqlite3
+opt contain option merg databas sqlite3
+gener config sqlite3
+content root join config develop read
+content must match chirp databas sqlite chirp develop
+
+
+describ simpl applic name
+name chirp
+escap databas
+content root join config develop read
+content must match chirp databas sqlite chirp develop
+
+
+
+
+describ memori
+opt contain option merg databas memori
+gener config memori
+content root join config develop read
+content must match chirp databas memori localhost chirp develop
+
+
+
+
+
+describ config test
+gener
+content root join config test read
+content must match defin variabl test environ
+content must match chirp databas file chirp test
+
+
+describ simpl applic name
+name chirp
+
+sanit applic name variabl
+content root join config test read
+content must match chirp databas file chirp test
+
+
+
+describ databas option
+describ mysql
+opt contain option merg databas mysql
+gener config mysql
+content root join config test read
+content must match chirp databas mysql localhost chirp test
+
+
+
+describ mysql2
+opt contain option merg databas mysql2
+gener config mysql2
+content root join config test read
+content must match chirp databas mysql2 localhost chirp test
+
+
+
+describ postgresql
+opt contain option merg databas postgresql
+
+gener config postgresql
+content root join config test read
+content must match chirp databas postgr localhost chirp test
+
+
+
+describ postgr
+opt contain option merg databas postgr
+
+gener config postgr
+content root join config test read
+content must match chirp databas postgr localhost chirp test
+
+
+
+describ sqlite
+opt contain option merg databas sqlite
+
+gener config sqlite
+content root join config test read
+content must match chirp databas sqlite chirp test
+
+
+describ simpl applic name
+name chirp
+
+escap databas
+content root join config test read
+content must match chirp databas sqlite chirp test
+
+
+
+
+describ sqlite3
+opt contain option merg databas sqlite3
+gener config sqlite3
+content root join config test read
+content must match chirp databas sqlite chirp test
+
+
+describ simpl applic name
+name chirp
+escap databas
+content root join config test read
+content must match chirp databas sqlite chirp test
+
+
+
+
+describ memori
+opt contain option merg databas memori
+gener config memori
+content root join config test read
+content must match chirp databas memori localhost chirp test
+
+
+
+
+
+describ chirp
+gener
+content root join chirp read
+content must match chirp file rel file
+content must match lotu model
+content must match lotu model configur
+content must match adapt type file system chirp databas
+content must match map
+content must match map config map
+
+
+describ simpl applic name
+name chirp
+
+sanit applic name variabl
+content root join chirp read
+content must match chirp file rel file
+content must match adapt type file system chirp databas
+
+
+
+describ databas option
+describ mysql
+opt contain option merg databas mysql
+gener adapt config mysql
+content root join chirp read
+content must match adapt type chirp databas
+
+
+
+describ mysql2
+opt contain option merg databas mysql2
+gener adapt config mysql2
+content root join chirp read
+content must match adapt type chirp databas
+
+
+
+describ postgresql
+opt contain option merg databas postgresql
+gener adapt config postgresql
+content root join chirp read
+content must match adapt type chirp databas
+
+
+
+describ postgr
+opt contain option merg databas postgr
+
+gener adapt config postgr
+content root join chirp read
+content must match adapt type chirp databas
+
+
+
+describ sqlite
+opt contain option merg databas sqlite
+
+gener adapt config sqlite
+content root join chirp read
+content must match adapt type chirp databas
+
+
+
+describ sqlite3
+opt contain option merg databas sqlite3
+gener adapt config sqlite3
+content root join chirp read
+content must match adapt type chirp databas
+
+
+
+describ memori
+opt contain option merg databas memori
+gener adapt config memori
+content root join chirp read
+content must match adapt type memori chirp databas
+
+
+
+
+
+describ config map
+gener
+content root join config map read
+content must match collect user
+content must match entiti user
+content must match repositori user repositori
+content must match attribut integ
+content must match attribut name string
+content must match
+
+
+
+describ
+gener
+root join must directori
+
+
+
+describ chirp entiti
+gener
+root join chirp entiti must directori
+
+
+
+describ chirp repositori
+gener
+root join chirp repositori must directori
+
+
+
+describ spec directori
+gener
+root join spec chirp entiti must directori
+root join spec chirp repositori must directori
+root join spec support must directori
+
+
+
+describ test
+describ minitest
+describ spec chirp entiti
+gener
+root join spec chirp entiti must directori
+
+
+
+describ spec chirp repositori
+gener
+root join spec chirp repositori must directori
+
+
+
+describ spec spec helper
+describ minitest
+gener
+content root join spec spec helper read
+content must match lotu test
+content must match rel config environ
+content must match minitest autorun
+content must match lotu applic preload
+
+
+
+describ rspec
+opt contain option merg test rspec
+
+gener
+content root join spec spec helper read
+content must match lotu test
+content must match rel config environ
+content must match lotu applic preload
+content must match r spec configur config
+content must match config filter focu
+content must match config everyth filter
+
+content must match config file
+content must match config formatt
+
+content must match config order random
+content must match kernel srand config seed
+
+content must match config expect rspec expect
+
+content must match config mock rspec mock
+content must match mock verifi partial doubl
+
+
+
+
+describ rspec
+opt contain option merg test rspec
+
+gener
+content root join rspec read
+content must match color
+content must match spec helper
+
+
+
+describ spec featur helper
+describ minitest
+gener
+content root join spec featur helper read
+content must match rel spec helper
+content must match capybara
+content must match capybara
+content must match capybara lotu contain
+content must match mini test spec
+content must match capybara
+
+
+
+describ rspec
+opt contain option merg test rspec
+
+gener
+content root join spec featur helper read
+content must match rel spec helper
+content must match capybara
+content must match capybara rspec
+content must match r spec configur config
+content must match config r spec featur exampl group
+content must match config capybara
+content must match config capybara r spec matcher
+
+
+
+
+describ spec support capybara
+describ rspec
+opt contain option merg test rspec
+
+gener
+content root join spec support capybara read
+content must match r spec
+content must match featur exampl group
+content must match includ group
+content must match group metadata type featur
+content must match capybara lotu contain
+
+
+
+
+
+
+
+slice
+
+
+describ config environ
+patch file refer slice
+content root join config environ read
+content must match rel app applic
+content must match mount applic
+
+
+
+describ config develop
+patch file refer slice var
+content root join config develop read
+content must match databas file develop
+content must match session secret
+
+
+
+describ config test
+patch file refer slice var
+content root join config test read
+content must match databas file test
+content must match session secret
+
+
+
+describ app applic
+gener
+content root join app applic read
+content must match lotu helper
+content must match
+content must match applic lotu applic
+
+main configur block
+content must match configur
+content must match root
+
+content must match adapt type file system databas
+
+content must match rout config rout
+content must match map config map
+
+content must match layout applic
+content must match templat templat
+
+content must match cooki
+
+content must match session cooki secret session secret
+
+content must match load path
+content must match control
+content must match view
+
+content must match middlewar rack protect
+
+content must match bodi parser json
+
+content must match asset
+content must match vendor javascript
+
+content must match serv asset
+
+secur
+content must match secur frame option deni
+content must match secur content secur polici none script connect style
+
+content must match control prepar
+content must match view prepar
+content must match lotu helper
+
+environ configur
+content must match configur develop
+content must match handl except
+content must match serv asset
+
+content must match configur test
+content must match handl except
+content must match serv asset
+
+content must match configur product
+content must match scheme http
+content must match host exampl
+content must match port
+
+
+
+describ app config rout
+gener
+content root join app config rout read
+content must match configur rout
+content must match home index
+
+
+
+describ app config map
+gener
+content root join app config map read
+content must match configur databas map
+
+
+
+describ app control
+gener
+root join app control must exist
+
+
+
+describ app control home index
+gener
+content root join app control home index read
+content must match control home
+content must match index
+content must match action
+content must match call param
+
+
+
+describ app view applic layout
+gener
+content root join app view applic layout read
+content must match
+content must match view
+content must match applic layout
+content must match layout
+
+
+
+describ app templat applic html
+gener
+content root join app templat applic html read
+content must match titl titl
+content must match
+
+
+
+describ app view home index
+gener
+content root join app view home index read
+content must match view home
+content must match index
+content must match view
+
+
+
+describ app templat home index html
+gener
+content root join app templat home index html read
+content must match welcom lotu
+content must match thi templat render code view home index code avail code app templat home index html code
+
+
+
+describ app javascript
+gener
+root join app javascript must exist
+
+
+
+describ app stylesheet
+gener
+root join app stylesheet must exist
+
+
+
+
+describ test
+describ minitest
+describ spec featur
+gener
+root join spec featur must directori
+
+
+
+describ spec control
+gener
+root join spec control must directori
+
+
+
+describ spec view
+gener
+root join spec view must directori
+
+
+
+
+
+describ name
+name
+
+describ config environ
+gener
+content root join config environ read
+content must match rel
+
+
+
+describ
+gener
+root join must directori
+
+
+
+describ
+gener
+root join must file
+content root join read
+content must match adapt type file system databas
+
+
+
+describ config develop
+gener
+content root join config develop read
+content must match databas file develop
+
+
+
+describ config test
+gener
+content root join config test read
+content must match databas file test
+
+
+
+
+
+describ applic path
+contain option
+hash architectur contain applic applic base lotu head databas filesystem
+
+
+opt contain option
+name chirp
+
+
+captur command start
+
+
+describ path provid
+opt contain option merg path lotu
+
+gener specif path
+root dirnam join lotu must directori
+
+
+
+
+describ path provid name
+opt hash architectur contain applic applic base lotu head
+name chirp
+
+rais argument error
+except command start must argument error
+except messag must equal invalid applic name want applic path pleas path option
+
+
+
+test helper
+lotu command rout
+lotu contain
+
+describ lotu command rout
+rout lotu command rout
+
+
+lotu contain configur
+mount backend backend
+mount rack app rackapp
+mount tini app
+
+
+
+describ start
+rout
+expect
+backend backend
+rackapp rack app
+head tini app control home index
+
+
+actual lotu contain rout inspector
+expect expect
+actual must expect
+
+
+
+
+test helper
+lotu
+lotu command gener
+
+describ lotu command gener
+opt option
+lotu environ opt
+command lotu command gener target name target name
+lotu
+name
+
+creat temporari
+pathnam join gener gener
+rmtree exist
+mkpath
+
+join app name mkpath
+
+chdir
+root
+
+
+chdir root
+chdir
+
+
+option
+hash path app
+
+
+
+creat temporari
+
+
+
+chdir root
+
+
+describ action
+target action
+target name dashboard index
+
+describ valid argument
+
+captur command start
+
+
+describ app config rout
+gener
+content root join app config rout read
+content must match dashboard dashboard index
+
+
+
+describ app control dashboard index
+gener
+content root join app control dashboard index read
+content must match control dashboard
+content must match index
+content must match action
+content must match call param
+content wont match bodi
+
+
+
+describ spec control dashboard index spec
+describ minitest
+gener
+content root join spec control dashboard index spec read
+content must match spec helper
+content must match rel app control dashboard index
+content must match describ control dashboard index
+content must match action control dashboard index
+content must match param hash
+content must match success
+content must match respons action call param
+content must match respons must equal
+
+
+
+describ rspec
+opt option merg test rspec
+
+gener
+content root join spec control dashboard index spec read
+content must match spec helper
+content must match rel app control dashboard index
+content must match describ control dashboard index
+content must match action control dashboard index
+content must match param hash
+content must match success
+content must match respons action call param
+content must match expect respons
+
+
+
+
+describ app view dashboard index
+gener
+content root join app view dashboard index read
+content must match view dashboard
+content must match index
+content must match view
+
+
+
+describ spec view dashboard index spec
+describ minitest
+gener
+content root join spec view dashboard index spec read
+content must match spec helper
+content must match rel app view dashboard index
+content must match describ view dashboard index
+content must match exposur hash
+content must match templat lotu view templat app templat dashboard index html
+content must match view view dashboard index templat exposur
+content must match expos
+content must match view must equal exposur fetch
+content must match
+
+
+
+describ rspec
+opt option merg test rspec
+
+gener
+content root join spec view dashboard index spec read
+content must match spec helper
+content must match rel app view dashboard index
+content must match describ view dashboard index
+content must match exposur hash
+content must match templat lotu view templat app templat dashboard index html
+content must match view view dashboard index templat exposur
+content must match expos
+content must match expect view exposur fetch
+content must match
+
+
+
+
+describ app templat dashboard index html
+gener
+content root join app templat dashboard index html read
+content must
+
+
+
+
+describ skip view flag
+opt option merg skip view
+
+
+captur command start
+
+
+describ app control dashboard index
+gener
+content root join app control dashboard index read
+content must match control dashboard
+content must match index
+content must match action
+content must match call param
+content must match bodi
+
+
+
+describ app view dashboard index
+gener
+root join app view dashboard index exist must
+
+
+
+describ app templat dashboard index html
+gener
+root join app view dashboard index exist must
+
+
+
+describ spec view dashboard index spec
+gener
+root join spec view dashboard index spec exist must
+
+
+
+
+describ unknown
+
+forc exist
+join app name rmtree
+
+
+name unknown
+
+rais error
+captur command start must system exit
+
+
+
+describ without action name
+target name user
+
+rais error
+captur command start must system exit
+
+
+
+
+describ model
+target model
+target name
+name post
+
+
+captur command start
+
+
+describ gener entiti post
+gener
+content root join gener entiti post read
+content must match post
+content must match lotu entiti
+content must match
+
+
+
+describ gener repositori post
+gener
+content root join gener repositori post repositori read
+content must match post repositori
+content must match lotu repositori
+content must match
+
+
+
+describ spec gener entiti post spec
+describ minitest
+gener
+content root join spec gener entiti post spec read
+content must match spec helper
+content must match describ post
+content must match
+
+
+
+describ rspec
+opt option merg test rspec
+
+gener
+content root join spec gener entiti post spec read
+content must match spec helper
+content must match r spec describ post
+content must match
+
+
+
+
+describ spec gener repositori post repositori spec
+describ minitest
+gener
+content root join spec gener repositori post repositori spec read
+content must match spec helper
+content must match describ post repositori
+content must match
+
+
+
+describ rspec
+opt option merg test rspec
+
+gener
+content root join spec gener repositori post repositori spec read
+content must match spec helper
+content must match r spec describ post repositori
+content must match
+
+
+
+
+
+describ
+target
+target name
+name admin
+environ config path root join config environ
+environ develop path root join config develop
+environ test path root join config test
+
+
+root join config mkpath
+file util touch environ config path
+file util touch environ develop path
+file util touch environ test path
+captur command start
+
+
+describ gener admin applic
+gener
+content root join app admin applic read
+content must match lotu helper
+content must match admin
+content must match configur
+content must match root
+content must match load path
+content must match control
+content must match view
+content must match rout config rout
+content must match secur frame option deni
+content must match secur content secur polici none script connect style
+content must match control prepar
+content must match view prepar
+content must match lotu helper
+content must match configur develop
+content must match configur test
+content must match handl except
+content must match serv asset
+content must match configur product
+
+
+
+
+test helper
+lotu command consol
+
+describ lotu command consol
+opt hash
+lotu environ opt
+consol lotu command consol
+
+
+chdir
+lotu applic clear regist applic
+
+
+stub engin engin
+
+engin object engin
+name error
+remov
+
+
+lotu util silenc warn
+object engin modul start
+
+
+
+remov engin engin
+lotu util silenc warn
+object engin engin
+engin
+
+object send remov engin remov
+
+
+describ option
+describ option specifi
+return
+consol option fetch config must equal pathnam join config environ
+
+
+
+describ environ option specifi
+opt hash environ path environ
+
+return valu
+consol option fetch config must equal pathnam join path environ
+
+
+
+
+describ engin
+describ support engin load
+
+stub engin
+stub engin ripl
+stub engin
+
+
+
+remov engin
+remov engin ripl
+remov engin
+
+
+prefer
+consol engin must equal
+
+
+
+describ ripl load
+
+stub engin ripl
+stub engin
+
+
+
+remov engin ripl
+remov engin
+
+
+prefer ripl
+consol engin must equal ripl
+
+
+
+describ noth load
+
+stub engin
+
+
+
+remov engin
+
+
+use
+consol engin must equal
+
+
+
+describ option forc specif engin
+describ
+opt hash engin
+
+
+stub engin
+
+
+
+remov engin
+
+
+use
+consol engin must equal
+
+
+
+describ
+
+stub engin
+
+
+
+remov engin
+
+
+opt hash engin
+
+use
+consol engin must equal
+
+
+
+describ ripl
+
+stub engin ripl
+
+
+
+remov engin ripl
+
+
+opt hash engin ripl
+
+use ripl
+consol engin must equal ripl
+
+
+
+describ unknown engin
+opt hash engin unknown
+
+rais error
+
+consol engin
+argument error
+messag must equal unknown consol engin unknown
+
+
+
+
+
+
+describ start
+
+engin minitest mock
+engin expect start
+
+
+describ config environ file
+
+
+chdir test fixtur microservic
+
+
+
+chdir
+
+
+requir file start consol session
+consol stub engin engin
+consol start
+
+engin verifi
+load featur must config environ
+
+
+
+thi gener random failur race condit
+
+feel confid ship chang without activ test
+ideal world happen want ship soon
+
+love
+luca
+preload applic
+preload applic
+defin frontend control session expect frontend control session load
+
+
+
+describ manual set environ file
+opt
+hash environ test fixtur microservic config environ
+
+
+requir file start consol session
+consol stub engin engin
+consol start
+
+engin verifi
+load featur must opt environ
+
+
+
+
+describ environ file miss
+rais load error
+consol stub engin engin
+proc consol start must load error
+
+
+
+
+
+describ conveni method
+
+main toplevel bind
+main minitest mock
+lotu util silenc warn toplevel bind main
+main expect toplevel bind
+
+engin minitest mock
+engin expect start
+
+
+
+lotu util silenc warn toplevel bind main
+
+
+mix conveni method toplevel bind
+main expect lotu command consol method
+
+opt environ test fixtur microservic config environ
+consol stub engin engin consol start
+
+engin verifi
+main verifi
+
+
+
+
+describ lotu command consol method
+describ reload
+
+bind class
+bind send lotu command consol method
+
+kernel kernel
+lotu util silenc warn kernel minitest mock
+kernel expect exec consol
+
+
+
+lotu util silenc warn kernel kernel
+
+
+execut run process
+
+stdout string io
+bind reload
+
+stdout stdout
+
+
+kernel verifi
+
+
+
+test helper
+lotu environ
+lotu command server
+
+describ lotu command server
+opt hash
+
+
+lotu host
+lotu port
+lotu
+rack
+
+lotu environ opt
+server lotu command server
+
+
+describ middlewar
+return rack stack
+expect
+deploy rack content length rack common logger
+develop rack content length rack common logger
+rack show except rack lint
+
+
+server middlewar must equal expect
+
+
+
+describ option
+opt port 3005 host exampl
+
+set option correctli rack
+server option port must equal 3005
+server option host must equal exampl
+
+
+merg valu
+server option environ must equal develop
+server option config must equal pathnam config expand path
+
+
+
+describ host
+describ option specifi
+default localhost
+server option fetch host must equal localhost
+
+
+set valu
+lotu host must equal localhost
+
+
+
+describ option specifi
+opt hash host lotusrb
+
+set valu
+server option fetch host must equal lotusrb
+
+
+set valu
+lotu host must equal lotusrb
+
+
+
+
+describ port
+describ option specifi
+default 2300
+server option fetch port must equal 2300
+
+
+set valu
+lotu port must equal 2300
+
+
+
+describ option specifi
+opt hash port 4000
+
+set valu
+server option fetch port must equal 4000
+
+
+set valu
+lotu port must equal 4000
+
+
+
+
+describ rackup file config rack configur
+describ option specifi
+default config
+server option fetch config must equal pathnam config expand path
+
+
+
+describ option specifi
+opt hash rackup test fixtur config
+
+set valu
+server option fetch config must equal pathnam test fixtur config expand path
+
+
+
+
+describ environ
+describ option specifi
+default develop
+server option fetch environ must equal develop
+
+
+set var valu
+lotu must equal develop
+rack must equal develop
+
+
+
+describ option specifi rack
+
+lotu
+rack test
+lotu environ opt
+server lotu command server
+
+
+
+rack
+lotu
+
+
+return valu
+server option fetch environ must equal test
+
+
+set var valu
+lotu must equal test
+rack must equal test
+
+
+
+describ option specifi lotu
+
+rack
+lotu stage
+lotu environ opt
+server lotu command server
+
+
+
+rack
+lotu
+
+
+return valu
+server option fetch environ must equal stage
+
+
+set var valu
+lotu must equal stage
+rack must equal stage
+
+
+
+describ option specifi
+
+rack stage
+lotu test
+lotu environ opt
+server lotu command server
+
+
+give precend lotu
+server option fetch environ must equal test
+
+
+set var valu
+lotu must equal test
+rack must equal test
+
+
+
+
+describ access
+default
+server option fetch access log must equal
+
+
+
+describ server
+describ option specifi
+default
+server option server must equal
+
+
+
+describ option specifi
+opt hash server puma
+
+set valu
+server option fetch server must equal puma
+
+
+
+
+describ debug
+describ option specifi
+default
+server option debug must equal
+
+
+
+describ option specifi
+opt hash debug
+
+set valu
+server option fetch debug must equal
+
+
+
+
+describ warn
+describ option specifi
+default
+server option warn must equal
+
+
+
+describ option specifi
+opt hash warn
+
+set valu
+server option fetch warn must equal
+
+
+
+
+describ daemon
+describ option specifi
+default
+server option daemon must equal
+
+
+
+describ option specifi
+opt hash daemon
+
+set valu
+server option fetch daemon must equal
+
+
+
+
+describ
+describ option specifi
+default
+server option must equal
+
+
+
+describ option specifi
+opt hash
+
+set valu
+server option fetch must equal
+
+
+
+
+describ code reload
+describ enabl
+opt hash code reload
+
+use shotgun wrap applic
+server instanc variabl must kind shotgun loader
+
+
+
+describ disabl
+opt hash code reload
+
+shotgun
+server instanc variabl must
+
+
+
+

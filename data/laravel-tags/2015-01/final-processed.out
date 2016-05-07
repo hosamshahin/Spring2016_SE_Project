@@ -1,0 +1,8591 @@
+
+
+pars server request path
+
+urldecod
+
+path bootstrap path
+
+request path
+
+thi file allow emul apach rewrit function
+built server thi provid conveni test laravel
+applic without instal real server softwar
+file exist request
+
+
+
+
+path index
+
+
+laravel framework artisan
+
+laravel
+version
+author taylor otwel taylorotwel gmail
+link http laravel
+
+
+
+
+applic environemtn
+
+
+laravel take dead simpl approach environ
+think love just specifi ur ls belong
+given environ access applic
+match pattern sure
+merg environ configur file
+
+
+
+environ
+
+local http localhost
+
+
+
+
+path applic directori
+
+path applic
+
+
+path laravel directori
+
+path laravel
+
+
+path bundl directori
+
+path bundl bundl
+
+
+path storag directori
+
+path storag storag
+
+
+path directori
+
+path
+
+
+user configur here dragon
+
+
+
+chang current work directori
+
+chdir
+
+
+defin directori separ environ
+
+defin
+
+defin directori separ
+
+
+
+defin path base directori
+
+global laravel path base
+
+
+defin constant hasn defin
+
+path name path
+
+global laravel path name
+
+global laravel path name realpath path
+
+
+
+
+path helper
+
+code
+storag path storag
+code
+
+param string path
+string
+
+path path
+
+global laravel path path
+
+
+
+path setter
+
+param string path
+param string valu
+
+
+path path valu
+
+global laravel path path valu
+
+
+
+defin laravel start microtim
+
+
+
+regist compos auto loader
+
+
+compos provid conveni automat gener loader
+applic need util
+script worri
+load class manual feel great relax
+
+
+
+vendor autoload
+
+
+
+includ compil class file
+
+
+dramat increas applic perform
+compil file contain class commonli use
+request artisan optim use creat file
+
+
+
+compil path storag framework compil
+
+file exist compil path
+
+compil path
+
+
+
+
+
+creat applic
+
+
+first thing creat laravel applic instanc
+serv glue compon laravel
+contain system bind variou part
+
+
+
+illumin foundat applic
+realpath
+
+
+
+
+bind import interfac
+
+
+next need bind import interfac contain
+abl resolv need kernel serv
+incom request applic
+
+
+
+singleton
+illumin contract http kernel
+http kernel
+
+
+singleton
+illumin contract consol kernel
+consol kernel
+
+
+singleton
+illumin contract debug except handler
+except handler
+
+
+
+
+return applic
+
+
+thi script return applic instanc instanc given
+call script separ build instanc
+actual run applic send respons
+
+
+
+
+
+
+
+
+
+
+default cach store
+
+
+thi option control cach connect get use
+use cach librari thi connect use anoth
+explicitli specifi execut given cach
+
+
+
+cach driver file
+
+
+
+cach store
+
+
+here defin cach store applic
+well driver even defin multipl store
+cach driver group type item store cach
+
+
+
+store
+
+
+driver
+
+
+
+driver
+
+
+databas
+driver databas
+tabl cach
+connect null
+
+
+file
+driver file
+path storag path framework cach
+
+
+memcach
+driver memcach
+server
+
+host port 11211 weight
+
+
+
+
+redi
+driver redi
+connect
+
+
+
+
+
+
+cach prefix
+
+
+when util base store memcach might
+applic util cach specifi
+valu prefix key avoid collis
+
+
+
+prefix laravel
+
+
+
+
+
+
+
+
+workbench author name
+
+
+when creat packag artisan workbench command
+name need gener compos json file
+specifi use workbench
+
+
+
+name
+
+
+
+workbench author mail address
+
+
+like option mail address use gener
+workbench packag mail place compos json file
+automat creat workbench tool
+
+
+
+email
+
+
+
+
+
+
+
+
+default authent driver
+
+
+thi option control authent driver util
+thi driver manag retriev authent user
+attempt access area applic
+
+support databas eloqu
+
+
+
+driver eloqu
+
+
+
+authent model
+
+
+when use eloqu authent driver need know
+eloqu model use retriev user cours
+often user model whatev like
+
+
+
+model user
+
+
+
+authent tabl
+
+
+when use databas authent driver need know
+tabl use retriev user chosen basic
+valu easili chang tabl like
+
+
+
+tabl user
+
+
+
+password reset set
+
+
+here option reset password includ view
+password reset mail also name
+tabl maintain reset token applic
+
+expir time number minut reset token
+consid valid thi secur featur keep token live
+less time guess chang need
+
+
+
+password
+email email auth password
+tabl password reset
+expir
+
+
+
+
+
+
+
+
+
+addit compil class
+
+
+here specifi addit class compil file
+gener artisan optim command these class
+includ basic everi request applic
+
+
+
+file
+
+realpath provid app servic provid
+realpath provid event servic provid
+realpath provid rout servic provid
+
+
+
+
+
+compil file provid
+
+
+here servic provid defin compil
+return addit file compil provid
+easi common file packag util
+
+
+
+provid
+
+
+
+
+
+
+
+
+
+
+third parti servic
+
+
+thi file store credenti third parti servic
+stripe mailgun mandril other thi file provid sane
+locat type inform allow packag
+convent place find variou credenti
+
+
+
+mailgun
+domain
+secret
+
+
+mandril
+secret
+
+
+
+
+secret
+region east
+
+
+stripe
+model user
+secret
+
+
+
+
+
+
+
+
+
+default broadcast
+
+
+thi option control broadcast use
+framework event need broadcast
+connect defin connect
+
+
+
+broadcast driver pusher
+
+
+
+broadcast connect
+
+
+here defin broadcast connect use
+broadcast event system websocket sampl
+avail type connect provid insid
+
+
+
+connect
+
+pusher
+driver pusher
+pusher
+secret pusher secret
+pusher
+
+
+redi
+driver redi
+connect
+
+
+
+driver
+
+
+
+
+
+
+
+
+
+
+
+view storag path
+
+
+most templat system load templat disk here specifi
+path check view cours
+usual laravel view path alreadi regist
+
+
+
+path
+realpath base path resourc templat
+
+
+
+
+compil view path
+
+
+thi option determin compil blade templat
+store applic typic within storag
+directori howev usual free chang valu
+
+
+
+compil realpath storag path framework view
+
+
+
+
+
+
+
+
+mail driver
+
+
+laravel support smtp mail driver
+send mail specifi use throughout
+applic laravel setup smtp mail
+
+support smtp mail sendmail mailgun mandril
+
+
+
+driver smtp
+
+
+
+smtp host address
+
+
+here provid host address smtp server use
+applic option provid compat
+mailgun mail servic provid reliabl deliveri
+
+
+
+host smtp mailgun
+
+
+
+smtp host port
+
+
+thi smtp port use applic deliv mail
+user applic like host valu
+stay compat mailgun mail applic
+
+
+
+port
+
+
+
+global from address
+
+
+wish mail sent applic sent
+address here specifi name address
+use global mail sent applic
+
+
+
+address null name null
+
+
+
+mail encrypt protocol
+
+
+here specifi encrypt protocol use
+applic send mail messag sensibl use
+transport layer secur protocol provid great secur
+
+
+
+encrypt
+
+
+
+smtp server usernam
+
+
+smtp server requir usernam authent
+thi use authent server
+connect also password valu
+
+
+
+usernam null
+
+
+
+smtp server password
+
+
+here password requir smtp server send
+messag applic thi given server
+connect applic abl send messag
+
+
+
+password null
+
+
+
+sendmail system path
+
+
+when use sendmail driver send mail need know
+path sendmail live server path
+provid work well system
+
+
+
+sendmail sbin sendmail
+
+
+
+mail pretend
+
+
+when option enabl mail actual sent
+instead written applic log file
+inspect messag thi great local develop
+
+
+
+pretend
+
+
+
+
+
+
+
+
+applic debug mode
+
+
+when applic debug mode detail error messag
+stack trace shown everi error occur within
+applic disabl simpl gener error page shown
+
+
+
+debug debug
+
+
+
+applic
+
+
+thi use consol properli gener ur ls use
+artisan command line tool root
+applic use run artisan task
+
+
+
+http localhost
+
+
+
+applic timezon
+
+
+here specifi timezon applic
+use date date time function gone
+ahead sensibl
+
+
+
+timezon
+
+
+
+applic local configur
+
+
+applic local determin local use
+translat servic provid free valu
+local support applic
+
+
+
+local
+
+
+
+applic fallback local
+
+
+fallback local determin local current
+avail chang valu correspond
+languag folder provid applic
+
+
+
+fallback local
+
+
+
+encrypt
+
+
+thi use illumin encrypt servic
+random charact string otherwis encrypt string
+safe pleas deploy applic
+
+
+
+your secret key
+
+cipher mcrypt rijndael
+
+
+
+log configur
+
+
+here configur set applic
+laravel use monolog log librari thi give
+varieti power handler formatt util
+
+avail set singl daili syslog
+
+
+
+daili
+
+
+
+autoload servic provid
+
+
+servic provid list automat load
+request applic feel free servic
+grant expand function applic
+
+
+
+provid
+
+
+laravel framework servic provid
+
+illumin foundat provid artisan servic provid
+illumin auth auth servic provid
+illumin bu servic provid
+illumin cach cach servic provid
+illumin foundat provid consol support servic provid
+illumin rout control servic provid
+illumin cooki cooki servic provid
+illumin databas databas servic provid
+illumin encrypt encrypt servic provid
+illumin filesystem filesystem servic provid
+illumin foundat provid foundat servic provid
+illumin hash hash servic provid
+illumin mail mail servic provid
+illumin pagin pagin servic provid
+illumin pipelin pipelin servic provid
+illumin queue queue servic provid
+illumin redi redi servic provid
+illumin auth password password reset servic provid
+illumin session session servic provid
+illumin translat translat servic provid
+illumin valid valid servic provid
+illumin view view servic provid
+
+
+applic servic provid
+
+provid app servic provid
+provid bu servic provid
+provid event servic provid
+provid rout servic provid
+
+
+
+
+
+class alias
+
+
+thi alias regist applic
+start howev feel free regist mani wish
+alias lazi load hinder perform
+
+
+
+alias
+
+illumin support facad
+artisan illumin support facad artisan
+auth illumin support facad auth
+blade illumin support facad blade
+cach illumin support facad cach
+config illumin support facad config
+cooki illumin support facad cooki
+crypt illumin support facad crypt
+illumin support facad
+event illumin support facad event
+file illumin support facad file
+hash illumin support facad hash
+input illumin support facad input
+inspir illumin foundat inspir
+lang illumin support facad lang
+illumin support facad
+mail illumin support facad mail
+pagin illumin support facad pagin
+password illumin support facad password
+queue illumin support facad queue
+redirect illumin support facad redirect
+redi illumin support facad redi
+request illumin support facad request
+respons illumin support facad respons
+rout illumin support facad rout
+schema illumin support facad schema
+session illumin support facad session
+illumin support facad
+valid illumin support facad valid
+view illumin support facad view
+
+
+
+
+
+
+
+
+
+
+fetch style
+
+
+databas result return instanc
+std class object howev desir retriev record
+format simplic here tweak fetch style
+
+
+
+fetch fetch class
+
+
+
+default databas connect name
+
+
+here specifi databas connect wish
+connect databas work cours
+mani connect use databas librari
+
+
+
+mysql
+
+
+
+databas connect
+
+
+here databas connect setup applic
+cours exampl configur databas platform
+support laravel shown make develop simpl
+
+
+databas work laravel done facil
+make sure driver particular databas
+choic instal machin develop
+
+
+
+connect
+
+sqlite
+driver sqlite
+databas storag path databas sqlite
+prefix
+
+
+mysql
+driver mysql
+host host localhost
+databas databas forg
+usernam usernam forg
+password password
+charset utf8
+collat utf8 unicod
+prefix
+strict
+
+
+pgsql
+driver pgsql
+host host localhost
+databas databas forg
+usernam usernam forg
+password password
+charset utf8
+prefix
+schema
+
+
+sqlsrv
+driver sqlsrv
+host host localhost
+databas databas forg
+usernam usernam forg
+password password
+prefix
+
+
+
+
+
+
+migrat repositori tabl
+
+
+thi tabl keep track migrat alreadi
+applic use inform determin
+migrat disk actual databas
+
+
+
+migrat migrat
+
+
+
+redi databas
+
+
+redi open sourc fast advanc valu store also
+provid richer command typic valu system
+memcach laravel make easi right
+
+
+
+redi
+
+cluster
+
+
+host
+port 6379
+databas
+
+
+
+
+
+
+
+
+
+
+
+default queue driver
+
+
+laravel queue support varieti back end unifi
+give conveni access back use
+syntax here queue driver
+
+support null sync databas beanstalkd
+iron redi
+
+
+
+queue driver sync
+
+
+
+queue connect
+
+
+here configur connect inform server
+use applic configur ad
+back ship laravel free
+
+
+
+connect
+
+sync
+driver sync
+
+
+databas
+driver databas
+tabl job
+queue
+expir
+
+
+beanstalkd
+driver beanstalkd
+host localhost
+queue
+
+
+
+
+driver
+
+secret secret
+queue queue
+region east
+
+
+iron
+driver iron
+host east iron
+token token
+project project
+queue queue name
+encrypt
+
+
+redi
+driver redi
+queue
+expir
+
+
+
+
+
+
+fail queue job
+
+
+these option configur behavior fail queue log
+control databas tabl use store job
+fail chang databas tabl wish
+
+
+
+fail
+databas mysql tabl fail job
+
+
+
+
+
+
+
+
+
+default filesystem disk
+
+
+here specifi filesystem disk use
+framework local driver well varieti cloud
+base driver avail choos just store away
+
+support local rackspac
+
+
+
+local
+
+
+
+default cloud filesystem disk
+
+
+mani applic store file local cloud
+reason specifi cloud driver thi driver
+bound cloud disk implement contain
+
+
+
+cloud
+
+
+
+filesystem disk
+
+
+here configur mani filesystem disk wish
+even configur multipl disk driver default
+setup driver exampl requir option
+
+
+
+disk
+
+local
+driver local
+root storag path
+
+
+
+driver
+
+secret secret
+bucket bucket
+
+
+rackspac
+driver rackspac
+usernam usernam
+
+contain contain
+endpoint http ident rackspacecloud
+region
+
+
+
+
+
+
+
+
+
+
+
+default session driver
+
+
+thi option control session driver use
+request lightweight driver
+specifi wonder driver provid
+
+support file cooki databas
+memcach redi
+
+
+
+driver session driver file
+
+
+
+session lifetim
+
+
+here specifi number minut wish session
+allow remain idl expir want
+immedi expir browser close option
+
+
+
+lifetim
+
+expir close
+
+
+
+session encrypt
+
+
+thi option allow easili specifi session data
+encrypt store encrypt
+automat laravel session like normal
+
+
+
+encrypt
+
+
+
+session file locat
+
+
+when use session driver need locat session
+file store differ
+locat specifi thi need file session
+
+
+
+file storag path framework session
+
+
+
+session databas connect
+
+
+when use databas redi session driver specifi
+connect use manag session thi
+correspond connect databas configur option
+
+
+
+connect null
+
+
+
+session databas tabl
+
+
+when use databas session driver specifi tabl
+manag session cours sensibl
+provid howev free chang need
+
+
+
+tabl session
+
+
+
+session sweep lotteri
+
+
+some session driver must manual sweep storag locat
+session storag here chanc
+happen given request odd
+
+
+
+lotteri
+
+
+
+session cooki name
+
+
+here chang name cooki use identifi session
+instanc name specifi use everi time
+session cooki creat framework everi driver
+
+
+
+cooki laravel session
+
+
+
+session cooki path
+
+
+session cooki path determin path cooki
+regard avail typic root path
+applic free chang necessari
+
+
+
+path
+
+
+
+session cooki domain
+
+
+here chang domain cooki use identifi session
+applic thi determin domain cooki
+avail applic sensibl
+
+
+
+domain null
+
+
+
+http onli cooki
+
+
+set option session cooki sent back
+server browser http connect thi keep
+cooki sent done secur
+
+
+
+secur
+
+
+
+
+illumin databas seeder
+illumin databas eloqu model
+
+databas seeder seeder
+
+
+databas seed
+
+
+
+
+
+model unguard
+
+call user tabl seeder
+
+
+
+
+
+illumin databas schema blueprint
+illumin databas migrat migrat
+
+creat password reset tabl migrat
+
+
+migrat
+
+
+
+
+
+schema creat password reset blueprint tabl
+
+tabl string email index
+tabl string token index
+tabl timestamp creat
+
+
+
+
+revers migrat
+
+
+
+
+
+schema drop password reset
+
+
+
+
+
+illumin databas schema blueprint
+illumin databas migrat migrat
+
+creat user tabl migrat
+
+
+migrat
+
+
+
+
+
+schema creat user blueprint tabl
+
+tabl increment
+tabl string name
+tabl string email uniqu
+tabl string password
+tabl rememb token
+tabl timestamp
+
+
+
+
+revers migrat
+
+
+
+
+
+schema drop user
+
+
+
+html
+head
+link href http font googleapi famili lato stylesheet type text
+
+style
+bodi
+margin
+pad
+width
+height
+color b0 bec5
+display tabl
+font weight
+font famili lato
+
+
+contain
+text align center
+display tabl cell
+vertic align middl
+
+
+content
+text align center
+display inlin block
+
+
+titl
+font size 96px
+margin bottom 40px
+
+
+quot
+font size 24px
+
+style
+head
+bodi
+contain
+content
+titl laravel
+quot inspir quot
+
+
+bodi
+html
+html
+head
+link href http font googleapi famili lato stylesheet type text
+
+style
+bodi
+margin
+pad
+width
+height
+color b0 bec5
+display tabl
+font weight
+font famili lato
+
+
+contain
+text align center
+display tabl cell
+vertic align middl
+
+
+content
+text align center
+display inlin block
+
+
+titl
+font size 72px
+margin bottom 40px
+
+style
+head
+bodi
+contain
+content
+titl right back
+
+
+bodi
+html
+html
+head
+titl laravel titl
+
+link href font googleapi famili lato stylesheet type text
+
+style
+bodi
+margin
+pad
+width
+height
+color b0 bec5
+display tabl
+font weight
+font famili lato
+
+
+contain
+text align center
+display tabl cell
+vertic align middl
+
+
+content
+text align center
+display inlin block
+
+
+titl
+font size 96px
+margin bottom 40px
+
+
+quot
+font size 24px
+
+style
+head
+bodi
+contain
+content
+titl laravel
+quot inspir quot
+
+
+bodi
+html
+html
+head
+titl right back titl
+
+link href font googleapi famili lato stylesheet type text
+
+style
+bodi
+margin
+pad
+width
+height
+color b0 bec5
+display tabl
+font weight
+font famili lato
+
+
+contain
+text align center
+display tabl cell
+vertic align middl
+
+
+content
+text align center
+display inlin block
+
+
+titl
+font size 72px
+margin bottom 40px
+
+style
+head
+bodi
+contain
+content
+titl right back
+
+
+bodi
+html
+
+
+
+
+
+
+authent languag line
+
+
+follow languag line use authent variou
+messag need display user free modifi
+languag line accord applic requir
+
+
+
+fail these credenti match record
+throttl mani login attempt pleas second second
+
+
+
+
+
+
+
+
+password remind languag line
+
+
+follow languag line line match reason
+given password broker password updat attempt
+fail invalid token invalid password
+
+
+
+password password must least charact match confirm
+user find user mail address
+token thi password reset token invalid
+sent password reset link sent
+reset password reset
+
+
+
+
+
+
+
+
+pagin languag line
+
+
+follow languag line use pagin librari build
+simpl pagin link free chang anyth
+want custom view better match applic
+
+
+
+previou laquo previou
+next raquo
+
+
+
+
+
+
+
+
+valid languag line
+
+
+follow languag line contain error messag use
+valid some rule multipl version
+size rule feel free tweak messag
+
+
+
+accept attribut must accept
+activ attribut valid
+attribut must date date
+alpha attribut contain letter
+alpha dash attribut contain letter number dash
+alpha attribut contain letter number
+attribut must
+attribut must date date
+
+numer attribut must
+file attribut must kilobyt
+string attribut must charact
+attribut must item
+
+attribut field must
+confirm attribut confirm match
+date attribut valid date
+date format attribut match format format
+differ attribut must differ
+digit attribut must digit digit
+digit attribut must digit
+email attribut must valid email address
+fill attribut field requir
+exist select attribut invalid
+imag attribut must imag
+select attribut invalid
+integ attribut must integ
+attribut must valid address
+
+numer attribut greater
+file attribut greater kilobyt
+string attribut greater charact
+attribut item
+
+mime attribut must file type valu
+
+numer attribut must least
+file attribut must least kilobyt
+string attribut must least charact
+attribut must least item
+
+select attribut invalid
+numer attribut must number
+regex attribut format invalid
+requir attribut field requir
+requir attribut field requir valu
+requir attribut field requir valu present
+requir attribut field requir valu present
+requir without attribut field requir valu present
+requir without attribut field requir none valu present
+attribut must match
+size
+numer attribut must size
+file attribut must size kilobyt
+string attribut must size charact
+attribut must contain size item
+
+uniqu attribut alreadi taken
+attribut format invalid
+timezon attribut must valid zone
+
+
+
+custom valid languag line
+
+
+here specifi custom valid messag attribut use
+convent attribut rule name line thi make quick
+specifi specif custom languag line given attribut rule
+
+
+
+custom
+attribut name
+rule name custom messag
+
+
+
+
+
+custom valid attribut
+
+
+follow languag line use swap attribut place holder
+someth reader friendli mail address instead
+email thi simpli help make messag littl cleaner
+
+
+
+attribut
+
+
+laravel
+
+html
+
+
+convert html charact entiti
+
+encod specifi applic configur file use
+
+param string valu
+string
+
+entiti valu
+
+htmlentiti valu quot config item applic encod
+
+
+
+gener link java script file
+
+code
+gener link java script file
+html script jqueri
+
+gener link java script file attribut
+html script jqueri defer
+code
+
+param string
+param attribut
+string
+
+script attribut
+
+entiti asset
+
+script attribut attribut script
+
+
+
+gener link file
+
+media type select use
+
+code
+gener link file
+html style common
+
+gener link file attribut
+html style common media
+code
+
+param string
+param attribut
+string
+
+style attribut
+
+default media type text stylesheet
+
+default attribut
+
+exist attribut attribut
+
+attribut attribut
+
+
+
+entiti asset
+
+link href attribut attribut
+
+
+
+gener html span
+
+param string valu
+param attribut
+string
+
+span valu attribut
+
+span attribut attribut entiti valu span
+
+
+
+gener html link
+
+code
+gener link locat within applic
+html link user profil user profil
+
+gener link locat outsid applic
+html link http googl googl
+code
+
+param string
+param string titl
+param attribut
+param bool http
+string
+
+link titl attribut http
+
+entiti http
+
+href attribut attribut entiti titl
+
+
+
+gener http html link
+
+param string
+param string titl
+param attribut
+string
+
+link secur titl attribut
+
+link titl attribut
+
+
+
+gener html link asset
+
+applic index page ad asset link
+
+param string
+param string titl
+param attribut
+param bool http
+string
+
+link asset titl attribut http null
+
+entiti asset http
+
+href attribut attribut entiti titl
+
+
+
+gener http html link asset
+
+param string
+param string titl
+param attribut
+string
+
+link secur asset titl attribut
+
+link asset titl attribut
+
+
+
+gener html link rout
+
+paramet specifi fill segment wildcard
+
+code
+gener link profil name rout
+html link rout profil profil
+
+gener link profil rout paramet
+html link rout profil profil taylor
+code
+
+param string name
+param string titl
+param paramet
+param attribut
+string
+
+link rout name titl paramet attribut http
+
+link rout name paramet http titl attribut
+
+
+
+gener http html link rout
+
+param string name
+param string titl
+param paramet
+param attribut
+string
+
+link secur rout name titl paramet attribut
+
+link rout name titl paramet attribut
+
+
+
+gener html mailto link
+
+mail address obfusc protect spam bot
+
+param string email
+param string titl
+param attribut
+string
+
+mailto email titl null attribut
+
+email email email
+
+null titl titl email
+
+email email
+
+href email attribut attribut entiti titl
+
+
+
+obfusc mail address prevent spam bot snif
+
+param string email
+string
+
+email email
+
+replac obfusc email
+
+
+
+gener html imag element
+
+param string
+param string
+param attribut
+string
+
+imag attribut
+
+attribut
+
+entiti asset attribut attribut
+
+
+
+gener order item
+
+param
+param attribut
+string
+
+attribut
+
+list attribut
+
+
+
+gener order item
+
+param
+param attribut
+string
+
+attribut
+
+list attribut
+
+
+
+gener order order
+
+param string type
+param
+param attribut
+string
+
+list type attribut
+
+html
+
+valu
+
+valu
+
+html list type valu
+
+
+
+html entiti valu
+
+
+
+type attribut attribut html type
+
+
+
+build html attribut
+
+numer key attribut assign valu handl
+attribut autofocu requir
+
+param attribut
+string
+
+attribut attribut
+
+html
+
+attribut valu
+
+numer valu
+
+null valu
+
+html entiti valu
+
+
+
+count html implod html
+
+
+
+obfusc string prevent spam bot snif
+
+param string valu
+string
+
+obfusc valu
+
+safe
+
+split valu letter
+
+rand
+
+convert letter entiti represent
+
+safe letter
+
+
+convert letter charact code
+
+safe dechex letter
+
+
+encod
+
+safe letter
+
+
+
+safe
+
+
+
+magic method handl dynam method
+
+thi method primarili handl dynam call creat link name rout
+
+code
+gener link profil name rout
+html link profil profil
+
+gener link profil rout paramet
+html link profil profil taylor
+
+gener link profil name rout use http
+html link secur profil profil
+code
+
+call static method paramet
+
+strpo method link secur
+
+unshift paramet substr method
+
+forward call html link secur rout paramet
+
+
+strpo method link
+
+unshift paramet substr method
+
+forward call html link rout paramet
+
+
+bad method call except method method defin html
+
+
+
+laravel
+
+
+defin constant need framework
+these thing like file extens well path
+use framework path built
+basic applic laravel path
+
+defin
+defin crlf
+defin blade blade
+defin path realpath applic
+defin public path realpath
+defin path realpath laravel
+defin storag path path storag
+defin cach path storag path cach
+defin config path path config
+defin control path path control
+defin databas path storag path databas
+defin lang path path languag
+defin librari path path librari
+defin model path path model
+defin rout path path rout
+defin session path storag path session
+defin config path path config
+defin view path path view
+
+
+defin laravel environ configur path thi path use
+configur load configur option specif
+server environ allow develop conveni chang
+configur option base applic environ
+
+
+environ
+
+server laravel
+
+environ config path server laravel
+
+
+defin config path environ
+
+applic laravel environ
+
+
+requir class load auto loader
+these typic class auto loader reli upon
+load class configur class
+
+path
+path config
+path facad
+path autoload
+
+
+load core configur file load everi
+request applic quicker load manual
+request rather pars key everi request
+
+config load applic
+config load session
+config load error
+
+
+regist autoload load method auto loader stack
+thi method provid lazi load file well
+compliant librari use applic
+
+autoload regist laravel autoload load
+
+
+build laravel framework thi provid fast
+resolv laravel name appropri path
+more map also regist develop need
+
+autoload map
+laravel path
+laravel asset path asset
+laravel auth path auth
+laravel benchmark path benchmark
+laravel blade path blade
+laravel config path config
+laravel cooki path cooki
+laravel crypter path crypter
+laravel file path file
+laravel form path form
+laravel hash path hash
+laravel html path html
+laravel inflector path inflector
+laravel input path input
+laravel path
+laravel lang path lang
+laravel memcach path memcach
+laravel messag path messag
+laravel pagin path pagin
+laravel redirect path redirect
+laravel redi path redi
+laravel request path request
+laravel respons path respons
+laravel section path section
+laravel path
+laravel path
+laravel path
+laravel valid path valid
+laravel view path view
+laravel cach manag path cach manag
+laravel cach driver path cach driver
+laravel cach driver driver path cach driver driver
+laravel cach driver file path cach driver file
+laravel cach driver memcach path cach driver memcach
+laravel cach driver redi path cach driver redi
+laravel databas connect path databas connect
+laravel databas express path databas express
+laravel databas manag path databas manag
+laravel databas queri path databas queri
+laravel databas connector connector path databas connector connector
+laravel databas connector my sql path databas connector mysql
+laravel databas connector postgr path databas connector postgr
+laravel databas connector sq lite path databas connector sqlite
+laravel databas eloqu hydrat path databas eloqu hydrat
+laravel databas eloqu model path databas eloqu model
+laravel databas grammar grammar path databas grammar grammar
+laravel databas grammar my sql path databas grammar mysql
+laravel rout control path rout control
+laravel rout filter path rout filter
+laravel rout loader path rout loader
+laravel rout rout path rout rout
+laravel rout router path rout router
+laravel session payload path session payload
+laravel session driver path session driver
+laravel session driver cooki path session driver cooki
+laravel session driver databas path session driver databas
+laravel session driver driver path session driver driver
+laravel session driver factori path session driver factori
+laravel session driver file path session driver file
+laravel session driver memcach path session driver memcach
+laravel session driver redi path session driver redi
+laravel session driver sweeper path session driver sweeper
+
+
+
+regist timezon applic thi
+timezon use date timezon function
+entir applic
+
+date timezon config item applic timezon
+
+
+defin conveni function these function
+provid cut thing like retriev languag
+line html entiti they make live dev
+littl sweeter enjoy
+
+path helper
+laravel
+
+messag
+
+
+regist messag
+
+
+
+messag
+
+
+creat messag instanc
+
+messag provid conveni wrapper around string
+
+
+
+construct messag
+
+messag messag
+
+
+
+messag collector
+
+code
+messag mail attribut
+messag email mail address invalid
+code
+
+param string
+param string messag
+
+
+messag
+
+uniqu messag messag messag
+
+
+
+determin messag combin alreadi exist
+
+param string
+param string messag
+bool
+
+uniqu messag
+
+messag messag messag
+
+
+
+determin messag exist given
+
+param string
+bool
+
+
+
+first
+
+
+
+first messag given
+
+code
+first messag mail attribut
+email messag first email
+
+format first messag mail attribut
+email messag first email messag
+code
+
+param string
+param string format
+string
+
+first format messag
+
+count messag format messag
+
+
+
+messag
+
+code
+messag mail attribut
+email messag email
+
+format messag mail attribut
+email messag email messag
+code
+
+param string
+param string format
+
+
+format messag
+
+exist messag
+
+format messag format
+
+
+
+
+
+
+messag everi
+
+code
+messag collector
+messag
+
+format messag collector
+messag messag
+code
+
+param string format
+
+
+format messag
+
+
+
+messag messag
+
+merg format messag format
+
+
+
+
+
+
+format messag
+
+param messag
+param string format
+
+
+format messag format
+
+messag messag
+
+messag messag
+
+messag replac messag messag format
+
+
+messag
+
+
+
+laravel
+
+
+
+
+regist depend
+
+
+
+registri
+
+
+resolv singleton instanc
+
+
+
+singleton
+
+
+bootstrap applic contain
+
+thi method call automat first time load
+
+param registri
+
+
+bootstrap registri
+
+config load contain
+
+registri config item contain
+
+
+
+
+regist object resolv
+
+contain instanc alway pass resolv allow
+nest resolut object contain
+
+code
+regist object resolv
+regist mailer mailer
+code
+
+param string name
+param closur resolv
+
+
+regist name resolv singleton
+
+registri name resolv resolv singleton singleton
+
+
+
+determin object regist contain
+
+param string name
+bool
+
+regist name
+
+exist name registri
+
+
+
+regist object singleton
+
+singleton instanti first time resolv
+instanc return subsequ request
+
+param string name
+param closur resolv
+
+
+singleton name resolv
+
+regist name resolv
+
+
+
+regist instanc singleton
+
+thi method allow regist alreadi exist object instanc
+contain manag singleton instanc
+
+code
+regist instanc singleton contain
+instanc mailer mailer
+code
+
+param string name
+param mix instanc
+
+
+instanc name instanc
+
+singleton name instanc
+
+
+
+resolv core laravel contain
+
+code
+resolv laravel router contain
+input core router
+
+equival resolut use resolv method
+input resolv laravel router
+
+pass paramet resolv
+input core router test
+code
+
+param string name
+param paramet
+mix
+
+core name paramet
+
+resolv laravel name paramet
+
+
+
+resolv object instanc contain
+
+code
+instanc mailer object regist contain
+mailer resolv mailer
+
+pass paramet resolv
+mailer resolv mailer test
+code
+
+param string name
+param paramet
+mix
+
+resolv name paramet
+
+exist name singleton
+
+singleton name
+
+
+regist name
+
+out of bound except error resolv name resolv regist
+
+
+object call user func registri name resolv paramet
+
+registri name singleton registri name singleton
+
+singleton name object
+
+
+object
+
+
+
+
+
+bootstrap contain
+load sinc reason load contain
+configur first request
+
+bootstrap
+laravel
+
+closur
+laravel session payload session
+
+request
+
+
+rout handl current request
+
+rout rout
+
+rout
+
+
+request data use indic spoof request method
+
+string
+
+spoofer spoofer
+
+
+current request
+
+request root applic singl forward slash
+return otherwis return
+lead trail slash remov
+
+string
+
+
+
+current
+
+
+
+request method
+
+thi usual valu request method server variabl
+howev request method spoof use hidden form valu
+method store post
+
+string
+
+method
+
+spoof post request spoofer server request method
+
+
+
+item server
+
+like retriev method valu specifi
+
+param string
+param mix
+string
+
+server null null
+
+server strtoupper
+
+
+
+determin request method spoof hidden form element
+
+bool
+
+spoof
+
+post exist request spoofer post
+
+
+
+requestor address
+
+param mix
+string
+
+
+
+server http forward
+
+server http forward
+
+server http client
+
+server http client
+
+server remot addr
+
+server remot addr
+
+
+closur call user func
+
+
+
+http protocol request
+
+string
+
+protocol
+
+server server protocol http
+
+
+
+determin current request use http
+
+bool
+
+secur
+
+server http strtolow server http
+
+
+
+determin request forg
+
+session csrf token compar csrf token request input
+
+bool
+
+forg
+
+input session csrf token core session token
+
+
+
+determin current request ajax request
+
+bool
+
+ajax
+
+server http request with
+
+strtolow server http request with xmlhttprequest
+
+
+
+rout handl current request
+
+rout
+
+rout
+
+rout
+
+
+
+laravel
+
+closur
+laravel databas manag
+
+valid
+
+
+valid
+
+
+
+attribut
+
+
+post valid error messag
+
+messag
+
+error
+
+
+valid rule
+
+
+
+rule
+
+
+valid messag
+
+
+
+messag
+
+
+databas connect use valid
+
+databas connect
+
+
+
+
+languag use retriev error messag
+
+string
+
+languag
+
+
+size relat valid rule
+
+
+
+size rule size
+
+
+inclus relat valid rule
+
+
+
+inclus rule mime
+
+
+numer relat valid rule
+
+
+
+numer rule numer integ
+
+
+regist custom valid
+
+
+
+valid
+
+
+creat valid instanc
+
+param attribut
+param rule
+param messag
+
+
+construct attribut rule messag
+
+rule rule
+
+rule string rule explod rule rule
+
+
+rule rule
+messag messag
+attribut attribut
+
+
+
+creat valid instanc
+
+param attribut
+param rule
+param messag
+valid
+
+make attribut rule messag
+
+attribut rule messag
+
+
+
+regist custom valid
+
+param string name
+param closur valid
+
+
+regist name valid
+
+valid name valid
+
+
+
+valid target use specifi valid rule
+
+bool
+
+invalid
+
+valid
+
+
+
+valid target use specifi valid rule
+
+bool
+
+valid
+
+error messag
+
+rule attribut rule
+
+rule rule check attribut rule
+
+
+count error messag
+
+
+
+evalu attribut valid rule
+
+param string attribut
+param string rule
+
+
+check attribut rule
+
+rule paramet pars rule
+
+valu attribut attribut
+
+validat validat rule attribut valu
+
+validat valid rule attribut valu paramet
+
+error attribut rule paramet
+
+
+
+
+determin attribut validat
+
+consid validat attribut must either exist
+rule check must implicitli valid requir
+requir rule accept rule
+
+param string rule
+param string attribut
+param mix valu
+bool
+
+validat rule attribut valu
+
+valid requir attribut valu implicit rule
+
+
+
+determin given rule impli attribut requir
+
+param string rule
+bool
+
+implicit rule
+
+rule requir rule accept
+
+
+
+error messag valid collect messag
+
+param string attribut
+param string rule
+param paramet
+
+
+error attribut rule paramet
+
+messag messag attribut rule
+
+messag replac messag attribut rule paramet
+
+error attribut messag
+
+
+
+valid requir attribut exist attribut
+
+param string attribut
+param mix valu
+bool
+
+valid requir attribut valu
+
+null valu
+
+
+
+string valu trim valu
+
+
+
+null input file attribut valu name
+
+
+
+
+
+
+
+
+valid attribut match confirm attribut
+
+param string attribut
+param mix valu
+bool
+
+valid confirm attribut valu
+
+confirm attribut confirm
+
+attribut confirm valu attribut confirm
+
+
+
+valid attribut accept
+
+thi valid rule impli attribut requir
+
+param string attribut
+param mix valu
+bool
+
+valid accept attribut valu
+
+valid requir attribut valu valu valu
+
+
+
+valid attribut numer
+
+param string attribut
+param mix valu
+bool
+
+valid numer attribut valu
+
+numer valu
+
+
+
+valid attribut integ
+
+param string attribut
+param mix valu
+bool
+
+valid integ attribut valu
+
+filter valu filter valid
+
+
+
+valid size attribut
+
+param string attribut
+param mix valu
+param paramet
+bool
+
+valid size attribut valu paramet
+
+size attribut valu paramet
+
+
+
+valid size attribut valu
+
+param string attribut
+param mix valu
+param paramet
+bool
+
+valid attribut valu paramet
+
+size size attribut valu
+
+size paramet size paramet
+
+
+
+valid size attribut greater minimum valu
+
+param string attribut
+param mix valu
+param paramet
+bool
+
+valid attribut valu paramet
+
+size attribut valu paramet
+
+
+
+valid size attribut less maximum valu
+
+param string attribut
+param mix valu
+param paramet
+bool
+
+valid attribut valu paramet
+
+size attribut valu paramet
+
+
+
+size attribut
+
+thi method determin attribut number string file
+proper size accordingli number number
+size file size kilobyt size
+string length size
+
+param string attribut
+param mix valu
+mix
+
+size attribut valu
+
+numer valu rule attribut numer rule
+
+attribut attribut
+
+exist attribut input file
+
+valu size 1024
+
+
+
+length trim valu
+
+
+
+
+valid attribut contain within valu
+
+param string attribut
+param mix valu
+param paramet
+bool
+
+valid attribut valu paramet
+
+valu paramet
+
+
+
+valid attribut contain within valu
+
+param string attribut
+param mix valu
+param paramet
+bool
+
+valid attribut valu paramet
+
+valu paramet
+
+
+
+valid uniqu attribut valu given databas tabl
+
+databas column specifi attribut name use
+
+param string attribut
+param mix valu
+param paramet
+bool
+
+valid uniqu attribut valu paramet
+
+paramet paramet attribut
+
+null connect
+
+tabl paramet paramet valu count
+
+
+
+valid attribut valid mail address
+
+param string attribut
+param mix valu
+bool
+
+valid email attribut valu
+
+filter valu filter valid email
+
+
+
+valid attribut valid
+
+param string attribut
+param mix valu
+bool
+
+valid attribut valu
+
+filter valu filter valid
+
+
+
+valid attribut activ
+
+param string attribut
+param mix valu
+bool
+
+valid activ attribut valu
+
+replac http http lower valu
+
+checkdnsrr
+
+
+
+valid mime type file imag mime type
+
+param string attribut
+param mix valu
+bool
+
+valid imag attribut valu
+
+valid mime attribut valu
+
+
+
+valid attribut contain alphabet charact
+
+param string attribut
+param mix valu
+bool
+
+valid alpha attribut valu
+
+preg match valu
+
+
+
+valid attribut contain alpha numer charact
+
+param string attribut
+param mix valu
+bool
+
+valid alpha attribut valu
+
+preg match valu
+
+
+
+valid attribut contain alpha numer charact dash underscor
+
+param string attribut
+param mix valu
+bool
+
+valid alpha dash attribut valu
+
+preg match valu
+
+
+
+valid mime type file upload attribut mime type
+
+param string attribut
+param valu
+param paramet
+bool
+
+valid mime attribut valu paramet
+
+valu valu name
+
+paramet extens
+
+file extens valu name
+
+
+
+
+
+
+
+
+
+proper error messag attribut rule
+
+param string attribut
+param string rule
+string
+
+messag attribut rule
+
+first check develop specifi attribut specif messag
+these messag take first prioriti they allow fine grain tune
+error messag rule
+exist attribut rule messag
+
+messag attribut rule
+
+
+next check develop specifi rule specif error messag
+these allow develop overrid error messag entir
+rule regardless attribut valid rule
+exist rule messag
+
+messag rule
+
+
+rule valid size rule need gather
+specif size messag type attribut valid
+either number file string
+rule size rule
+
+rule attribut numer rule
+
+line numer
+
+
+
+line exist attribut input file file string
+
+
+lang line valid rule line languag
+
+
+develop specifi messag special
+messag appli rule pull valid
+messag valid languag file
+
+
+lang line valid rule languag
+
+
+
+
+replac error messag place holder actual valu
+
+param string messag
+param string attribut
+param string rule
+param paramet
+string
+
+replac messag attribut rule paramet
+
+messag replac attribut attribut attribut messag
+
+rule size rule
+
+even though everi size rule place holder
+size ahead make replac
+conveni except everi replac
+first paramet
+rule paramet paramet
+
+replac paramet paramet
+
+messag replac size replac messag
+
+rule inclus rule
+
+messag replac valu implod paramet messag
+
+
+messag
+
+
+
+display name given attribut
+
+store attribut name languag file allow reader friendli
+version attribut name place attribut place holder
+
+languag line specifi attribut format
+use attribut
+
+param string attribut
+string
+
+attribut attribut
+
+display lang line valid attribut attribut languag
+
+null display replac attribut display
+
+
+
+determin attribut rule assign
+
+param string attribut
+param rule
+bool
+
+rule attribut rule
+
+rule attribut rule
+
+rule paramet pars rule
+
+rule rule
+
+
+
+
+
+
+extract rule name paramet rule
+
+param string rule
+
+
+pars rule
+
+paramet
+
+format specifi valid rule paramet follow
+rule paramet convent instanc specifi
+valu charact length
+colon strpo rule
+
+paramet explod substr rule colon
+
+
+numer colon substr rule colon rule paramet
+
+
+
+languag use retriev error messag
+
+param string languag
+valid
+
+speak languag
+
+languag languag
+
+
+
+
+databas connect use valid
+
+param databas connect connect
+valid
+
+connect laravel databas connect connect
+
+connect
+
+
+
+
+dynam handl call custom regist valid
+
+call method paramet
+
+first slice valid prefix valid
+sinc customvalid aren regist prefix
+valid method substr method
+
+call user func valid method paramet
+
+
+bad method call except call undefin method method valid instanc
+
+
+
+laravel
+
+autoload
+
+
+map name file path
+
+
+
+map
+
+
+compliant librari regist loader
+
+
+
+librari
+
+
+path search loader
+
+
+
+path model path librari path
+
+
+load file correspond given
+
+thi method registerd core bootstrap file autoload
+
+param string
+
+
+load
+
+config item applic alias
+
+config item applic alias
+
+
+null path find
+
+path
+
+
+
+
+determin file path associ given name
+
+param string
+string
+
+find
+
+first look hard code map sinc
+fastest resolv name associ file
+thi save search file system manual
+map
+
+map
+
+
+librari regist compliant librari
+load librari accord name standard state
+namespac underscor indic directori hierarchi
+librari librari
+
+librari path replac
+
+
+next search common laravel path file
+laravel librari model directori search accord
+laravel name standard
+file strtolow replac
+
+path path
+
+file exist path path file
+
+path
+
+
+
+sinc control resolv control resolv
+quick check control directori
+instanc sinc base control would resolv
+control need resolv
+file exist path control
+
+path
+
+
+
+
+extract librari name given
+
+librari name essenti string prece
+first separ state namespac undescor
+use indic directori structur file resid
+
+param string
+string
+
+librari
+
+separ strpo
+
+substr separ
+
+separ strpo
+
+substr separ
+
+
+
+
+translat given control name correspond file name
+
+control suffix remov underscor translat
+directori slash cours entir name convert
+lower well
+
+code
+return user profil
+file control user profil control
+code
+
+param string
+string
+
+control
+
+control replac control
+
+control path strtolow control
+
+
+
+regist path map
+
+map use resolv file path name
+lazi load autoload provid faster
+resolv file path typic file exist method
+
+code
+regist map autoload
+autoload map user model path user
+code
+
+param map
+
+
+map map
+
+map path
+
+map path
+
+
+
+
+regist librari autoload
+
+librari name given method match directori within
+applic librari directori thi method provid easi
+indic librari load use
+name convent instead laravel convent
+
+code
+regist asset librari autoload
+autoload librari asset
+
+regist sever librari autoload
+autoload librari asset twig
+code
+
+param librari
+
+
+librari librari
+
+librari merg librari librari
+
+
+
+laravel
+
+redi
+
+
+address redi host
+
+string
+
+host
+
+
+port redi access host
+
+
+
+port
+
+
+connect redi databas
+
+resourc
+
+connect
+
+
+activ redi databas instanc
+
+
+
+databas
+
+
+creat redi connect instanc
+
+param string host
+param string port
+
+
+construct host port
+
+host host
+port port
+
+
+
+redi databas connect instanc
+
+given name correspond redi databas configur file
+
+code
+redi databas instanc
+redi redi
+
+specifi redi databas instanc
+reid redi redi
+code
+
+param string name
+redi
+
+name
+
+databas name
+
+null config config databas redi name
+
+domain except redi databas name defin
+
+
+databas name config host config port
+
+
+databas name
+
+
+
+execut command redi databas
+
+code
+execut command name
+name redi name
+
+execut lrang command
+redi lrang
+code
+
+param string method
+param paramet
+mix
+
+method paramet
+
+fwrite connect command method paramet
+
+respons trim fget connect
+
+substr respons
+
+
+runtim except redi error substr trim respons
+
+
+
+inlin respons
+
+
+bulk respons
+
+
+multibulk respons
+
+
+unexpect valu except unknown redi respons substr respons
+
+
+
+
+establish connect redi databas
+
+resourc
+
+connect
+
+null connect connect
+
+connect fsockopen host port error messag
+
+connect
+
+runtim except error make redi connect error messag
+
+
+connect
+
+
+
+build redi command base given method paramet
+
+redi protocol state command conform follow format
+
+number argument
+number byte argument
+argument data
+
+number byte argument
+argument data
+
+more inform regard redi protocol http redi topic protocol
+
+param string method
+param paramet
+string
+
+command method paramet
+
+command count paramet crlf
+
+command strlen method crlf
+
+command strtoupper method crlf
+
+paramet paramet
+
+command strlen paramet crlf paramet crlf
+
+
+command
+
+
+
+pars handl inlin respons redi databas
+
+param string respons
+string
+
+inlin respons
+
+substr trim respons
+
+
+
+pars handl bulk respons redi databas
+
+param string head
+string
+
+bulk head
+
+head
+
+read respons size substr head
+
+
+
+calcul read appropri byte redi respons
+read respons 1024 chunk entir
+respons read databas
+block remain size read 1024 remain 1024
+
+respons fread connect block
+
+read block
+
+read size
+
+respons end trail crlf need read
+file stream
+command issu databas
+fread connect
+
+respons
+
+
+
+pars handl multi bulk repli redi databas
+
+param string head
+
+
+multibulk head
+
+count substr head
+
+respons
+
+iter bulk respons multi bulk pars
+use bulk method sinc multi bulk respons
+plain bulk respons
+count
+
+respons bulk trim fget connect
+
+
+respons
+
+
+
+dynam make call redi databas
+
+call method paramet
+
+method paramet
+
+
+
+dynam method call redi instanc
+
+call static method paramet
+
+method paramet
+
+
+
+close connect redi databas
+
+
+
+destruct
+
+connect
+
+fclose connect
+
+
+
+
+laravel
+
+redirect respons
+
+
+creat redirect respons
+
+code
+creat redirect respons locat within applic
+redirect user profil
+
+creat redirect statu code
+redirect user profil
+
+creat redirect respons locat outsid applic
+redirect http googl
+code
+
+param string
+param statu
+param bool http
+redirect
+
+statu http
+
+make statu header locat http
+
+
+
+creat redirect respons http
+
+param string
+param statu
+respons
+
+secur statu
+
+statu
+
+
+
+item session flash data
+
+thi use pass statu messag temporari data request
+
+code
+creat redirect respons flash someth session
+redirect user profil messag welcom back
+code
+
+param string
+param mix valu
+respons
+
+valu
+
+config session driver
+
+logic except session driver must set flash data
+
+
+core session flash valu
+
+
+
+
+
+flash input session redirect instanc
+
+onc input flash retriev input method
+
+code
+redirect flash input data session
+redirect login input
+
+redirect flash input item
+redirect login input email usernam
+
+redirect flash input item
+redirect login input password
+code
+
+param string filter
+param item
+redirect
+
+input filter null item
+
+input flash filter item
+
+
+
+
+flash valid error session data
+
+thi method allow conveni valid error back view
+
+code
+redirect flash valid error session
+redirect regist error valid
+
+redirect flash messag contain session
+redirect regist error messag
+code
+
+param valid messag contain
+redirect
+
+error contain
+
+error contain valid contain error contain
+
+error error
+
+
+
+magic method handl creation redirect name rout
+
+code
+creat redirect respons profil name rout
+redirect profil
+
+creat redirect respons name rout use http
+redirect secur profil
+
+creat redirect respons name rout wildcard paramet
+redirect profil usernam
+code
+
+call static method paramet
+
+extract paramet place these paramet
+use fill wildcard slot rout definit
+they pass first paramet magic method
+wildcard paramet paramet
+
+statu paramet paramet
+
+strpo method secur
+
+rout substr method wildcard statu
+
+
+strpo method
+
+rout substr method wildcard statu
+
+
+bad method call except method method defin redirect
+
+
+
+laravel closur
+
+lang
+
+
+languag line retriev
+
+string
+
+
+
+
+replac made languag line
+
+
+
+replac
+
+
+languag line retriev
+
+string
+
+languag
+
+
+load languag line
+
+key languag file
+
+
+
+line
+
+
+creat lang instanc
+
+param string
+param replac
+param string languag
+
+
+construct replac languag null
+
+
+languag languag
+replac replac
+
+
+
+creat languag line instanc
+
+code
+creat languag line instanc given line
+line lang line valid requir
+
+specifi replac languag line
+line lang line valid requir attribut email
+code
+
+param string
+param replac
+param string languag
+lang
+
+line replac languag null
+
+null languag
+
+languag config item applic languag
+
+
+replac languag
+
+
+
+languag line string
+
+languag specifi correspond directori
+within applic languag directori
+
+code
+languag line
+line lang line valid requir
+
+languag line specifi languag
+line lang line valid requir
+
+return valu line doesn exist
+line lang line valid requir null default
+code
+
+param string languag
+param string
+string
+
+languag null null
+
+null languag languag languag
+
+file line pars
+
+load file
+
+closur call user func
+
+
+replac line languag file line
+
+
+
+make necessari replac languag line
+
+replac place holder prefix colon replac
+appropri valu base replac
+languag line instanc
+
+param string line
+string
+
+replac line
+
+replac valu
+
+line replac valu line
+
+
+line
+
+
+
+pars languag file line segment
+
+languag key format similarli configur key first
+segment repres languag file second segment
+repres languag line within file
+
+param string
+
+
+pars
+
+count segment explod
+
+segment implod slice segment
+
+
+invalid argument except invalid languag line
+
+
+
+load languag line languag file
+
+languag file success load return
+
+param string file
+bool
+
+load file
+
+line languag file
+
+languag
+
+file exist path lang path languag file
+
+languag merg languag path
+
+
+languag line actual found load
+contain line languag file
+key languag file name
+count languag
+
+line languag file languag
+
+
+line languag file
+
+
+
+string content languag line
+
+to string
+
+
+
+
+
+
+
+
+load markdown librari
+
+librari markdown
+
+
+root path document markdown
+
+string
+
+root
+
+path document
+
+
+
+pars markdown content given page
+
+param string page
+string
+
+document page
+
+markdown file content root page
+
+
+
+determin document page exist
+
+param string page
+bool
+
+document exist page
+
+file exist root page
+
+
+
+attach sidebar documentatoin templat
+
+view compos doc templat view
+
+view sidebar document content
+
+
+
+handl document homepag
+
+thi page contain introduct laravel
+
+rout bundl
+
+view make doc page content document home
+
+
+
+handl document rout section page
+
+param string section
+param string page
+mix
+
+rout bundl section page null
+
+file rtrim implod func arg
+
+page specifi home page exist section
+file home page proper page
+display back client request page
+null page document exist file home
+
+file home
+
+
+document exist file
+
+view make doc page content document file
+
+
+
+respons error
+
+
+doctyp html
+html lang
+head
+meta charset
+meta http equiv compat content edg chrome
+titl laravel framework artisan titl
+meta name viewport content width devic width
+
+html style laravel style
+html style laravel modernizr
+head
+bodi onload pretti print
+wrapper
+header
+laravel
+framework artisan
+
+intro text
+
+header
+role main main
+asid sidebar
+sidebar
+asid
+content
+content
+
+
+
+html script http ajax googleapi ajax lib jqueri jqueri
+html script laravel prettifi
+html script laravel scroll
+bodi
+html
+layout doc templat
+
+section content
+content
+endsect
+
+
+markdown extra text html convers tool writer
+
+markdown extra
+copyright 2004 2012 michel fortin
+http michelf project markdown
+
+origin markdown
+copyright 2004 2006 john gruber
+http daringfirebal project markdown
+
+
+
+defin markdown version 2012
+defin markdownextra version 2012
+
+
+
+global set
+
+
+chang html output
+defin markdown empti element suffix
+
+defin width code block
+defin markdown width
+
+option titl attribut footnot link backlink
+defin markdown link titl
+defin markdown backlink titl
+
+option attribut footnot link backlink
+defin markdown link class
+defin markdown backlink class
+
+
+
+word press set
+
+
+chang remov markdown post comment
+defin markdown post
+defin markdown comment
+
+
+
+standard function interfac
+
+defin markdown parser class markdown extra parser
+
+markdown text
+
+initi parser result transform method
+
+setup parser variabl
+parser
+parser
+parser markdown parser class
+parser parser
+
+
+transform text use parser
+parser transform text
+
+
+
+word press plugin interfac
+
+
+plugin name markdown extra
+plugin http michelf project markdown
+descript href http daringfirebal project markdown syntax markdown syntax allow write use easi read easi write plain text format base origin perl version href http daringfirebal john gruber href http michelf project markdown more
+version
+author michel fortin
+author http michelf
+
+
+version
+more detail work
+http michelf weblog 2005 wordpress text flow markdown
+
+post content excerpt
+remov word press paragraph gener
+markdown excerpt remov tag
+paragraph around excerpt remov excerpt
+markdown post
+remov filter content wpautop
+remov filter content wpautop
+remov filter excerpt wpautop
+filter content mdwp markdown post
+filter content mdwp markdown post
+filter excerpt mdwp markdown post
+filter excerpt trim
+filter excerpt mdwp
+filter excerpt mdwp strip
+
+remov filter content save balanc tag
+remov filter excerpt save balanc tag
+filter content balanc tag
+filter excerpt balanc tag
+
+
+footnot prefix post insid loop
+mdwp markdown post text
+parser
+parser
+parser markdown parser class
+parser parser
+
+singl page feed
+parser prefix
+
+parser prefix
+
+parser transform text
+
+
+comment
+remov word press paragraph gener
+remov word press auto link gener
+scrambl import tag pass kse filter
+markdown excerpt remov paragraph tag
+markdown comment
+remov filter comment text wpautop
+remov filter comment text make clickabl
+filter comment content markdown
+filter comment content mdwp hide tag
+filter comment content mdwp show tag
+filter comment text markdown
+filter comment excerpt markdown
+filter comment excerpt mdwp strip
+
+mdwp hidden tag mdwp placehold
+mdwp hidden tag explod
+
+mdwp placehold explod rot13
+p ej07 zbb bz u1kqgh4w4p pre2zm n6 k q ti31t9pr ol0 mp1jz jr
+ml5 ijmb rol ul a ni1 ns gy j7z rl jq pul li a8ctl16 t k9nhoo u hli
+
+
+mdwp text
+preg match blockquot text
+text text
+text preg replac text
+
+text
+
+
+mdwp strip preg replac
+
+mdwp hide tag text
+mdwp hidden tag mdwp placehold
+replac mdwp hidden tag mdwp placehold text
+
+mdwp show tag text
+mdwp hidden tag mdwp placehold
+replac mdwp placehold mdwp hidden tag text
+
+
+
+
+b blog plugin info
+
+identifi modifi markdown
+
+name markdown
+type modifi
+nicenam markdown extra
+descript text html convers tool writer
+author michel fortin john gruber
+licenc
+version markdownextra version
+help href http daringfirebal project markdown syntax markdown syntax allow write use easi read easi write plain text format base origin perl version href http daringfirebal john gruber href http michelf project markdown more
+
+
+
+
+smarti modifi interfac
+
+smarti modifi markdown text
+markdown text
+
+
+
+textil compat mode
+
+renam file class textil replac textil everywher
+
+strcasecmp substr file class textil
+smarti pant should directori
+smartyp
+fake textil call markdown instead
+textil
+textil thi text lite encod
+lite encod text markdown text
+exist smarti pant text smarti pant text
+text
+
+fake restrict version restrict support
+textil restrict text lite noimag
+textil thi text lite
+
+workaround compat text pattern
+block lite text text
+
+
+
+
+
+
+markdown parser class
+
+
+markdown parser
+
+regex match balanc bracket
+need insert maximum brack depth convert
+nest bracket depth
+nest bracket
+
+nest parenthesi depth
+nest parenthesi
+
+tabl hash valu escap charact
+escap char
+escap char
+
+chang html output
+element suffix markdown empti element suffix
+width markdown width
+
+chang disallow markup entiti
+markup
+entiti
+
+predefin url titl refer link imag
+predef url
+predef titl
+
+
+markdown parser
+
+constructor initi appropri member variabl
+
+init detab
+prepar ital and bold
+
+nest bracket
+repeat nest bracket depth
+repeat nest bracket depth
+
+nest parenthesi
+repeat nest parenthesi depth
+repeat nest parenthesi depth
+
+escap char preg quot escap char
+
+sort document block span gamut ascend prioriti order
+asort document gamut
+asort block gamut
+asort span gamut
+
+
+
+intern hash use transform
+url
+titl
+html hash
+
+statu flag avoid invalid nest
+anchor
+
+
+setup
+
+call transform process start setup parser
+state
+
+clear hash
+url predef url
+titl predef titl
+html hash
+
+anchor
+
+
+teardown
+
+call transform process clear variabl
+take memori unnecessarli
+
+url
+titl
+html hash
+
+
+
+transform text
+
+main perform preprocess input text
+document gamut
+
+setup
+
+remov marker charact input present
+text preg replac text
+
+standard line end
+unix unix
+text preg replac text
+
+make sure text end coupl newlin
+text
+
+convert tab space
+text detab text
+
+turn block level html block hash entri
+text hash html block text
+
+strip line consist space tab
+thi make subsequ regexen easier write
+match consecut blank line instead someth
+contort like
+text preg replac text
+
+document gamut method
+document gamut method prioriti
+text method text
+
+
+teardown
+
+text
+
+
+document gamut
+strip link definit store hash
+strip link definit
+
+run basic block gamut
+
+
+
+strip link definit text
+
+strip link definit text store ur ls titl
+hash refer
+
+less width
+
+link def form option titl
+text preg replac callback
+less
+
+mayb newlin
+
+
+
+
+
+
+
+mayb newlin
+
+
+lookbehind whitespac
+
+titl
+
+
+titl option
+
+
+strip link definit callback
+text
+text
+
+strip link definit callback match
+link strtolow match
+match match match
+url link
+titl link match
+string replac block
+
+
+
+hash html block text
+markup text
+
+less width
+
+hashifi html block
+want block level html tag header
+list tabl that still want wrap around
+paragraph wrap block level tag anchor
+phrase emphasi span tag look
+hard code
+
+list made tag inlin block level
+these treat block level start alon
+line otherwis match taken
+inlin later
+list made tag alway block level
+
+block tag
+block tag blockquot tabl address
+script noscript form fieldset ifram math
+
+regular express content block
+nest tag level
+attr
+option attribut
+start whitespac
+
+text outsid quot
+
+slash follow
+
+text insid quot toler
+
+text insid singl quot toler
+
+
+
+content
+repeat
+
+content without
+
+nest open
+attr attribut
+
+
+
+nest tag level open
+last level nest content
+repeat
+close nest
+
+
+tag differ name
+
+
+nest tag level
+content2 replac content
+
+first look nest block
+
+
+tag inner block must indent
+
+
+
+outermost tag must start left margin match
+inner nest div must indent
+need liber match
+match start first stop first
+text preg replac callback
+
+start blank line
+
+begin
+
+save
+
+match handl nest tag
+
+
+less
+block tag start
+attr attribut follow
+content content support nest
+match
+trail space tab
+follow newlin document
+
+special version tag group
+
+less
+block tag start
+attr attribut follow
+content2 content support nest
+match
+trail space tab
+follow newlin document
+
+special easier make special
+make regex complic
+
+less
+start
+attr attribut
+match
+
+follow blank line document
+
+special standalon html comment
+
+less
+
+
+
+
+follow blank line document
+
+style processor instruct
+
+less
+
+
+
+
+
+
+follow blank line document
+
+
+sxmi
+hash html block callback
+text
+
+text
+
+hash html block callback match
+text match
+hash block text
+
+
+
+
+hash part text boundari
+
+call whenev must hash insert atom
+element text stream pass text give
+uniqu text token revert back call unhash
+
+boundari argument specifi charact use surround
+token convens use block element need
+wrap paragraph tag use element
+word separ use gener
+
+swap back hash found text unhash
+multipl time
+text unhash text
+
+then hash block
+
+boundari boundari
+html hash text
+string replac
+
+
+
+hash block text
+
+shortcut hash part block level boundari
+
+hash part text
+
+
+
+block gamut
+
+these transform form block level
+tag like paragraph header item
+
+do header
+do horizont rule
+
+do list
+do code block
+do block quot
+
+
+run block gamut text
+
+block gamut tranform
+
+need escap html markdown sourc anyth
+thi need done block
+begin markdown sinc hash block part
+item could indent indent block would
+seen code block previou hash html block
+text hash html block text
+
+run basic block gamut text
+
+
+run basic block gamut text
+
+block gamut tranform without hash html block thi
+use html block known alreadi hash like first
+whole document
+
+block gamut method prioriti
+text method text
+
+
+final form paragraph restor hash block
+text form paragraph text
+
+text
+
+
+
+do horizont rule text
+horizont rule
+preg replac
+
+lead space
+first marker
+repeat marker group
+zero space
+marker charact
+group repeat least twice
+tail space
+line
+
+hash block element suffix
+text
+
+
+
+span gamut
+
+these transform occur within block level
+tag like paragraph header item
+
+process charact escap code span inlin html
+shot
+pars span
+
+process anchor imag tag imag must come first
+look like anchor
+do imag
+do anchor
+
+make link thing like http exampl
+must come do anchor
+delimit inlin link like
+do auto link
+encod amp and angl
+
+do ital and bold
+do hard break
+
+
+run span gamut text
+
+span gamut tranform
+
+span gamut method prioriti
+text method text
+
+
+text
+
+
+
+do hard break text
+hard break
+preg replac callback
+do hard break callback text
+
+do hard break callback match
+hash part element suffix
+
+
+
+do anchor text
+
+turn markdown link shortcut xhtml tag
+
+anchor text
+anchor
+
+
+first handl refer style link link text
+
+text preg replac callback
+wrap whole match
+
+nest bracket link text
+
+
+option space
+option newlin follow space
+
+
+
+
+
+
+do anchor refer callback text
+
+
+next inlin style link link text option titl
+
+text preg replac callback
+wrap whole match
+
+nest bracket link text
+
+liter paren
+
+
+href
+
+nest parenthesi href
+
+
+
+quot
+titl
+match quot
+ignor space tab close quot
+titl option
+
+
+
+do anchor inlin callback text
+
+
+last handl refer style shortcut link text
+these must come last also link text
+link text
+
+text preg replac callback
+wrap whole match
+
+link text contain
+
+
+
+do anchor refer callback text
+
+anchor
+text
+
+do anchor refer callback match
+whole match match
+link text match
+link match
+
+link
+shortcut link like
+link link text
+
+
+lower turn embed newlin space
+link strtolow link
+link preg replac link
+
+url link
+url link
+
+encod attribut
+
+result href
+titl link
+titl titl link
+titl encod attribut titl
+result titl titl
+
+
+link text run span gamut link text
+result link text
+result hash part result
+
+
+result whole match
+
+result
+
+do anchor inlin callback match
+whole match match
+link text run span gamut match
+match match match
+titl match
+
+
+encod attribut
+
+result href
+titl
+titl encod attribut titl
+result titl titl
+
+
+link text run span gamut link text
+result link text
+
+hash part result
+
+
+
+do imag text
+
+turn markdown imag shortcut tag
+
+
+first handl refer style label imag text
+
+text preg replac callback
+wrap whole match
+
+nest bracket text
+
+
+option space
+option newlin follow space
+
+
+
+
+
+
+
+do imag refer callback text
+
+
+next handl inlin imag text option titl
+forget encod
+
+text preg replac callback
+wrap whole match
+
+nest bracket text
+
+option whitespac charact
+liter paren
+
+
+
+
+nest parenthesi
+
+
+
+quot
+titl
+match quot
+
+titl option
+
+
+
+do imag inlin callback text
+
+text
+
+do imag refer callback match
+whole match match
+text match
+link strtolow match
+
+link
+link strtolow text shortcut link like
+
+
+text encod attribut text
+url link
+encod attribut url link
+result text
+titl link
+titl titl link
+titl encod attribut titl
+result titl titl
+
+result element suffix
+result hash part result
+
+
+link leav intact
+result whole match
+
+
+result
+
+do imag inlin callback match
+whole match match
+text match
+match match match
+titl match
+
+text encod attribut text
+encod attribut
+result text
+titl
+titl encod attribut titl
+result titl titl titl alreadi quot
+
+result element suffix
+
+hash part result
+
+
+
+do header text
+setext style header
+header
+
+
+header
+
+
+text preg replac callback
+do header callback setext text
+
+style header
+header
+header
+header close hash
+
+header
+
+text preg replac callback
+string
+
+header text
+
+option close count
+
+
+do header callback text
+
+text
+
+do header callback setext match
+terribl hack check haven found item
+match preg match match
+match
+
+level match
+block level run span gamut match level
+hash block block
+
+do header callback match
+level strlen match
+block level run span gamut match level
+hash block block
+
+
+
+do list text
+
+form html order number unord bullet list
+
+less width
+
+usabl pattern match item bullet number marker
+marker
+marker
+marker marker marker
+
+marker relist
+marker marker
+marker marker
+
+
+marker relist marker marker
+usabl pattern match entirel
+whole
+whole
+
+less number space
+marker first item marker
+
+
+
+
+
+
+
+
+neg lookahead anoth item marker
+
+marker
+
+
+lookahead anoth kind
+
+must indent
+marker
+
+
+
+
+
+differ prefix nest list level list
+extend comment process list item
+
+level
+text preg replac callback
+
+whole
+
+do list callback text
+
+
+text preg replac callback
+must newlin
+whole
+
+do list callback text
+
+
+
+text
+
+do list callback match
+usabl pattern match item bullet number marker
+marker
+marker
+marker marker marker
+
+match
+type preg match marker match
+
+marker type marker marker
+
+
+result process list item marker
+
+result hash block type result type
+result
+
+
+level
+
+process list item marker
+
+process content singl order unord split
+individu item
+
+level keep track insid
+each time enter increment leav
+decrement zero anymor
+
+insid want treat
+someth like
+
+recommend upgrad version
+oop line treat
+
+
+singl paragraph despit fact second line start
+digit period space sequenc
+
+wherea insid line
+treat start what kludg thi
+aspect markdown syntax hard pars perfectli
+without resort mind read perhap solut
+chang syntax rule list must start
+start cardin number
+
+level
+
+trim trail blank line
+preg replac
+
+preg replac callback
+lead line
+lead whitespac
+marker marker space
+space requir item
+
+item text
+tail blank line
+marker
+
+process list item callback
+
+level
+
+
+process list item callback match
+item match
+lead line match
+lead space match
+marker space match
+tail blank line match
+
+lead line tail blank line
+preg match item
+
+replac marker appropri whitespac indent
+item lead space repeat strlen marker space item
+item run block gamut outdent item
+
+
+recurs list
+item do list outdent item
+item preg replac item
+item run span gamut item
+
+
+item
+
+
+
+do code block text
+
+process markdown code block
+
+text preg replac callback
+
+code block line start space
+
+width line must start width space
+
+
+
+width lookahead space line start
+
+do code block callback text
+
+text
+
+do code block callback match
+codeblock match
+
+codeblock outdent codeblock
+codeblock htmlspecialchar codeblock noquot
+
+trim lead newlin trail newlin
+codeblock preg replac codeblock
+
+codeblock prettyprint linenum codeblock
+hash block codeblock
+
+
+
+make code span code
+
+creat code span markup code call handl span token
+
+code htmlspecialchar trim code noquot
+hash part code code code
+
+
+
+relist
+
+
+
+
+strong relist
+
+
+
+
+strong relist
+
+
+
+
+strong prepar relist
+
+prepar ital and bold
+
+prepar regular express search emphasi token
+context
+
+relist
+strong relist strong strong
+construct allow token express
+token relist
+strong relist strong
+token relist strong relist strong
+
+token relist
+token relist strong
+
+construct master express
+token implod token relist
+strong prepar relist strong token
+
+
+
+
+do ital and bold text
+token stack
+text stack
+
+strong
+tree
+
+
+
+prepar regular express serach emphasi token
+current context
+
+token strong prepar relist strong
+
+
+each loop iter search emphasi token
+each token pass handl span token
+
+part preg split token text preg split delim captur
+text stack part
+token part
+text part
+
+token
+reach text span stack without emit
+emphasi
+token stack
+text stack shift token stack
+text stack shift text stack
+
+
+
+
+token strlen token
+tree
+reach close marker insid three emphasi
+token
+three close marker close strong
+shift token stack
+span shift text stack
+span run span gamut span
+span strong span strong
+text stack hash part span
+
+strong
+
+other close marker close strong
+chang current token state match
+token stack repeat token token
+token strong
+span text stack
+span run span gamut span
+span span
+text stack hash part span
+stand strong
+
+tree
+token
+
+reach close marker strong
+close strong marker
+
+shift token shift token stack
+strlen shift token strong
+span shift text stack
+span run span gamut span
+span span
+text stack hash part span
+stand strong
+
+
+reach open three emphasi marker push token
+stack handl special condit
+token
+strong
+unshift token stack token
+unshift text stack
+tree
+
+token
+strong
+unwind dangl emphasi marker
+strlen token stack
+text stack shift token stack
+text stack shift text stack
+
+close strong marker
+shift token stack
+span shift text stack
+span run span gamut span
+span strong span strong
+text stack hash part span
+strong
+
+unshift token stack token
+unshift text stack
+strong token
+
+
+here token
+
+strlen token stack
+close emphasi marker
+shift token stack
+span shift text stack
+span run span gamut span
+span span
+text stack hash part span
+
+
+text stack token
+
+
+unshift token stack token
+unshift text stack
+token
+
+
+
+text stack
+
+
+
+do block quot text
+text preg replac callback
+wrap whole match
+
+start line
+rest first line
+subsequ consecut line
+blank
+
+
+
+do block quot callback text
+
+text
+
+do block quot callback match
+match
+trim level quot trim whitespac line
+preg replac
+run block gamut recurs
+
+preg replac
+these lead space caus problem content
+need
+preg replac callback
+do block quot callback2
+
+hash block blockquot blockquot
+
+do block quot callback2 match
+match
+preg replac
+
+
+
+
+form paragraph text
+
+param
+text string process html tag
+
+strip lead trail line
+text preg replac text
+
+graf preg split text preg split empti
+
+
+wrap tag unhashifi html block
+
+graf valu
+preg match valu
+paragraph
+valu run span gamut valu
+valu preg replac valu
+valu
+graf unhash valu
+
+
+block
+modifi element graf place
+graf valu
+block html hash graf
+graf block
+preg match
+
+
+
+
+
+markdown attr quot
+
+
+
+
+
+content
+
+
+close
+
+block match
+
+open content close match
+
+call markdown reset hash
+initi code pull though
+content hash html block content
+
+document gamut method content
+document gamut method prioriti
+content method content
+
+
+open preg replac
+smarkdown open
+
+graf open content close
+
+graf graf
+
+
+
+implod graf
+
+
+
+encod attribut text
+
+encod text quot html attribut thi
+suitabl attribut enclos singl quot
+
+text encod amp and angl text
+text replac quot text
+text
+
+
+
+encod amp and angl text
+
+smart process ampersand angl bracket need
+encod valid charact entiti left alon
+entiti mode
+
+entiti
+text replac text
+
+ampersand encod base entir iron amput
+plugin http bumppo project amput
+text preg replac
+text
+
+encod remain
+text replac text
+
+text
+
+
+
+do auto link text
+text preg replac callback http dict
+do auto link callback text
+
+email address address domain
+text preg replac callback
+
+mailto
+
+
+
+
+
+
+
+
+
+
+i pv4 i pv6
+
+
+
+
+do auto link email callback text
+
+text
+
+do auto link callback match
+encod attribut match
+link href
+hash part link
+
+do auto link email callback match
+address match
+link encod email address address
+hash part link
+
+
+
+encod email address addr
+
+input email address exampl
+
+output email address mailto link charact
+address encod either decim entiti
+hope foil address harvest spam bot
+
+href
+
+
+
+
+base filter matthew wicklin post bb edit talk
+with optim milian wolff
+
+addr mailto addr
+char preg split addr
+seed crc32 addr strlen addr determinist seed
+
+char
+
+ignor ascii char
+
+seed pseudo random
+roughli
+must encod insist
+noth
+char dechex
+char
+
+
+
+addr implod char
+text implod slice char text without mailto
+addr href addr text
+
+addr
+
+
+
+pars span
+
+take string pars token hash embed html
+escap charact handl code span
+
+output
+
+span
+
+escap char
+
+
+code span marker
+markup
+
+comment
+
+process instruct
+
+regular tag
+
+
+
+
+
+
+
+
+
+
+
+each loop iter seach either
+open code span marker escap charact
+each token pass handl span token
+
+part preg split span preg split delim captur
+
+creat token text preced
+part
+output part
+
+
+check reach
+part
+output handl span token part part
+part
+
+
+
+
+
+
+output
+
+
+
+handl span token token
+
+handl token provid pars span determin natur
+return correspond valu replac
+
+token
+
+hash part token
+
+search marker remain text
+preg match preg quot token
+match
+
+match
+codespan make code span match
+hash part codespan
+
+token text sinc end marker found
+
+hash part token
+
+
+
+
+outdent text
+
+remov level line lead tab space
+
+preg replac width text
+
+
+
+string length detab init detab creat
+hanld exist
+utf8 strlen strlen
+
+detab text
+
+replac tab appropri amount space
+
+line separ line block delemit
+charact then reconstruct everi line ad
+appropri number space block
+
+text preg replac callback
+detab callback text
+
+text
+
+detab callback match
+line match
+strlen utf8 strlen strlen
+
+split block
+block explod line
+block line
+line block
+block first block twice
+block block
+calcul amount space insert space insert block
+amount width
+strlen line width
+line repeat amount block
+
+line
+
+init detab
+
+check avail utf8 strlen properti
+initi strlen avail creat
+loos count number charact
+regular express
+
+exist utf8 strlen
+utf8 strlen creat text preg match
+
+text
+
+
+
+unhash text
+
+swap back tag hash hash html block
+
+preg replac callback
+unhash callback text
+
+unhash callback match
+html hash match
+
+
+
+
+
+
+markdown extra parser class
+
+
+markdown extra parser markdown parser
+
+prefix footnot
+prefix
+
+option titl attribut footnot link backlink
+link titl markdown link titl
+backlink titl markdown backlink titl
+
+option attribut footnot link backlink
+link markdown link class
+backlink markdown backlink class
+
+predefin abbrevi
+predef abbr
+
+
+markdown extra parser
+
+constructor initi parser object
+
+extra escap charact parent constructor
+initi tabl
+escap char
+
+insert extra document block span transform
+parent constructor sort
+document gamut
+do fenc code block
+strip footnot
+strip abbrevi
+append footnot
+
+block gamut
+do fenc code block
+do tabl
+do def list
+
+span gamut
+do footnot
+do abbrevi
+
+
+parent markdown parser
+
+
+
+extra variabl use extra transform
+footnot
+footnot order
+abbr descipt
+abbr word
+
+give current footnot number
+footnot counter
+
+
+setup
+
+set extra specif variabl
+
+parent setup
+
+footnot
+footnot order
+abbr descipt
+abbr word
+footnot counter
+
+predef abbr abbr word abbr desc
+abbr word
+abbr word
+abbr word preg quot abbr word
+abbr descipt abbr word trim abbr desc
+
+
+
+teardown
+
+clear extra specif variabl
+
+footnot
+footnot order
+abbr descipt
+abbr word
+
+parent teardown
+
+
+
+html block parser
+
+tag alway treat block tag
+block tag blockquot tabl address form fieldset ifram legend
+
+tag treat block tag open alon line
+context block tag script noscript math
+
+tag markdown span mode
+contain span tag legend address
+
+tag must content modifi matter
+appear
+clean tag script math
+
+tag need close
+auto close tag
+
+
+hash html block text
+
+hashifi html block clean tag
+
+want block level html tag header
+list tabl that still want wrap around
+paragraph wrap block level tag anchor
+phrase emphasi span tag look
+hard code
+
+thi work call hash html block in markdown call
+hash html block in html encount block tag when markdown
+attribut found whitin hash html block in html call back
+hash html block in markdown handl markdown syntax within
+these function call recurs
+
+
+call html markdown hasher
+
+text hash html block in markdown text
+
+text
+
+hash html block in markdown text indent
+enclos span
+
+
+pars markdown text call hash html block in html block tag
+
+indent number space ignor check code
+block thi import take indent
+account someth like look right work expect
+
+
+markdown
+hello world markdown code block text
+markdown code block real
+
+
+like indent
+appli markdown attribut
+
+enclos stop first unmatch close
+name nest tag support
+
+span text insid must treat span
+newlin replac singl newlin creat
+paragraph
+
+return form process text remain text
+
+text
+
+regex check presens newlin around block
+newlin
+newlin
+
+start text follow
+option comment
+must follow newlin
+
+
+regex match
+block
+
+captur hole
+open close
+name
+block tag
+context block tag
+clean tag
+enclos
+
+
+allow charact name
+
+doubl quot contain
+singl quot contain
+anyth quot
+
+
+
+
+html comment
+
+process instruct
+
+cdata c data block
+
+code span marker
+
+span span
+
+indent code block
+
+indent
+
+indent
+
+
+fenc code block marker
+
+indent
+span
+
+
+
+
+depth current depth insid tree
+pars pars text return
+
+
+loop everi find close parent
+loop reach text parent specifi
+
+
+
+split text use first match pattern found
+text pattern first text
+pattern catch made
+pattern
+
+part preg split block text
+preg split delim captur
+
+markdown span mode string span level hash
+newlin prevent trigger block element
+span
+hash part
+newlin
+part replac newlin part
+
+
+pars part text current
+
+text reach stop loop
+count part
+text
+
+
+
+part handl
+text part remain text current
+preg quot regular express
+
+
+check code span marker
+
+
+find correspond marker
+preg quot
+preg match
+text match
+
+marker found text unchang marker
+pars match
+text substr text strlen match
+
+
+unmatch marker skip
+pars
+
+
+
+check fenc code block marker
+
+preg match indent
+fenc code block marker find match marker
+preg quot trim
+preg match indent text
+match
+
+marker found text unchang marker
+pars match
+text substr text strlen match
+
+
+marker skip
+pars
+
+
+
+check indent code block
+
+
+indent code block unchang handl
+later
+pars
+
+
+check open block level
+open context block like
+use block alon line
+
+preg match block tag
+preg match context block tag
+preg match newlin pars
+preg match newlin text
+
+
+need pars follow text use html parser
+block text text
+hash html block in html text hash block
+
+make sure stay outsid paragraph ad newlin
+pars block text
+
+
+check clean like script math
+html comment process instruct
+
+preg match clean tag
+
+
+need pars follow text use html parser
+check markdown attribut
+block text text
+hash html block in html text hash clean
+
+pars block text
+
+
+check name enclos
+
+enclos
+same name enclos
+preg match enclos
+
+
+increas decreas nest count
+
+depth
+strlen depth
+
+depth
+
+go parent element clean
+call
+
+text text
+
+
+
+pars
+
+
+pars
+
+depth
+
+pars text
+
+hash html block in html text hash method attr
+
+pars html call hash html block in markdown block tag
+
+call hash method convert block
+stop first open close
+attr indic markdown attribut allow
+insid clean tag
+
+return form process text remain text
+
+text
+
+regex match markdown attribut insid
+markdown attr
+
+whitespac markdown attribut
+markdown
+
+
+quot delimit
+attribut valu
+match delimit
+
+unquot attribut valu
+
+make alway defin avoid warn
+
+
+regex match
+
+captur hole
+open close
+name
+
+allow charact name
+
+doubl quot contain
+singl quot contain
+anyth quot
+
+
+
+
+html comment
+
+process instruct
+
+cdata c data block
+
+
+
+origin text text save origin text faliur
+
+depth current depth insid tree
+block text temporari text holder current text
+pars pars text return
+
+
+name start
+thi pattern make base name safe without quot
+
+preg match text match
+base name match
+
+
+loop everi find correspond close
+
+
+
+split text use first match pattern found
+text pattern first text
+pattern catch made
+pattern
+
+part preg split text preg split delim captur
+
+count part
+
+text reach unbalenc
+origin text unchang
+first charact filter prevent infinit loop
+parent
+
+origin text substr origin text
+
+
+block text part text current
+part handl
+text part remain text current
+
+
+check auto close like
+comment process instruct
+
+preg match auto close tag
+
+
+just block text
+block text
+
+
+
+increas decreas nest count onli
+name match base
+
+preg match base name
+depth
+strlen depth
+
+
+
+check markdown attribut handl
+
+attr
+preg match markdown attr attr
+preg match block span attr attr
+
+remov markdown attribut open
+preg replac markdown attr
+
+check text insid must pars span mode
+mode attr attr
+span mode mode span mode block
+preg match contain span tag
+
+calcul indent
+preg match block text match
+strlen utf8 strlen
+indent strlen match
+
+indent
+
+
+preced block
+block text
+pars hash method block text
+
+enclos name pars markdown
+thi pattern make name safe without quot
+preg match match
+name match
+
+pars content use html markdown parser
+block text text
+hash html block in markdown text indent
+name span mode
+
+outdent markdown text
+indent
+block text preg replac indent
+block text
+
+
+append content pars text
+span mode pars block text
+pars block text
+
+start block
+block text
+
+block text
+
+
+depth
+
+
+hash last block text wasn process insid loop
+
+pars hash method block text
+
+pars text
+
+
+
+hash clean text
+
+call whenev must hash insert clean
+text automaticali escap
+block invalid nest overlap
+
+hash part text
+
+
+
+do header text
+
+redefin attribut support
+
+setext style header
+header header1
+
+
+header header2
+
+
+text preg replac callback
+
+header text
+attribut
+header footer
+
+do header callback setext text
+
+style header
+header header1
+header header2
+header close hash header3
+
+header header2
+
+text preg replac callback
+string
+
+header text
+
+option close count
+attribut
+
+
+
+do header callback text
+
+text
+
+do header attr attr
+attr
+attr
+
+do header callback setext match
+match preg match match
+match
+level match
+attr do header attr match
+block level attr run span gamut match level
+hash block block
+
+do header callback match
+level strlen match
+attr do header attr match
+block level attr run span gamut match level
+hash block block
+
+
+
+do tabl text
+
+form html tabl
+
+less width
+
+find tabl lead pipe
+
+header header
+
+cell cell
+cell cell
+
+text preg replac callback
+
+start line
+less allow whitespac
+option lead pipe present
+header least pipe
+
+less allow whitespac
+header underlin
+
+cell
+
+allow whitespac
+content
+
+
+stop newlin
+
+do tabl lead pipe callback text
+
+
+find tabl without lead pipe
+
+header header
+
+cell cell
+cell cell
+
+text preg replac callback
+
+start line
+less allow whitespac
+header least pipe
+
+less allow whitespac
+header underlin
+
+cell
+
+content
+
+
+stop newlin
+
+do tabl callback text
+
+text
+
+do tabl lead pipe callback match
+head match
+underlin match
+content match
+
+remov lead pipe
+content preg replac content
+
+do tabl callback match head underlin content
+
+do tabl callback match
+head match
+underlin match
+content match
+
+remov tail pipe line
+head preg replac head
+underlin preg replac underlin
+content preg replac content
+
+read align header underlin
+separ preg split underlin
+separ
+preg match attr align right
+preg match attr align center
+preg match attr align left
+attr
+
+
+pars span element includ code span charact escap
+inlin html tag pipe insid get ignor
+head pars span head
+header preg split head
+count count header
+
+write column header
+text tabl
+text thead
+text
+header header
+text attr run span gamut trim header
+text
+text thead
+
+split content
+row explod trim content
+
+text tbodi
+row
+pars span element includ code span charact escap
+inlin html tag pipe insid get ignor
+pars span
+
+split cell
+cell preg split count
+cell cell count
+
+text
+cell cell
+text attr run span gamut trim cell
+text
+
+text tbodi
+text tabl
+
+hash block text
+
+
+
+do def list text
+
+form html definit list
+
+less width
+
+usabl pattern match entir
+whole
+whole
+
+less
+defin term
+
+less colon start definit
+
+
+
+
+
+
+
+neg lookahead anoth term
+less
+defin term
+
+less colon start definit
+
+neg lookahead anoth definit
+less colon start definit
+
+
+
+
+
+text preg replac callback
+
+whole
+
+do def list callback text
+
+text
+
+do def list callback match
+usabl pattern match item bullet number marker
+match
+
+turn return tripl return make
+paragraph last item necessari
+result trim process def list item
+result result
+hash block result
+
+
+
+process def list item
+
+process content singl definit split
+individu term definit item
+
+less width
+
+trim trail blank line
+preg replac
+
+process definit term
+preg replac callback
+lead line
+definit term
+less lead whitespac
+neg lookahead definit
+mark colon whitespac
+actual term whitespac
+
+lookahead follow line feed
+definit mark
+
+process def list item callback
+
+process actual definit
+preg replac callback
+lead line
+marker space
+less whitespac colon
+definit mark colon
+
+definit text
+stop definit mark
+term text
+less
+
+
+
+
+process def list item callback
+
+
+
+process def list item callback match
+term explod trim match
+text
+term term
+term run span gamut trim term
+text term
+
+text
+
+process def list item callback match
+lead line match
+marker space match
+match
+
+lead line preg match
+replac marker appropri whitespac indent
+repeat strlen marker space
+run block gamut outdent
+
+
+
+rtrim
+run span gamut outdent
+
+
+
+
+
+
+do fenc code block text
+
+ad fenc code block syntax regular markdown
+
+
+code block
+
+
+less width
+
+text preg replac callback
+
+open marker
+
+marker three tild
+
+whitespac newlin follow marker
+
+content
+
+
+close marker
+
+
+
+
+close marker
+
+
+do fenc code block callback text
+
+text
+
+do fenc code block callback match
+codeblock match
+codeblock htmlspecialchar codeblock noquot
+codeblock preg replac callback
+do fenc code block newlin codeblock
+codeblock code codeblock code
+hash block codeblock
+
+do fenc code block newlin match
+repeat element suffix
+strlen match
+
+
+
+
+redefin emphasi marker emphasi underscor
+work middl word
+
+relist
+
+
+
+
+strong relist
+
+
+
+
+strong relist
+
+
+
+
+
+
+form paragraph text
+
+param
+text string process html tag
+
+strip lead trail line
+text preg replac text
+
+graf preg split text preg split empti
+
+
+wrap tag unhashifi html block
+
+graf valu
+valu trim run span gamut valu
+
+check enclos paragraph
+clean hash block hash left alon
+preg match valu
+
+
+valu valu
+
+graf valu
+
+
+join graf text unhash html tag
+text implod graf
+
+finish remov hash still present text
+text unhash text
+
+text
+
+
+
+footnot
+
+strip footnot text
+
+strip link definit text store ur ls titl
+hash refer
+
+less width
+
+link def form option titl
+text preg replac callback
+less note
+
+mayb newlin
+text blank line allow
+
+actual text
+
+newlin
+neg lookahead footnot marker
+line blank follow
+indent content
+
+
+
+strip footnot callback
+text
+text
+
+strip footnot callback match
+note prefix match
+footnot note outdent match
+string replac block
+
+
+
+do footnot text
+
+replac footnot refer text special text token
+replac actual footnot marker append footnot
+
+anchor
+text preg replac x1 afn text
+
+text
+
+
+
+append footnot text
+
+append footnot text
+
+text preg replac callback x1 afn
+append footnot callback text
+
+footnot order
+text
+text footnot
+text element suffix
+text
+
+attr footnot
+backlink
+backlink
+encod attribut
+attr
+
+backlink titl
+titl backlink titl
+titl encod attribut titl
+attr titl titl
+
+
+
+footnot order
+footnot reset footnot order
+note footnot order
+footnot order note
+
+footnot need append newlin pars
+footnot run block gamut footnot
+footnot preg replac callback x1 afn
+append footnot callback footnot
+
+attr replac attr
+note encod attribut note
+
+backlink last paragraph creat paragraph need
+backlink href fnref note attr 8617
+preg match footnot
+footnot substr footnot backlink
+
+footnot backlink
+
+
+text note
+text footnot
+text
+
+
+text
+text
+
+text
+
+append footnot callback match
+node prefix match
+
+creat footnot marker correspond footnot
+footnot hasn use anoth marker
+footnot node
+transfert footnot content order
+footnot order node footnot node
+footnot node
+
+footnot counter
+attr footnot
+link
+link
+encod attribut
+attr
+
+link titl
+titl link titl
+titl encod attribut titl
+attr titl titl
+
+
+attr replac attr
+node encod attribut node
+
+
+fnref node
+href node attr
+
+
+
+match
+
+
+
+abbrevi
+
+strip abbrevi text
+
+strip abbrevi text store titl hash refer
+
+less width
+
+link def form option titl
+text preg replac callback
+less abbr
+text blank line allow
+
+strip abbrevi callback
+text
+text
+
+strip abbrevi callback match
+abbr word match
+abbr desc match
+abbr word
+abbr word
+abbr word preg quot abbr word
+abbr descipt abbr word trim abbr desc
+string replac block
+
+
+
+do abbrevi text
+
+find defin abbrevi text wrap abbr element
+
+abbr word
+cannot modifi abbr word
+contain signific space
+text preg replac callback
+
+abbr word
+
+
+do abbrevi callback text
+
+text
+
+do abbrevi callback match
+abbr match
+abbr descipt abbr
+desc abbr descipt abbr
+desc
+hash part abbr abbr abbr
+
+desc encod attribut desc
+hash part abbr titl desc abbr abbr
+
+
+match
+
+
+
+
+
+
+
+
+markdown extra
+
+
+descript
+
+
+thi port origin markdown formatt written perl
+john gruber thi special extra version markdown featur
+enhanc syntax make addit construct
+tabl definit
+
+markdown text html filter translat easi read
+easi write structur text format html markdown text format
+similar plain text email support featur
+header emphasi code block blockquot link
+
+markdown syntax design gener markup languag
+specif serv front html span level
+html tag anywher markdown document block level
+html tag like tabl well
+
+inform markdown syntax
+
+http daringfirebal project markdown
+
+
+bug
+
+
+file report pleas send email
+
+michel fortin michelf
+
+pleas report exampl input output
+expect output markdown actual produc
+
+
+version histori
+
+
+readm file detail releas note version
+
+
+copyright licens
+
+
+markdown extra
+copyright 2004 2009 michel fortin
+http michelf
+right reserv
+
+base markdown
+copyright 2003 2006 john gruber
+http daringfirebal
+right reserv
+
+redistribut sourc binari form without
+modif permit provid follow condit
+
+
+redistribut sourc code must retain copyright notic
+condit follow disclaim
+
+redistribut binari form must reproduc copyright
+notic condit follow disclaim
+document materi provid distribut
+
+neither name markdown name contributor
+use endors promot product deriv softwar
+without specif prior written permiss
+
+thi softwar provid copyright holder contributor
+express impli warranti includ limit
+impli warranti merchant fit
+particular purpos disclaim event shall copyright owner
+contributor liabl direct indirect incident special
+exemplari consequenti damag includ limit
+procur substitut good servic loss data
+profit busi interrupt howev caus theori
+liabil whether contract strict liabil tort includ
+neglig otherwis aris
+softwar even advis possibl damag
+
+
+
+
+
+test case illumin foundat test test case
+
+
+creat applic
+
+illumin foundat applic
+
+creat applic
+
+bootstrap
+
+make illumin contract consol kernel bootstrap
+
+
+
+
+
+
+
+exampl test test case
+
+
+basic function test exampl
+
+
+
+test basic exampl
+
+respons call
+
+assert equal respons get statu code
+
+
+
+
+
+
+
+applic rout
+
+
+here regist rout applic
+breez simpli tell laravel ur is respond
+give closur execut request
+
+
+
+rout
+
+view make hello
+
+
+
+
+
+applic rout filter
+
+
+below find event applic
+use work request
+applic here also regist custom rout filter
+
+
+
+request
+
+
+
+
+
+request respons
+
+
+
+
+
+
+authent filter
+
+
+follow filter use verifi user current
+session log applic basic filter easili
+integr http basic authent quick simpl check
+
+
+
+rout filter auth
+
+auth guest redirect guest login
+
+
+
+rout filter auth basic
+
+auth basic
+
+
+
+
+guest filter
+
+
+guest filter counterpart authent filter
+simpli check current user log redirect
+respons issu freeli chang
+
+
+
+rout filter guest
+
+auth check redirect
+
+
+
+
+csrf protect filter
+
+
+csrf filter respons protect applic
+cross site request forgeri attack special token user
+session match given request bail
+
+
+
+rout filter csrf
+
+session token input token
+
+illumin session token mismatch except
+
+
+
+
+illumin auth authenticat
+illumin databas eloqu model
+illumin auth password can reset password
+illumin contract auth authenticat authenticat contract
+illumin contract auth can reset password can reset password contract
+
+user model authenticat contract can reset password contract
+
+authenticat can reset password
+
+
+databas tabl use model
+
+string
+
+tabl user
+
+
+attribut mass assign
+
+
+
+fillabl name email password
+
+
+attribut exclud model json form
+
+
+
+hidden password rememb token
+
+
+provid
+
+illumin rout router
+illumin foundat support provid rout servic provid servic provid
+
+rout servic provid servic provid
+
+
+thi appli control rout rout file
+
+addit gener root
+
+string
+
+http control
+
+
+defin rout model bind pattern filter
+
+param illumin rout router router
+
+
+boot router router
+
+parent boot router
+
+
+
+
+
+defin rout applic
+
+
+
+
+
+load rout from path http rout
+
+
+
+provid
+
+illumin foundat support provid event servic provid servic provid
+
+event servic provid servic provid
+
+
+event handler map applic
+
+
+
+listen
+event name
+event listen
+
+
+
+
+provid
+
+illumin support servic provid
+
+app servic provid servic provid
+
+
+bootstrap applic servic
+
+
+
+boot
+
+
+
+
+
+regist applic servic
+
+
+
+regist
+
+thi servic provid great spot regist variou contain
+bind applic regist
+registrar implement bind
+
+bind
+illumin contract auth registrar
+servic registrar
+
+
+
+
+provid
+
+illumin dispatch
+illumin support servic provid
+
+bu servic provid servic provid
+
+
+bootstrap applic servic
+
+param illumin dispatch dispatch
+
+
+boot dispatch dispatch
+
+dispatch map use command
+
+dispatch simpl map
+command command handler command
+
+
+
+
+
+regist applic servic
+
+
+
+regist
+
+
+
+
+
+except
+
+except
+illumin foundat except handler except handler
+
+handler except handler
+
+
+except type report
+
+
+
+dont report
+symfoni compon http kernel except http except
+
+
+
+report except
+
+thi great spot send except sentri bugsnag
+
+param except
+
+
+report except
+
+parent report
+
+
+
+render except http respons
+
+param illumin http request request
+param except
+illumin http respons
+
+render request except
+
+is http except
+
+render http except
+
+
+
+parent render request
+
+
+
+
+
+
+
+
+
+
+default cach driver
+
+
+thi option control cach driver use
+use cach librari cours driver
+time wish thi anoth specifi
+
+support file databas memcach redi
+
+
+
+driver file
+
+
+
+file cach locat
+
+
+when use file cach driver need locat cach
+file store sensibl specifi
+free chang place disk desir
+
+
+
+path storag path cach
+
+
+
+databas cach connect
+
+
+when use databas cach driver specifi connect
+use store cach item when option
+null databas connect util cach
+
+
+
+connect null
+
+
+
+databas cach tabl
+
+
+when use databas cach driver need know tabl
+use store cach item tabl name
+provid free chang howev deem
+
+
+
+tabl cach
+
+
+
+memcach server
+
+
+specifi memcach server
+use util memcach cach driver server
+contain valu host port weight option
+
+
+
+memcach
+
+host port 11211 weight
+
+
+
+
+
+cach prefix
+
+
+when util base store memcach might
+applic util cach specifi
+valu prefix key avoid collis
+
+
+
+prefix laravel
+
+
+
+
+
+
+
+
+default remot connect name
+
+
+here specifi connect use
+oper thi name correspond connect name
+server each connect manual access
+
+
+
+product
+
+
+
+remot server connect
+
+
+these server access task runner
+facil laravel thi featur radic simplifi execut
+task server deploy applic
+
+
+
+connect
+
+product
+host
+usernam
+password
+
+keyphras
+root
+
+
+
+
+
+
+remot server group
+
+
+here connect singl group name allow
+easili access server use name
+extrem easi rememb databas
+
+
+
+group
+
+product
+
+
+
+
+
+
+
+
+
+
+view storag path
+
+
+most templat system load templat disk here specifi
+path check view cours
+usual laravel view path alreadi regist
+
+
+
+path view
+
+
+
+pagin view
+
+
+thi view use render pagin link output
+easili custom show view like clean view
+compat twitter bootstrap given
+
+
+
+pagin pagin slider
+
+
+
+
+
+
+
+
+fetch style
+
+
+databas result return instanc
+std class object howev desir retriev record
+format simplic here tweak fetch style
+
+
+
+fetch fetch class
+
+
+
+default databas connect name
+
+
+here specifi databas connect wish
+connect databas work cours
+mani connect use databas librari
+
+
+
+mysql
+
+
+
+databas connect
+
+
+here databas connect setup applic
+cours exampl configur databas platform
+support laravel shown make develop simpl
+
+
+databas work laravel done facil
+make sure driver particular databas
+choic instal machin develop
+
+
+
+connect
+
+sqlite
+driver sqlite
+databas databas product sqlite
+prefix
+
+
+mysql
+driver mysql
+host localhost
+databas databas
+usernam root
+password
+charset utf8
+collat utf8 unicod
+prefix
+
+
+pgsql
+driver pgsql
+host localhost
+databas databas
+usernam root
+password
+charset utf8
+prefix
+schema
+
+
+sqlsrv
+driver sqlsrv
+host localhost
+databas databas
+usernam root
+password
+prefix
+
+
+
+
+
+
+migrat repositori tabl
+
+
+thi tabl keep track migrat alreadi
+applic use inform determin
+migrat disk actual databas
+
+
+
+migrat migrat
+
+
+
+redi databas
+
+
+redi open sourc fast advanc valu store also
+provid richer command typic valu system
+memcach laravel make easi right
+
+
+
+redi
+
+cluster
+
+
+host
+port 6379
+databas
+
+
+
+
+
+
+
+
+
+
+
+default session driver
+
+
+thi option control session driver use
+request lightweight driver
+specifi wonder driver provid
+
+support cooki databas
+memcach redi
+
+
+
+driver
+
+
+
+session lifetim
+
+
+here specifi number minut wish session
+allow remain idl expir want
+immedi expir browser close zero
+
+
+
+lifetim
+
+
+
+session file locat
+
+
+when use session driver need locat session
+file store differ
+locat specifi thi need file session
+
+
+
+file storag path session
+
+
+
+session databas connect
+
+
+when use databas session driver specifi databas
+connect use manag session thi
+correspond connect databas configur file
+
+
+
+connect null
+
+
+
+session databas tabl
+
+
+when use databas session driver specifi tabl
+manag session cours sensibl
+provid howev free chang need
+
+
+
+tabl session
+
+
+
+session sweep lotteri
+
+
+some session driver must manual sweep storag locat
+session storag here chanc
+happen given request odd
+
+
+
+lotteri
+
+
+
+session cooki name
+
+
+here chang name cooki use identifi session
+instanc name specifi use everi time
+session cooki creat framework everi driver
+
+
+
+cooki laravel session
+
+
+
+session cooki path
+
+
+session cooki path determin path cooki
+regard avail typic root path
+applic free chang necessari
+
+
+
+path
+
+
+
+session cooki domain
+
+
+here chang domain cooki use identifi session
+applic thi determin domain cooki
+avail applic sensibl
+
+
+
+domain null
+
+
+
+
+home control base control
+
+
+
+default home control
+
+
+wish control instead addit closur
+base rout that great here exampl control method
+start rout control rout
+
+rout home control show welcom
+
+
+
+show welcom
+
+view make hello
+
+
+
+
+
+base control control
+
+
+setup layout use control
+
+
+
+setup layout
+
+null layout
+
+layout view make layout
+
+
+
+
+command
+
+command
+
+
+
+
+servic
+
+user
+valid
+illumin contract auth registrar registrar contract
+
+registrar registrar contract
+
+
+valid incom registr request
+
+param data
+illumin contract valid valid
+
+valid data
+
+valid make data
+name requir
+email requir email uniqu user
+password requir confirm
+
+
+
+
+creat user instanc valid registr
+
+param data
+user
+
+creat data
+
+user creat
+name data name
+email data email
+password bcrypt data password
+
+
+
+
+http
+
+illumin foundat http kernel http kernel
+
+kernel http kernel
+
+
+applic http middlewar stack
+
+
+
+middlewar
+illumin foundat http middlewar check for mainten mode
+illumin cooki middlewar encrypt cooki
+illumin cooki middlewar add queu cooki to respons
+illumin session middlewar start session
+illumin view middlewar share error from session
+illumin foundat http middlewar verifi csrf token
+
+
+
+applic rout middlewar
+
+
+
+rout middlewar
+auth http middlewar authent
+auth basic illumin auth middlewar authent with basic auth
+guest http middlewar redirect if authent
+
+
+
+
+
+
+
+applic rout
+
+
+here regist rout applic
+breez simpli tell laravel ur is respond
+give control call request
+
+
+
+rout welcom control index
+
+rout home home control index
+
+rout control
+auth auth auth control
+password auth password control
+
+http control
+
+home control control
+
+
+
+home control
+
+
+thi control render applic dashboard user
+authent cours free chang remov
+control wish start
+
+
+
+
+creat control instanc
+
+
+
+construct
+
+middlewar auth
+
+
+
+show applic dashboard user
+
+respons
+
+index
+
+view home
+
+
+
+http control
+
+illumin foundat dispatch command
+illumin rout control base control
+illumin foundat valid valid request
+
+control base control
+
+dispatch command valid request
+
+
+http control
+
+welcom control control
+
+
+
+welcom control
+
+
+thi control render market page applic
+configur allow guest like sampl
+control free modifi remov desir
+
+
+
+
+creat control instanc
+
+
+
+construct
+
+middlewar guest
+
+
+
+show applic welcom screen user
+
+respons
+
+index
+
+view welcom
+
+
+
+http control auth
+
+http control control
+illumin foundat auth authent and regist user
+
+auth control control
+
+
+
+registr login control
+
+
+thi control handl registr user well
+authent exist user control use
+simpl behavior explor
+
+
+
+authent and regist user
+
+
+http control auth
+
+http control control
+illumin foundat auth reset password
+
+password control control
+
+
+
+password reset control
+
+
+thi control respons handl password reset request
+use simpl behavior free
+explor overrid method wish tweak
+
+
+
+reset password
+
+
+http request
+
+illumin foundat http form request
+
+request form request
+
+
+
+
+http middlewar
+
+closur
+illumin contract auth guard
+illumin http redirect respons
+illumin contract rout middlewar
+
+redirect if authent middlewar
+
+
+guard implement
+
+guard
+
+auth
+
+
+creat filter instanc
+
+param guard auth
+
+
+construct guard auth
+
+auth auth
+
+
+
+handl incom request
+
+param illumin http request request
+param closur
+mix
+
+handl request closur
+
+auth check
+
+redirect respons home
+
+
+request
+
+
+
+http middlewar
+
+closur
+illumin contract auth guard
+illumin contract rout middlewar
+
+authent middlewar
+
+
+guard implement
+
+guard
+
+auth
+
+
+creat filter instanc
+
+param guard auth
+
+
+construct guard auth
+
+auth auth
+
+
+
+handl incom request
+
+param illumin http request request
+param closur
+mix
+
+handl request closur
+
+auth guest
+
+request ajax
+
+respons unauthor
+
+
+
+redirect guest auth login
+
+
+
+request
+
+
+
+consol
+
+illumin consol schedul schedul
+illumin foundat consol kernel consol kernel
+
+kernel consol kernel
+
+
+artisan command provid applic
+
+
+
+command
+consol command inspir command
+
+
+
+defin applic command schedul
+
+param illumin consol schedul schedul schedul
+
+
+schedul schedul schedul
+
+schedul command inspir
+hourli
+
+
+
+consol command
+
+illumin consol command
+illumin foundat inspir
+symfoni compon consol input input option
+symfoni compon consol input input argument
+
+inspir command command
+
+
+consol command name
+
+string
+
+name inspir
+
+
+consol command descript
+
+string
+
+descript display inspir quot
+
+
+execut consol command
+
+mix
+
+handl
+
+comment inspir quot
+
+
+
+event
+
+event
+
+
+
+
+
+
+laravel framework artisan
+
+laravel
+author taylor otwel taylorotwel gmail
+
+
+
+
+regist auto loader
+
+
+compos provid conveni automat gener loader
+applic need util simpli
+script worri manual
+load class later feel nice relax
+
+
+
+bootstrap autoload
+
+
+
+turn light
+
+
+need illumin develop turn light
+thi bootstrap framework get readi
+load applic send
+respons back browser delight user
+
+
+
+bootstrap
+
+
+
+applic
+
+
+onc applic simpli call method
+execut request send respons back
+client browser allow enjoy creativ
+wonder applic prepar
+
+
+
+kernel make illumin contract http kernel
+
+respons kernel handl
+request illumin http request captur
+
+
+respons send
+
+kernel termin request respons
