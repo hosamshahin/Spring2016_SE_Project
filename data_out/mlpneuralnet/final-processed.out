@@ -1,0 +1,602 @@
+
+mlp neural net test
+mlp neural net test
+
+creat mykola pavlov
+copyright 2013 biomech right reserv
+
+
+xc test xc test
+mlp neural net
+
+mlp neural net test xc test case
+ns data weight for and model
+ns array layer for and model
+mlp neural net model of and
+
+ns data weight for or model
+ns array layer for or model
+mlp neural net model of or
+
+ns data weight for xnor model
+ns array layer for xnor model
+mlp neural net model of xnor
+
+ns data weight for r model
+ns array layer for r model
+mlp neural net model from r
+
+ns data wt for multiclass model
+ns array layer for multiclass model
+mlp neural net model multclass
+
+ns data wt neurlab
+ns array layer for neurolab
+mlp neural net model neurolab
+
+ns data wt for re lu model
+ns array layer for re lu model
+mlp neural net model with re lu
+
+ns data wt for re lu sig model
+ns array layer for re lu sig model
+mlp neural net model with re lu sig
+
+ns data vector
+ns mutabl data predict
+assess
+
+ns data two binari featur
+
+ns mutabl data predict m3
+assess m3
+
+ns mutabl data predict m4
+assess m4
+
+
+
+
+implement mlp neural net test
+
+set up
+set up
+wt for and model
+weight for and model ns data data with byte wt for and model length wt for and model
+layer for and model ns array array with object
+model of and mlp neural net alloc init with layer config layer for and model weight weight for and model output mode mlp classif
+
+wt for or model
+weight for or model ns data data with byte wt for or model length wt for or model
+layer for or model ns array array with object
+model of or mlp neural net alloc init with layer config layer for or model weight weight for or model output mode mlp classif
+
+wt for xnor model
+weight for xnor model ns data data with byte wt for xnor model length wt for xnor model
+layer for xnor model ns array array with object
+model of xnor mlp neural net alloc init with layer config layer for xnor model weight weight for xnor model output mode mlp classif
+
+wt for r model 71060097220996 81214916465476 1053278516406 2715947013538 72334781502212 35809610106244 719139731507 80639409232081 51353212123316 4189109388074 4296209203538 3449714315882 1011893034548 9606972196645 9161325812463 53648231249005 29399062725314 85059372182408 0598502514968646 81377862712891 68021479940558 076783481441 8414384652821 46478402341764 7921420100838 16682430547976 5509119968678 2621449606834 15464259334699 0980818195238 317230719329745 2737913653954 978757957712 16743202142148 1595830476094 2396321827846 76513511142224 37688971183376 8116347135894 3208793627677 1556354804688 14149286925168 58723668424285 68286637029157 32089244900786 55981449652514 5456523331983 49524484679645 29892473113883 3634340327607 443143125663 216461110629665 2522595249887 0508966195186 99909662642079 7891190840656 60857227606505 0307886636866 0713862250353 58618873665141 1853374078929 1465630071669 7637781094333 67916304086313 1735609326649 2174905606174 82173017526338 68308877276538 5871878739183 9650199466877 6350333484937 8885719190494 9284878578986 58508061399546 7820941145138 3556138680817 5605644509725 6571481419602 9379691928721 1255590224846 7681637619784
+weight for r model ns data data with byte wt for r model length wt for r model
+layer for r model ns array array with object
+model from r mlp neural net alloc init with layer config layer for r model weight weight for r model output mode mlp classif
+
+
+wt multiclass 38869422183494 21275111602689 0364499956405933 83979725768616 84707419013891 9947187643494 95041208835756 31271557337315 70371970234104 568533401802 18033413139586 0666149280761 8853823433816 6715805364208 689952966866256 4263281305969 51887270965955 4760492359728 8005731948335
+wt for multiclass model ns data data with byte wt multiclass length wt multiclass
+layer for multiclass model ns array array with object
+model multclass mlp neural net alloc init with layer config layer for multiclass model
+weight wt for multiclass model
+output mode mlp classif
+
+wt python neuorolab 522616844907733 379419132631195 384441621038408 411649980191586 685608059818619 887683996948859 463033475731954 561827798081323 694420878577903 847634136214969 968908727857065 456453936484778 223450906514095 545523821607908 004325499443924 865896703590984 256283161547678 198517762647665 095491610370658
+wt neurlab ns data data with byte wt python neuorolab length wt python neuorolab
+layer for neurolab ns array array with object
+model neurolab mlp neural net alloc init with layer config layer for neurolab
+weight wt neurlab
+output mode mlp classif
+
+wt for re lu
+wt for re lu model ns data data with byte wt for re lu length wt for re lu
+layer for re lu model ns array array with object
+model with re lu mlp neural net alloc init with layer config layer for re lu model
+weight wt for re lu model
+output mode mlp classif
+model with re lu activ function mlp re lu
+
+wt for re lu sig
+wt for re lu sig model ns data data with byte wt for re lu sig length wt for re lu sig
+layer for re lu sig model ns array array with object
+model with re lu sig mlp neural net alloc init with layer config layer for re lu sig model
+weight wt for re lu sig model
+output mode mlp classif
+
+model with re lu sig hidden activ function mlp re lu
+model with re lu sig output activ function mlp sigmoid
+
+featur
+
+
+
+
+two binari featur ns data data with byte featur length featur
+
+predict ns mutabl data data with length
+assess predict byte
+
+predict m3 ns mutabl data data with length
+assess m3 predict m3 byte
+
+predict m4 ns mutabl data data with length
+assess m4 predict m4 byte
+
+
+tear down
+teardown code thi method call invoc test method
+tear down
+
+
+pragma mark model test
+
+test model of and one one
+featur
+vector ns data data with byte featur length featur
+model of and predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+test model of and one zero
+featur
+vector ns data data with byte featur length featur
+model of and predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+test model of and zero one
+featur
+vector ns data data with byte featur length featur
+model of and predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+test model of and zero zero
+featur
+vector ns data data with byte featur length featur
+model of and predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+pragma mark model test
+
+test model of or one one
+featur
+vector ns data data with byte featur length featur
+model of or predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+test model of or one zero
+featur
+vector ns data data with byte featur length featur
+model of or predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+test model of or zero one
+featur
+vector ns data data with byte featur length featur
+model of or predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+test model of or zero zero
+featur
+vector ns data data with byte featur length featur
+model of or predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+pragma mark xnor model test
+
+test model of xnor one one
+featur
+vector ns data data with byte featur length featur
+model of xnor predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+test model of xnor one zero
+featur
+vector ns data data with byte featur length featur
+model of xnor predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+test model of xnor zero one
+featur
+vector ns data data with byte featur length featur
+model of xnor predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+test model of xnor zero zero
+featur
+vector ns data data with byte featur length featur
+model of xnor predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+pragma mark matrix model test
+
+test model of and matrix
+model of and predict by featur matrix two binari featur into predict matrix predict m4
+xct assert equal with accuraci assess m4 0001
+xct assert equal with accuraci assess m4 0001
+xct assert equal with accuraci assess m4 0001
+xct assert equal with accuraci assess m4 0001
+
+
+pragma mark matrix model test
+
+test model of or matrix
+model of or predict by featur matrix two binari featur into predict matrix predict m4
+xct assert equal with accuraci assess m4 0001
+xct assert equal with accuraci assess m4 0001
+xct assert equal with accuraci assess m4 0001
+xct assert equal with accuraci assess m4 0001
+
+
+
+pragma mark xnor matrix model test
+
+test model of xnor matrix
+model of xnor predict by featur matrix two binari featur into predict matrix predict m4
+xct assert equal with accuraci assess m4 0001
+xct assert equal with accuraci assess m4 0001
+xct assert equal with accuraci assess m4 0001
+xct assert equal with accuraci assess m4 0001
+
+
+pragma mark model portabl
+
+test portabilityof model from r
+featur 1469695 3815642 9089234 0756491 03446598 005667798
+vector ns data data with byte featur length featur
+model from r predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 9999989 0000001
+
+
+test multiclass model from r
+featur
+vector ns data data with byte featur length featur
+model multclass predict by featur vector vector into predict vector predict m3
+xct assert equal with accuraci assess m3 0003350431 0000001
+xct assert equal with accuraci assess m3 9937246 0000001
+xct assert equal with accuraci assess m3 0000001
+
+
+pragma mark python neurolab compat
+
+test python neurolab model
+featur
+vector ns data data with byte featur length featur
+model neurolab predict by featur vector vector into predict vector predict m3
+xct assert equal with accuraci assess m3 88665737e 000000001
+xct assert equal with accuraci assess m3 37569362e 000000001
+xct assert equal with accuraci assess m3 53800274e 000000001
+
+
+
+pragma mark activ function
+
+test model with tangent output
+featur
+vector ns data data with byte featur length featur
+model neurolab activ function mlp tangent
+model neurolab predict by featur vector vector into predict vector predict m3
+xct assert equal with accuraci assess m3 000000001
+xct assert equal with accuraci assess m3 999999999753 000000001
+xct assert equal with accuraci assess m3 000000001
+
+
+test model with re lu below threshold
+featur
+vector ns data data with byte featur length featur
+model with re lu predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+test model with re lu abov threshold
+featur
+vector ns data data with byte featur length featur
+model with re lu predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+test model with differ hidden vs output activ
+featur
+vector ns data data with byte featur length featur
+model with re lu sig predict by featur vector vector into predict vector predict
+xct assert equal with accuraci assess 0001
+
+
+test model set with differ activ
+xct assert equal model with re lu sig activ function mlp re lu
+xct assert equal model with re lu sig hidden activ function mlp re lu
+xct assert equal model with re lu sig output activ function mlp sigmoid
+
+
+pragma mark number weigth
+
+test number of weigth by layer config
+ns array
+xct assert equal mlp neural net count weight ns integ
+
+
+pragma mark except test
+
+test wrong featur vector size
+featur
+vector ns data data with byte featur length featur
+xct assert throw specif name model of xnor predict by featur vector vector into predict vector predict
+ns except
+ns intern inconsist except
+
+
+test wrong predict vector size
+featur
+vector ns data data with byte featur length featur
+ns mutabl data predict vector ns mutabl data data with length
+xct assert throw specif name model of xnor predict by featur vector vector into predict vector predict vector
+ns except
+ns intern inconsist except
+
+
+test incorrect number of weight
+
+ns array layer cfg
+ns data weight ns data data with byte length
+xct assert throw specif name mlp neural net alloc init with layer config layer cfg weight weight output mode mlp regress
+ns except
+ns intern inconsist except
+
+
+
+
+mlp neural net
+bio motion tracker
+
+creat mykola pavlov
+copyright 2013 biomech right reserv
+
+
+mlp neural net
+
+defin bia valu
+defin bia unit
+defin re lu
+
+
+number row
+ns integ nrow
+number column
+ns integ ncol
+weight matrix
+mlp layer
+
+mlp neural net
+
+ns mutabl data hidden featur
+ns mutabl data buffer
+mlp layer structur
+ns data array of layer
+
+
+
+
+implement mlp neural net
+
+pragma mark initi dealloc
+
+design initi
+init with layer config ns array layer config
+weight ns data weight
+output mode mlp output output mode
+init
+
+count weight layer config weight length
+ns except except with name ns intern inconsist except
+reason number weight match configur
+user info
+
+
+number of layer layer config count
+featur vector size layer config unsign integ valu
+predict vector size layer config last object unsign integ valu
+output mode output mode
+
+alloc buffer maximum possibl vector size place bia unit also
+max vector length layer config valu for key path unsign int valu bia unit
+hidden featur ns mutabl data data with length max vector length
+buffer ns mutabl data data with length max vector length
+
+alloc memori layer note need matrix
+input layer total size equal layer
+array of layer ns mutabl data data with length number of layer mlp layer
+
+alloc memori wigth matric initi
+mlp layer layer mlp layer array of layer byte
+weight byte
+cross layer offset offset weight matric differ layer
+number of layer recal need matrix input layer
+
+network unit layer unit layer weight matrix layer
+demens
+layer nrow layer config unsign integ valu
+layer ncol layer config unsign integ valu bia unit
+layer weight matrix calloc layer nrow layer ncol
+ns assert layer weight matrix memori weight matric
+
+total offset
+layer nrow
+layer ncol
+simul matrix major order
+cross row offset layer ncol
+matrix offset correspond
+total offset cross row offset cross layer offset
+layer weight matrix cross row offset total offset
+
+
+
+cross layer offset total offset adjust offset layer
+
+
+
+
+
+
+init
+ns except except with name mlp neural net init
+reason design initi init
+user info
+
+
+dealloc
+free weight matric layer
+mlp layer layer mlp layer array of layer byte
+
+number of layer
+free layer weight matrix layer weight matrix
+
+
+
+pragma mark predict
+
+predict by featur vector ns data vector into predict vector ns mutabl data predict
+predict by featur matrix vector into predict matrix predict
+
+
+predict by featur matrix ns data matrix into predict matrix ns mutabl data predict
+number exampl go classifi
+num exampl matrix length featur vector size
+num featur featur vector size
+
+matrix length featur vector size num exampl
+ns string error ns string string with format size featur matrix invalid byte expect
+matrix length featur vector size num exampl
+ns except except with name ns intern inconsist except reason error user info
+predict length predict vector size num exampl
+ns string error ns string string with format size predict matrix invalid byte expect
+predict length predict vector size num exampl
+ns except except with name ns intern inconsist except reason error user info
+
+
+mlp layer layer mlp layer array of layer byte
+bia bia valu
+
+featur
+
+
+creat buffer reus buffer possibl
+num exampl
+featur hidden featur mutabl byte
+buffer mutabl byte
+
+ns mutabl data hidden featur m ns mutabl data data with length hidden featur length num exampl
+ns mutabl data buffer m ns mutabl data data with length hidden featur length num exampl
+
+featur hidden featur m mutabl byte
+buffer m mutabl byte
+
+
+bia unit first
+v dsp vfill d bia featur num exampl
+
+copi featur matrix buffer transpos featur matrix
+bia unit instead column easier updat
+v dsp mtran d matrix byte featur num exampl num featur num exampl
+
+forward propag algorithm
+number of layer
+
+calcul hidden featur current layer
+v dsp mmul d layer weight matrix featur num exampl layer nrow num exampl layer ncol
+
+bia unit propag featur level
+v dsp vfill d bia num exampl
+
+memcpi featur layer nrow bia unit num exampl
+
+appli activ logist func http wikipedia wiki logist
+output mode mlp classif
+featur layer nrow num exampl
+
+mone
+relu threshold re lu
+
+mlp activ function activ
+number of layer hidden activ function output activ function
+
+activ
+mlp sigmoid
+v dsp vneg d featur num exampl featur num exampl featur
+vvexp featur num exampl featur num exampl featur
+v dsp vsadd d featur num exampl featur num exampl featur
+vvpow featur num exampl mone featur num exampl featur
+
+
+mlp tangent
+vvtanh featur num exampl featur num exampl featur
+
+
+mlp re lu
+v dsp vthre d featur num exampl relu threshold featur num exampl featur
+
+mlp none
+
+
+
+
+
+copi result predict matrix
+memcpi predict mutabl byte featur num exampl predict vector size num exampl
+
+
+pragma mark activ function
+
+mlp activ function activ function
+hidden activ function
+
+
+set activ function mlp activ function activ
+hidden activ function activ
+output activ function activ
+
+
+pragma mark misc
+
+ns string descript
+mlp layer layer mlp layer array of layer byte
+ns mutabl string network arch ns mutabl string
+number of weight
+
+array of layer length mlp layer
+number of weight layer ncol layer nrow
+network arch append format layer ncol
+
+
+network arch append format predict vector size
+ns string string with format network weigth network arch number of weight
+
+
+ns integ count weight ns array layer config
+ns integ count
+
+layer config count
+count layer config unsign int valu layer config unsign int valu
+
+
+count
+
+
+

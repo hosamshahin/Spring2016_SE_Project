@@ -1,0 +1,6957 @@
+
+sourceforg project tinyxml
+origin code earlier copyright 2000 2006 thomason grinninglizard
+
+thi softwar provid without express impli
+warranti author held liabl
+damag aris softwar
+
+permiss grant anyon softwar
+purpos includ commerci applic alter
+redistribut freeli subject follow restrict
+
+origin softwar must misrepres must
+claim wrote origin softwar
+softwar product acknowledg product document
+would appreci requir
+
+alter sourc version must plainli mark
+must misrepres origin softwar
+
+thi notic remov alter sourc
+distribut
+
+
+tinyxml
+
+goal seper error file make first
+step toward local tinyxml current support
+english error messag could translat
+
+also clean code
+
+
+ti xml base error string tixml error string count
+
+error
+error
+fail open file
+error pars element
+fail read element name
+error read element valu
+error read attribut
+error
+error read
+error pars unknown
+error pars comment
+error pars declar
+error document
+error unexpect found input stream
+error pars cdata
+error ti xml document ad document ti xml document root
+
+
+sourceforg project tinyxml
+origin code earlier copyright 2000 2002 thomason grinninglizard
+
+thi softwar provid without express impli
+warranti author held liabl
+damag aris softwar
+
+permiss grant anyon softwar
+purpos includ commerci applic alter
+redistribut freeli subject follow restrict
+
+origin softwar must misrepres must
+claim wrote origin softwar
+softwar product acknowledg product document
+would appreci requir
+
+alter sourc version must plainli mark
+must misrepres origin softwar
+
+thi notic remov alter sourc
+distribut
+
+
+ctype
+stddef
+
+tinyxml
+
+defin debug parser
+defin debug parser
+defin debug defin
+window
+defin tixml output debug string
+
+defin tixml printf
+
+
+
+note put string hardcod thi
+less flexibl appear chang entri
+order putstr
+ti xml base entiti ti xml base entiti entiti
+
+
+
+
+quot
+apo
+
+
+bunch unicod info
+http unicod html
+includ basic tabl determin byte
+sequenc lead place invalid sequenc
+although result junk much possibl
+bewar charact
+microsoft lead byte
+
+
+
+tixml lead 0xef u
+tixml lead 0xbb u
+tixml lead 0xbf u
+
+ti xml base utf8 byte tabl
+
+
+0x00
+0x10
+0x20
+0x30
+0x40
+0x50
+0x60
+0x70 ascii rang
+0x80 0x80 0xc1 invalid
+0x90
+0xa0
+0xb0
+0xc0 0xc2 0xdf
+0xd0
+0xe0 0xe0 0xef
+0xf0 0xf0 0xf4 0xf5 higher invalid
+
+
+
+ti xml base convert utf32 to utf8 input output length
+
+byte mask 0x bf
+byte mark 0x80
+first byte mark 0x00 0x00 0x c0 0x e0 0x f0 0x f8 0x fc
+
+input 0x80
+length
+input 0x800
+length
+input 0x10000
+length
+input 0x200000
+length
+
+length thi code covert correctli anyway
+
+output length
+
+scari scari fall through
+length
+
+
+output
+output input byte mark byte mask
+input
+
+output
+output input byte mark byte mask
+input
+
+output
+output input byte mark byte mask
+input
+
+output
+output input first byte mark length
+
+
+
+
+ti xml base is alpha ani byte ti xml encod encod
+
+thi work ascii everyth assum valid
+letter sure best approach quit tricki tri
+figur alhabet across encod take
+conserv approach
+
+encod tixml encod utf8
+
+ani byte
+isalpha ani byte
+
+what unicod huge english one right
+
+
+
+isalpha ani byte
+
+
+
+
+ti xml base is alpha num ani byte ti xml encod encod
+
+thi work ascii everyth assum valid
+letter sure best approach quit tricki tri
+figur alhabet across encod take
+conserv approach
+
+encod tixml encod utf8
+
+ani byte
+isalnum ani byte
+
+what unicod huge english one right
+
+
+
+isalnum ani byte
+
+
+
+
+ti xml pars data
+
+ti xml document
+
+stamp ti xml encod encod
+
+ti xml cursor cursor cursor
+
+
+onli use document
+ti xml pars data start tabsiz
+
+start
+stamp start
+tabsiz tabsiz
+cursor
+cursor
+
+
+ti xml cursor cursor
+stamp
+tabsiz
+
+
+
+ti xml pars data stamp ti xml encod encod
+
+
+
+noth tabsiz
+tabsiz
+
+
+
+
+current column
+cursor
+cursor
+stamp
+
+
+
+
+treat happi compil
+
+
+code contribut fletcher dunn modifi
+
+
+never
+advanc past termin charact ever
+
+
+
+bump line
+
+
+charact
+
+
+check sequenc treat singl charact
+
+
+
+
+
+
+bump line
+
+
+
+charact
+
+
+check sequenc treat singl
+charact bizarr thing occur still
+arcan platform
+
+
+
+
+
+
+charact
+
+
+skip stop
+tabsiz tabsiz
+
+
+tixml lead
+encod tixml encod utf8
+
+
+
+case advanc column these
+width space
+tixml lead tixml lead
+
+0xbf u 0xbe u
+
+0xbf u 0xbf u
+
+
+normal charact
+
+
+
+
+
+
+
+
+
+
+encod tixml encod utf8
+
+utf8 charact
+step ti xml base utf8 byte tabl
+step
+step error encod handl grace
+step
+
+just advanc column cours
+
+
+
+
+
+
+
+
+
+
+cursor
+cursor
+cursor
+cursor
+stamp
+stamp
+
+
+
+ti xml base skip white space ti xml encod encod
+
+
+
+
+
+encod tixml encod utf8
+
+
+
+
+
+skip stupid microsoft byte order mark
+tixml lead
+tixml lead
+tixml lead
+
+
+
+
+tixml lead
+0xbf u
+0xbe u
+
+
+
+
+tixml lead
+0xbf u
+0xbf u
+
+
+
+
+
+is white space still rule white space
+
+
+
+
+
+
+
+is white space
+
+
+
+
+
+
+ifdef tixml
+ti xml base stream white space istream tixml string
+
+
+
+good
+
+peek
+scope document fail silent
+is white space
+
+
+
+
+
+
+ti xml base stream to istream charact tixml string
+
+charact charact work
+good
+
+peek
+charact
+
+silent failur document scope
+
+
+
+
+
+
+
+
+
+tini xml perform demand function keep memori overhead
+assign optim remov execut time
+
+ti xml base read name tixml string name ti xml encod encod
+
+oddli support comil
+name clear
+
+name
+
+
+name start letter underscor
+cours unicod tinyxml idea letter
+algorithm gener
+
+after letter underscor number
+hyphen colon colon valid namespac
+tinyxml tell namespac name
+
+is alpha encod
+
+start
+
+is alpha num encod
+
+
+
+
+
+name expens
+
+
+start
+name assign start start
+
+
+
+
+
+
+ti xml base get entiti valu length ti xml encod encod
+
+presum entiti pull
+tixml string
+
+length
+
+
+
+
+ptrdiff delta
+mult
+
+
+
+hexadecim
+
+
+
+strchr
+
+
+
+delta
+
+
+
+
+
+mult
+
+mult
+
+mult
+
+
+mult
+
+
+
+
+
+decim
+
+
+
+strchr
+
+
+
+delta
+
+
+
+
+
+mult
+
+
+mult
+
+
+
+encod tixml encod utf8
+
+convert
+convert utf32 to utf8 valu length
+
+
+
+valu
+length
+
+delta
+
+
+match
+entiti
+
+strncmp entiti entiti str length
+
+strlen entiti entiti str length
+valu entiti
+length
+entiti str length
+
+
+
+entiti unrecogn someth like
+valu back last sinc
+length leav unrecogn entiti realli work
+just write strang
+
+
+
+
+ti xml base string equal
+
+ignor case
+ti xml encod encod
+
+
+
+
+
+
+
+
+
+
+
+ignor case
+
+to lower encod to lower encod
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+have found everyth equal
+
+
+
+
+
+ti xml base read text
+tixml string text
+trim white space
+end tag
+case insensit
+ti xml encod encod
+
+text
+trim white space certain tag alway keep whitespac
+condens white space whitespac alway kept
+
+keep white space
+
+string equal end tag case insensit encod
+
+
+
+c arr
+get char c arr encod
+text append c arr
+
+
+
+
+whitespac
+
+remov lead white space
+skip white space encod
+
+string equal end tag case insensit encod
+
+
+
+whitespac
+
+
+is white space
+
+whitespac
+
+
+
+
+found whitespac
+charact whitespac becom space
+whitespac
+
+text
+whitespac
+
+
+c arr
+get char c arr encod
+
+text c arr effici
+
+text append c arr
+
+
+
+
+strlen end tag
+
+
+
+ifdef tixml
+
+ti xml document stream in istream tixml string
+
+basic issu document know
+stream read someth presum hope
+identifi call appropri stream method
+
+thi stream never read close
+orient
+
+stream to
+
+set error tixml error pars empti tixml encod unknown
+
+
+
+good
+
+tag index length
+good peek
+
+
+
+
+set error tixml error embed tixml encod unknown
+
+
+
+
+
+good
+
+someth presum node
+sort identifi call node
+stream
+ti xml node node identifi tag index tixml default encod
+
+node
+
+node stream in
+is element node to element
+node
+node
+
+root element done pars
+done
+is element
+
+
+
+
+
+
+set error tixml error tixml encod unknown
+
+
+
+
+return sooner
+set error tixml error tixml encod unknown
+
+
+
+
+ti xml document pars ti xml pars data prev data ti xml encod encod
+
+clear error
+
+pars away document level sinc document
+contain noth tag happen
+skip white space
+
+
+set error tixml error document empti tixml encod unknown
+
+
+
+note document need come
+space skip pars
+start pointer given
+locat clear
+prev data
+
+locat prev data cursor
+locat prev data cursor
+
+
+
+locat
+locat
+
+ti xml pars data tab size locat locat
+locat cursor
+
+encod tixml encod unknown
+
+check microsoft lead byte
+
+tixml lead
+tixml lead
+tixml lead
+
+encod tixml encod utf8
+use microsoft bom
+
+
+
+skip white space encod
+
+
+set error tixml error document empti tixml encod unknown
+
+
+
+
+
+ti xml node node identifi encod
+node
+
+node pars encod
+link end child node
+
+
+
+
+
+
+encod info
+encod tixml encod unknown
+node to declar
+
+ti xml declar node to declar
+encod
+
+
+
+encod tixml encod utf8
+string equal tixml encod unknown
+encod tixml encod utf8
+string equal utf8 tixml encod unknown
+encod tixml encod utf8 incorrect nice
+
+encod tixml encod legaci
+
+
+skip white space encod
+
+
+
+first child
+set error tixml error document empti encod
+
+
+
+well
+
+
+
+ti xml document set error p error ti xml pars data ti xml encod encod
+
+first error chain accur
+error
+
+
+tixml error string count
+error
+error id
+error desc error string error id
+
+error locat clear
+p error
+
+stamp p error encod
+error locat cursor
+
+
+
+
+ti xml node ti xml node identifi ti xml encod encod
+
+ti xml node return node
+
+skip white space encod
+
+
+
+
+
+skip white space encod
+
+
+
+
+
+
+what thing
+element start letter underscor reserv
+comment
+decler
+everth unknown tinyxml
+
+
+xml header
+comment header
+dtd header
+cdata header cdata
+
+string equal xml header encod
+
+ifdef debug parser
+tixml pars declar
+
+return node ti xml declar
+
+string equal comment header encod
+
+ifdef debug parser
+tixml pars comment
+
+return node ti xml comment
+
+string equal cdata header encod
+
+ifdef debug parser
+tixml pars cdata
+
+ti xml text text ti xml text
+text set cdata
+return node text
+
+string equal dtd header encod
+
+ifdef debug parser
+tixml pars unknown
+
+return node ti xml unknown
+
+is alpha encod
+
+
+ifdef debug parser
+tixml pars element
+
+return node ti xml element
+
+
+
+ifdef debug parser
+tixml pars unknown
+
+return node ti xml unknown
+
+
+return node
+
+parent report error
+return node parent
+
+return node
+
+
+ifdef tixml
+
+ti xml element stream in istream tixml string
+
+call amount pars that
+element ahead stream close
+good
+
+
+
+
+ti xml document document get document
+document
+document set error tixml error embed tixml encod unknown
+
+
+
+
+
+
+
+
+length
+
+okay done read complet
+identifi stream
+
+length
+length
+
+good
+
+
+length
+
+there could
+text
+cdata text look like anoth node
+close
+anoth node
+
+
+stream white space
+
+text
+good peek
+
+text
+ti xml text text
+text stream in
+
+what follow text close anoth node
+around figur
+
+
+
+either close anoth node
+regardless
+good
+peek
+tag index length
+
+close tag
+first char found
+
+
+
+good
+
+
+peek
+
+
+ti xml document document get document
+document
+document set error tixml error embed tixml encod unknown
+
+
+
+
+
+
+
+
+
+earli find cdata
+size
+
+size size
+start
+strcmp start cdata
+close tag
+
+
+
+
+first char found is white space
+
+first char found
+
+close tag
+
+
+close read close clean input stream
+stream done
+close tag
+
+good
+
+
+
+
+
+ti xml document document get document
+document
+document set error tixml error embed tixml encod unknown
+
+
+
+
+
+done found close
+
+
+
+
+close stream
+tagloc tag index
+ti xml node node identifi tagloc tixml default encod
+node
+
+node stream in
+node
+node
+
+around begin text close node
+
+
+
+
+
+
+ti xml element pars ti xml pars data ti xml encod encod
+
+skip white space encod
+ti xml document document get document
+
+
+
+document document set error tixml error pars element encod
+
+
+
+
+
+stamp encod
+locat cursor
+
+
+
+
+document document set error tixml error pars element encod
+
+
+
+skip white space encod
+
+read name
+p err
+
+read name valu encod
+
+
+document document set error tixml error fail read element name p err encod
+
+
+
+tixml string end tag
+end tag valu
+
+check read attribut also look
+
+
+
+p err
+skip white space encod
+
+
+document document set error tixml error read attribut p err encod
+
+
+
+
+
+empti
+
+
+document document set error tixml error pars empti encod
+
+
+
+
+
+
+done attribut
+read valu
+element read
+
+read valu encod note element method error happen
+
+look found noth
+1663758 failur report error
+document document set error tixml error read encod
+
+
+
+find
+note
+
+
+valid tag
+string equal end tag encod
+
+end tag length
+skip white space encod
+
+
+
+
+document document set error tixml error read encod
+
+
+
+
+document document set error tixml error read encod
+
+
+
+
+
+read attribut
+ti xml attribut attrib ti xml attribut
+attrib
+
+
+
+
+attrib set document document
+p err
+attrib pars encod
+
+
+
+document document set error tixml error pars element p err encod
+attrib
+
+
+
+handl strang attribut
+ifdef tixml
+ti xml attribut node attribut set find attrib name t str
+
+ti xml attribut node attribut set find attrib name
+
+node
+
+document document set error tixml error pars element p err encod
+attrib
+
+
+
+attribut set attrib
+
+
+
+
+
+
+ti xml element read valu ti xml pars data ti xml encod encod
+
+ti xml document document get document
+
+read text element order
+p with white space
+skip white space encod
+
+
+
+
+
+take make text element
+ti xml text text node ti xml text
+
+text node
+
+
+
+
+ti xml base is white space condens
+
+text node pars encod
+
+
+
+special want keep white space
+lead space remov
+text node pars p with white space encod
+
+
+text node blank
+link end child text node
+
+text node
+
+
+
+
+have element thi could also
+ti xml text cdata style
+string equal encod
+
+
+
+
+
+ti xml node node identifi encod
+node
+
+node pars encod
+link end child node
+
+
+
+
+
+
+
+p with white space
+skip white space encod
+
+
+
+
+document document set error tixml error read element valu encod
+
+
+
+
+
+ifdef tixml
+ti xml unknown stream in istream tixml string
+
+good
+
+
+
+
+ti xml document document get document
+document
+document set error tixml error embed tixml encod unknown
+
+
+
+
+
+
+well
+
+
+
+
+
+
+
+ti xml unknown pars ti xml pars data ti xml encod encod
+
+ti xml document document get document
+skip white space encod
+
+
+
+stamp encod
+locat cursor
+
+
+
+document document set error tixml error pars unknown encod
+
+
+
+valu
+
+
+
+valu
+
+
+
+
+
+document document set error tixml error pars unknown encod
+
+
+
+
+
+
+ifdef tixml
+ti xml comment stream in istream tixml string
+
+good
+
+
+
+
+ti xml document document get document
+document
+document set error tixml error embed tixml encod unknown
+
+
+
+
+
+
+length
+length
+
+well
+
+
+
+
+
+
+
+ti xml comment pars ti xml pars data ti xml encod encod
+
+ti xml document document get document
+valu
+
+skip white space encod
+
+
+
+stamp encod
+locat cursor
+
+start tag
+end tag
+
+string equal start tag encod
+
+document set error tixml error pars comment encod
+
+
+strlen start tag
+
+1475201 tini xml pars entiti comment
+oop read text work want pars entiti
+read text valu end tag encod
+
+spec
+
+definit comment appear anywher document outsid markup addit
+appear within document declar place allow grammar
+they part document charact processor need
+make possibl applic retriev text comment compat
+hyphen must occur within comment paramet entiti
+refer must recogn within comment
+
+exampl comment
+
+declar head bodi
+
+
+valu
+keep white space
+string equal end tag encod
+
+valu append
+
+
+
+strlen end tag
+
+
+
+
+
+ti xml attribut pars ti xml pars data ti xml encod encod
+
+skip white space encod
+
+
+
+
+stamp encod
+locat cursor
+
+read name valu
+p err
+read name name encod
+
+
+document document set error tixml error read attribut p err encod
+
+
+skip white space encod
+
+
+document document set error tixml error read attribut encod
+
+
+
+skip
+skip white space encod
+
+
+document document set error tixml error read attribut encod
+
+
+
+
+singl quot
+doubl quot
+
+singl quot
+
+
+singl quot
+read text valu encod
+
+doubl quot
+
+
+quot
+read text valu encod
+
+
+
+attribut valu singl quot
+common error parser
+best even without
+valu
+exist
+is white space whitespac
+
+
+singl quot doubl quot
+1451649 attribut valu trail quot handl correctli
+open quot seem
+close give error
+document document set error tixml error read attribut encod
+
+
+valu
+
+
+
+
+
+
+ifdef tixml
+ti xml text stream in istream tixml string
+
+good
+
+peek
+cdata
+
+
+
+
+
+ti xml document document get document
+document
+document set error tixml error embed tixml encod unknown
+
+
+
+
+commit peek made
+
+cdata size
+size size
+
+termin cdata
+
+
+
+
+
+
+
+ti xml text pars ti xml pars data ti xml encod encod
+
+valu
+ti xml document document get document
+
+
+
+stamp encod
+locat cursor
+
+
+start tag cdata
+end tag
+
+cdata string equal start tag encod
+
+cdata
+
+string equal start tag encod
+
+document set error tixml error pars cdata encod
+
+
+strlen start tag
+
+keep white space ignor encod
+
+string equal end tag encod
+
+
+valu
+
+
+
+tixml string dummi
+read text dummi end tag encod
+
+
+
+
+ignor white
+
+
+read text valu ignor white encod
+
+truncat
+
+
+
+
+ifdef tixml
+ti xml declar stream in istream tixml string
+
+good
+
+
+
+
+ti xml document document get document
+document
+document set error tixml error embed tixml encod unknown
+
+
+
+
+
+
+well
+
+
+
+
+
+
+ti xml declar pars ti xml pars data ti xml encod encod
+
+skip white space encod
+find begin find look
+stuff
+ti xml document document get document
+string equal encod
+
+document document set error tixml error pars declar encod
+
+
+
+
+stamp encod
+locat cursor
+
+
+
+version
+encod
+standalon
+
+
+
+
+
+
+
+
+
+skip white space encod
+string equal version encod
+
+ti xml attribut attrib
+attrib pars encod
+version attrib valu
+
+string equal encod encod
+
+ti xml attribut attrib
+attrib pars encod
+encod attrib valu
+
+string equal standalon encod
+
+ti xml attribut attrib
+attrib pars encod
+standalon attrib valu
+
+
+
+read whatev
+is white space
+
+
+
+
+
+
+ti xml text blank
+
+valu length
+is white space valu
+
+
+
+
+
+sourceforg project tinyxml
+origin code earlier copyright 2000 2006 thomason grinninglizard
+
+thi softwar provid without express impli
+warranti author held liabl
+damag aris softwar
+
+permiss grant anyon softwar
+purpos includ commerci applic alter
+redistribut freeli subject follow restrict
+
+origin softwar must misrepres must
+claim wrote origin softwar
+softwar product acknowledg product document
+would appreci requir
+
+alter sourc version must plainli mark
+must misrepres origin softwar
+
+thi notic remov alter sourc
+distribut
+
+
+ctype
+
+ifdef tixml
+sstream
+iostream
+
+ifdef win32
+window
+win32
+
+tinyxml
+
+file ti xml f open filenam mode
+
+ti xml base condens white space
+
+microsoft compil secur
+file ti xml f open filenam mode
+
+defin 1400
+file
+
+addit drwr window wide charact support
+errno fopen filenam mode
+errno
+
+size multi byte to wide char utf8 filenam
+
+size
+wchar buffer wchar size
+multi byte to wide char utf8 filenam
+buffer size
+
+buffer size
+wfopen buffer mode
+
+buffer
+
+
+wide charact addit
+
+
+
+
+
+fopen filenam mode
+
+
+
+ti xml base encod string tixml string tixml string out string
+
+
+
+length
+
+
+
+
+length
+
+
+
+hexadecim charact refer
+pass unchang
+copyright exampl
+
+laveaux keep
+overflow happen
+there actual way
+fail error semicolon found
+howev mechan current
+error
+length
+
+out string append
+
+
+
+
+
+
+
+out string append entiti entiti str length
+
+
+
+
+out string append entiti entiti str length
+
+
+
+
+out string append entiti entiti str length
+
+
+
+
+out string append entiti entiti str length
+
+
+
+
+out string append entiti entiti str length
+
+
+
+
+easi alpha numer
+below symbol
+
+
+defin tixml snprintf
+tixml snprintf 0xff
+
+sprintf 0xff
+
+
+warn c4267 convert size
+cast make compil happi
+out string append strlen
+
+
+
+
+realc
+out string append realc
+out string somewhat effici call
+
+
+
+
+
+
+ti xml node ti xml node node type ti xml base
+
+parent
+
+first child
+last child
+prev
+
+
+
+
+ti xml node ti xml node
+
+ti xml node node first child
+ti xml node temp
+
+node
+
+temp node
+node node
+temp
+
+
+
+
+ti xml node copi to ti xml node target
+
+target set valu valu
+target user data user data
+target locat locat
+
+
+
+ti xml node clear
+
+ti xml node node first child
+ti xml node temp
+
+node
+
+temp node
+node node
+temp
+
+
+first child
+last child
+
+
+
+ti xml node ti xml node link end child ti xml node node
+
+node parent node parent
+node get document node get document get document
+
+node type ti xml node tinyxml document
+
+node
+get document get document set error tixml error document onli tixml encod unknown
+
+
+
+node parent
+
+node prev last child
+node
+
+last child
+last child node
+
+first child node
+
+last child node
+node
+
+
+
+ti xml node ti xml node insert end child ti xml node add thi
+
+add thi type ti xml node tinyxml document
+
+get document get document set error tixml error document onli tixml encod unknown
+
+
+ti xml node node add thi clone
+node
+
+
+link end child node
+
+
+
+ti xml node ti xml node insert befor child ti xml node befor thi ti xml node add thi
+
+befor thi befor thi parent
+
+
+add thi type ti xml node tinyxml document
+
+get document get document set error tixml error document onli tixml encod unknown
+
+
+
+ti xml node node add thi clone
+node
+
+node parent
+
+node befor thi
+node prev befor thi prev
+befor thi prev
+
+befor thi prev node
+
+
+
+first child befor thi
+first child node
+
+befor thi prev node
+node
+
+
+
+ti xml node ti xml node insert after child ti xml node after thi ti xml node add thi
+
+after thi after thi parent
+
+
+add thi type ti xml node tinyxml document
+
+get document get document set error tixml error document onli tixml encod unknown
+
+
+
+ti xml node node add thi clone
+node
+
+node parent
+
+node prev after thi
+node after thi
+after thi
+
+after thi prev node
+
+
+
+last child after thi
+last child node
+
+after thi node
+node
+
+
+
+ti xml node ti xml node replac child ti xml node replac thi ti xml node with thi
+
+replac thi
+
+
+replac thi parent
+
+
+with thi to document
+document never child thank noam
+ti xml document document get document
+document
+document set error tixml error document onli tixml encod unknown
+
+
+
+ti xml node node with thi clone
+node
+
+
+node replac thi
+node prev replac thi prev
+
+replac thi
+replac thi prev node
+
+last child node
+
+replac thi prev
+replac thi prev node
+
+first child node
+
+replac thi
+node parent
+node
+
+
+
+ti xml node remov child ti xml node remov thi
+
+remov thi
+
+
+
+remov thi parent
+
+
+
+
+
+remov thi
+remov thi prev remov thi prev
+
+last child remov thi prev
+
+remov thi prev
+remov thi prev remov thi
+
+first child remov thi
+
+remov thi
+
+
+
+ti xml node ti xml node first child valu
+
+ti xml node node
+node first child node node node
+
+strcmp node valu valu
+node
+
+
+
+
+
+ti xml node ti xml node last child valu
+
+ti xml node node
+node last child node node node prev
+
+strcmp node valu valu
+node
+
+
+
+
+
+ti xml node ti xml node iter children ti xml node previou
+
+previou
+
+first child
+
+
+
+previou parent
+previou next sibl
+
+
+
+
+ti xml node ti xml node iter children ti xml node previou
+
+previou
+
+first child
+
+
+
+previou parent
+previou next sibl
+
+
+
+
+ti xml node ti xml node next sibl valu
+
+ti xml node node
+node node node node
+
+strcmp node valu valu
+node
+
+
+
+
+
+ti xml node ti xml node previou sibl valu
+
+ti xml node node
+node prev node node node prev
+
+strcmp node valu valu
+node
+
+
+
+
+
+ti xml element remov attribut name
+
+ifdef tixml
+tixml string name
+ti xml attribut node attribut set find
+
+ti xml attribut node attribut set find name
+
+node
+
+attribut set remov node
+node
+
+
+
+ti xml element ti xml node first child element
+
+ti xml node node
+
+node first child
+node
+node node next sibl
+
+node to element
+node to element
+
+
+
+
+
+ti xml element ti xml node first child element valu
+
+ti xml node node
+
+node first child valu
+node
+node node next sibl valu
+
+node to element
+node to element
+
+
+
+
+
+ti xml element ti xml node next sibl element
+
+ti xml node node
+
+node next sibl
+node
+node node next sibl
+
+node to element
+node to element
+
+
+
+
+
+ti xml element ti xml node next sibl element valu
+
+ti xml node node
+
+node next sibl valu
+node
+node node next sibl valu
+
+node to element
+node to element
+
+
+
+
+
+ti xml document ti xml node get document
+
+ti xml node node
+
+node node node node parent
+
+node to document
+node to document
+
+
+
+
+
+ti xml element ti xml element valu
+ti xml node ti xml node tinyxml element
+
+first child last child
+valu valu
+
+
+
+ifdef tixml
+ti xml element ti xml element valu
+ti xml node ti xml node tinyxml element
+
+first child last child
+valu valu
+
+
+
+
+ti xml element ti xml element ti xml element copi
+ti xml node ti xml node tinyxml element
+
+first child last child
+copi copi to
+
+
+
+ti xml element ti xml element
+
+clear thi
+copi to
+
+
+
+ti xml element ti xml element
+
+clear thi
+
+
+
+ti xml element clear thi
+
+clear
+attribut set first
+
+ti xml attribut node attribut set first
+attribut set remov node
+node
+
+
+
+
+ti xml element attribut name
+
+ti xml attribut node attribut set find name
+node
+node valu
+
+
+
+
+ifdef tixml
+ti xml element attribut name
+
+ti xml attribut attrib attribut set find name
+attrib
+attrib valu str
+
+
+
+
+
+ti xml element attribut name
+
+ti xml attribut attrib attribut set find name
+result
+
+attrib
+result attrib valu
+
+attrib queri int valu
+
+
+result
+
+
+
+ifdef tixml
+ti xml element attribut name
+
+ti xml attribut attrib attribut set find name
+result
+
+attrib
+result attrib valu str
+
+attrib queri int valu
+
+
+result
+
+
+
+
+ti xml element attribut name
+
+ti xml attribut attrib attribut set find name
+result
+
+attrib
+result attrib valu
+
+attrib queri doubl valu
+
+
+result
+
+
+
+ifdef tixml
+ti xml element attribut name
+
+ti xml attribut attrib attribut set find name
+result
+
+attrib
+result attrib valu str
+
+attrib queri doubl valu
+
+
+result
+
+
+
+
+ti xml element queri int attribut name ival
+
+ti xml attribut attrib attribut set find name
+attrib
+tixml attribut
+attrib queri int valu ival
+
+
+
+ifdef tixml
+ti xml element queri int attribut name ival
+
+ti xml attribut attrib attribut set find name
+attrib
+tixml attribut
+attrib queri int valu ival
+
+
+
+
+ti xml element queri doubl attribut name dval
+
+ti xml attribut attrib attribut set find name
+attrib
+tixml attribut
+attrib queri doubl valu dval
+
+
+
+ifdef tixml
+ti xml element queri doubl attribut name dval
+
+ti xml attribut attrib attribut set find name
+attrib
+tixml attribut
+attrib queri doubl valu dval
+
+
+
+
+ti xml element set attribut name
+
+ti xml attribut attrib attribut set find or creat name
+attrib
+attrib set int valu
+
+
+
+
+ifdef tixml
+ti xml element set attribut name
+
+ti xml attribut attrib attribut set find or creat name
+attrib
+attrib set int valu
+
+
+
+
+
+ti xml element set doubl attribut name
+
+ti xml attribut attrib attribut set find or creat name
+attrib
+attrib set doubl valu
+
+
+
+
+ifdef tixml
+ti xml element set doubl attribut name
+
+ti xml attribut attrib attribut set find or creat name
+attrib
+attrib set doubl valu
+
+
+
+
+
+ti xml element set attribut cname cvalu
+
+ti xml attribut attrib attribut set find or creat cname
+attrib
+attrib set valu cvalu
+
+
+
+
+ifdef tixml
+ti xml element set attribut name valu
+
+ti xml attribut attrib attribut set find or creat name
+attrib
+attrib set valu valu
+
+
+
+
+
+ti xml element print file cfile depth
+
+
+cfile
+depth
+fprintf cfile
+
+
+fprintf cfile valu
+
+ti xml attribut attrib
+attrib attribut set first attrib attrib attrib next
+
+fprintf cfile
+attrib print cfile depth
+
+
+there differ format approach
+element without children print node
+element text child print text
+element children print multipl line
+ti xml node node
+first child
+
+fprintf cfile
+
+first child last child first child to text
+
+fprintf cfile
+first child print cfile depth
+fprintf cfile valu
+
+
+
+fprintf cfile
+
+node first child node node node next sibl
+
+node to text
+
+fprintf cfile
+
+node print cfile depth
+
+fprintf cfile
+depth
+fprintf cfile
+
+fprintf cfile valu
+
+
+
+
+ti xml element copi to ti xml element target
+
+superclass
+ti xml node copi to target
+
+element
+clone attribut children
+ti xml attribut attribut
+attribut attribut set first
+attribut
+attribut attribut next
+
+target set attribut attribut name attribut valu
+
+
+ti xml node node
+node first child node node node next sibl
+
+target link end child node clone
+
+
+
+ti xml element accept ti xml visitor visitor
+
+visitor visit enter attribut set first
+
+ti xml node node first child node node node next sibl
+
+node accept visitor
+
+
+
+visitor visit exit
+
+
+
+ti xml node ti xml element clone
+
+ti xml element ti xml element valu
+
+
+
+copi to
+
+
+
+
+ti xml element get text
+
+ti xml node child first child
+child
+ti xml text child text child to text
+child text
+child text valu
+
+
+
+
+
+
+ti xml document ti xml document ti xml node ti xml node tinyxml document
+
+tabsiz
+use microsoft bom
+clear error
+
+
+ti xml document ti xml document document name ti xml node ti xml node tinyxml document
+
+tabsiz
+use microsoft bom
+valu document name
+clear error
+
+
+
+ifdef tixml
+ti xml document ti xml document document name ti xml node ti xml node tinyxml document
+
+tabsiz
+use microsoft bom
+valu document name
+clear error
+
+
+
+
+ti xml document ti xml document ti xml document copi ti xml node ti xml node tinyxml document
+
+copi copi to
+
+
+
+ti xml document ti xml document copi
+
+clear
+copi copi to
+
+
+
+ti xml document load file ti xml encod encod
+
+load file valu encod
+
+
+
+ti xml document save file
+
+save file valu
+
+
+ti xml document load file filenam ti xml encod encod
+
+tixml string filenam filenam
+valu filenam
+
+read binari mode tinyxml normal
+file file ti xml f open valu
+
+file
+
+result load file file encod
+fclose file
+result
+
+
+
+set error tixml error open file tixml encod unknown
+
+
+
+
+ti xml document load file file file ti xml encod encod
+
+file
+
+set error tixml error open file tixml encod unknown
+
+
+
+delet exist
+clear
+locat clear
+
+file size alloc huge speed impact
+length
+fseek file seek
+length ftell file
+fseek file seek
+
+strang good handl front
+length
+
+set error tixml error document empti tixml encod unknown
+
+
+
+subtl tini xml fget spec
+line handl
+snip
+quot
+processor must behav normal line break extern
+pars entiti includ document entiti input pars translat
+charact sequenc follow
+singl charact
+quot
+
+clear fget certainli clear work cross platform
+gener expect fget translat convent unix
+convent work gener
+
+
+fget file
+
+
+
+
+
+length
+
+
+fread length file
+
+set error tixml error open file tixml encod unknown
+
+
+
+process buffer place normal line comment
+copi pointer advanc faster
+newlin carriag
+
+wikipedia
+system base ascii compat charact either line feed 0x0 a
+carriag 0x0 d individu follow 0x0 d 0x0 a
+multic unix unix like system linux xenix free bsd be os amiga risc other
+earli unix o se microsoft window symbian
+commodor machin appl famili version
+
+read head
+write head
+0x0d
+0x0a
+
+length
+
+length
+length
+
+
+
+
+
+check skip
+
+
+
+
+
+
+
+length
+
+
+pars encod
+
+
+error
+
+
+
+ti xml document save file filenam
+
+stuff live
+file ti xml f open filenam
+
+
+result save file
+fclose
+result
+
+
+
+
+
+ti xml document save file file
+
+use microsoft bom
+
+tixml lead 0xef u
+tixml lead 0xbb u
+tixml lead 0xbf u
+
+fputc tixml lead
+fputc tixml lead
+fputc tixml lead
+
+print
+ferror
+
+
+
+ti xml document copi to ti xml document target
+
+ti xml node copi to target
+
+target error error
+target error id error id
+target error desc error desc
+target tabsiz tabsiz
+target error locat error locat
+target use microsoft bom use microsoft bom
+
+ti xml node node
+node first child node node node next sibl
+
+target link end child node clone
+
+
+
+
+ti xml node ti xml document clone
+
+ti xml document ti xml document
+
+
+
+copi to
+
+
+
+
+ti xml document print file cfile depth
+
+cfile
+ti xml node node first child node node node next sibl
+
+node print cfile depth
+fprintf cfile
+
+
+
+
+ti xml document accept ti xml visitor visitor
+
+visitor visit enter
+
+ti xml node node first child node node node next sibl
+
+node accept visitor
+
+
+
+visitor visit exit
+
+
+
+ti xml attribut ti xml attribut next
+
+knowledg sentinel sentinel
+valu name
+valu name
+
+
+
+
+
+ti xml attribut ti xml attribut next
+
+knowledg sentinel sentinel
+valu name
+valu name
+
+
+
+
+
+ti xml attribut ti xml attribut previou
+
+knowledg sentinel sentinel
+valu name
+prev valu prev name
+
+prev
+
+
+
+ti xml attribut ti xml attribut previou
+
+knowledg sentinel sentinel
+valu name
+prev valu prev name
+
+prev
+
+
+
+ti xml attribut print file cfile depth tixml string
+
+tixml string
+
+encod string name
+encod string valu
+
+valu find tixml string npo
+cfile
+fprintf cfile
+
+
+
+
+
+
+cfile
+fprintf cfile
+
+
+
+
+
+
+
+
+ti xml attribut queri int valu ival
+
+tixml sscanf valu ival
+tixml success
+tixml wrong type
+
+
+ti xml attribut queri doubl valu dval
+
+tixml sscanf valu dval
+tixml success
+tixml wrong type
+
+
+ti xml attribut set int valu valu
+
+
+defin tixml snprintf
+tixml snprintf valu
+
+sprintf valu
+
+set valu
+
+
+ti xml attribut set doubl valu valu
+
+
+defin tixml snprintf
+tixml snprintf valu
+
+sprintf valu
+
+set valu
+
+
+ti xml attribut int valu
+
+atoi valu
+
+
+ti xml attribut doubl valu
+
+atof valu
+
+
+
+ti xml comment ti xml comment ti xml comment copi ti xml node ti xml node tinyxml comment
+
+copi copi to
+
+
+
+ti xml comment ti xml comment
+
+clear
+copi to
+
+
+
+ti xml comment print file cfile depth
+
+cfile
+depth
+
+fprintf cfile
+
+fprintf cfile valu
+
+
+
+ti xml comment copi to ti xml comment target
+
+ti xml node copi to target
+
+
+
+ti xml comment accept ti xml visitor visitor
+
+visitor visit
+
+
+
+ti xml node ti xml comment clone
+
+ti xml comment ti xml comment
+
+
+
+
+copi to
+
+
+
+
+ti xml text print file cfile depth
+
+cfile
+cdata
+
+
+fprintf cfile
+depth
+fprintf cfile
+
+fprintf cfile cdata valu unformat output
+
+
+
+tixml string buffer
+encod string valu buffer
+fprintf cfile buffer
+
+
+
+
+ti xml text copi to ti xml text target
+
+ti xml node copi to target
+target cdata cdata
+
+
+
+ti xml text accept ti xml visitor visitor
+
+visitor visit
+
+
+
+ti xml node ti xml text clone
+
+ti xml text
+ti xml text
+
+
+
+
+copi to
+
+
+
+
+ti xml declar ti xml declar version
+encod
+standalon
+ti xml node ti xml node tinyxml declar
+
+version version
+encod encod
+standalon standalon
+
+
+
+ifdef tixml
+ti xml declar ti xml declar version
+encod
+standalon
+ti xml node ti xml node tinyxml declar
+
+version version
+encod encod
+standalon standalon
+
+
+
+
+ti xml declar ti xml declar ti xml declar copi
+ti xml node ti xml node tinyxml declar
+
+copi copi to
+
+
+
+ti xml declar ti xml declar copi
+
+clear
+copi copi to
+
+
+
+ti xml declar print file cfile depth tixml string
+
+cfile fprintf cfile
+
+
+version
+cfile fprintf cfile version version
+version version
+
+encod
+cfile fprintf cfile encod encod
+encod encod
+
+standalon
+cfile fprintf cfile standalon standalon
+standalon standalon
+
+cfile fprintf cfile
+
+
+
+
+ti xml declar copi to ti xml declar target
+
+ti xml node copi to target
+
+target version version
+target encod encod
+target standalon standalon
+
+
+
+ti xml declar accept ti xml visitor visitor
+
+visitor visit
+
+
+
+ti xml node ti xml declar clone
+
+ti xml declar ti xml declar
+
+
+
+
+copi to
+
+
+
+
+ti xml unknown print file cfile depth
+
+depth
+fprintf cfile
+fprintf cfile valu
+
+
+
+ti xml unknown copi to ti xml unknown target
+
+ti xml node copi to target
+
+
+
+ti xml unknown accept ti xml visitor visitor
+
+visitor visit
+
+
+
+ti xml node ti xml unknown clone
+
+ti xml unknown ti xml unknown
+
+
+
+
+copi to
+
+
+
+
+ti xml attribut set ti xml attribut set
+
+sentinel sentinel
+sentinel prev sentinel
+
+
+
+ti xml attribut set ti xml attribut set
+
+sentinel sentinel
+sentinel prev sentinel
+
+
+
+ti xml attribut set ti xml attribut add me
+
+ifdef tixml
+find tixml string add me name shouldn multipli ad
+
+find add me name shouldn multipli ad
+
+
+add me sentinel
+add me prev sentinel prev
+
+sentinel prev add me
+sentinel prev add me
+
+
+ti xml attribut set remov ti xml attribut remov me
+
+ti xml attribut node
+
+node sentinel node sentinel node node
+
+node remov me
+
+node prev node
+node prev node prev
+node
+node prev
+
+
+
+tri remov link attribut
+
+
+
+ifdef tixml
+ti xml attribut ti xml attribut set find name
+
+ti xml attribut node sentinel node sentinel node node
+
+node name name
+node
+
+
+
+
+ti xml attribut ti xml attribut set find or creat name
+
+ti xml attribut attrib find name
+attrib
+attrib ti xml attribut
+attrib
+attrib set name name
+
+attrib
+
+
+
+
+ti xml attribut ti xml attribut set find name
+
+ti xml attribut node sentinel node sentinel node node
+
+strcmp node name name
+node
+
+
+
+
+
+ti xml attribut ti xml attribut set find or creat name
+
+ti xml attribut attrib find name
+attrib
+attrib ti xml attribut
+attrib
+attrib set name name
+
+attrib
+
+
+
+ifdef tixml
+istream istream ti xml node
+
+tixml string
+reserv 1000
+stream in
+
+pars tixml default encod
+
+
+
+
+
+ifdef tixml
+ostream ostream ti xml node
+
+ti xml printer printer
+printer set stream print
+accept printer
+printer
+
+
+
+
+
+ti xml node
+
+ti xml printer printer
+printer set stream print
+accept printer
+append printer
+
+
+
+
+
+
+ti xml handl ti xml handl first child
+
+node
+
+ti xml node child node first child
+child
+ti xml handl child
+
+ti xml handl
+
+
+
+ti xml handl ti xml handl first child valu
+
+node
+
+ti xml node child node first child valu
+child
+ti xml handl child
+
+ti xml handl
+
+
+
+ti xml handl ti xml handl first child element
+
+node
+
+ti xml element child node first child element
+child
+ti xml handl child
+
+ti xml handl
+
+
+
+ti xml handl ti xml handl first child element valu
+
+node
+
+ti xml element child node first child element valu
+child
+ti xml handl child
+
+ti xml handl
+
+
+
+ti xml handl ti xml handl child count
+
+node
+
+
+ti xml node child node first child
+
+child count
+child child next sibl
+
+noth
+
+child
+ti xml handl child
+
+ti xml handl
+
+
+
+ti xml handl ti xml handl child valu count
+
+node
+
+
+ti xml node child node first child valu
+
+child count
+child child next sibl valu
+
+noth
+
+child
+ti xml handl child
+
+ti xml handl
+
+
+
+ti xml handl ti xml handl child element count
+
+node
+
+
+ti xml element child node first child element
+
+child count
+child child next sibl element
+
+noth
+
+child
+ti xml handl child
+
+ti xml handl
+
+
+
+ti xml handl ti xml handl child element valu count
+
+node
+
+
+ti xml element child node first child element valu
+
+child count
+child child next sibl element valu
+
+noth
+
+child
+ti xml handl child
+
+ti xml handl
+
+
+
+ti xml printer visit enter ti xml document
+
+
+
+
+ti xml printer visit exit ti xml document
+
+
+
+
+ti xml printer visit enter ti xml element element ti xml attribut first attribut
+
+do indent
+buffer
+buffer element valu
+
+ti xml attribut attrib first attribut attrib attrib attrib next
+
+buffer
+attrib print buffer
+
+
+element first child
+
+buffer
+do line break
+
+
+
+buffer
+element first child to text
+element last child element first child
+element first child to text cdata
+
+simpl text print
+do line break
+
+
+
+do line break
+
+
+depth
+
+
+
+
+ti xml printer visit exit ti xml element element
+
+depth
+element first child
+
+noth
+
+
+
+simpl text print
+
+simpl text print
+
+
+
+do indent
+
+buffer
+buffer element valu
+buffer
+do line break
+
+
+
+
+
+ti xml printer visit ti xml text text
+
+text cdata
+
+do indent
+buffer cdata
+buffer text valu
+buffer
+do line break
+
+simpl text print
+
+tixml string
+ti xml base encod string text valu t str
+buffer
+
+
+
+do indent
+tixml string
+ti xml base encod string text valu t str
+buffer
+do line break
+
+
+
+
+
+ti xml printer visit ti xml declar declar
+
+do indent
+declar print buffer
+do line break
+
+
+
+
+ti xml printer visit ti xml comment comment
+
+do indent
+buffer
+buffer comment valu
+buffer
+do line break
+
+
+
+
+ti xml printer visit ti xml unknown unknown
+
+do indent
+buffer
+buffer unknown valu
+buffer
+do line break
+
+
+
+
+panda softwar
+copyright carnegi mellon univers right reserv
+
+softwar subject term revis
+licens receiv copi licens along
+sourc code file name licens
+
+file p3 d activ x
+author atrestman
+date 2009
+
+
+p3 d activ x implement cp3 d activ x app registr
+
+stdafx
+p3 d activ x
+
+comcat
+strsafe
+objsaf
+
+
+ifdef debug
+defin debug
+
+
+
+cp3 d activ x app near the app
+
+guid cdecl base code tlid
+0x22 a8 fc5 f 0x bc33 0x479 a 0x83 0x17 0x2 b 0x c8 0x16 0x b8 0x ab 0x8 a
+word w ver major
+word w ver minor
+
+clsid safe item necessari activ x control
+
+taken implement olecr xxx ctrl
+
+
+catid clsid safe item
+0x924b4927 0xd3ba 0x41ea 0x9f 0x7e 0x8a 0x89 0x19 0x4a 0xb3 0xac
+
+hresult creat compon categori use activ x control
+
+
+hresult creat compon categori catid catid wchar cat descript
+
+i cat regist
+hresult
+
+co creat instanc clsid std compon categori mgr
+clsctx inproc server i cat regist
+fail
+
+
+make sure hkcr compon categori catid
+
+regist
+
+categoryinfo catinfo
+catinfo catid catid
+catinfo lcid 0x0409 english
+
+size
+make sure provid descript
+
+onli copi first charact
+
+second paramet string cch length maximum
+
+charact read cat descript
+
+there must room termin third paramet
+
+contain charact exclud termin
+
+string cch length w cat descript strsafe
+succeed
+
+
+
+
+
+
+
+
+todo write error handler
+
+
+second paramet string cch copi need
+
+room termin
+
+string cch copi w catinfo sz descript cat descript
+make sure descript termin
+
+catinfo sz descript
+
+regist categori catinfo
+releas
+
+
+
+
+hresult regist clsid in categori
+
+regist compon categori inform
+
+
+hresult regist clsid in categori refclsid clsid catid catid
+
+regist compon categori inform
+
+i cat regist
+hresult
+co creat instanc clsid std compon categori mgr
+clsctx inproc server i cat regist
+succeed
+
+regist categori implement
+
+catid rgcatid
+rgcatid catid
+regist class impl categori clsid rgcatid
+
+
+
+releas
+
+
+
+
+hresult un regist clsid in categori remov entri registri
+
+
+hresult un regist clsid in categori refclsid clsid catid catid
+
+i cat regist
+hresult
+
+co creat instanc clsid std compon categori mgr
+clsctx inproc server i cat regist
+succeed
+
+unregist categori implement
+
+catid rgcatid
+rgcatid catid
+un regist class impl categori clsid rgcatid
+
+
+
+releas
+
+
+
+
+
+cp3 d activ x app init instanc initi
+
+bool cp3 d activ x app init instanc
+
+bool b init c ole control modul init instanc
+
+b init
+
+todo initi code
+
+seed lame random gener rand select
+mirror download
+srand time
+
+
+b init
+
+
+
+
+cp3 d activ x app exit instanc termin
+
+cp3 d activ x app exit instanc
+
+todo termin code
+
+c ole control modul exit instanc
+
+
+
+
+dll regist server add entri system registri
+
+stdapi dll regist server
+
+hresult h result use safeti function
+
+
+manag state afx modul addr thi
+
+afx ole regist type lib afx get instanc handl tlid
+result from scode selfreg typelib
+
+c ole object factori ex updat registri all
+result from scode selfreg class
+
+mark control initi
+
+
+creat compon categori catid safe for initi
+control safe initializ persist
+fail
+
+
+regist clsid in categori clsid safe item
+catid safe for initi
+fail
+
+
+mark control script
+
+
+creat compon categori catid safe for script
+control safe scriptabl
+fail
+
+
+regist clsid in categori clsid safe item
+catid safe for script
+fail
+
+
+noerror
+
+
+
+
+dll unregist server remov entri system registri
+
+stdapi dll unregist server
+
+hresult h result use safeti function
+
+
+manag state afx modul addr thi
+
+remov entri registri
+
+un regist clsid in categori clsid safe item
+catid safe for initi
+fail
+
+
+un regist clsid in categori clsid safe item
+catid safe for script
+fail
+
+
+afx ole unregist type lib tlid w ver major w ver minor
+result from scode selfreg typelib
+
+c ole object factori ex updat registri all
+result from scode selfreg class
+
+noerror
+
+
+panda softwar
+copyright carnegi mellon univers right reserv
+
+softwar subject term revis
+licens receiv copi licens along
+sourc code file name licens
+
+file pp interfac
+author atrestman
+date 2009
+
+
+stdafx
+
+pp interfac
+pp panda object
+pp browser object
+pp instanc
+p3 d activ x ctrl
+
+strstream
+mshtml
+
+pp interfac pp interfac
+
+
+
+pp interfac pp interfac
+
+
+
+
+hresult pp interfac get id of name i dispatch p disp c string pt name dispid disp id
+
+p disp
+
+fail
+
+olechar p element name pt name alloc sy string
+
+hresult p disp get i ds of name p element name local user default disp id
+sy free string p element name
+
+
+
+
+hresult pp interfac invok n type i dispatch p disp c string pt name variant pv result c arg variant
+
+p disp
+
+fail
+
+
+dispparam
+dispid dispid name dispid propertyput
+dispid disp id
+c com ptr i dispatch ex p disp ex
+
+hresult get id of name p disp pt name disp id
+disp unknownnam
+
+p disp queri interfac i dispatch ex p disp ex
+succeed p disp ex
+
+olechar p element name pt name alloc sy string
+p disp ex get disp id p element name fdex name ensur disp id
+sy free string p element name
+
+
+fail
+
+
+
+
+alloc memori
+variant p arg variant c arg
+
+revers note http msdn microsoft comen
+uslibrarycc237569 prot aspx p disp param must point dispparam
+structur defin pass method argument
+must store p disp param rgvarg revers order
+first argument highest index byref
+must mark empti entri store
+rg var ref instead
+
+c arg
+
+p arg c arg
+
+
+build dispparam
+c arg c arg
+rgvarg p arg
+
+handl special properti put
+n type dispatch propertyput n type dispatch propertyputref
+
+c name arg
+rgdispid name arg dispid name
+
+
+make call
+p disp ex
+
+p disp ex invok ex disp id local user default
+n type pv result
+fail
+
+p disp ex delet member by disp id disp id
+
+
+
+
+p disp invok disp id local user default
+n type pv result
+
+p arg
+
+
+
+
+hresult pp interfac get html doc dispatch c com ptr i dispatch p disp script
+
+hresult
+
+c com ptr i ole client site p ole client site get client ste
+p ole client site
+fail
+
+
+c com ptr i ole contain p ole contain
+p ole client site get contain p ole contain
+assert succeed p ole contain
+
+c com ptr ihtml document p html doc
+p ole contain queri interfac ihtml document p html doc
+assert succeed p html doc
+
+script return script script
+element script method
+p html doc script p disp script
+assert succeed p disp script
+
+c com ptr i dispatch ex p disp ex script
+p disp script queri interfac i dispatch ex p disp ex script
+assert succeed p disp ex script
+
+p disp script p disp ex script
+
+c com ptr i type info p type info
+p disp script get type info p type info
+
+
+
+
+hresult pp interfac ha properti c com ptr i dispatch p dispatch c string name
+
+hresult
+p dispatch
+
+get html doc dispatch p dispatch
+
+
+dispid disp id
+succeed
+
+get id of name p dispatch name disp id
+
+
+
+
+hresult pp interfac call method c com ptr i dispatch p dispatch c string name c ole variant var result num param c ole variant
+
+hresult
+p dispatch
+
+get html doc dispatch p dispatch
+
+succeed
+
+invok dispatch method p dispatch name var result num param
+
+
+
+
+hresult pp interfac get properti c com ptr i dispatch p dispatch c string name c ole variant var result
+
+hresult
+p dispatch
+
+get html doc dispatch p dispatch
+
+succeed
+
+invok dispatch propertyget p dispatch name var result
+
+
+
+
+hresult pp interfac set properti c com ptr i dispatch p dispatch c string name c ole variant var valu c ole variant var result
+
+hresult
+p dispatch
+
+get html doc dispatch p dispatch
+
+succeed
+
+var valu dispatch
+
+invok dispatch propertyputref p dispatch name var result var valu
+
+
+
+invok dispatch propertyput p dispatch name var result var valu
+
+
+
+
+
+hresult pp interfac eval express c com ptr i dispatch p dispatch c string express c ole variant var result
+
+hresult
+p dispatch
+
+get html doc dispatch p dispatch
+
+succeed
+
+c ole variant param express
+invok dispatch method p dispatch c string var result param
+
+
+
+
+hresult pp interfac p3 d ha method p3d object c string name result
+
+p3d object
+
+p3d object get p3 d object
+p3d object
+
+fail
+
+
+result object method p3d object name
+
+
+
+hresult pp interfac p3 d call method p3d object c string name dispparam pdispparam variant var result
+
+p3d object
+
+p3d object get p3 d object
+p3d object
+
+fail
+
+
+pdispparam c arg
+uint pdispparam c arg
+
+revers http msdn microsoft comen
+uslibrarycc237569 prot aspx p disp param must point
+dispparam structur defin pass
+method argument must store p disp param rgvarg revers
+order first argument highest index
+byref must mark
+empti entri store rg var ref instead
+
+c ole variant va arg pdispparam rgvarg pdispparam c arg
+variant p3dobj va arg
+
+need result
+var result
+
+need result
+
+p3d object result object call p3d object name need result pdispparam c arg
+p3d object result
+
+p3dobj variant var result p3d object result
+object decref p3d object result
+
+uint pdispparam c arg
+
+object decref
+
+
+
+
+
+
+hresult pp interfac p3 d get properti p3d object c string name variant var result
+
+p3d object
+
+p3d object get p3 d object
+p3d object
+
+fail
+
+
+p3d object result object properti p3d object name
+p3d object result
+
+p3dobj variant var result p3d object result
+object decref p3d object result
+
+
+
+
+hresult pp interfac p3 d set properti p3d object c string name dispparam pdispparam result
+
+p3d object
+
+p3d object get p3 d object
+p3d object
+
+fail
+
+
+c ole variant va arg pdispparam rgvarg
+param variant p3dobj va arg
+result object properti p3d object name param
+object decref param
+
+result
+fail
+
+
+
+
+
+pp interfac p3dobj variant variant result
+
+result
+
+
+
+object type
+
+
+
+result empti
+
+
+none
+
+result empti
+
+
+
+
+result bool
+result b val object bool
+
+
+
+
+result
+result l val object
+
+
+
+
+result
+result flt val object float
+
+
+
+
+size object string
+buffer size
+object string buffer size
+
+wsize multi byte to wide char utf8 buffer size
+wchar wbuffer wchar wsize
+multi byte to wide char utf8 buffer size wbuffer wsize
+wbuffer wsize
+
+result bstr
+result bstr val sy alloc string wbuffer
+
+buffer
+wbuffer
+
+
+
+
+pp browser object pp browser object pp browser object
+p panda object pp panda object p panda object pp browser object
+result dispatch
+result pdisp val pp panda object
+
+
+
+
+result empti
+
+
+
+
+
+pp interfac variant p3dobj c ole variant variant
+
+variant
+
+none
+
+variant
+
+void
+
+
+
+
+empti
+
+none panda realli expect
+
+
+
+
+bool
+
+variant b val
+
+
+
+
+variant i val
+
+
+
+
+variant l val
+
+
+
+
+variant ll val
+
+
+
+
+variant flt val
+
+
+
+
+variant dbl val
+
+
+bstr
+
+bstr bstr variant bstr val
+uint blen sy string len bstr
+
+slen wide char to multi byte utf8 bstr blen
+
+sbuffer slen
+wide char to multi byte utf8 bstr blen
+sbuffer slen
+
+sbuffer slen
+sbuffer
+
+
+
+dispatch
+
+follow comment code crash
+
+c com ptr i dispatch p disp object variant pdisp val
+c com ptr i type info p type info
+hresult p disp object get type info p type info
+succeed p type info
+
+typeattr p type attr
+p type info get type attr p type attr
+
+p type info releas type attr p type attr
+
+
+pp browser object variant pdisp val
+
+
+
+
+
+
+
+
+
+
+c string pp interfac repr c ole variant variant
+
+strstream repr
+repr i dispatch
+variant
+
+void
+
+repr void
+
+
+empti
+
+repr empti
+
+
+bool
+
+repr bool variant b val
+
+
+
+
+repr variant i val
+
+
+
+
+repr variant l val
+
+
+
+
+repr variant ll val
+
+
+
+
+repr variant flt val
+
+
+
+
+repr variant dbl val
+
+
+bstr
+
+c string variant
+repr bstr
+
+
+dispatch
+
+variant pdisp val
+
+c com ptr i dispatch p disp object variant pdisp val
+c com ptr i type info p type info
+hresult p disp object get type info p type info
+succeed p type info
+
+typeattr p type attr
+p type info get type attr p type attr
+p type attr
+
+olechar sz guid
+n count string from guid2 p type attr guid sz guid sz guid
+c string guid sz guid n count
+
+repr dispatch guid guid
+p type info releas type attr p type attr
+
+
+
+repr dispatch variant pdisp val
+
+
+
+
+repr dispatch variant pdisp val
+
+
+
+
+repr unknown
+
+
+
+
+
+
+repr unknown
+
+
+
+
+c string repr repr pcount
+
+
+panda softwar
+copyright carnegi mellon univers right reserv
+
+softwar subject term revis
+licens receiv copi licens along
+sourc code file name licens
+
+file pp logger
+author atrestman
+date 2009
+
+
+stdafx
+
+window
+pp logger
+mkdir complet
+wstring encod
+
+ofstream pp logger logfil
+pp logger is open
+
+pp logger pp logger
+
+
+
+pp logger pp logger
+
+
+
+pp logger open root dir
+
+is open
+note logfil name specifi runtim must
+compil specifi
+
+directori
+allow develop compil directori
+ifdef plugin directori
+directori
+directori plugin directori
+
+
+
+fail write logfil panda3 dlog
+directori
+directori root dir
+
+mkdir complet directori cerr
+
+ensur directori end slash
+directori directori directori size
+ifdef win32
+directori directori size
+
+directori
+
+
+construct logfil pathnam
+
+basenam
+ifdef plugin basename1
+basenam
+basenam plugin basename1
+
+
+basenam
+basenam p3dplugin
+
+
+basenam
+pathnam directori
+pathnam basenam
+pathnam
+
+logfil close
+logfil clear
+wstring pathnam
+wstring pathnam pathnam
+logfil open pathnam trunc
+logfil setf unitbuf
+
+
+logfil name compil away output
+simpl expedi never actual open ofstream
+is open
+
+
+
+panda softwar
+copyright carnegi mellon univers right reserv
+
+softwar subject term revis
+licens receiv copi licens along
+sourc code file name licens
+
+file pp download request
+author atrestman
+date 2009
+
+
+stdafx
+
+pp download request
+pp instanc
+wstring encod
+
+pp download request begin
+
+event stop reset event
+event download stop reset event
+
+
+
+pp download request data notifi size expect data size size data size
+
+
+event stop h object
+
+wait for singl object event stop h object wait object
+
+cancel user
+
+
+request type
+
+request type p3 d object
+
+p3d request
+
+feed stream p3d request
+p3d request request uniqu
+progress
+
+expect data size
+
+data size
+
+
+
+request type file
+
+h file invalid handl valu
+
+wstring filenam
+wstring filenam file name
+h file creat file w filenam gener write creat alway file attribut normal
+h file invalid handl valu
+
+
+
+
+dword number of byte written
+write file h file data size number of byte written
+
+
+
+
+
+request type data
+
+
+
+bit cast data size
+bit
+
+
+
+
+
+
+
+
+pp download request progress notifi size progress size max progress
+
+is window parent wnd
+
+send messag parent wnd progress wparam progress max progress
+
+
+
+pp download request
+
+h file invalid handl valu
+
+close handl h file
+h file invalid handl valu
+
+event download stop set event
+
+
+
+panda softwar
+copyright carnegi mellon univers right reserv
+
+softwar subject term revis
+licens receiv copi licens along
+sourc code file name licens
+
+file pp panda object
+author atrestman
+date 2009
+
+
+stdafx
+pp panda object
+pp instanc
+load plugin
+
+p panda object p panda object pp interfac interfac p3d object
+interfac p3d object p3d object ref ptinfo
+
+p3d object
+
+object incref p3d object
+
+add ref
+pp instanc plugin
+
+
+p panda object p panda object
+
+ptinfo
+
+ptinfo releas
+
+
+clean alreadi unload
+plugin
+p3d object
+
+object decref p3d object
+
+
+pp instanc unref plugin
+
+
+dispatch method
+
+stdmethodimp p panda object add ref
+
+ref
+
+
+stdmethodimp p panda object releas
+
+ref
+ref
+
+
+
+
+ref
+
+
+stdmethodimp p panda object queri interfac refiid riid
+
+is equal iid riid i unknown
+
+is equal iid riid i dispatch
+
+
+nointerfac
+
+
+
+add ref
+noerror
+
+
+stdmethodimp p panda object get i ds of name
+refiid riid
+olechar rgsz name
+c name
+lcid lcid
+dispid rgdispid
+
+unus lcid
+
+is equal iid riid
+
+disp unknowninterfac
+
+
+uint c name
+
+uint
+id of name size
+
+id of name rgsz name
+
+rgdispid
+
+
+
+id of name size
+
+c string name rgsz name
+id of name push back name
+rgdispid
+
+
+
+
+
+stdmethodimp p panda object get type info i t info lcid lcid i type info pp t info
+
+unus lcid
+
+pp t info
+
+invalidarg
+
+pp t info
+
+i t info
+
+disp badindex
+
+ptinfo
+
+fail
+
+ptinfo add ref add ref pointer cach
+typeinfo
+pp t info ptinfo
+
+noerror
+
+
+stdmethodimp p panda object get type info count pctinfo
+
+thi singl introduc
+pctinfo
+
+noerror
+
+
+stdmethodimp p panda object invok
+dispid dispid member
+refiid riid
+lcid lcid
+w flag
+dispparam pdispparam
+variant pvar result
+excepinfo pexcepinfo
+pu arg err
+
+unus lcid
+hresult
+
+
+is equal iid riid
+
+disp unknowninterfac
+
+
+
+fail
+
+
+dispid member id of name size
+
+fail
+
+
+c string name id of name dispid member
+
+w flag
+
+dispatch method
+dispatch method dispatch propertyget
+
+note http msdn microsoft comen uslibraryms221479 aspx
+member invok method properti
+name dispatch method dispatch propertyget
+flag
+
+ha method
+p3 d ha method p3d object name ha method
+succeed ha method
+
+p3 d call method p3d object name pdispparam pvar result
+
+
+
+dispatch propertyget
+
+p3 d get properti p3d object name pvar result
+
+
+dispatch propertyput
+
+result
+p3 d set properti p3d object name pdispparam result
+
+
+
+
+
+stdafx sourc file includ standard includ
+p3 d activ x compil header
+stdafx contain compil inform
+
+stdafx
+
+panda softwar
+copyright carnegi mellon univers right reserv
+
+softwar subject term revis
+licens receiv copi licens along
+sourc code file name licens
+
+file pp instanc
+author atrestman
+date 2009
+
+
+stdafx
+
+
+sstream
+iostream
+fstream
+algorithm
+
+stdlib
+stdio
+
+errno
+
+window
+process
+
+resourc
+pp instanc
+p3 d activ x ctrl
+pp browser object
+pp download request
+
+plugin config
+tinyxml
+load plugin
+find root
+mkdir complet
+pars color
+wstring encod
+
+header file dtool platform definit even
+though link dtool
+dtool platform
+panda version
+
+defin content filenam content
+defin default plugin filenam plugin
+
+instanc count
+notif sync
+
+handl request on ui thread
+
+
+cp3 d activ x ctrl parent cast cp3 d activ x ctrl user
+parent
+
+is window parent h wnd
+
+post messag parent h wnd panda notif
+
+
+
+nout handl notif thread control window invalid
+
+
+
+
+nout handl notif thread instanc user control
+
+
+
+
+pp instanc pp instanc cp3 d activ x ctrl parent ctrl
+parent ctrl parent ctrl p3d instanc p3d object is init
+
+need root first
+root dir find root
+wstring root dir root dir
+
+then open logfil
+logger open root dir
+
+plugin load
+content expir
+fail
+
+token
+token
+
+ensur initi state never
+download request close request
+event download stop set event
+event stop reset event
+
+nout plugin built panda packag host
+
+
+pp instanc pp instanc
+token
+
+
+thi call setup time read token activ x
+control
+pp instanc
+read token
+token
+token parent ctrl paramet size
+token token token
+token
+pair c string c string key and valu parent ctrl paramet
+make token lowercas sinc html insensit
+
+keyword
+parent ctrl paramet first
+keyword tolow
+
+
+token keyword strdup keyword
+token valu strdup parent ctrl paramet second
+
+
+fgcolor bgcolor use know draw
+twirl icon
+
+bgcolor white
+bgcolor bgcolor bgcolor 0xff
+token bgcolor
+
+pars color lookup token bgcolor
+bgcolor
+bgcolor
+bgcolor
+
+
+
+fgcolor either black white accord
+bright bgcolor
+bgcolor bgcolor bgcolor 0x80 0x80 0x80
+fgcolor fgcolor fgcolor 0x00
+
+fgcolor fgcolor fgcolor 0xff
+
+token fgcolor
+
+pars color lookup token fgcolor
+fgcolor
+fgcolor
+fgcolor
+
+
+
+
+pp instanc download file
+
+error
+hresult
+
+nout download
+
+pp download request p3d file download request
+pp download callback dc for file p3d file download request
+url open stream parent ctrl get control unknown dc for file
+
+fail
+
+error
+nout error download
+
+error
+
+
+pp instanc copi file
+
+ifstream binari
+ofstream binari
+
+size buffer size 4096
+buffer buffer size
+
+read buffer buffer size
+size count gcount
+count
+write buffer count
+fail
+
+
+read buffer buffer size
+count gcount
+
+
+
+
+
+
+
+
+
+
+attempt open read content file disk copi file
+standard locat success return success
+failur
+
+pp instanc
+read content file content filenam fresh download
+ti xml document content filenam
+load file
+
+
+
+found core
+
+ti xml element xcontent first child element content
+xcontent
+content default
+xcontent attribut
+
+latest possibl expir time base
+indic expir time later error
+time time
+content expir time
+
+fresh download
+updat download inform
+ti xml element xorig xcontent first child element orig
+xorig
+xcontent remov child xorig
+xorig xcontent first child element orig
+
+
+xorig ti xml element orig
+xcontent link end child xorig
+
+xorig set attribut expir content expir
+
+
+read expir time
+expir
+ti xml element xorig xcontent first child element orig
+xorig
+xorig attribut expir expir
+
+
+content expir content expir time expir
+
+
+nout read content
+expir content expir
+
+
+look host entri might point differ download
+might mention mirror
+find host xcontent
+
+look core
+coreapi
+ti xml element xpackag xcontent first child element
+xpackag
+name xpackag attribut name
+name strcmp name coreapi
+platform xpackag attribut platform
+platform strcmp platform dtool platform
+coreapi load xpackag
+xpackag attribut
+
+coreapi
+
+found core
+
+
+
+
+xpackag xpackag next sibl element
+
+
+
+found core
+couldn find coreapi descript
+nout coreapi defin content file
+dtool platform
+
+
+
+check coreapi token given specifi minimum
+core version expect find find
+perhap content date
+coreapi lookup token coreapi
+coreapi
+nout instanc ask core coreapi
+found coreapi
+bother freshli download
+fresh download
+compar coreapi coreapi
+request valu higher file
+content file must date
+nout expir content
+content expir
+
+
+
+
+success save file proper place
+standard filenam root dir content
+
+mkfile complet standard filenam nout
+save file standard filenam
+nout couldn rewrit standard filenam
+
+
+
+
+
+
+
+scan content element match host element
+
+pp instanc
+find host ti xml element xcontent
+host panda packag host
+ti xml element xhost xcontent first child element host
+xhost
+xhost attribut
+host
+primari host thi normal
+read xhost xhost
+
+
+
+primari host perhap altern host
+ti xml element xalthost xhost first child element host
+xalthost
+xalthost attribut
+host
+altern host
+read xhost xhost
+
+
+xalthost xalthost next sibl element host
+
+
+
+find use mention assum primari
+host
+read xhost xhost
+
+
+
+
+read host host host entri
+content file
+
+pp instanc
+read xhost ti xml element xhost
+download sourc download
+everyth content file
+download xhost attribut download
+download
+download prefix download
+
+download prefix panda packag host
+
+download prefix
+download prefix download prefix size
+download prefix
+
+
+
+ti xml element xmirror xhost first child element mirror
+xmirror
+xmirror attribut
+
+mirror
+
+xmirror xmirror next sibl element mirror
+
+
+
+
+add serv mirror host mirror
+consult first consult host directli
+
+pp instanc
+mirror mirror
+ensur end slash
+mirror mirror mirror size
+mirror
+
+
+mirror alreadi
+find mirror mirror mirror mirror
+mirror push back mirror
+
+
+
+
+select mirror element chosen random mirror
+add select mirror result fewer mirror
+element add mani mirror
+
+pp instanc
+choos random mirror vector result mirror
+vector size select
+
+size select mirror size size mirror
+select
+size size rand rand mirror size
+find select select select
+alreadi found find
+size rand rand mirror size
+
+select push back
+result push back mirror
+select
+
+
+
+pp instanc download p3 d compon p3d dll filenam
+
+error
+
+pathnam local copi content file
+final content file name root dir
+final content file name
+final content file name content filenam
+
+check version disk alreadi current enough
+alreadi
+read content file final content file name
+time content expir
+file good
+alreadi
+
+
+
+alreadi
+need download content file start
+download local temporari file
+wchar local filenam path
+get temp file name w root dir local filenam
+nout get temp file name fail folder root dir
+
+
+
+local filenam
+wstring local filenam local filenam
+
+host url panda packag host
+host url host url host url size
+host url
+
+
+append queri content uniquifi
+cach version
+ostringstream strm
+strm host url content filenam time
+remot content url strm
+
+error download file remot content url local filenam
+error
+read content file local filenam
+error
+
+
+error
+download read content file check
+good disk alreadi fallback
+read content file final content file name
+error
+
+
+need temporari file
+delet file w local filenam
+
+
+error
+point success read content
+good file spec coreapi
+coreapi quick verifi root dir
+alreadi disk good
+p3d dll filenam coreapi pathnam root dir
+
+alreadi disk stale
+p3d local modul file name coreapi pathnam root dir
+mkfile complet p3d local modul file name nout
+
+mirror first
+vector mirror
+choos random mirror mirror
+
+error
+vector iter mirror
+mirror error
+
+coreapi filenam
+error download file p3d local modul file name
+error coreapi full verifi root dir
+right download error
+error
+
+
+
+fail authorit host
+error
+download prefix coreapi filenam
+error download file p3d local modul file name
+error coreapi full verifi root dir
+error
+
+
+
+fail time
+queri prefix bust cach
+error
+ostringstream strm
+strm download prefix coreapi filenam
+strm time
+
+strm
+error download file p3d local modul file name
+error coreapi full verifi root dir
+nout after download coreapi filenam
+good
+error
+
+
+
+error
+download success
+p3d dll filenam coreapi pathnam root dir
+
+
+
+
+error
+fail
+
+error
+
+
+pp instanc load plugin dll filenam
+
+c singl lock load mutex
+lock
+plugin load
+
+plugin
+plugin load
+
+
+error
+plugin load
+
+pathnam dll filenam
+ifdef plugin plugin
+thi conveni macro develop defin
+nonempti indic name plugin
+actual even download possibl differ presum
+older version purpos simplifi iter plugin
+
+filenam plugin plugin
+filenam
+pathnam filenam
+
+plugin plugin
+
+nout attempt load core pathnam
+content filenam root dir content
+load plugin pathnam content filenam panda packag host
+normal
+root dir nout
+nout unabl launch core pathnam
+error
+
+
+format coreapi timestamp pass
+paramet
+ostringstream stream
+stream coreapi timestamp
+coreapi timestamp stream
+
+ifdef panda offici version
+offici
+
+offici
+
+plugin version plugin major version plugin minor version
+plugin sequenc version offici
+panda distributor
+panda packag host coreapi timestamp
+coreapi
+
+
+
+
+error
+fail
+
+error
+
+
+pp instanc unload plugin
+
+c singl lock load mutex
+lock
+
+error
+
+plugin load
+
+plugin load
+is init
+unref plugin
+
+error
+
+
+increment refer count plugin librari core
+call unref plugin later decrement count
+pp instanc
+plugin
+instanc count
+
+
+decrement refer count plugin librari thi must
+correspond earlier call plugin when last refer
+remov plugin unload
+pp instanc
+unref plugin
+instanc count
+instanc count
+
+instanc count plugin load
+nout unload core
+unload plugin nout
+
+thi pointer longer valid must reset time
+pp browser object clear definit
+
+
+
+pp instanc start p3d filenam
+
+
+c singl lock load mutex
+lock
+
+is init
+is init
+
+
+window handl parent window
+memset parent window parent window
+parent window window handl hwnd
+parent window handl hwnd hwnd parent ctrl h wnd
+
+rect rect
+get client rect parent ctrl h wnd rect
+
+nout creat p3d filenam
+p3d instanc notif sync token token parent ctrl
+
+p3d instanc
+
+nout error creat get last error
+
+
+c com ptr i dispatch ex p dispatch
+pp browser object pobj pp browser object parent ctrl p dispatch
+browser script p3d instanc pobj
+object decref pobj
+
+p3d object panda script p3d instanc
+object incref p3d object
+
+setup window p3d instanc embed rect left rect rect right rect left rect bottom rect parent window
+
+nout start p3d filenam
+start p3d instanc p3d filenam
+
+nout error start get last error
+
+
+
+
+
+
+pp instanc stop
+
+event stop set event
+wait for singl object event download stop h object infinit
+p3d instanc
+
+finish p3d instanc
+p3d instanc
+
+p3d object
+
+object decref p3d object
+p3d object
+
+plugin load
+
+unload plugin
+
+
+token
+token
+token keyword
+token valu
+
+token
+token
+token
+
+
+
+
+
+pp instanc get host url
+
+c string host page locat parent ctrl host page url left parent ctrl host page url revers find
+p3d remot filenam host page locat
+p3d remot filenam
+p3d remot filenam
+
+
+pp instanc get p3 d filenam
+
+p3d filenam
+uint parent ctrl paramet size
+
+pair c string c string key and valu parent ctrl paramet
+key and valu first
+
+p3d filenam key and valu second
+
+
+p3d filenam
+
+
+pp instanc handl request loop
+inst check request
+inst
+request request request inst
+request
+cp3 d activ x ctrl parent cp3 d activ x ctrl inst user
+parent
+parent handl request request
+handl request meant control temporarili
+java script callback
+
+
+
+
+nout error handl request instanc user control
+
+
+inst check request
+
+
+
+pp instanc handl request get url
+
+hresult
+thread request data trdata cast thread request data
+pp instanc trdata
+request request trdata request
+host trdata host
+trdata
+
+request
+
+
+
+uniqu request request uniqu
+request request
+cp3 d activ x ctrl parent cast cp3 d activ x ctrl request user
+
+parent
+
+
+
+
+nout handl request
+
+convert rel full
+size colon find
+size slash find
+colon npo colon slash
+full rel prepend current
+
+start slash back root particular
+host
+colon host find
+colon npo
+colon host size
+host colon host colon
+slash host find colon
+host substr slash
+
+
+start slash rel page
+host
+
+nout made fullpath
+
+
+
+pp download request p3d object download request parent request
+pp download callback p3d object download request
+url open stream parent get control unknown
+
+result code result code done
+fail
+
+nout error handl request
+result code gener error
+
+
+feed stream
+request
+request request uniqu
+result code
+
+
+
+
+
+request finish request
+
+
+pp instanc
+handl request request request
+request
+
+
+handl
+
+
+request request
+stop
+
+finish request
+handl
+
+
+
+
+alway handl request thread
+thread request data trdata thread request data
+trdata
+trdata request request
+trdata host get host url
+
+beginthread handl request get url trdata
+handl
+
+
+callback
+
+callback control temporarili java script
+
+
+
+
+
+some request type handl
+
+
+
+
+request finish request handl
+
+
+
+
+compar dot integ sequenc valu numer return
+sort first sort first equival
+
+pp instanc
+compar
+
+
+comp compar
+comp
+
+
+both string togeth
+
+
+first
+
+
+first
+
+
+
+increment past
+
+
+comp compar
+
+
+comp
+
+
+
+numer compar format integ valu
+increment charact follow valid
+integ
+
+pp instanc
+compar
+
+
+
+
+
+strtol
+strtol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+call someth gone wrong prevent plugin
+run specif mean fail load core
+
+pp instanc
+fail
+fail
+fail
+
+nout plugin fail
+
+look onpluginfail token
+express lookup token onpluginfail
+
+express
+attempt evalu express
+c ole variant var result
+c com ptr i dispatch p dispatch
+
+c string eval express express
+hresult parent ctrl eval express p dispatch eval express var result
+fail
+nout unabl express
+
+nout eval express
+
+
+
+
+
+
+
+return valu associ first appear name token
+token appear
+
+pp instanc
+lookup token keyword
+token
+strcmp token keyword keyword
+token valu
+
+
+
+
+
+
+
+return name token appear otherwis
+
+pp instanc
+token keyword
+token
+strcmp token keyword keyword
+
+
+
+
+
+
+
+panda softwar
+copyright carnegi mellon univers right reserv
+
+softwar subject term revis
+licens receiv copi licens along
+sourc code file name licens
+
+file p3 d activ x prop page
+author atrestman
+date 2009
+
+
+p3 d activ x prop page implement cp3 d activ x prop page properti
+page
+
+stdafx
+p3 d activ x
+p3 d activ x prop page
+
+ifdef debug
+defin debug
+
+
+
+implement dyncreat cp3 d activ x prop page c ole properti page
+
+
+
+messag
+
+messag cp3 d activ x prop page c ole properti page
+messag
+
+
+
+initi factori guid
+
+implement olecr cp3 d activ x prop page p3 dactivex p3 d activ x prop page
+0xd0111370 0xe705 0x485e 0x96 0xfd 0xa2 0xef 0xb1 0x71 0x26 0x9a
+
+
+
+cp3 d activ x prop page cp3 d activ x prop page factori updat registri add
+remov system registri entri cp3 d activ x prop page
+
+bool cp3 d activ x prop page cp3 d activ x prop page factori updat registri bool b regist
+
+b regist
+afx ole regist properti page class afx get instanc handl
+clsid p3 dactivex
+
+afx ole unregist class clsid
+
+
+
+
+cp3 d activ x prop page cp3 d activ x prop page constructor
+
+cp3 d activ x prop page cp3 d activ x prop page
+c ole properti page p3 dactivex caption
+
+
+
+
+
+cp3 d activ x prop page do data exchang move page
+properti
+
+cp3 d activ x prop page do data exchang c data exchang
+
+post process
+
+
+
+
+cp3 d activ x prop page messag handler
+
+panda softwar
+copyright carnegi mellon univers right reserv
+
+softwar subject term revis
+licens receiv copi licens along
+sourc code file name licens
+
+file pp browser object
+author atrestman
+date 2009
+
+
+stdafx
+
+pp browser object
+pp instanc
+p3 d activ x ctrl
+
+
+
+follow function style wrapper around
+pp browser object method defin allow creat style
+definit method tabl store structur
+finish
+
+pp browser object
+
+
+repr buffer buffer length
+
+pp browser object repr buffer buffer length
+
+
+properti properti
+
+pp browser object properti properti
+
+
+properti properti
+need respons valu
+
+pp browser object properti properti need respons valu
+
+
+call method name
+need respons
+
+
+method name
+
+method name
+
+respons pp browser object call method name
+need respons
+
+respons expect throw away respons receiv
+consist defin semant
+object xdecref respons
+respons
+
+respons
+
+
+express
+
+pp browser object express
+
+
+definit pp browser object browser
+
+pp browser object pp browser object pp interfac interfac i dispatch p dispatch
+interfac p dispatch p dispatch
+
+definit
+count
+
+
+pp browser object pp browser object pp browser object copi
+copi p dispatch copi p dispatch
+
+definit
+count
+
+
+pp browser object pp browser object
+
+count
+
+
+pp browser object properti properti
+
+
+
+c ole variant var result
+c com ptr i dispatch p dispatch p dispatch
+hresult ha properti p dispatch c string properti
+fail
+
+
+
+
+get properti p dispatch c string properti var result
+fail
+
+
+
+
+variant p3dobj var result
+
+
+pp browser object properti properti need respons
+valu
+
+
+
+c com ptr i dispatch p dispatch p dispatch
+c ole variant var valu var result
+p3dobj variant var valu valu
+
+hresult set properti p dispatch c string properti var valu var result
+succeed
+
+
+
+
+
+
+pp browser object call method name
+
+
+
+c ole variant var param c ole variant
+c ole variant var result
+
+first convert paramet
+
+
+p3dobj variant var param
+
+
+c com ptr i dispatch p dispatch p dispatch
+hresult call method p dispatch c string method name var result var param
+
+var param
+fail
+
+
+
+variant p3dobj var result
+
+
+pp browser object express
+
+
+
+c ole variant var result
+c com ptr i dispatch p dispatch p dispatch
+
+c string eval express express
+hresult eval express p dispatch eval express var result
+fail
+
+
+
+
+variant p3dobj var result
+
+
+pp browser object repr buffer buffer length
+
+
+
+variant
+dispatch
+pdisp val p dispatch
+
+c ole variant var dispatch
+
+c string result repr var dispatch
+strncpi buffer result buffer length
+result get length
+
+
+pp browser object clear definit
+
+browser
+
+
+definit pp browser object definit
+
+browser
+
+creat definit fill
+appropri pointer
+browser make definit
+browser finish finish
+
+browser repr repr
+browser properti properti
+browser properti properti
+browser call call
+browser
+
+browser
+
+
+panda softwar
+copyright carnegi mellon univers right reserv
+
+softwar subject term revis
+licens receiv copi licens along
+sourc code file name licens
+
+file p3 d activ x ctrl
+author atrestman
+date 2009
+
+
+p3 d activ x ctrl implement cp3 d activ x ctrl activ x control
+
+
+stdafx
+p3 d activ x
+p3 d activ x ctrl
+p3 d activ x prop page
+pp browser object
+
+mshtml
+atlconv
+comutil
+
+strstream
+
+c propbag prop exchang c prop exchang
+
+
+c propbag prop exchang lppropertybag p prop bag lperrorlog p error log
+bool b load bool b save all properti
+c propbag prop exchang
+
+oper
+bool exchang prop lpctstr psz prop name vartyp vt prop
+pv prop pv default
+bool exchang blob prop lpctstr psz prop name hglobal ph blob
+hglobal h blob default
+bool exchang font prop lpctstr psz prop name c font holder font
+fontdesc p font desc lpfontdisp p font disp ambient
+bool exchang persist prop lpctstr psz prop name
+lpunknown pp unk refiid lpunknown p unk default
+
+implement
+lppropertybag p prop bag
+lperrorlog p error log
+bool b save all properti
+
+
+ifdef debug
+defin debug
+
+
+
+implement dyncreat cp3 d activ x ctrl c ole control
+
+
+
+messag
+
+messag cp3 d activ x ctrl c ole control
+messag command on ocm command
+oleverb verb properti on properti
+creat
+messag panda notif on panda notif
+messag
+
+
+
+dispatch
+
+dispatch cp3 d activ x ctrl c ole control
+disp properti notifi cp3 d activ x ctrl main dispidmain p panda object onmain chang dispatch
+dispatch
+
+
+
+event
+
+event cp3 d activ x ctrl c ole control
+event
+
+
+
+properti page
+
+todo properti page need rememb increas count
+proppageid cp3 d activ x ctrl
+proppageid cp3 d activ x prop page guid
+proppageid cp3 d activ x ctrl
+
+
+
+initi factori guid
+
+implement olecr cp3 d activ x ctrl p3 dactivex p3 d activ x ctrl
+0x924b4927 0xd3ba 0x41ea 0x9f 0x7e 0x8a 0x89 0x19 0x4a 0xb3 0xac
+
+
+
+type librari version
+
+implement oletypelib cp3 d activ x ctrl tlid w ver major w ver minor
+
+
+
+interfac
+
+base code dp3 d activ x
+0x76904 d54 0x cc5 0x4 dbb 0x b0 0x22 0x f4 0x8 b 0x1 e 0x95 0x18 0x3 b
+base code dp3 d activ x event
+0x1 b2413 ed 0x51 c8 0x495 e 0x b9 0x17 0x98 0x3 c 0x45 0x9 b 0x8 f 0x c7
+
+
+
+control inform
+
+dword base code dw p3 d activ x ole misc
+olemisc activatewhenvis
+olemisc setclientsitefirst
+olemisc insideout
+olemisc cantlinkinsid
+olemisc recomposeonres
+
+implement olectltyp cp3 d activ x ctrl p3 dactivex dw p3 d activ x ole misc
+
+
+
+cp3 d activ x ctrl cp3 d activ x ctrl factori updat registri add remov
+system registri entri cp3 d activ x ctrl
+
+bool cp3 d activ x ctrl cp3 d activ x ctrl factori updat registri bool b regist
+
+todo verifi control follow apart model thread rule
+refer tech note inform control
+conform apart model rule must modifi code
+chang paramet afx reg apart thread
+
+b regist
+afx ole regist control class
+afx get instanc handl
+clsid
+lpsz prog id
+p3 dactivex
+p3 dactivex
+afx reg apart thread
+dw p3 d activ x ole misc
+tlid
+w ver major
+w ver minor
+
+afx ole unregist class clsid lpsz prog id
+
+
+
+
+cp3 d activ x ctrl cp3 d activ x ctrl constructor
+
+cp3 d activ x ctrl cp3 d activ x ctrl p panda object
+
+initi ii ds dp3 d activ x dp3 d activ x event
+todo initi control
+state init
+
+init thread initi run
+init run set event
+
+
+cp3 d activ x ctrl cp3 d activ x ctrl destructor
+
+cp3 d activ x ctrl cp3 d activ x ctrl
+
+todo cleanup control
+p panda object
+
+p panda object releas
+
+
+
+
+
+cp3 d activ x ctrl on draw draw
+
+cp3 d activ x ctrl on draw c rect rc bound c rect rc invalid
+
+
+
+
+state
+init
+
+state load
+first time draw messag know suffici
+start download
+read token
+twirl bitmap
+
+start twirl timer go
+set timer timer callback
+init time get tick count
+
+setup child thread
+browser get download
+init run reset event init thread run
+beginthread init
+nout couldn start thread
+init run set event
+state fail
+
+
+
+
+load
+wait init thread finish
+
+
+readi
+download go
+
+state start
+kill timer
+start get p3 d filenam
+
+
+
+start
+run need draw anyth
+kill timer
+do superclass paint rc bound
+
+
+fail
+someth went wrong ahead draw fail icon
+kill timer
+
+
+
+set meantim draw
+background twirl icon
+
+paint background
+c brush br back gnd bgcolor bgcolor bgcolor
+fill rect rc bound br back gnd
+
+dword get tick count
+
+draw twirl icon least half second pass
+distract peopl draw unnecessarili
+state fail init time
+step twirl step
+state fail
+step twirl step
+
+
+creat memori compat display
+paint
+dc memori
+dc memori creat compat dc
+
+select bitmap memori
+dc memori select object twirl bitmap step
+
+find centerpoint bitmap client area
+c rect rect
+get client rect rect
+rect left rect width twirl width
+rect rect height twirl height
+
+copi bit memori screen actual
+paint centerpoint comput target
+offset
+bit blt twirl width twirl height dc memori
+srccopi
+
+
+
+cp3 d activ x ctrl on close dword dw save option
+
+stop
+
+make sure init thread finish
+state load
+nout wait thread stop flush
+wait for singl object init run h object infinit
+nout done wait thread stop flush
+
+
+c ole control on close dw save option
+
+
+
+cp3 d activ x ctrl do prop exchang persist support
+
+cp3 d activ x ctrl do prop exchang c prop exchang
+
+exchang version makelong w ver minor w ver major
+c ole control do prop exchang
+
+todo call function persist custom properti
+
+exchang properti
+
+
+
+
+cp3 d activ x ctrl get control flag flag custom implement
+activ x control
+dword cp3 d activ x ctrl get control flag
+
+dword dw flag c ole control get control flag
+
+
+control redrawn make transit
+activ inactiv state
+dw flag no flicker activ
+dw flag
+
+
+
+
+cp3 d activ x ctrl on reset state reset control state
+
+cp3 d activ x ctrl on reset state
+
+c ole control on reset state reset default found do prop exchang
+
+todo reset control state
+
+
+
+
+cp3 d activ x ctrl pre creat window modifi paramet creat window ex
+
+bool cp3 d activ x ctrl pre creat window createstruct
+
+lpsz class static
+c ole control pre creat window
+
+
+
+
+cp3 d activ x ctrl is subclass control thi subclass control
+
+bool cp3 d activ x ctrl is subclass control
+
+
+
+
+
+
+cp3 d activ x ctrl on ocm command handl command messag
+
+lresult cp3 d activ x ctrl on ocm command wparam w param lparam l param
+
+ifdef win32
+word w notifi code hiword w param
+
+word w notifi code hiword l param
+
+
+todo switch w notifi code
+
+
+
+
+cp3 d activ x ctrl messag handler
+
+cp3 d activ x ctrl on creat lpcreatestruct lp creat struct
+
+c ole control on creat lp creat struct
+
+
+todo special creation code
+
+error
+sp client site get client site
+sp client site
+
+error
+
+c com ptr i ole contain p ole contain
+hresult sp client site get contain p ole contain
+fail p ole contain
+
+error
+
+c com ptr ihtml document2 p html2 doc
+p ole contain queri interfac ihtml document p html2 doc
+fail p html2 doc
+
+error
+
+bstr
+p html2 doc
+fail
+
+error
+
+host page url
+host page url replac
+
+sy free string
+
+c com ptr ihtml element collect p html element collect
+p html2 doc script p html element collect
+fail p html element collect
+
+error
+
+collect length
+p html element collect length collect length
+fail p html element collect
+
+error
+
+collect length
+
+javascript engin specifi page henc need
+initi infus javascript element tag
+
+c com ptr ihtml element sp html element
+p html2 doc creat element c com bstr script sp html element
+succeed sp html element
+
+sp html element languag c com bstr javascript
+succeed
+
+c com ptr ihtmldom node sp element dom node
+sp html element queri interfac ihtmldom node sp element dom node
+succeed sp element dom node
+
+c com ptr ihtmldom node sp html dom node
+p html2 doc queri interfac ihtmldom node sp html dom node
+succeed sp html dom node
+
+c com ptr ihtmldom node new node
+sp html dom node append child sp element dom node new node
+
+
+
+
+
+
+
+
+lresult cp3 d activ x ctrl on panda notif wparam w param lparam l param
+
+pp instanc handl request loop
+
+
+
+
+init method
+cp3 d activ x ctrl
+init
+cp3 d activ x ctrl cp3 d activ x ctrl
+init
+init run set event
+
+
+init method thi call startup child thread
+cp3 d activ x ctrl init
+
+error
+p3d dll filenam
+
+error download p3 d compon p3d dll filenam
+error p3d dll filenam
+
+error load plugin p3d dll filenam
+error
+
+p panda object p panda object
+state load
+readi start
+state readi
+error
+
+
+
+
+state load
+someth went wrong
+state fail
+
+error
+
+
+
+hresult cp3 d activ x ctrl exchang properti c prop exchang
+
+use convers
+hresult fail
+
+
+
+
+
+c propbag prop exchang p prop exchang dynam cast c propbag prop exchang
+p prop exchang p prop exchang p prop bag
+
+
+
+
+properti version
+i properti bag2 p prop bag2
+p prop exchang p prop bag queri interfac i properti bag2 p prop bag2
+succeed
+
+
+
+paramet
+a num
+p prop bag2 count properti a num
+atlassert
+succeed
+
+
+a num
+
+alloc paramet name
+propbag2 a prop name propbag2 a num
+a read
+
+param name
+p prop bag2 get properti info a num a prop name a read
+atlassert
+succeed
+a prop name
+
+
+alloc variant result
+c com variant a val c com variant a num
+hresult hresult a num
+p prop bag2 read a num a prop name a val
+atlassert
+succeed
+
+a val
+a prop name
+
+
+
+param list
+a num
+pair c string c string c string a prop name pstr name c string a val
+paramet push back
+want ole2 t a prop name pstr name a val
+
+unus array
+
+a val
+a prop name
+
+
+
+
+cp3 d activ x ctrl get p3 d object
+
+state start
+p3d object
+
+
+
+
+i ole client site cp3 d activ x ctrl get client ste
+
+get client site
+
+
+cp3 d activ x ctrl onmain chang
+
+manag state afx get static modul state
+
+todo properti handler code
+
+set modifi flag
+
+
+cp3 d activ x ctrl
+twirl bitmap
+size twirl size twirl width twirl height
+twirl twirl size
+twirl size
+
+step step twirl step step
+twirl twirl twirl size step
+fgcolor fgcolor fgcolor
+bgcolor bgcolor bgcolor
+
+expand channel rgba
+twirl height
+twirl twirl width
+twirl width
+twirl width
+
+
+
+
+0xff
+
+
+
+
+
+load imag
+twirl bitmap step creat bitmap twirl width twirl height
+
+
+
+cp3 d activ x ctrl
+timer callback hwnd hwnd uint uint dword time
+just invalid region make draw
+invalid rect hwnd
+
+
+panda softwar
+copyright carnegi mellon univers right reserv
+
+softwar subject term revis
+licens receiv copi licens along
+sourc code file name licens
+
+file pp download callback
+author atrestman
+date 2009
+
+
+stdafx
+pp download callback
+pp instanc
+
+
+pp download callback pp download callback pp download callback sync download sync
+download sync download sync dw total read
+dw total in stream ul obj ref count
+
+
+
+pp download callback pp download callback
+
+sp stream releas
+
+
+stdmethodimp pp download callback queri interfac refiid riid ppv object
+
+trace i unknown queri interfac
+
+ppv object
+
+i unknown
+is equal iid riid uuidof i unknown
+
+trace i unknown queri interfac i unknown
+
+ppv object
+
+i bind statu callback
+is equal iid riid uuidof i bind statu callback
+
+trace i unknown queri interfac i bind statu callback
+
+ppv object cast i bind statu callback
+
+
+ppv object
+
+reinterpret cast lpunknown ppv object add ref
+
+
+
+
+nointerfac
+
+
+stdmethodimp ulong pp download callback add ref
+
+trace i unknown add ref
+
+ul obj ref count
+
+
+stdmethodimp ulong pp download callback releas
+
+trace i unknown releas
+
+ul obj ref count
+
+
+stdmethodimp pp download callback on start bind dword i bind
+
+trace i bind statu callback on start bind
+
+download sync begin
+
+
+
+
+stdmethodimp pp download callback get prioriti long
+
+trace i bind statu callback get prioriti
+
+notimpl
+
+
+stdmethodimp pp download callback on low resourc dword
+
+trace i bind statu callback on low resourc
+
+
+
+
+stdmethodimp pp download callback on progress ulong ul progress
+ulong ul progress max
+ulong ul statu code
+lpcwstr sz statu text
+
+ifdef debug
+lpctstr plpsz statu
+
+bindstatu findingresourc
+bindstatu connect
+bindstatu redirect
+bindstatu begindownloaddata
+bindstatu downloadingdata
+bindstatu enddownloaddata
+bindstatu begindownloadcompon
+bindstatu installingcompon
+bindstatu enddownloadcompon
+bindstatu usingcachedcopi
+bindstatu sendingrequest
+bindstatu classidavail
+bindstatu mimetypeavail
+bindstatu cachefilenameavail
+bindstatu beginsyncoper
+bindstatu endsyncoper
+bindstatu beginuploaddata
+bindstatu uploadingdata
+bindstatu enduploadingdata
+bindstatu protocolclassid
+bindstatu encod
+bindstatu verfiedmimetypeavail
+bindstatu classinstallloc
+bindstatu decod
+bindstatu loadingmimehandl
+bindstatu contentdispositionattach
+bindstatu filterreportmimetyp
+bindstatu clsidcaninstanti
+bindstatu iunknownavail
+bindstatu directbind
+bindstatu rawmimetyp
+bindstatu proxydetect
+bindstatu acceptrang
+unknown
+
+
+
+trace i bind statu callback on progress
+
+trace ul progress ul progress max
+ul progress ul progress max
+
+trace ul statu code ul statu code
+
+ul statu code bindstatu first
+ul statu code bindstatu last
+
+ul statu code bindstatu last
+
+
+dw total in stream ul progress max
+download sync progress notifi ul progress ul progress max
+
+ifdef debug
+trace sz statu text
+plpsz statu ul statu code bindstatu first
+sz statu text
+
+
+
+
+
+stdmethodimp pp download callback on stop bind hresult lpcwstr
+
+trace i bind statu callback on stop bind
+
+download sync
+
+
+
+
+stdmethodimp pp download callback get bind info dword bindinfo
+
+trace i bind statu callback get bind info
+
+
+
+
+stdmethodimp pp download callback on data avail dword grf bscf dword dw size
+formatetc stgmedium pstgmed
+
+trace i bind statu callback on data avail
+
+hresult
+
+stream pass
+bscf firstdatanotif grf bscf
+
+sp stream pstgmed tyme tyme istream
+
+sp stream pstgmed pstm
+
+
+
+dword dw read dw size dw total read minimum amount avail read
+dword dw actual read placehold amount read pull
+
+read ahead read
+sp stream
+
+dw read
+
+byte p byte
+atltri p byte byte dw read
+p byte
+outofmemori
+sp stream read p byte dw read dw actual read
+succeed
+
+p byte dw actual read
+dw actual read
+
+download sync data notifi dw total in stream p byte dw actual read
+
+
+abort
+
+
+dw total read dw actual read
+
+
+p byte
+
+
+
+bscf lastdatanotif grf bscf abort
+
+sp stream releas
+
+
+
+
+stdmethodimp pp download callback on object avail refiid i unknown
+
+trace i bind statu callback on object avail
+
+
+
+use version
+defin defin
+defin build date
+
+date time

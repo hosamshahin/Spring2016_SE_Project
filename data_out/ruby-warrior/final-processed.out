@@ -1,0 +1,4192 @@
+
+
+
+
+
+descript what tick some captiv time bomb feet
+hurri captiv first space tick soon
+clue avoid fight enemi first warrior listen space tick quickli captiv
+
+time bonu
+score
+size
+stair
+
+warrior east
+
+unit sludg west
+unit sludg west
+unit captiv west
+unit captiv west
+abil explod
+abil explod time
+
+
+
+
+
+
+descript feel stair right sure want right away
+point clear level first warrior feel stair warrior feel determin
+clue go toward unit direct stair move anoth direct safe move toward enemi
+
+time bonu
+score
+size
+stair
+
+warrior east
+
+unit thick sludg west
+unit thick sludg north
+unit captiv west
+
+
+
+
+
+
+
+descript silenc room feel larg luckili tower help find stair
+warrior direct stair determin direct stair locat pass warrior walk walk direct
+
+time bonu
+score
+size
+stair
+
+warrior east
+abil walk feel direct stair
+
+
+
+
+
+
+
+descript anoth tick sound sludg block
+quickli kill sludg captiv bomb goe simpli around
+clue determin direct tick captiv kill enemi block path need bind surround enemi first
+
+time bonu
+score
+size
+stair
+
+warrior east
+
+unit sludg south
+unit sludg north
+unit sludg west
+unit captiv west
+abil explod
+abil explod time
+
+unit captiv west
+
+
+
+
+descript discov satchel bomb help face enemi
+deton bomb coupl enemi ahead warrior look watch health
+clue call warrior look space first contain enemi deton bomb warrior deton
+
+time bonu
+size
+stair
+
+warrior east
+abil look
+abil deton
+
+
+unit captiv west
+abil explod
+abil explod time
+
+unit thick sludg west
+unit sludg west
+
+
+
+
+
+
+descript never seen room full sludg start firework
+care tick captiv caught flame warrior distanc avoid captiv
+clue sure bind surround enemi fight check health deton explos
+
+time bonu
+size
+stair
+
+warrior east
+abil distanc
+
+
+unit captiv south
+abil explod
+abil explod time
+
+unit captiv north
+
+unit sludg south
+unit sludg south
+unit sludg east
+unit sludg east
+unit sludg east
+unit sludg north
+unit sludg north
+
+
+
+
+
+descript anoth larg room sever enemi block stair
+just like walk attack feel multipl direct forward left right backward
+clue call warrior feel direct enemi direct make sure enemi besid attack call warrior rest health enemi around
+
+time bonu
+score
+size
+stair
+
+warrior east
+abil attack health rest
+
+unit sludg west
+unit thick sludg west
+unit sludg north
+
+
+
+
+
+
+descript feel slime side surround
+call warrior bind direct bind enemi keep attack bound enemi look like captiv
+clue count enemi around bind enemi
+
+time bonu
+score
+size
+stair
+
+warrior east
+abil bind
+
+
+unit sludg west
+unit captiv west
+unit sludg west
+unit sludg west
+
+
+
+
+
+
+descript your ear becom tune surround listen find enemi captiv
+warrior listen find space unit warrior direct determin direct
+clue walk toward enemi captiv warrior walk warrior direct warrior listen first warrior listen head stair
+
+time bonu
+score
+size
+stair
+
+warrior east
+abil listen direct
+
+
+unit captiv east
+unit captiv east
+unit sludg south
+unit thick sludg west
+unit sludg north
+
+
+
+
+descript wall behind feel away room hear cri help
+walk backward pass backward argument walk same goe feel attack archer limit attack distanc
+clue walk backward take damag afar enough health attack also want consid walk backward warrior feel backward wall
+
+time bonu
+score
+size
+stair
+
+warrior east
+
+unit captiv east
+unit thick sludg west
+unit archer west
+unit archer west
+
+caa sc
+
+
+descript hear cri help captiv must need rescu
+warrior feel captiv captiv warrior attack captiv
+clue forget constantli check take damag rest health full take damag
+
+time bonu
+score
+size
+stair
+
+warrior east
+abil
+
+
+unit captiv west
+unit archer west
+unit archer west
+unit thick sludg west
+unit captiv west
+
+
+
+
+descript hallway stair there noth
+call warrior walk walk forward player play turn method
+
+
+time bonu
+score
+size
+stair
+
+warrior east
+abil walk
+
+
+
+
+
+descript feel wall right front open behind
+effect attack backward warrior feel wall warrior pivot turn around
+
+time bonu
+score
+size
+stair
+
+warrior east
+abil pivot
+
+
+unit archer east
+unit thick sludg east
+
+
+
+
+descript hear mumbl wizard bewar deadli wand good thing found
+warrior look determin surround warrior shoot fire arrow
+clue wizard deadli health kill time attack
+
+time bonu
+score
+size
+stair
+
+warrior east
+abil look
+abil shoot
+
+
+unit captiv west
+unit wizard west
+unit wizard west
+
+
+
+
+descript time hone skill appli abil learn
+watch back
+clue keep shoot attack behind
+
+time bonu
+score
+size
+stair
+
+warrior east
+
+unit captiv east
+unit archer east
+unit thick sludg west
+unit wizard west
+unit captiv west
+
+
+
+
+descript dark anyth smell sludg nearbi
+warrior feel anyth front warrior attack fight rememb action end turn
+clue condit warrior feel decid whether warrior attack warrior walk
+
+time bonu
+score
+size
+stair
+
+warrior east
+abil feel attack
+
+
+unit sludg west
+
+
+
+
+descript feel thicker there must hord sludg
+care warrior health keep health warrior rest earn health back
+clue when enemi ahead call warrior rest health full walk forward
+
+time bonu
+score
+size
+stair
+
+warrior east
+abil health rest
+
+
+unit sludg west
+unit sludg west
+unit sludg west
+unit sludg west
+
+
+
+
+descript hear string stretch
+abil time must care rest take damag save health variabl compar turn take damag
+clue health current health turn greater current health turn know take damag rest
+
+time bonu
+score
+size
+stair
+
+warrior east
+
+unit thick sludg west
+unit archer west
+unit thick sludg west
+player
+play turn warrior
+code
+
+
+file dirnam file
+
+
+
+rubi warrior core addit
+
+rubi warrior runner
+rubi warrior game
+rubi warrior profil
+rubi warrior
+rubi warrior config
+rubi warrior player gener
+rubi warrior level loader
+rubi warrior tower
+rubi warrior level
+rubi warrior turn
+rubi warrior floor
+rubi warrior space
+rubi warrior posit
+
+rubi warrior unit
+rubi warrior unit warrior
+rubi warrior unit sludg
+rubi warrior unit archer
+rubi warrior unit thick sludg
+rubi warrior unit captiv
+rubi warrior unit wizard
+rubi warrior unit golem
+
+rubi warrior abil
+rubi warrior abil walk
+rubi warrior abil attack
+rubi warrior abil feel
+rubi warrior abil rest
+rubi warrior abil health
+rubi warrior abil look
+rubi warrior abil shoot
+rubi warrior abil
+rubi warrior abil pivot
+rubi warrior abil distanc
+rubi warrior abil bind
+rubi warrior abil listen
+rubi warrior abil direct stair
+rubi warrior abil direct
+rubi warrior abil explod
+rubi warrior abil deton
+rubi warrior abil form
+rubi warrior
+tower
+attr reader path
+
+initi path
+path file join file expand path tower file path
+
+
+name
+file basenam path
+
+method name
+
+
+string
+camel
+gsub upcas
+
+
+constant
+
+name error camel case word inspect valid constant name
+
+
+object file line
+
+
+underscor
+gsub gsub downcas
+
+
+human
+gsub capit
+
+
+titleiz
+underscor human gsub capit
+
+
+hard wrap width
+gsub width strip
+
+
+rubi warrior
+space
+initi floor
+floor floor
+
+
+wall
+floor bound
+
+
+warrior
+unit kind unit warrior
+
+
+golem
+unit kind unit golem
+
+
+player
+warrior golem
+
+
+enemi
+unit player captiv
+
+
+captiv
+unit unit bound
+
+
+
+unit wall
+
+
+stair
+floor stair locat locat
+
+
+tick
+unit unit abil explod
+
+
+unit
+floor
+
+
+locat
+
+
+
+charact
+unit
+unit charact
+stair
+
+
+
+
+
+
+
+unit
+unit
+wall
+wall
+
+noth
+
+
+
+
+rubi warrior
+level loader
+initi level
+floor rubi warrior floor
+level level
+level floor floor
+
+
+descript desc
+level descript desc
+
+
+
+level
+
+
+clue clue
+level clue clue
+
+
+time bonu bonu
+level time bonu bonu
+
+
+score score
+level score score
+
+
+size width height
+floor width width
+floor height height
+
+
+stair
+floor place stair
+
+
+unit unit face north
+unit unit constant unit unit kind unit base
+floor unit face
+unit block given
+unit
+
+
+warrior arg block
+level setup warrior unit unit warrior arg block
+
+
+
+
+unit constant name
+camel name split capit join
+unit camel
+
+
+
+rubygem
+fileutil
+
+
+rubi warrior
+player gener
+initi level
+level level
+
+
+level
+level
+
+
+previou level
+previou level level level profil level
+
+
+todo refactor test method
+gener
+level
+file util mkdir level player path file exist level player path
+file util templat path player level player path
+
+
+file open level player path readm
+write read templat path readm
+
+
+
+templat path
+file expand path templat file
+
+
+
+
+read path
+file read path result bind
+
+
+
+rubi warrior
+
+
+put
+config stream put config stream
+
+
+put delay
+result put
+sleep config delay config delay
+result
+
+
+
+config stream config stream
+
+
+get
+config stream config stream get
+
+
+request
+
+get chomp
+
+
+
+request
+
+
+refactorm
+choos item option
+option length
+respons option first
+
+option index option
+option kind array
+put option last
+
+put option
+
+
+choic request choos item type
+respons option choic
+
+respons kind array
+respons first
+
+respons
+
+
+
+
+
+rubi warrior
+turn
+attr reader action
+
+initi abil
+action
+sens
+
+abil name sens
+name
+action name
+
+sens name sens
+
+
+
+
+
+
+action action
+
+action arg
+onli action perform turn action
+action action arg
+
+
+
+
+sens name sens
+
+name arg
+sens name perform arg
+
+
+sens name sens
+
+
+
+optpars
+
+rubi warrior
+runner
+initi stdin stdout
+
+stdin stdin
+stdout stdout
+game rubi warrior game
+
+
+
+config stream stdin
+config stream stdout
+config delay
+pars option
+game start
+
+
+
+
+pars option
+option option parser
+option banner usag rubywarrior option
+option directori given directori config path prefix
+option level level practic level epic level config practic level level
+option skip skip user input config skip input
+option time second delay turn second second config delay second
+option help show messag put option
+option pars
+
+
+
+rubi warrior
+floor
+attr accessor width height grid
+attr reader stair locat
+
+initi
+width
+height
+unit
+stair locat
+
+
+unit direct
+unit unit
+unit posit posit direct
+
+
+place stair
+stair locat
+
+
+stair space
+space stair locat
+
+
+unit
+unit reject posit
+
+
+unit
+unit reject kind unit warrior
+
+
+
+unit detect unit
+unit posit
+
+
+
+space
+space
+
+
+bound
+width height
+
+
+charact
+row
+row width
+height time
+
+width time
+space charact
+
+
+row
+
+row width
+row join
+
+
+uniqu unit
+uniqu unit
+unit unit
+uniqu unit unit uniqu unit unit
+
+uniqu unit
+
+
+
+base64
+
+rubi warrior
+profil
+attr accessor score epic score current epic score averag grade current epic grade abil level last level tower path warrior name player path
+
+initi
+tower path
+warrior name
+score
+current epic score
+current epic grade
+epic score
+averag grade
+abil
+level
+last level
+
+
+encod
+base64 encode64 marshal dump
+
+
+save
+updat epic score
+level epic
+file open player path profil write encod
+
+
+decod
+marshal load base64 decode64
+
+
+load path
+player decod file read path
+player player path file dirnam path
+player
+
+
+player path
+player path config path prefix rubywarrior directori name
+
+
+directori name
+warrior name downcas gsub tower name join
+
+
+
+epic
+warrior name tower name first score score epic score epic score grade join
+
+warrior name tower name level level score score join
+
+
+
+epic score grade
+averag grade
+epic score level grade letter averag grade
+
+epic score
+
+
+
+tower
+tower file basenam tower path
+
+
+current level
+level level
+
+
+level
+level level
+
+
+abil abil
+abil abil
+abil uniq
+
+
+enabl epic mode
+epic
+epic score
+current epic score
+last level level
+
+
+enabl normal mode
+epic
+epic score
+current epic score
+current epic grade
+averag grade
+level last level
+last level
+
+
+epic
+epic
+
+
+level epic
+level last level exist last level
+
+
+updat epic score
+current epic score epic score
+epic score current epic score
+averag grade calcul averag grade
+
+
+
+calcul averag grade
+current epic grade size
+current epic grade valu inject valu valu
+current epic grade size
+
+
+
+
+rubi warrior
+level
+attr reader profil
+attr accessor descript clue warrior floor time bonu score
+
+grade letter percent
+percent
+percent
+percent
+percent
+percent
+
+
+
+
+initi profil
+profil profil
+
+time bonu
+
+
+player path
+profil player path
+
+
+load path
+file join
+file expand path tower file
+file basenam profil tower path level
+rjust
+
+
+
+load level
+level loader file read load path
+
+
+load player
+player path
+load player
+
+
+gener player file
+load level
+player gener gener
+
+
+play turn 1000
+load level
+turn time
+pass fail
+put turn
+floor charact
+floor unit unit unit prepar turn
+floor unit unit unit perform turn
+block given
+time bonu time bonu
+
+
+
+talli point
+score
+
+put level score warrior score
+score warrior score
+
+put time bonu time bonu
+score time bonu
+
+floor unit
+put clear bonu clear bonu
+score clear bonu
+
+
+profil epic
+put level grade grade score grade score
+put total score score calcul profil current epic score score
+profil current epic grade score score score
+profil current epic score score
+
+put total score score calcul profil score score
+profil score score
+profil abil warrior abil key
+
+
+
+grade score
+score
+grade letter score score
+
+
+
+clear bonu
+warrior score time bonu round
+
+
+score calcul current score addit
+current score zero
+addit
+
+current score addit current score addit
+
+
+
+pass
+floor stair space warrior
+
+
+fail
+floor unit warrior
+
+
+exist
+file exist load path
+
+
+setup warrior warrior
+warrior warrior
+warrior abil profil abil
+warrior name profil warrior name
+
+
+
+rubi warrior
+game
+
+start
+put welcom rubi warrior
+
+file exist config path prefix profil
+profil profil load config path prefix profil
+
+file exist config path prefix rubi warrior
+file util config path prefix rubi warrior config path prefix rubywarrior
+
+make game directori file exist config path prefix rubywarrior
+
+
+profil epic
+profil level epic
+back normal mode
+
+play epic mode
+
+
+play normal mode
+
+
+
+make game directori
+rubywarrior directori found would like creat
+mkdir config path prefix rubywarrior
+
+put unabl without directori
+
+
+
+
+play epic mode
+config delay config delay speed sinc go
+profil current epic score
+profil current epic grade
+config practic level
+current level level
+profil level config practic level
+play current level
+
+play
+play
+current level level
+profil level
+play play current level
+
+profil save save score epic mode
+
+
+
+play normal mode
+config practic level
+put unabl practic level epic mode remov option
+
+current level zero
+prepar level
+put first level gener rubywarrior profil directori name readm instruct
+
+play current level
+
+
+
+
+play current level
+
+current level load player
+put start level current level
+current level play
+current level pass
+level exist
+put success found stair
+
+put congratul climb tower rescu fair maiden rubi
+
+
+current level talli point
+profil epic
+put report report
+
+request level
+
+
+
+put sorri fail level current level chang script
+config skip input current level clue would like read addit clue level
+put current level clue hard wrap
+
+
+
+
+
+request level
+config skip input level exist would like level would like epic mode
+level exist
+prepar level
+put updat readm rubywarrior profil directori name directori
+
+prepar epic mode
+put rubywarrior play epic mode
+
+
+put stay current level earn point time
+
+
+
+prepar level
+level gener player file
+profil level
+profil save save score abil
+
+
+prepar epic mode
+profil enabl epic mode
+profil level
+profil save save score
+
+
+back normal mode
+profil enabl normal mode
+prepar level
+put anoth level ad sinc start epic go back normal mode
+put updat readm rubywarrior profil directori name directori
+
+
+
+profil
+
+profil
+profil path profil profil load profil
+
+
+profil path
+config path prefix rubywarrior profil
+
+
+profil
+profil choos profil
+
+
+profil
+profil profil
+profil tower path choos tower tower path
+profil warrior name request enter name warrior
+profil
+
+
+
+tower
+
+tower
+tower path path tower path
+
+
+tower path
+file expand path tower file
+
+
+
+level
+
+current level
+current level profil current level
+
+
+level
+level profil level
+
+
+report
+profil calcul averag grade config practic level
+report
+report your averag grade tower level grade letter profil calcul averag grade
+profil current epic grade key sort level
+report level level level grade letter profil current epic grade level
+
+report practic level option rubywarrior
+report
+
+
+
+
+
+choos profil refactorm
+profil choos profil profil profil
+profil
+profil profil
+profil player path profil player path
+sure want replac exist profil tower
+put replac exist profil
+profil
+
+put replac profil
+
+
+
+profil
+
+
+profil
+
+
+
+
+
+rubi warrior
+config
+
+attr accessor delay stream stream practic level
+attr writer path prefix skip input
+
+path prefix
+path prefix
+
+
+skip input
+skip input
+
+
+reset
+path prefix skip input delay stream stream practic level
+remov variabl variabl defin
+
+
+
+
+
+rubi warrior
+posit
+attr reader floor
+direct north east south west
+rel direct forward right backward left
+
+initi floor direct
+floor floor
+
+
+direct index direct index direct north
+
+
+
+
+
+
+direct
+direct direct index
+
+
+rotat amount
+direct index amount
+direct index direct index
+direct index direct index
+
+
+rel space forward right
+floor space translat offset forward right
+
+
+space
+floor space
+
+
+move forward right
+translat offset forward right
+
+
+distanc stair
+distanc floor stair space
+
+
+distanc space
+space locat
+
+
+
+rel direct stair
+rel direct floor stair space
+
+
+rel direct space
+rel direct direct space
+
+
+direct space
+space space space locat
+space space
+space east west
+
+space south north
+
+
+
+rel direct direct
+offset direct index direct direct index
+offset offset
+offset offset
+rel direct offset
+
+
+translat offset forward right
+direct
+north right forward
+east forward right
+south right forward
+west forward right
+
+
+
+
+rubi warrior
+unit
+sludg base
+initi
+abil attack feel
+
+
+play turn turn
+forward left right backward direct
+turn feel direct player
+turn attack direct
+
+
+
+
+
+attack power
+
+
+
+health
+
+
+
+charact
+
+
+
+
+
+rubi warrior
+unit
+archer base
+initi
+abil shoot look
+
+
+play turn turn
+forward left right direct
+turn look direct space
+space player
+turn shoot direct
+
+space
+
+
+
+
+
+
+shoot power
+
+
+
+health
+
+
+
+charact
+
+
+
+
+
+rubi warrior
+unit
+base
+attr writer health
+attr accessor posit
+
+attack power
+
+
+
+health
+
+
+
+earn point point
+
+
+health
+health health
+
+
+take damag amount
+unbind bound
+health
+health amount
+take amount damag health health power left
+health
+posit
+die
+
+
+
+
+aliv
+posit
+
+
+bound
+bound
+
+
+unbind
+releas bond
+bound
+
+
+bind
+bound
+
+
+
+put delay name
+
+
+name
+name split last titleiz
+
+method name
+
+abil abil
+abil abil
+abil abil abil abil camel todo someth similar constant
+
+
+
+turn
+turn abil
+
+
+prepar turn
+current turn turn
+play turn current turn
+
+
+perform turn
+posit
+abil valu abil
+abil turn
+
+current turn action bound
+name arg current turn action
+abil name perform arg
+
+
+
+
+play turn turn
+overriden subclass
+
+
+abil
+abil
+
+
+charact
+
+
+
+
+
+rubi warrior
+unit
+wizard base
+initi
+abil shoot look
+
+
+play turn turn
+forward left right direct
+turn look direct space
+space player
+turn shoot direct
+
+space
+
+
+
+
+
+
+shoot power
+
+
+
+health
+
+
+
+charact
+
+
+
+
+
+rubi warrior
+unit
+captiv base
+initi
+bind
+
+
+health
+
+
+
+charact
+
+
+
+
+
+rubi warrior
+unit
+warrior base
+attr writer name
+attr reader score
+
+initi
+score todo make score dynam
+golem abil
+
+
+play turn turn
+player play turn turn
+
+
+player
+player player
+
+
+earn point point
+score point
+earn point point
+
+
+attack power
+
+
+
+shoot power
+
+
+
+health
+
+
+
+name
+name name
+name
+
+warrior
+
+
+
+
+name
+
+
+charact
+
+
+
+perform turn
+noth current turn action
+
+
+
+golem abil abil
+golem abil abil
+
+
+golem
+golem abil
+
+
+golem
+golem golem
+golem abil golem abil
+golem
+
+
+
+
+rubi warrior
+unit
+golem base
+attr writer turn
+attr accessor health
+
+play turn turn
+turn call turn turn
+
+
+attack power
+
+
+
+charact
+
+
+
+
+
+rubi warrior
+unit
+thick sludg sludg
+health
+
+
+
+charact
+
+
+
+
+
+rubi warrior
+abil
+attack base
+descript
+attack unit given direct forward
+
+
+perform direct forward
+verifi direct direct
+receiv unit direct
+receiv
+unit attack direct hit receiv
+direct backward
+power unit attack power ceil
+
+power unit attack power
+
+damag receiv power
+
+unit attack direct hit noth
+
+
+
+
+
+rubi warrior
+abil
+rescu base
+descript
+rescu captiv chain earn point given direct forward
+
+
+perform direct forward
+verifi direct direct
+space direct captiv
+recipi unit direct
+unit unbind direct rescu recipi
+recipi unbind
+recipi kind unit captiv
+recipi posit
+unit earn point
+
+
+unit unbind direct rescu noth
+
+
+
+
+
+rubi warrior
+abil
+feel base
+descript
+return space given direct forward
+
+
+perform direct forward
+verifi direct direct
+space direct
+
+
+
+
+rubi warrior
+abil
+look base
+descript
+return three space given direct forward
+
+
+perform direct forward
+verifi direct direct
+amount
+space direct amount
+
+
+
+
+
+rubi warrior
+abil
+base
+initi unit
+unit unit
+
+
+offset direct forward right
+direct
+forward forward right
+backward forward right
+right right forward
+left right forward
+
+
+
+space direct forward right
+unit posit rel space offset direct forward right
+
+
+unit direct forward right
+space direct forward right unit
+
+
+damag receiv amount
+receiv take damag amount
+unit earn point receiv health receiv aliv
+
+
+descript
+
+
+turn
+callback trigger everi turn
+
+
+verifi direct direct
+posit rel direct direct
+unknown direct direct inspect should forward backward left right
+
+
+
+
+
+rubi warrior
+abil
+listen base
+descript
+return space unit
+
+
+perform
+unit posit floor unit unit
+unit posit space unit unit
+compact
+
+
+
+
+rubi warrior
+abil
+form base
+descript
+form golem given direct take half invok health pass block execut golem turn
+
+
+perform direct forward block
+verifi direct direct
+space direct
+unit posit translat offset offset direct
+health unit health floor
+golem unit golem
+golem health health
+golem turn block
+unit health health
+unit posit floor golem unit posit direct
+unit form golem direct give half health health
+
+unit fail form golem someth block
+
+
+
+
+
+rubi warrior
+abil
+deton base
+descript
+deton bomb given direct forward damag space surround space includ
+
+
+perform direct forward
+verifi direct direct
+unit posit
+unit deton bomb direct launch deadli explos
+bomb direct
+
+bomb direct
+
+
+
+
+bomb direct damag amount
+unit posit
+receiv space direct unit
+receiv
+receiv abil explod
+receiv caught bomb flame deton tick explos
+receiv abil explod perform
+
+damag receiv damag amount
+
+
+
+
+
+
+
+rubi warrior
+abil
+direct of base
+descript
+pass space argument direct left right forward backward space return
+
+
+perform space
+unit posit rel direct space
+
+
+
+
+rubi warrior
+abil
+walk base
+descript
+move given direct forward
+
+
+perform direct forward
+verifi direct direct
+unit posit
+unit walk direct
+space direct
+unit posit move offset direct
+
+unit bump space direct
+
+
+
+
+
+
+rubi warrior
+abil
+pivot base
+rotat direct forward right backward left
+
+descript
+rotat left right backward
+
+
+perform direct backward
+verifi direct direct
+unit posit rotat rotat direct index direct
+unit pivot direct
+
+
+
+
+rubi warrior
+abil
+bind base
+descript
+bind unit given direct keep move forward
+
+
+perform direct forward
+verifi direct direct
+receiv unit direct
+receiv
+unit bind direct restrict receiv
+receiv bind
+
+unit bind direct restrict noth
+
+
+
+
+
+rubi warrior
+abil
+distanc of base
+descript
+pass space argument integ repres distanc space
+
+
+perform space
+unit posit distanc space
+
+
+
+
+rubi warrior
+abil
+direct of stair base
+descript
+return direct left right forward backward stair locat
+
+
+perform
+unit posit rel direct stair
+
+
+
+
+rubi warrior
+abil
+explod base
+attr accessor time
+
+descript
+kill surround unit probabl want intent
+
+
+perform
+unit posit
+unit explod collaps ceil damang everi unit
+unit posit floor unit unit
+unit take damag
+
+
+
+
+turn
+time unit posit
+unit tick
+time
+perform time zero
+
+
+
+
+
+rubi warrior
+abil
+shoot base
+descript
+shoot arrow given direct forward
+
+
+perform direct forward
+verifi direct direct
+receiv multi unit direct compact first
+receiv
+unit shoot direct hit receiv
+damag receiv unit shoot power
+
+unit shoot hit noth
+
+
+
+multi unit direct rang
+rang unit direct
+
+
+
+
+rubi warrior
+abil
+health base
+descript
+return integ repres health
+
+
+perform
+unit health
+
+
+
+
+rubi warrior
+abil
+rest base
+descript
+gain health back noth
+
+
+perform
+unit health unit health
+amount unit health round
+amount unit health unit health unit health amount unit health
+unit health amount
+unit receiv amount health rest unit health health
+
+unit alreadi fiddl
+
+
+
+
+
+cucumb
+rspec
+
+file dirnam file rubi warrior
+
+befor
+rubi warrior config reset
+
+
+after
+file util tower
+
+mock io
+timeout except
+
+
+initi receiv
+buffer
+receiv receiv mock io
+
+
+get
+1000 time
+sleep throttl seem take
+buffer
+content buffer
+buffer
+content
+
+
+timeout mock io timeout content receiv get
+
+
+get phrase
+content get
+content phrase
+
+content get
+timeout
+unabl find phrase content
+
+
+content
+
+
+todo make thread
+put
+receiv
+
+
+
+receiv
+
+
+
+buffer
+
+
+start
+main thread thread current
+thread
+
+receiv
+except
+main thread
+
+
+
+
+given profil name name tower
+step rubywarrior
+step answer creat
+step choos tower tower
+step answer name name
+step gener
+
+
+given profil path
+rubi warrior config path prefix path
+file util path rubywarrior
+
+
+given current directori path
+rubi warrior config path prefix path
+
+
+when rubywarrior
+mock io
+start
+rubi warrior config stream
+rubi warrior config stream
+rubi warrior game start
+
+
+
+when rubywarrior option option
+rubi warrior config reset
+mock io
+start
+rubi warrior runner option split
+
+
+
+when answer answer question
+get question
+put answer
+
+
+when choos choic phrase
+answer
+content get phrase
+content split line
+line choic line
+answer
+
+
+answer
+put answer
+
+unabl find choic choic content
+
+
+
+when wait say phrase
+get phrase
+
+
+then phrase
+get phrase phrase
+
+
+then first phrase second phrase
+get second phrase first phrase
+
+given directori path
+mkdir path file exist path
+
+
+given directori path
+rmdir path file exist path
+
+
+when copi fixtur
+file util spec fixtur
+
+
+then find file path
+file exist path
+
+
+then find file path
+file exist path
+
+rubygem
+rspec
+file dirnam file rubi warrior
+
+r spec configur config
+config mock mocha
+config
+rubi warrior config reset
+
+
+player
+play turn warrior
+warrior walk
+
+
+
+
+
+
+descript hallway stair there noth
+call warrior walk walk forward player play turn method
+
+time bonu
+score
+size
+stair
+
+warrior east
+abil walk
+
+
+
+
+
+descript hallway stair there noth
+call warrior walk walk forward player play turn method
+
+time bonu
+score
+size
+stair
+
+warrior east
+abil walk
+
+spec helper
+
+describ rubi warrior player gener
+
+level rubi warrior level rubi warrior profil
+gener rubi warrior player gener level
+
+
+know templat path
+gener templat path file expand path templat file
+
+
+spec helper
+
+describ rubi warrior space
+
+floor rubi warrior floor
+floor width
+floor height
+
+
+describ space
+
+space floor space
+
+
+enemi
+space enemi
+
+
+warrior
+space warrior
+
+
+
+space
+
+
+wall
+space wall
+
+
+stair
+space stair
+
+
+captiv
+space captiv
+
+
+noth name
+space noth
+
+
+tick
+space tick
+
+
+
+describ bound
+
+space floor space
+
+
+wall
+space wall
+
+
+
+space
+
+
+name wall
+space wall
+
+
+
+describ warrior
+
+warrior rubi warrior unit warrior
+floor warrior
+space floor space
+
+
+warrior
+space warrior
+
+
+player
+space warrior
+
+
+enemi
+space enemi
+
+
+
+space enemi
+
+
+know unit space
+space unit kind rubi warrior unit warrior
+
+
+
+describ enemi
+
+floor rubi warrior unit sludg
+space floor space
+
+
+enemi
+space enemi
+
+
+warrior
+space warrior
+
+
+
+space
+
+
+name unit
+space sludg
+
+
+describ bound
+
+space unit bind
+
+
+captiv
+space captiv
+
+
+look like enemi
+space enemi
+
+
+
+
+describ captiv
+
+captiv rubi warrior unit captiv
+floor captiv
+space floor space
+
+
+captiv
+space captiv
+
+
+enemi
+space enemi
+
+
+tick captiv time bomb
+captiv abil explod
+space tick
+
+
+tick captiv time bomb
+space tick
+
+
+
+describ golem
+
+golem rubi warrior unit golem
+floor golem
+space floor space
+
+
+golem
+space golem
+
+
+enemi
+space enemi
+
+
+player
+space player
+
+
+
+describ stair
+
+floor place stair
+space floor space
+
+
+
+space
+
+
+stair
+space stair
+
+
+
+spec helper
+
+describ rubi warrior turn
+describ action
+
+turn rubi warrior turn walk attack
+
+
+action perform first
+turn action
+
+
+abl perform action recal
+turn walk
+turn action walk
+
+
+pass action
+turn walk forward
+turn action walk forward
+
+
+abl call multipl action turn
+turn walk forward
+turn attack error
+
+
+
+describ sens
+
+feel rubi warrior abil feel object
+feel stub space return object
+feel stub space backward return object
+turn rubi warrior turn feel feel
+
+
+abl call sens argument expect result
+turn feel feel perform
+turn feel backward feel perform backward
+
+
+
+spec helper
+
+describ rubi warrior
+
+rubi warrior
+config rubi warrior config
+string io
+string io
+config stream
+config stream
+
+
+put stream
+put hello
+hello
+
+
+stream without newlin
+hello
+hello
+
+
+fetch get stream
+put
+rewind
+get
+
+
+get input
+config stream
+get
+
+
+request text input
+put
+rewind
+request
+
+
+
+
+expect request return
+
+
+
+
+stub request return
+
+
+
+input
+stub request return aklhasdf
+
+
+
+present multipl option select
+expect request includ item return
+choos item test
+
+
+test
+
+
+choos accept option
+stub request return
+choos item tower easi tower
+easi
+
+
+choos option without prompt item
+expect put never
+expect get never
+stub request return
+choos item
+
+
+choos first valu option item
+choos item
+
+
+delay put specifi
+config delay
+expect put
+expect sleep
+put delay
+
+
+delay put delay specifi
+expect put
+expect sleep never
+put delay
+
+
+spec helper
+
+describ string
+wrap text white space specif charact length
+blah hard wrap nblah
+
+
+spec helper
+
+describ rubi warrior posit
+
+unit rubi warrior unit base
+floor rubi warrior floor
+floor width
+floor height
+floor unit north
+posit unit posit
+
+
+rotat clockwis
+posit direct north
+east south west north east
+posit rotat
+posit direct
+
+
+
+rotat counterclockwis
+posit direct north
+west south east north west
+posit rotat
+posit direct
+
+
+
+rel space front
+unit rubi warrior unit base
+floor unit
+posit rel space
+
+
+rel front rotat
+unit rubi warrior unit base
+floor unit
+posit rotat
+posit rel space
+
+
+rel diagon
+unit rubi warrior unit base
+floor unit
+posit rel space
+
+
+rel diagon rotat
+unit rubi warrior unit base
+floor unit
+posit rotat
+posit rel space
+
+
+move floor rel
+floor unit
+posit move
+floor
+floor unit
+posit rotat
+posit move
+floor
+floor unit
+
+
+distanc stair stair
+floor place stair
+posit distanc stair
+
+
+distanc stair direct
+floor place stair
+posit distanc stair
+
+
+rel direct stair
+floor place stair
+posit rel direct stair forward
+
+
+rel direct given space
+posit rel direct floor space right
+posit rotat
+posit rel direct floor space right
+
+
+abl determin rel direct
+posit rel direct north forward
+posit rel direct south backward
+posit rel direct west left
+posit rel direct east right
+posit rotat
+posit rel direct north left
+posit rotat
+posit rel direct north backward
+posit rotat
+posit rel direct north right
+
+
+space locat posit
+posit space locat
+
+
+distanc given space
+posit distanc floor space
+posit distanc floor space
+
+
+spec helper
+
+describ rubi warrior game
+
+game rubi warrior game
+
+
+game
+
+make game directori player say
+rubi warrior stub return
+expect mkdir rubywarrior
+game make game directori
+
+
+make game player say
+rubi warrior stub return
+stub mkdir rais call
+game make game directori error system exit
+
+
+
+profil
+
+load profil profil path
+rubi warrior profil expect load profil return
+rubi warrior profil expect load profil return
+game stub profil path return profil profil
+game profil
+
+
+find profil path search
+expect rubywarrior profil
+game profil path
+
+
+creat profil profil path specifi
+game stub profil return
+game expect profil return profil
+game profil profil
+
+
+player choos profil multipl profil avail
+rubi warrior expect choos profil profile1 profil return profile1
+game stub profil return profile1
+time game profil profile1
+
+
+user choos tower creat profil
+rubi warrior stub get return
+game stub tower return tower1 tower2
+rubi warrior expect choos tower tower1 tower2 return stub path
+game profil
+
+
+name select tower profil
+profil stub
+rubi warrior stub choos return stub path tower path
+rubi warrior stub request return name
+rubi warrior profil expect return profil
+profil expect tower path tower path
+profil expect warrior name name
+game profil profil
+
+
+
+tower
+
+load tower tower path
+rubi warrior tower expect tower return
+rubi warrior tower expect tower return
+game stub tower path return tower tower
+game tower
+
+
+find tower path search
+expect file expand path tower file
+game tower path
+
+
+
+level
+
+fetch current level profil cach
+game stub profil return stub
+game profil expect current level return
+time game current level
+
+
+fetch level profil cach
+game stub profil return stub
+game profil expect level return
+time game level
+
+
+report grade
+profil rubi warrior profil
+profil current epic grade
+game stub profil return profil
+report game report
+report your averag grade tower
+report level level
+
+
+report epic grade avail
+profil rubi warrior profil
+profil current epic grade
+game stub profil return profil
+game report
+
+
+report practic level
+rubi warrior config practic level
+profil rubi warrior profil
+profil current epic grade
+game stub profil return profil
+game report
+
+
+spec helper
+
+describ rubi warrior tower
+
+tower rubi warrior tower path tower
+
+
+consid last part path name
+tower name tower
+
+
+name convert
+tower tower name
+
+
+spec helper
+
+describ rubi warrior profil
+
+profil rubi warrior profil
+
+
+warrior name
+profil warrior name
+profil warrior name
+
+
+start level
+profil level zero
+
+
+start score allow increment
+profil score zero
+profil score
+profil score
+
+
+abil allow ad
+profil abil
+profil abil
+profil abil
+
+
+encod marshal base64
+profil encod base64 encode64 marshal dump profil
+
+
+decod marshal base64
+rubi warrior profil decod profil encod warrior name profil warrior name
+
+
+load read file decod player path
+profil profil
+profil expect player path path
+file expect read path profil return encod profil
+rubi warrior profil expect decod encod profil return profil
+rubi warrior profil load path profil profil
+
+
+
+abil remov duplic
+profil abil blah
+profil abil blah
+
+
+fetch level current
+profil level
+profil current level
+
+
+fetch level
+profil level
+profil level
+
+
+enabl epic mode reset score
+profil epic score
+profil current epic score
+profil enabl epic mode
+profil epic
+profil epic score zero
+profil current epic score zero
+
+
+epic score current higher
+profil enabl epic mode
+profil epic score zero
+profil averag grade
+profil current epic score
+profil current epic grade
+profil updat epic score
+profil epic score
+profil averag grade
+
+
+epic score current lower
+profil enabl epic mode
+profil epic score
+profil averag grade
+profil current epic score
+profil current epic grade
+profil updat epic score
+profil epic score
+profil averag grade
+
+
+calcul averag grade grade present
+profil enabl epic mode
+profil current epic grade
+profil calcul averag grade
+
+
+rememb current level last level
+profil level
+profil enabl epic mode
+profil last level
+
+
+enabl normal mode clear epic score reset last level
+profil last level
+profil epic score
+profil current epic score
+profil current epic grade
+profil averag grade
+profil enabl normal mode
+profil epic
+profil epic score zero
+profil current epic score zero
+profil last level
+profil averag grade
+profil current epic grade
+profil level
+
+
+level epic last level specifi
+profil last level
+profil level epic
+
+
+describ tower path
+
+profil warrior name john smith
+profil tower path path tower
+
+
+save write file encod profil
+file stub
+file expect write encod profil
+file expect open profil player path profil yield file
+profil expect encod return encod profil
+profil save
+
+
+nice represent
+profil warrior name
+profil tower level score
+
+
+epic score represent
+profil warrior name
+profil enabl epic mode
+profil tower first score epic score
+
+
+epic score grade represent
+profil warrior name
+profil enabl epic mode
+profil averag grade
+profil tower first score epic score
+
+
+guess player path
+profil player path rubywarrior john smith tower
+
+
+specifi player path
+profil player path path player
+profil player path path player
+
+
+load tower path
+rubi warrior tower expect tower return tower
+profil tower tower
+
+
+
+spec helper
+
+describ rubi warrior floor
+describ
+
+floor rubi warrior floor
+floor width
+floor height
+
+
+abl unit fetch posit
+unit rubi warrior unit base
+floor unit north
+floor unit
+
+
+consid unit floor posit
+unit rubi warrior unit base
+floor unit north
+unit posit
+floor unit unit
+
+
+fetch unit warrior
+unit rubi warrior unit base
+warrior rubi warrior unit warrior
+floor unit north
+floor warrior north
+floor unit warrior
+floor unit unit
+
+
+consid corner bound
+floor bound
+floor bound
+floor bound
+floor bound
+
+
+consid bound go beyond side
+floor bound
+floor bound
+floor bound
+floor bound
+
+
+space specifi locat
+floor space kind rubi warrior space
+
+
+place stair abl fetch locat
+floor place stair
+floor stair locat
+
+
+
+describ
+
+floor rubi warrior floor
+floor width
+floor height
+
+
+stair unit
+floor rubi warrior unit warrior
+floor place stair
+floor charact
+
+
+
+
+
+
+uniqu unit
+rubi warrior unit base
+floor
+floor rubi warrior unit base
+floor uniqu unit
+
+
+
+spec helper
+
+describ rubi warrior level loader
+describ profil
+
+profil rubi warrior profil
+level rubi warrior level profil
+loader rubi warrior level loader level
+
+
+abl descript clue
+loader descript
+loader
+loader clue clue
+level descript
+level
+level clue clue
+
+
+abl size
+loader size
+level floor width
+level floor height
+
+
+abl stair
+level floor expect place stair
+loader stair
+
+
+unit build
+loader unit unit
+unit kind rubi warrior unit base
+unit posit
+
+
+
+abl multi word unit
+loader unit thick sludg error
+
+
+build warrior profil
+loader warrior unit
+unit kind rubi warrior unit warrior
+unit posit
+
+
+
+abl time bonu
+loader time bonu
+level time bonu
+
+
+
+spec helper
+
+
+describ rubi warrior level
+
+profil rubi warrior profil
+floor rubi warrior floor
+level rubi warrior level profil
+level floor floor
+level stub fail return
+
+
+consid pass warrior stair
+level warrior rubi warrior unit warrior
+floor level warrior north
+floor place stair
+level pass
+
+
+time bonu zero
+level time bonu zero
+
+
+grade rel score
+level score
+level grade
+level grade
+level grade
+level grade
+level grade
+level grade
+level grade
+
+
+grade score
+level score
+level grade
+
+
+load file content level
+level stub load path return path level
+file expect read path level return descript
+level load level
+level descript
+
+
+player path profil
+profil stub player path return path player
+level player path path player
+
+
+load path profil tower level
+profil stub tower path return path tower
+level load path file expand path tower tower level
+
+
+exist file exist
+level stub load path return
+file expect exist return
+level exist
+
+
+load player player path
+level stub player path return player path
+expect player path
+level expect load player
+level load player
+
+
+gener player file
+level expect load level
+gener stub
+gener expect gener
+rubi warrior player gener expect level return gener
+level gener player file
+
+
+setup warrior profil abil
+profil abil
+warrior stub everyth
+warrior expect abil
+level setup warrior warrior
+
+
+setup warrior profil name
+profil warrior name
+warrior stub everyth
+warrior expect name
+level setup warrior warrior
+
+
+describ play
+
+level stub load level
+
+
+load level play multipl turn
+level expect load level
+level play
+
+
+call prepar turn play turn specifi time
+rubi warrior unit base
+expect prepar turn time
+expect perform turn time
+floor north
+level play
+
+
+immedi pass
+rubi warrior unit base
+expect turn time
+floor north
+level stub pass return
+level play
+
+
+block play method turn
+
+level play
+
+
+
+
+
+count time bonu turn
+level time bonu
+level play
+level time bonu
+
+
+count time bonu
+level time bonu
+level play
+level time bonu zero
+
+
+pretti score calcul
+level score calcul
+
+
+score calcul start score zero
+level score calcul
+
+
+
+describ talli point
+
+warrior stub score abil
+level stub warrior return warrior
+level floor stub unit return stub
+
+
+warrior score profil
+warrior stub score return
+level talli point
+profil score
+
+
+warrior score profil epic mode
+profil enabl epic mode
+warrior stub score return
+level talli point
+profil current epic score
+
+
+level grade percent profil epic mode
+level score
+profil enabl epic mode
+warrior stub score return
+level talli point
+profil current epic grade
+
+
+level grade score
+level score
+profil enabl epic mode
+warrior stub score return
+level talli point
+profil current epic grade
+
+
+appli warrior abil profil
+warrior stub abil return
+level talli point
+profil abil
+
+
+appli time bonu profil score
+level time bonu
+level talli point
+profil score
+
+
+give bonu unit left
+level floor stub unit return
+warrior stub score return
+level time bonu
+level talli point
+profil score
+
+
+
+spec helper
+
+describ rubi warrior unit wizard
+
+wizard rubi warrior unit wizard
+
+
+look shoot abil
+wizard abil key shoot look
+
+
+shoot power
+wizard shoot power
+
+
+health
+wizard health
+
+
+appear
+wizard charact
+
+
+spec helper
+
+player
+turn warrior
+
+
+
+describ rubi warrior unit warrior
+
+warrior rubi warrior unit warrior
+
+
+name warrior
+warrior name warrior
+warrior name
+warrior name warrior
+
+
+abl name
+warrior name
+warrior name
+warrior
+
+
+health
+warrior health
+
+
+score begin abl earn point
+warrior score zero
+warrior earn point
+warrior score
+
+
+call player play turn turn player
+player stub
+player expect play turn turn
+warrior stub player return player
+warrior play turn turn
+
+
+call player first time load player time
+player expect return player time
+time
+warrior player player
+
+
+
+attack power
+warrior attack power
+
+
+shoot power
+warrior shoot power
+
+
+appear
+warrior charact
+
+
+abl golem abil use golem
+warrior golem abil walk
+warrior golem abil key walk
+
+
+spec helper
+
+describ rubi warrior unit golem
+
+golem rubi warrior unit golem
+
+
+execut turn proc play turn
+proc object
+proc expect call turn
+golem turn proc
+golem play turn turn
+
+
+health updat current health
+golem health
+golem health
+golem health
+
+
+attack power
+golem attack power
+
+
+appear
+golem charact
+
+
+spec helper
+
+describ rubi warrior unit captiv
+
+captiv rubi warrior unit captiv
+
+
+health
+captiv health
+
+
+appear
+captiv charact
+
+
+bound
+captiv bound
+
+
+explod abil ad need
+captiv abil explod
+
+
+spec helper
+
+describ rubi warrior unit archer
+
+archer rubi warrior unit archer
+
+
+look shoot abil
+archer abil key shoot look
+
+
+shoot power
+archer shoot power
+
+
+health
+archer health
+
+
+appear
+archer charact
+
+
+spec helper
+
+describ rubi warrior unit base
+
+unit rubi warrior unit base
+
+
+attack power default zero
+unit attack power zero
+
+
+consid dead posit
+unit posit
+unit aliv
+
+
+consid aliv posit
+unit posit stub
+unit aliv
+
+
+health
+unit health zero
+
+
+noth earn point
+unit earn point error
+
+
+health health
+unit stub health return
+unit health
+
+
+subtract health take damag
+unit stub health return
+unit take damag
+unit health
+
+
+noth take damag health
+unit take damag error
+
+
+posit run health
+unit posit stub
+unit stub health return
+unit take damag
+unit posit
+
+
+line name speak
+rubi warrior expect put delay base
+unit
+
+
+name
+unit name base
+unit base
+
+
+prepar turn call play turn turn
+unit stub turn return turn
+unit expect play turn turn
+unit prepar turn
+
+
+perform action call perform turn
+unit posit stub
+rubi warrior abil walk expect perform backward
+unit abil walk
+turn stub action walk backward
+unit stub turn return turn
+unit prepar turn
+unit perform turn
+
+
+perform action dead posit
+unit posit
+rubi warrior abil walk stub perform rais action call
+unit abil walk
+turn stub action walk backward
+unit stub turn return turn
+unit prepar turn
+unit perform turn
+
+
+except call perform turn action
+unit prepar turn
+unit perform turn error
+
+
+abil turn call turn
+rubi warrior turn expect walk attack feel return turn
+unit stub abil return walk attack feel
+unit turn turn
+
+
+abil
+rubi warrior abil walk expect unit return walk
+unit abil walk
+unit abil walk walk
+
+
+appear question mark
+unit charact
+
+
+releas bond take damag
+unit stub health return
+unit bind
+unit bound
+unit take damag
+unit bound
+
+
+releas bond call releas
+unit bind
+unit unbind
+unit bound
+
+
+perform action bound
+unit posit stub
+unit bind
+rubi warrior abil walk stub perform rais action call
+unit abil walk
+turn stub action walk backward
+unit stub turn return turn
+unit prepar turn
+unit perform turn
+
+
+spec helper
+
+describ rubi warrior unit sludg
+
+sludg rubi warrior unit sludg
+
+
+attack action
+sludg abil key attack
+
+
+feel sens
+sludg abil key feel
+
+
+attack power
+sludg attack power
+
+
+health
+sludg health
+
+
+appear
+sludg charact
+
+
+spec helper
+
+describ rubi warrior unit thick sludg
+
+sludg rubi warrior unit thick sludg
+
+
+health
+sludg health
+
+
+appear
+sludg charact
+
+
+name thick sludg
+sludg name thick sludg
+
+
+spec helper
+
+describ rubi warrior abil rest
+
+warrior rubi warrior unit warrior
+rest rubi warrior abil rest warrior
+
+
+give health back
+warrior stub health return
+warrior health
+rest perform
+warrior health
+
+
+health
+warrior stub health return
+warrior health
+rest perform
+warrior health
+
+
+health
+warrior stub health return
+warrior health
+rest perform
+warrior health
+
+
+spec helper
+
+describ rubi warrior abil health
+
+warrior rubi warrior unit warrior
+health rubi warrior abil health warrior
+
+
+amount health
+warrior health
+health perform
+
+
+spec helper
+
+describ rubi warrior abil explod
+
+floor rubi warrior floor
+floor width
+floor height
+captiv rubi warrior unit captiv
+floor captiv
+explod rubi warrior abil explod captiv
+
+
+subtract health unit floor
+unit rubi warrior unit base
+unit health
+floor unit
+captiv health
+explod perform
+captiv health
+unit health
+
+
+explod bomb time reach zero
+captiv health
+explod time
+explod turn
+explod turn
+captiv health
+explod turn
+captiv health
+
+
+spec helper
+
+describ rubi warrior abil distanc of
+
+posit stub
+distanc rubi warrior abil distanc of stub posit posit
+
+
+distanc stair
+posit stub distanc space return
+distanc perform space
+
+
+spec helper
+
+describ rubi warrior abil direct of stair
+
+posit stub
+distanc rubi warrior abil direct of stair stub posit posit
+
+
+rel direct stair
+posit stub rel direct stair return left
+distanc perform left
+
+
+spec helper
+
+describ rubi warrior abil feel
+
+unit stub posit stub
+feel rubi warrior abil feel unit
+
+
+posit offset
+unit posit expect rel space
+feel perform forward
+
+
+spec helper
+
+describ rubi warrior abil attack
+
+attack stub posit stub attack power
+attack rubi warrior abil attack attack
+
+
+subtract attack power amount health
+receiv rubi warrior unit base
+receiv stub aliv return
+receiv health
+attack stub unit return receiv
+attack perform
+receiv health
+
+
+noth recipi
+attack stub unit return
+attack perform error
+
+
+posit offset
+attack posit expect rel space
+attack space forward
+
+
+award point kill unit
+receiv stub take damag health aliv
+attack stub unit return receiv
+attack expect earn point
+attack perform
+
+
+award point kill unit
+receiv stub health aliv
+receiv expect take damag
+attack stub unit return receiv
+attack expect earn point never
+attack perform
+
+
+reduc attack power attack backward
+receiv rubi warrior unit base
+receiv stub aliv return
+receiv health
+attack stub unit return receiv
+attack perform backward
+receiv health
+
+
+spec helper
+
+describ rubi warrior abil rescu
+
+warrior rubi warrior unit warrior
+rubi warrior abil rescu warrior
+
+
+captiv
+captiv rubi warrior unit captiv
+captiv posit stub
+expect space forward return stub captiv
+expect unit forward return captiv
+warrior expect earn point
+perform
+captiv posit
+
+
+noth unit bound
+unit rubi warrior unit base
+unit posit stub
+expect space forward return stub captiv
+expect unit forward never
+warrior expect earn point never
+perform
+unit posit
+
+
+releas unit bound
+unit rubi warrior unit base
+unit bind
+unit posit stub
+expect space forward return stub captiv
+expect unit forward return unit
+warrior expect earn point never
+perform
+unit bound
+unit posit
+
+
+spec helper
+
+describ rubi warrior abil shoot
+
+shooter stub posit stub shoot power
+shoot rubi warrior abil shoot shooter
+
+
+shoot first unit
+receiv stub aliv
+receiv expect take damag
+stub aliv
+expect take damag never
+shoot expect multi unit forward anyth return receiv
+shoot perform
+
+
+shoot noth unit
+shoot expect multi unit forward anyth return
+shoot perform error
+
+
+spec helper
+
+describ rubi warrior abil pivot
+
+posit stub
+pivot rubi warrior abil pivot stub posit posit
+
+
+flip around pass
+posit expect rotat
+pivot perform
+
+
+rotat pivot right
+posit expect rotat
+pivot perform right
+
+
+spec helper
+
+describ rubi warrior abil look
+
+unit stub posit stub
+feel rubi warrior abil look unit
+
+
+object posit offset
+unit posit expect rel space return
+unit posit expect rel space return
+unit posit expect rel space return
+feel perform forward
+
+
+spec helper
+
+describ rubi warrior abil direct of
+
+posit stub
+distanc rubi warrior abil direct of stub posit posit
+
+
+rel direct given space
+posit stub rel direct space return left
+distanc perform space left
+
+
+spec helper
+
+describ rubi warrior abil walk
+
+space stub unit
+posit stub rel space space move
+walk rubi warrior abil walk stub posit posit
+
+
+move posit forward call perform
+posit expect move
+walk perform
+
+
+move posit right direct
+posit expect move
+walk perform right
+
+
+keep posit someth
+posit stub move rais call
+space stub return
+walk perform right error
+
+
+spec helper
+
+describ rubi warrior abil bind
+
+bind rubi warrior abil bind stub
+
+
+bind recipi
+receiv rubi warrior unit base
+bind stub unit return receiv
+bind perform
+receiv bound
+
+
+noth recipi
+bind stub unit return
+bind perform error
+
+
+spec helper
+
+describ rubi warrior abil base
+
+unit stub
+abil rubi warrior abil base unit
+
+
+offset direct
+abil offset forward
+abil offset right
+abil offset backward
+abil offset left
+
+
+offset rel forward right amount
+abil offset forward
+abil offset forward
+abil offset right
+abil offset backward
+abil offset left
+
+
+fetch unit given direct distanc
+abil expect space right return stub unit unit
+abil unit right unit
+
+
+descript
+abil descript
+
+
+except direct recogn
+
+abil verifi direct
+error unknown direct should forward backward left right
+
+
+spec helper
+
+describ rubi warrior abil form
+
+floor rubi warrior floor
+floor width
+floor height
+warrior rubi warrior unit warrior
+floor warrior east
+form rubi warrior abil form warrior
+
+
+form golem front warrior
+form perform
+floor kind rubi warrior unit golem
+
+
+form golem given direct
+form perform right
+floor kind rubi warrior unit golem
+
+
+form golem space
+floor rubi warrior unit base
+form perform forward
+form perform left
+floor unit size
+
+
+reduc warrior health half round give golem
+warrior health
+form perform
+warrior health
+floor health
+
+
+pass block golem turn block
+pass
+form perform forward turn pass turn
+floor play turn turn
+pass turn
+
+
+start direct warrior
+form perform right
+floor posit direct east
+
+
+spec helper
+
+describ rubi warrior abil deton
+
+floor rubi warrior floor
+floor width
+floor height
+warrior rubi warrior unit warrior
+floor warrior south
+deton rubi warrior abil deton warrior
+
+
+subtract forward unit surround unit
+target unit rubi warrior unit base
+target unit health
+second unit rubi warrior unit base
+second unit health
+floor target unit
+floor second unit
+deton perform
+target unit health
+second unit health
+
+
+subtract left unit surround unit
+target unit rubi warrior unit base
+target unit health
+second unit rubi warrior unit base
+second unit health
+floor target unit
+floor second unit
+deton perform left
+target unit health
+second unit health
+
+
+deton explos unit
+captiv rubi warrior unit captiv
+captiv health
+captiv abil explod
+floor captiv
+deton perform
+captiv health
+warrior health
+
+
+spec helper
+
+describ rubi warrior abil listen
+
+floor rubi warrior floor
+floor width
+floor height
+warrior rubi warrior unit warrior
+floor warrior
+listen rubi warrior abil listen warrior
+
+
+space unit besid main unit
+floor rubi warrior unit base
+listen perform record
+
+

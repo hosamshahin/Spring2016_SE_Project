@@ -1,0 +1,4914 @@
+
+arbor tween
+smooth transit realtim clock
+
+copyright 2012 samizdat draft
+
+permiss herebi grant free charg person
+obtain copi softwar associ document
+file softwar deal softwar without
+restrict includ without limit right
+copi modifi merg publish distribut sublicens sell
+copi softwar permit person
+softwar furnish subject follow
+condit
+
+copyright notic permiss notic shall
+includ copi substanti portion softwar
+
+softwar provid without warranti kind
+express impli includ limit warranti
+merchant fit particular purpos
+noninfring event shall author copyright
+holder liabl claim damag other liabil
+whether action contract tort otherwis aris
+from connect with softwar
+other deal softwar
+
+
+eas equat eas
+copyright 2001 robert penner right reserv
+
+open sourc licens redistribut sourc
+binari form without modif permit
+provid follow condit
+
+redistribut sourc code must retain copyright
+notic condit follow disclaim
+redistribut binari form must reproduc copyright
+notic condit follow disclaim
+document materi provid distribut
+
+neither name author name contributor
+use endors promot product deriv softwar
+without specif prior written permiss
+
+thi softwar provid copyright holder contributor
+express impli warranti includ
+limit impli warranti merchant fit
+particular purpos disclaim event shall copyright
+owner contributor liabl direct indirect incident
+special exemplari consequenti damag includ
+limit procur substitut good servic loss
+data profit busi interrupt howev caus
+theori liabil whether contract strict liabil tort
+includ neglig otherwis aris
+thi softwar even advis possibl such damag
+
+
+
+
+trace window window consol length arg arg push consol arg join dirnam replac split join basenam replac split ordin ordin 11000 replac ordin 1000000 math floor 1000 1000000000 math floor 1000 replac ordin nano replac split shift ha own properti objcopi parent node substr is array objcopi objmerg objcopi objcmp is array is array length length ha own properti push ha own properti push sort sort join join objcmp objkey ha own properti push objcontain length ha own properti uniq length objkey arbor path script attr match arbor match length
+color color to string length pars int objkey sort join abgr aliceblu f0f8ff antiquewhit faebd7 aqua 00ffff aquamarin 7fffd4 azur f0ffff beig f5f5dc bisqu ffe4c4 black 000000 blanchedalmond ffebcd blue 0000ff blueviolet 8a2be2 brown a52a2a burlywood deb887 cadetblu 5f9ea0 chartreus 7fff00 chocol d2691e coral ff7f50 cornflowerblu 6495ed cornsilk fff8dc crimson dc143c cyan 00ffff darkblu 00008b darkcyan 008b8b darkgoldenrod b8860b darkgray a9a9a9 darkgrey a9a9a9 darkgreen 006400 darkkhaki bdb76b darkmagenta 8b008b darkolivegreen 556b2f darkorang ff8c00 darkorchid 9932cc darkr 8b0000 darksalmon e9967a darkseagreen 8fbc8f darkslateblu 483d8b darkslategray 2f4f4f darkslategrey 2f4f4f darkturquois 00ced1 darkviolet 9400d3 deeppink ff1493 deepskyblu 00bfff dimgray 696969 dimgrey 696969 dodgerblu 1e90ff firebrick b22222 floralwhit fffaf0 forestgreen 228b22 fuchsia ff00ff gainsboro dcdcdc ghostwhit f8f8ff gold ffd700 goldenrod daa520 gray 808080 grey 808080 green 008000 greenyellow adff2f honeydew f0fff0 hotpink ff69b4 indianr cd5c5c indigo 4b0082 ivori fffff0 khaki f0e68c lavend e6e6fa lavenderblush fff0f5 lawngreen 7cfc00 lemonchiffon fffacd lightblu add8e6 lightcor f08080 lightcyan e0ffff lightgoldenrodyellow fafad2 lightgray d3d3d3 lightgrey d3d3d3 lightgreen 90ee90 lightpink ffb6c1 lightsalmon ffa07a lightseagreen 20b2aa lightskyblu 87cefa lightslategray 778899 lightslategrey 778899 lightsteelblu b0c4de lightyellow ffffe0 lime 00ff00 limegreen 32cd32 linen faf0e6 magenta ff00ff maroon 800000 mediumaquamarin 66cdaa mediumblu 0000cd mediumorchid ba55d3 mediumpurpl 9370d8 mediumseagreen 3cb371 mediumslateblu 7b68ee mediumspringgreen 00fa9a mediumturquois 48d1cc mediumvioletr c71585 midnightblu 191970 mintcream f5fffa mistyros ffe4e1 moccasin ffe4b5 navajowhit ffdead navi 000080 oldlac fdf5e6 oliv 808000 olivedrab 6b8e23 orang ffa500 orang ff4500 orchid da70d6 palegoldenrod eee8aa palegreen 98fb98 paleturquois afeee palevioletr d87093 papayawhip ffefd5 peachpuff ffdab9 peru cd853f pink ffc0cb plum dda0dd powderblu b0e0e6 purpl 800080 ff0000 rosybrown bc8f8f royalblu 4169e1 saddlebrown 8b4513 salmon fa8072 sandybrown f4a460 seagreen 2e8b57 seashel fff5ee sienna a0522d silver c0c0c0 skyblu 87ceeb slateblu 6a5acd slategray 708090 slategrey 708090 snow fffafa springgreen 00ff7f steelblu 4682b4 d2b48c teal 008080 thistl d8bfd8 tomato ff6347 turquois 40e0d0 violet ee82e wheat f5deb3 white ffffff whitesmok f5f5f5 yellow ffff00 yellowgreen 9acd32 decod length to lower case match val match val val length val length val val val valid to lower case match decod decod blend math math decod decod objcopi nano rgba encod decod nano nano rgba
+eas eas linear quadin quadout quadinout cubicin cubicout cubicinout quartin quartout quartinout quintin quintout quintinout sinein math math sineout math math sineinout math math expoin math expoout math expoinout math math circin math sqrt circout math sqrt circinout math sqrt math sqrt elasticin 70158 math math math asin math math math elasticout 70158 math math math asin math math math elasticinout 70158 math math math asin math math math math math math backin 70158 backout 70158 backinout 70158 bouncein bounc out bounceout 5625 5625 5625 9375 5625 984375 bounceinout bounc in bounc out
+tween tween init busi date valu of color node 1000 1000 linear eas to lower case eas delay 1000 color valid color color decod color decod eas eas push length length color color is empti object color is empti object splice interpol to lower case eas linear eas eas color valid color valid lerp rgb is na n lerp number tick date valu of eas math color node lerp number alpha math math lerp rgb color encod complet complet length is empti object init lerp number lerp rgb math math rgba split math round
+
+arbor arbor arbor
+extend arbor
+realli user servic particl system’ tween method instead
+tween tween
+
+immut use method
+color
+color dictionari colornam fef2e2
+valid color valid
+decod color decod hex string css color
+encod color encod hex or rgba string
+blend color blend color opac rgba string
+
+
+
+j queri
+
+
+
+
+
+
+arbor version
+graph vizual toolkit
+
+copyright 2012 samizdat draft
+physic code deriv springi copyright 2010 denni hotson
+
+permiss herebi grant free charg person
+obtain copi softwar associ document
+file softwar deal softwar without
+restrict includ without limit right
+copi modifi merg publish distribut sublicens sell
+copi softwar permit person
+softwar furnish subject follow
+condit
+
+copyright notic permiss notic shall
+includ copi substanti portion softwar
+
+softwar provid without warranti kind
+express impli includ limit warranti
+merchant fit particular purpos
+noninfring event shall author copyright
+holder liabl claim damag other liabil
+whether action contract tort otherwis aris
+from connect with softwar
+other deal softwar
+
+
+
+
+trace window window consol length arg arg push consol arg join dirnam replac split join basenam replac split ordin ordin 11000 replac ordin 1000000 math floor 1000 1000000000 math floor 1000 replac ordin nano replac split shift ha own properti objcopi parent node substr is array objcopi objmerg objcopi objcmp is array is array length length ha own properti push ha own properti push sort sort join join objcmp objkey ha own properti push objcontain length ha own properti uniq length objkey arbor path script attr match arbor match length
+kernel kernel window locat protocol file navig user agent to lower case index of chrome window worker last date system tween node init tween tween arbor tween arbor tween busi tick trace pleas arbor tween enabl tween tween paramet trace arbor worker set interv screen updat timeout worker arbor path arbor onmessag worker msg onerror trace physic post messag physic physic objmerg timeout math ceil timeout trace arbor singl thread physic stiff repuls friction system updat geometri integr start graph chang post messag chang chang updat start particl modifi post messag modifi mod modifi node start physic modifi is na n timeout clear interv set interv screen updat timeout clear interv post messag param modifi physic start worker msg geometri worker updat trace physic last posit worker updat last posit last bound bound last frametim date valu of last bound current render screen updat date valu of last posit system updat geometri last posit last posit busi system updat bound last bound system render init system tick redraw last last date push last length shift physic updat tick tick system updat bound busi system render date system render init system redraw timestamp last last push last length shift system energi mean date valu of date valu of 1000 clear interv 1000 math target fp physic modifi timeout length math length is na n math round 1000 start post messag start set interv physic updat system paramet timeout stop post messag stop clear interv init
+atom node next node id mass mass mass point mass next node id edg next edg id sourc target length length length length next edg id particl point point particl prototyp appli forc divid spring point1 point2 length spring prototyp distanc to particl point2 subtract point1 normal normal subtract point1 math point ha own properti point random point math random math random point prototyp explod is na n is na n point subtract point multipli point divid point magnitud math sqrt normal point normal divid magnitud
+system particl system friction repuls stiff graviti precis integr verlet euler verlet is na n is na n 1000 is na n is na n is na n is na n 1000 1000 integr repuls stiff friction graviti precis timeout render tween node edg adjac name kernel paramet is na n precis precis math math precis kernel physic modifi kernel paramet timeout 1000 start kernel start stop kernel stop add node name node name name node push add node mass notifi prune node get node node node name name edg sourc target prune edg push drop node notifi get node name each node node to screen call add edg get node add node get node add node edg adjac adjac adjac adjac adjac length extend adjac edg adjac push length length push add spring notifi prune edg push drop spring edg adjac adjac adjac length adjac adjac splice notifi get edg get node get node adjac adjac adjac get edg from get node adjac adjac concat get edg to get node edg target push each edg edg node sourc node target to screen to screen call prune drop node edg node drop node push prune node each node call get edg from get edg to drop node push prune node graft ad node edg node node get node ad node push add node kernel start edg edg get node ad node push add node get node ad node push add node get edg length ad edg push add edg merg ad node edg drop node edg edg edg sourc name edg sourc name target name prune edg drop edg push prune node name drop node push graft ad node ad node concat ad node ad edg ad edg concat ad edg drop node drop node concat drop node drop edg drop edg concat drop edg tween node get node tween tween edg tween edg get edg tween edg tween edg tween updat geometri epoch energi geometri length node node node screen size objcopi pad concat step size screen size size width size height is na n step screen step step pad screen pad pad screen size width height updat bound screen pad is array trbl trbl trbl trbl trbl trbl trbl trbl screen step to screen bottomright subtract topleft subtract topleft divid width subtract topleft divid height arbor point from screen bottomright subtract topleft width topleft height topleft arbor point updat bound bound point bottomright bottomright point topleft topleft subtract divid point math math topleft subtract divid bottomright divid is empti object node new bound bottomright bottomright bottomright subtract bottomright multipli topleft topleft topleft subtract topleft multipli point topleft subtract new bound topleft magnitud bottomright subtract new bound bottomright magnitud width height new bound energi bound node point point bottomright topleft topleft point bottomright point nearest from screen node point distanc node subtract magnitud distanc distanc node point distanc screen point to screen node distanc to screen node subtract to screen magnitud notifi clear timeout set timeout synchron synchron length kernel graph chang kernel kernel tween kernel tween node prototyp defin getter defin getter defin setter kernel particl modifi defin getter defin setter kernel particl modifi proto point prototyp node prototyp defin setter kernel particl modifi node prototyp defin getter mass mass node prototyp defin setter mass mass kernel particl modifi node prototyp defin setter temp mass kernel particl modifi node prototyp defin getter node prototyp defin setter kernel particl modifi
+barn barn hut tree init new branch origin size subtract insert length shift which quad mass multipli multipli origin mass multipli multipli unshift size divid point origin new branch origin size mass multipli math math math random math math math random push unshift appli forc length node shift node node node subtract node math magnitud magnitud point random normal appli forc multipli node node divid subtract node divid node mass magnitud math sqrt node size node size push node push node push node push node subtract node divid node mass math magnitud magnitud point random normal appli forc multipli node mass divid which quad explod subtract origin size divid new branch mass origin size mass
+physic physic barn hut tree particl spring particl mean topleft point bottomright point 1000 integr verlet euler index of verlet stiff 1000 repuls friction graviti theta init modifi physic stiff repuls friction graviti precis integr precis theta stiff spring add node bottomright topleft bottomright topleft point topleft math random topleft math random particl particl particl connect particl particl particl push particl drop node particl in array splice particl particl modifi node particl particl add spring particl particl spring spring stiff push spring connect connect particl particl drop spring spring point1 connect point2 connect in array splice spring updat tick tend particl integr euler updat forc updat veloc updat posit updat forc cach forc updat posit updat forc updat veloc tock tock particl push push push geometri epoch energi bound tend particl particl math updat forc repuls theta appli barn hut repuls appli brute forc repuls stiff appli spring appli center drift graviti appli center graviti cach forc particl appli brute forc repuls particl particl subtract math magnitud magnitud point random normal appli forc multipli repuls divid appli forc multipli repuls divid appli barn hut repuls topleft bottomright point bottomright point topleft init theta particl insert particl appli forc repuls appli spring spring point2 subtract point1 length magnitud magnitud point random normal point1 appli forc multipli point2 appli forc multipli appli center drift point particl divid particl appli forc appli center graviti particl multipli appli forc multipli repuls updat veloc particl point point integr euler multipli multipli friction divid multipli multipli friction magnitud divid magnitud math mean updat posit particl integr euler multipli multipli divid multipli point point topleft point bottomright point system energi init near particl point math random math random
+
+call worker thread physic bail
+window
+hermet is array length push extend ha own properti is array to string index of array in array length is empti object
+worker physic worker date valu of init timeout timeout physic stiff repuls friction tock timeout stop set interv tick stop clear interv tick tick system energi mean date valu of date valu of 1000 stop tock geometri post messag modifi node modifi node modifi physic modifi physic updat updat physic physic worker onmessag post messag ¿kérnèl physic physic physic init physic modifi physic modifi node mod chang physic updat chang physic start physic stop physic stop param is na n timeout physic timeout timeout physic modifi physic physic
+
+
+
+arbor arbor arbor
+extend arbor
+constructor ‘new’ call
+particl system particl system
+point point
+
+immut use method
+
+trace trace consol log
+dirnam dirnam path lead part path
+basenam basenam path trail part path
+ordin ordin abbrev integ comma
+objcopi objcopi
+objcmp objcmp strict order comparison
+objkey objkey key
+objmerg objmerg like extend destruct
+uniq uniq uniqu item
+arbor path arbor path guess directori code
+
+
+
+j queri
+
+j queri java script librari
+http jqueri
+
+copyright 2011 john resig
+dual licens version licens
+http jqueri licens
+
+includ sizzl
+http sizzlej
+copyright 2011 dojo foundat
+releas licens
+
+date 2011 0400
+
+is window node type default view parent window append to bodi display remov none creat element ifram frame border width height bodi append child creat element content window content document document write doctyp html bodi bodi html creat element bodi append child display bodi remov child concat appli slice set timeout activ x object microsoft xmlhttp xml http request data filter data filter data type data type length convert to lower case convert split error convers replac content data type respons field shift mime type get respons header content test unshift convert unshift is array test is array data type length data type unshift is function to lower case split length test substr unshift push width width offset width offset height border pars float pad margin pars float margin pars float border width ajax async data type script global eval text text content inner html replac parent node parent node remov child node name input get element by tag name grep get element by tag name input checkbox radio default check get element by tag name get element by tag name queri selector all queri selector all node type clear attribut clear attribut merg attribut merg attribut node name to lower case outer html outer html input checkbox radio option select default select input textarea default valu default valu default check valu valu valu valu remov attribut expando node type ha data expando event extend handl event length node name tabl get element by tag name tbodi append child owner document creat element tbodi is function grep call node type grep grep node type test filter filter grep in array parent node parent node node type replac replac event live fire live target disabl button click reg exp split join live fire live slice length orig type replac push selector splice target closest current target length length selector selector test elem disabl elem pre type mouseent pre type mouseleav pre type relat target closest selector contain push elem handl obj level level length level current target elem handl obj handl obj handl obj handl obj orig handler appli elem is propag stop level is immedi propag stop extend origin event live fire handl call is default prevent prevent default defer queue mark queue mark set timeout remov data resolv to json node type replac to lower case get attribut is na n test pars json pars float document navig locat is readi document element do scroll left set timeout readi init j queri bfnrt webkit opera version msie mozilla user agent object prototyp to string object prototyp ha own properti array prototyp push array prototyp slice string prototyp trim array prototyp index of prototyp init node type context length bodi bodi context bodi selector length char at char at length length exec owner document exec is plain object creat element attr call creat element build fragment cacheabl fragment fragment child node merg get element by id parent node find length context selector jqueri find find is function readi selector selector selector context context make array selector jqueri length size length to array call to array length push stack is array appli merg prev object context context find selector selector selector selector selector readi bind readi done slice slice first last slice push stack appli slice call join push stack call prev object push sort sort splice splice init prototyp extend extend length is function is plain object is array is array is plain object extend extend no conflict j queri j queri is readi readi wait hold readi readi wait readi readi readi wait is readi bodi set timeout readi is readi readi wait resolv with trigger trigger readi unbind readi bind readi defer readi state complet set timeout readi add event listen add event listen dom content load add event listen load readi attach event attach event onreadystatechang attach event onload readi frame element document element do scroll is function is array array is array is window set interv is na n test is na n string call is plain object node type is window call call prototyp is prototyp of call is empti object error pars json trim json json pars json pars test replac replac replac function error invalid json pars xml dom parser dom parser pars from string text activ x object microsoft xmldom async load xml document element node name node name parsererror error invalid noop global eval test exec script call node name node name node name to upper case to upper case length is function appli appli call call trim call replac replac make array length regexp is window call merg in array call length merg length length length length grep length push length is array length length concat appli guid proxi is function call appli concat call guid guid guid guid guid access length access is function call date get time ua match to lower case exec exec exec index of compat exec browser version init extend superclass prototyp init init call init prototyp browser boolean number string function array date reg exp object split to lower case ua match browser browser browser browser version version browser webkit browser safari test add event listen remov event listen dom content load readi attach event readi state complet detach event onreadystatechang readi done fail is resolv is reject promis alway pipe split slice extend defer done length done appli push resolv with resolv with shift appli resolv resolv with is resolv cancel defer defer defer extend done fail alway done appli fail appli fail done reject with resolv with reject resolv is reject is resolv pipe defer done resolv fail reject is function appli is function promis promis resolv reject promis promis length done cancel fail cancel cancel call length call resolv with call length is function promis defer is function promis promis reject resolv with resolv with promis support creat element document element set attribut class name inner html link tabl tabl href style left opac input checkbox get element by tag name get element by tag name length creat element select append child creat element option get element by tag name input lead whitespac first child node type tbodi get element by tag name tbodi length html serial get element by tag name link length style test get attribut style href normal get attribut href opac test style opac css float style css float check on valu opt select select get set attribut class name submit bubbl chang bubbl focusin bubbl delet expando no clone event inlin block need layout shrink wrap block reliabl margin right no clone check clone node disabl opt disabl disabl test delet expando add event listen attach event fire event attach event onclick no clone event detach event onclick clone node fire event onclick creat element input valu set attribut radio radio valu valu set attribut append child creat document fragment append child first child check clone clone node clone node last child inner html style width style pad left creat element bodi visibl hidden width height border margin background none style append child insert befor first child append check box model offset width zoom style style display style zoom inlin block need layout offset width style display inner html style width shrink wrap block offset width inner html tabl style pad border display none tabl get element by tag name offset height style display style display none reliabl hidden offset offset height inner html default view default view get comput style creat element style width style margin right append child reliabl margin right pars int default view get comput style margin right margin right inner html remov child attach event submit chang focusin set attribut bubbl box model support box model extend cach uuid expando j queri jqueri math random replac no data emb clsid d27 cdb6 e ae6 d 11cf 96 b8 444553540000 applet ha data node type cach expando expando accept data expando node type cach expando expando expando expando uuid expando to json noop extend extend camel case event event camel case remov data accept data expando node type cach expando expando support delet expando to json noop support delet expando expando remov attribut remov attribut expando expando accept data node name no data node name to lower case get attribut classid extend length node type attribut length name index of camel case substr split trigger handler get data length trigger handler set data trigger handler chang data remov data remov data extend mark mark unmark mark remov data mark queue queue is array make array push dequeu queue shift inprogress shift unshift inprogress call dequeu length remov data queue queue extend queue queue queue inprogress dequeu dequeu dequeu delay speed queue set timeout dequeu clear queue queue promis resolv with defer length defer queue mark defer done promis button input button input select textarea autofocu autoplay async control defer disabl hidden multipl open requir scope select extend attr access attr remov attr remov attr prop access prop remov prop prop fix add class is function add class call attr split length node type class name class name class name class name length index of class name trim remov class is function remov class call attr split length node type class name class name replac length replac class name trim class name toggl class is function toggl class call attr split ha class add class remov class class name class name class name class name class name class name ha class length class name replac index of length val hook node name to lower case val hook valu valu replac is function node type call is array val hook node name to lower case val hook valu valu extend val hook option attribut valu specifi valu text select select index option select length select support opt disabl disabl get attribut disabl parent node disabl node name parent node optgroup push length length make array find option select in array length select index attr fn html text width height offset attr fix tabindex tab index attr node type attr fn get attribut prop is xml doc attr fix attr hook test to lower case to lower case node name form test remov attr set attribut get attribut remov attr node type attr fix support get set attribut remov attribut attr remov attribut node get attribut node test prop fix attr hook test node name parent node error properti chang support radio valu radio node name input valu set attribut valu tab index get attribut node tab index specifi pars int valu test node name test node name href prop fix tabindex tab index read onli html for class name maxlength max length cellspac cell space cellpad cell pad rowspan row span colspan col span usemap use map framebord frame border contentedit content edit prop node type is xml doc prop fix prop hook prop hook prop fix to lower case remov attr prop fix set attribut to lower case attr hook valu node name button valu node name button valu support get set attribut attr fix prop fix attr hook name val hook button get attribut node node valu node valu get attribut node node valu width height attr hook extend attr hook set attribut support href normal href width height attr hook extend attr hook get attribut support style attr hook style style css text to lower case style css text support opt select prop hook select extend prop hook select parent node select index parent node parent node select index support check on radio checkbox val hook get attribut valu valu radio checkbox val hook extend val hook is array in array object prototyp ha own properti textarea input select replac node type node type handler handler guid guid guid event handl event handl trigger handl appli elem elem split extend handler index of split shift slice sort join guid guid guid special setup setup call add event listen add event listen attach event attach event call handler guid handler guid guid push remov node type node type ha data event handler char at remov split index of split shift reg exp slice sort join length test remov handler splice special length guid guid test splice remov remov call length length teardown teardown call remov event handl is empti object handl elem event handl is empti object remov data custom event get data set data chang data trigger index of slice index of split shift sort custom event expando event event exclus join reg exp join prevent default stop propag cach expando event event trigger handl elem
+node type node type result target make array unshift index of handl current target appli accept data appli result prevent default parent node owner document target owner document is propag stop is default prevent special call owner document click node name accept data trigger trigger result handl event slice exclus array prototyp slice call current target length test handler handler handl obj handler appli result prevent default stop propag is immedi propag stop result prop alt key attr chang attr name bubbl button cancel char code client x client y ctrl key current target detail event phase from element handler key code layer x layer y meta key new valu offset x offset y page x page y prev valu relat node relat target screen x screen y shift key src element target to element view wheel delta split expando event prop length prop target target src element target node type target target parent node relat target from element relat target from element target to element from element page x client x target owner document document element bodi page x client x scroll left scroll left client left client left page y client y scroll top scroll top client top client top char code key code char code char code key code meta key ctrl key meta key ctrl key button button button button guid proxi proxi special readi setup bind readi teardown noop live orig type selector extend handler guid handler guid remov remov orig type selector beforeunload setup is window onbeforeunload teardown onbeforeunload onbeforeunload remov event remov event listen remov event listen remov event listen detach event detach event event prevent default event origin event is default prevent default prevent return valu get prevent default get prevent default extend time stamp expando event prototyp prevent default is default prevent origin event prevent default prevent default return valu stop propag is propag stop origin event stop propag stop propag cancel bubbl stop immedi propag is immedi propag stop stop propag is default prevent is propag stop is immedi propag stop relat target parent node parent node handl appli handl appli mouseent mouseov mouseleav mouseout special setup selector teardown remov selector support submit bubbl special submit setup node name form click special submit target submit imag closest form length submit keypress special submit target text password closest form length key code submit teardown remov special submit support chang bubbl valu radio checkbox select multipl select index option select join node name select select index target test node name read onli chang focusout radio chang chang live fire trigger special chang filter focusout beforedeactiv click target node name input radio checkbox node name select call keydown target node name input key code node name textarea key code checkbox radio select multipl call beforeactiv target chang setup file special chang test node name teardown remov special chang test node name special chang filter focu beforeactiv support focusin bubbl focu focusin blur focusout origin event trigger target is default prevent prevent default special setup add event listen teardown remov event listen bind length unbind appli guid guid guid unload length extend unbind prevent default unbind length remov live undeleg length unbind live trigger trigger trigger handler trigger toggl guid guid last toggl guid last toggl guid prevent default appli guid length guid click hover mouseent mouseleav focu focusin blur focusout mouseent mouseov mouseleav mouseout live selector context prevent default char at unbind is function split exec replac hover push mouseent mouseleav push live length live selector handler orig type orig handler pre type unbind live blur focu focusin focusout load resiz scroll unload click dblclick mousedown mouseup mousemov mouseov mouseout mouseent mouseleav chang select submit keydown keypress keyup error split length bind trigger attr fn attr fn length sizcach sizset node type sizcach sizset filter length length sizcach sizset node type sizcach sizset node name to lower case object prototyp to string sort node type node type is xml exec exec push length exec length rel rel shift length shift rel shift length node type match test match test length find shift expr filter expr expr find length parent node parent node expr filter expr length length rel rel error call array push appli node type node type contain push node type push uniqu sort uniqu sort sort length splice match match selector length find order length order left match exec splice substr length replac find replac match get element by tag name get element by tag name expr filter is xml length filter left match exec filter splice substr length pre filter pre filter push replac match error error syntax error unrecogn express selector order name match u00c0 u ffff class u00c0 u ffff name name u00c0 u ffff attr u00c0 u ffff u00c0 u ffff u00c0 u ffff child last first child even first last even pseudo u00c0 u ffff left match attr map class name html for attr handl href get attribut href get attribut rel test to lower case length previou sibl node type node name to lower case filter length test to lower case parent node node name to lower case parent node parent node filter test to lower case parent node test to lower case previou sibl find get element by id get element by id parent node name get element by name get element by name length get attribut name push length get element by tag name get element by tag name pre filter class replac class name class name replac index of push replac replac to lower case child error replac exec even test error attr replac attr map attr map replac pseudo exec length test filter push appli match test match child test unshift filter enabl disabl hidden disabl disabl select parent node parent node select index select parent first child first child length header test node name text get attribut node name to lower case input text radio node name to lower case input radio checkbox node name to lower case input checkbox file node name to lower case input file password node name to lower case input password submit node name to lower case input button submit imag node name to lower case input imag reset node name to lower case input button reset button node name to lower case input button button input input select textarea button test node name focu owner document activ element set filter first last length even filter pseudo filter contain text content inner text get text index of length error child first previou sibl node type first last next sibl node type parent node sizcach node index first child next sibl node type node index sizcach node index node type get attribut node type node name to lower case class class name get attribut index of attr attr handl attr handl get attribut index of index of index of substr length length substr length set filter match match match reg exp match sourc sourc left match reg exp sourc match sourc replac array prototyp slice call push appli array prototyp slice call document element child node node type call array array prototyp push appli length length push push document element compar document posit compar document posit compar document posit compar document posit compar document posit sourc index sourc index sourc index sourc index parent node parent node unshift parent node unshift parent node length length next sibl next sibl get text node type node type node valu node type get text child node creat element script date get time document element inner html name insert befor first child get element by id find get element by id get element by id get attribut node get attribut node node valu filter get attribut node get attribut node node type node valu remov child creat element append child creat comment get element by tag name length find get element by tag name node type push inner html href first child first child get attribut first child get attribut href attr handl href get attribut href queri selector all creat element sizzl inner html test queri selector all queri selector all test length is xml exec node type node type get element by tag name find class get element by class name get element by class name node type bodi bodi bodi get element by id parent node queri selector all node type node name to lower case get attribut parent node test replac set attribut parent node queri selector all remov attribut document element match selector moz match selector webkit match selector ms match selector call creat element call document element test sizzl match selector replac is xml match pseudo test test call document document node type length creat element inner html test test get element by class name get element by class name length last child class name get element by class name length order splice class find class get element by class name get element by class name document element contain contain contain contain document element compar document posit contain compar document posit contain is xml owner document document element node name html node type match pseudo exec replac match pseudo rel length filter find expr selector expr expr filter uniqu uniqu sort text get text is xml doc is xml contain contain until parent prev until prev all array prototyp slice expr match children content prev extend find filter length contain push stack find length length find length splice filter length contain push stack filter push stack filter filter length filter length closest is array length length test context owner document jqueri index push selector elem level parent node test context length index find match selector push parent node owner document node type length uniqu push stack closest index in array parent children in array jqueri make array node type merg push stack uniqu and self prev object parent parent node node type parent parent node parent until parent node next sibl prev previou sibl next all next sibl prev all previou sibl next until next sibl prev until previou sibl sibl sibl parent node first child children sibl first child content node name ifram content document content window document make array child node call test filter length uniqu length test test revers push stack join extend filter length find match selector find match node type node type node type push node type sibl next sibl node type push j queri area emb input link meta param tbodi script emb option style java ecma script cdata option select multipl multipl select legend fieldset fieldset thead tabl tabl tabl tbodi tbodi tabl tabl tbodi tbodi tabl tabl tbodi tbodi colgroup colgroup tabl area optgroup option tbodi tfoot colgroup caption thead support html serial extend text is function text call text append owner document creat text node text wrap all is function wrap all call owner document parent node insert befor first child first child node type first child append wrap inner is function wrap inner call content length wrap all append wrap wrap all unwrap parent node name bodi replac with child node append dom manip node type append child prepend dom manip node type insert befor first child parent node dom manip parent node insert befor length push appli to array push stack parent node dom manip parent node insert befor next sibl length push stack push appli to array remov filter length node type clean data get element by tag name clean data parent node parent node remov child node type clean data get element by tag name first child remov child first child html node type inner html replac test support lead whitespac test exec to lower case replac length node type clean data get element by tag name inner html append is function html call html append replac with parent node is function html replac with call detach next sibl parent node remov append length push stack is function replac with detach remov dom manip support check clone length test dom manip is function call html dom manip parent node support parent node node type child node length length fragment build fragment fragment child node length first child first child node name length call cacheabl length build fragment owner document length length char at test support check clone test fragment creat document fragment clean fragment fragment cacheabl fragment append to append prepend to prepend insert befor insert after replac all replac with length parent node node type child node length length length concat push stack selector extend clone node support no clone event support no clone check node type node type is xml doc clean creat element owner document
+owner document test creat text node replac exec to lower case creat element inner html last child support tbodi test tabl first child first child child node tabl child node length node name tbodi child node length parent node remov child support lead whitespac test insert befor creat text node exec first child child node support append check length node type push merg test node name script to lower case text javascript push parent node parent node remov child node type grep get element by tag name script splice appli concat append child clean data cach expando special support delet expando node name no data node name to lower case expando event event remov remov event handl handl handl elem expando remov attribut remov attribut expando alpha opac posit absolut visibl hidden display block left right bottom to upper case length access style extend css hook opac opac opac style opac css number z index font weight opac zoom line height widow orphan css prop support css float css float style float style node type node type style camel case style css hook css prop is na n test replac pars float css number camel case css hook css prop css float swap style style call style camel case replac cur css height width css hook offset width swap style test pars float support opac css hook opac test current style current style filter style filter pars float reg exp style current style zoom is na n alpha opac filter filter filter test replac support reliabl margin right css hook margin right swap display block margin right margin right style margin right default view default view get comput style replac to lower case owner document default view get comput style get properti valu contain owner document document element style document element current style current style current style runtim style runtim style style test test left runtim style left current style left left font size pixel left left runtim style left expr expr filter expr filter hidden offset width offset height support reliabl hidden offset style display display none expr filter visibl expr filter hidden color date datetim email hidden month password rang search text time week storag extens file widget head script script script select textarea load href creat element href href exec to lower case extend load appli length index of slice length slice is function param ajax set tradit post ajax data type html complet respons text is resolv done html append replac find serial param serial array serial array element make array element filter name disabl test node name test is array name name valu replac name name valu replac ajax start ajax stop ajax complet ajax error ajax success ajax send split bind post is function ajax success data type extend get script script get json json ajax setup extend ajax set extend ajax set context ajax set ajax set ajax set is local test content type applic form urlencod process data async accept applic text html text html text text plain json applic json text javascript content html html json json respons field respons xml text respons text convert text string text html text json pars json text pars xml ajax prefilt ajax transport ajax clear timeout readi state if modifi get respons header last modifi last modifi get respons header etag etag notmodifi success parsererror error statu statu text resolv with reject with statu code trigger ajax success error resolv with trigger ajax complet activ trigger ajax stop ajax setup context node type defer defer statu code readi state set request header to lower case get all respons header get respons header exec to lower case to lower case overrid mime type mime type abort abort abort promis success done error fail complet done statu code statu replac replac data type trim data type to lower case split cross domain exec to lower case cross domain http http process data param tradit to upper case ha content test activ trigger ajax start ha content test cach replac test ha content content type content type set request header content type content type if modifi last modifi set request header modifi sinc last modifi etag set request header match etag set request header accept data type accept data type accept data type data type accept header set request header header befor send befor send call abort success error complet transport readi state trigger ajax send async timeout set timeout abort timeout timeout send statu error param is function length encod uri compon encod uri compon ajax set tradit is array jqueri is plain object name valu join replac extend activ last modifi etag ajax setup jsonp callback jsonp callback expando ajax prefilt json jsonp content type applic form urlencod data type jsonp jsonp test test jsonp callback is function jsonp callback jsonp callback jsonp callback jsonp replac replac test jsonp alway is function convert script json error call data type json script ajax setup accept script text javascript applic javascript applic ecmascript applic ecmascript content script javascript ecmascript convert text script global eval ajax prefilt script cach cach cross domain ajax transport script cross domain head get element by tag name head document element send creat element script async async script charset charset script charset onload onreadystatechang readi state load complet test readi state onload onreadystatechang parent node remov child success insert befor first child abort onload activ x object ajax set activ x object is local extend support ajax cor with credenti ajax set support ajax ajax transport cross domain support cor send usernam open async usernam password open async xhr field xhr field xhr field mime type overrid mime type overrid mime type mime type cross domain request with request with xml http request set request header send ha content readi state onreadystatechang noop readi state abort statu get all respons header respons xml document element text respons text statu text is local cross domain text 1223 async readi state unload onreadystatechang abort toggl show hide height margin top margin bottom pad top pad bottom width margin left margin right pad left pad right opac webkit request anim frame moz request anim frame o request anim frame extend show anim show length style style display olddisplay none style display display none olddisplay node name style style display none style display olddisplay hide anim hide length style display none olddisplay olddisplay style style display none toggl toggl toggl is function is function toggl appli hidden show hide anim toggl fade to filter hidden opac show anim opac anim speed is empti object complet extend queue queue queue mark extend node type hidden anim properti camel case is array anim properti anim properti special eas special eas eas swing hide show complet call height width overflow style overflow style overflow x style overflow y display none support inlin block need layout node name style display block style display style zoom style display block overflow style overflow hidden test toggl show hide exec pars float css number style style custom custom stop queue timer length unmark elem splice dequeu slide down show slide up hide slide toggl toggl fade in opac show fade out opac hide fade toggl opac toggl anim extend speed extend complet is function durat eas is function durat durat durat durat speed speed durat speed complet complet queue dequeu unmark is function call eas linear swing math math timer option elem prop orig orig prototyp updat option step option step call elem step prop step elem prop elem style elem style prop elem prop elem prop is na n pars float custom step start time start unit unit css number prop start state elem elem timer push tick set interv tick interv show option orig prop style elem prop option show custom prop width prop height elem show hide option orig prop style elem prop option hide custom step elem option durat start time state updat anim properti prop anim properti anim properti overflow support shrink wrap block style overflow overflow hide hide hide show anim properti style orig complet call durat infin start time state durat eas anim properti prop state durat start start updat extend tick timer length splice length stop interv stop clear interv speed slow fast step opac style elem opac elem style elem style prop elem style prop prop width prop height math unit elem prop expr expr filter expr filter anim grep timer elem length abl bodi html get bound client rect document element offset offset set offset owner document owner document bodi offset bodi offset get bound client rect owner document document element contain left left left bodi client top client top client left client left page y offset support box model scroll top scroll top page x offset support box model scroll left scroll left left left offset offset set offset owner document owner document bodi offset bodi offset offset initi offset parent owner document document element bodi default view get comput style current style offset top offset left parent node offset support fix posit posit get comput style current style scroll top scroll left offset top offset left offset doe not add border offset doe add border for tabl and cell test node name pars float border top width pars float border left width offset parent offset subtract border for overflow not visibl overflow visibl pars float border top width pars float border left width posit rel posit offset top offset left offset support fix posit posit math scroll top scroll top math scroll left scroll left left offset initi bodi creat element pars float margin top style posit absolut left margin border solid pad width height tabl style posit absolut left margin border solid pad width height cellpad cellspac tabl extend style posit absolut left margin border width height visibl hidden inner html insert befor first child first child first child next sibl first child first child doe not add border offset top doe add border for tabl and cell offset top style posit style 20px support fix posit offset top offset top style posit style style overflow hidden style posit rel subtract border for overflow not visibl offset top doe not includ margin in bodi offset offset top remov child offset initi noop bodi offset offset top offset left offset initi offset doe not includ margin in bodi offset pars float margin top pars float margin left left set offset posit style posit rel offset left absolut in array posit left pars float pars float is function call left left left left call extend posit offset parent offset test node name left offset pars float margin top left pars float margin left pars float border top width left pars float border left width left left left offset parent offset parent bodi test node name posit offset parent left scroll page x offset page y offset page x offset support box model document document element document bodi scroll to scroll left scroll top height width to lower case inner pars float pad outer pars float margin border is function call is window document document element client document compat mode css1 compat document bodi client node type math document element client bodi scroll document element scroll bodi offset document element offset pars float is na n j queri window
+
+j queri address plugin
+http asual jqueri address
+
+copyright 2009 2010 rostislav hristov
+dual licens version licens
+http jqueri licens
+
+date 2011 0300 2011
+
+address address trigger extend event address paramet name length address paramet valu address valu path address path path name address path name paramet name paramet queri string address queri string call address bind appli address array prototyp slice call address push state
+state pathnam replac reg exp state search replac href index of href substr javascript to string strict substr crawlabl replac pars int
+child node length child node child node string child node child node reload histori tracker tracker is function tracker tracker tracker pathnam search address address valu replac replac
+is function is function urchin tracker urchin tracker page tracker is function page tracker track pageview page tracker track pageview is function push push track pageview decod uri document open document writeln html head titl titl replac titl script encod uri compon domain hostnam document domain domain
+script head html document close content window locat replac substr split length split auto updat crawlabl histori strict wrap test is na n test pars int state tracker test call call bodi ajax complet
+wrap bodi wrap all style pad margin top pad top margin right pad right margin bottom pad bottom margin left pad left parent wrap style height overflow posit rel window statusbar visibl resiz html bodi height margin pad overflow hidden style text append to head text
+webkit resiz background color get element by tag name frameset creat element frame insert adjac element befor end col col row no resiz frame border frame space style display none style width style height tab index bodi insert adjac element after begin bind load content window hash content window
+init add event listen add event listen attach event attach event size address address remov event listen remov event listen detach event detach event crawlabl
+pathnam replac bodi html index of escap fragment href href http href document domain attr href replac http replac reg exp index of escap fragment attr href replac escap fragment j queri address hashchang chang intern chang extern chang auto updat crawlabl histori
+strict wrap browser pars float browser version mozilla msie opera webkit safari document window window document histori locat set interv set timeout navig user agent document index of titl pars float substr index of msie document mode document mode document mode onpropertychang
+onpropertychang call titl titl index of titl histori navig mode compat document readi state complet set interv address clear interv window bind popstat bind unload replac href substr href index of bind init init
+chang intern chang extern chang base url href index of substr index of test substr length auto updat auto updat auto updat crawlabl crawlabl crawlabl histori histori histori state
+state state push state substr replac state replac substr replac replac state replac state strict strict strict tracker tracker tracker wrap wrap wrap updat valu
+titl titl content window content window document content window document titl replac href index of href href titl valu auto updat histori push state replac state state replac histori hash replac
+histori hash replac histori path queri string hash valu split split path name path replac split substr length splice substr length splice length
+queri string hash valu path split slice length join split paramet paramet name to string length paramet concat length push in array
+push queri string join queri string split length split push slice join length length paramet name queri string index of split length split in array push hash valu split
+split slice length join address attr address shift key ctrl key meta key call address test attr attr split address split address state address state attr href replac reg exp address state attr href replac address valu
+prevent default click live click live submit form attr action call index of replac serial address valu prevent default attr address j queri
+
+arbor graphic
+canva fructos
+
+copyright 2012 samizdat draft
+
+permiss herebi grant free charg person
+obtain copi softwar associ document
+file softwar deal softwar without
+restrict includ without limit right
+copi modifi merg publish distribut sublicens sell
+copi softwar permit person
+softwar furnish subject follow
+condit
+
+copyright notic permiss notic shall
+includ copi substanti portion softwar
+
+softwar provid without warranti kind
+express impli includ limit warranti
+merchant fit particular purpos
+noninfring event shall author copyright
+holder liabl claim damag other liabil
+whether action contract tort otherwis aris
+from connect with softwar
+other deal softwar
+
+
+
+
+trace window window consol length arg arg push consol arg join dirnam replac split join basenam replac split ordin ordin 11000 replac ordin 1000000 math floor 1000 1000000000 math floor 1000 replac ordin nano replac split shift ha own properti objcopi parent node substr is array objcopi objmerg objcopi objcmp is array is array length length ha own properti push ha own properti push sort sort join join objcmp objkey ha own properti push objcontain length ha own properti uniq length objkey arbor path script attr match arbor match length
+color color to string length pars int objkey sort join abgr aliceblu f0f8ff antiquewhit faebd7 aqua 00ffff aquamarin 7fffd4 azur f0ffff beig f5f5dc bisqu ffe4c4 black 000000 blanchedalmond ffebcd blue 0000ff blueviolet 8a2be2 brown a52a2a burlywood deb887 cadetblu 5f9ea0 chartreus 7fff00 chocol d2691e coral ff7f50 cornflowerblu 6495ed cornsilk fff8dc crimson dc143c cyan 00ffff darkblu 00008b darkcyan 008b8b darkgoldenrod b8860b darkgray a9a9a9 darkgrey a9a9a9 darkgreen 006400 darkkhaki bdb76b darkmagenta 8b008b darkolivegreen 556b2f darkorang ff8c00 darkorchid 9932cc darkr 8b0000 darksalmon e9967a darkseagreen 8fbc8f darkslateblu 483d8b darkslategray 2f4f4f darkslategrey 2f4f4f darkturquois 00ced1 darkviolet 9400d3 deeppink ff1493 deepskyblu 00bfff dimgray 696969 dimgrey 696969 dodgerblu 1e90ff firebrick b22222 floralwhit fffaf0 forestgreen 228b22 fuchsia ff00ff gainsboro dcdcdc ghostwhit f8f8ff gold ffd700 goldenrod daa520 gray 808080 grey 808080 green 008000 greenyellow adff2f honeydew f0fff0 hotpink ff69b4 indianr cd5c5c indigo 4b0082 ivori fffff0 khaki f0e68c lavend e6e6fa lavenderblush fff0f5 lawngreen 7cfc00 lemonchiffon fffacd lightblu add8e6 lightcor f08080 lightcyan e0ffff lightgoldenrodyellow fafad2 lightgray d3d3d3 lightgrey d3d3d3 lightgreen 90ee90 lightpink ffb6c1 lightsalmon ffa07a lightseagreen 20b2aa lightskyblu 87cefa lightslategray 778899 lightslategrey 778899 lightsteelblu b0c4de lightyellow ffffe0 lime 00ff00 limegreen 32cd32 linen faf0e6 magenta ff00ff maroon 800000 mediumaquamarin 66cdaa mediumblu 0000cd mediumorchid ba55d3 mediumpurpl 9370d8 mediumseagreen 3cb371 mediumslateblu 7b68ee mediumspringgreen 00fa9a mediumturquois 48d1cc mediumvioletr c71585 midnightblu 191970 mintcream f5fffa mistyros ffe4e1 moccasin ffe4b5 navajowhit ffdead navi 000080 oldlac fdf5e6 oliv 808000 olivedrab 6b8e23 orang ffa500 orang ff4500 orchid da70d6 palegoldenrod eee8aa palegreen 98fb98 paleturquois afeee palevioletr d87093 papayawhip ffefd5 peachpuff ffdab9 peru cd853f pink ffc0cb plum dda0dd powderblu b0e0e6 purpl 800080 ff0000 rosybrown bc8f8f royalblu 4169e1 saddlebrown 8b4513 salmon fa8072 sandybrown f4a460 seagreen 2e8b57 seashel fff5ee sienna a0522d silver c0c0c0 skyblu 87ceeb slateblu 6a5acd slategray 708090 slategrey 708090 snow fffafa springgreen 00ff7f steelblu 4682b4 d2b48c teal 008080 thistl d8bfd8 tomato ff6347 turquois 40e0d0 violet ee82e wheat f5deb3 white ffffff whitesmok f5f5f5 yellow ffff00 yellowgreen 9acd32 decod length to lower case match val match val val length val length val val val valid to lower case match decod decod blend math math decod decod objcopi nano rgba encod decod nano nano rgba
+primit primit style prototyp draw draw draw objcontain stroke fill width objmerg style objmerg stroke fill 5522848 save begin path move to bezier curv to bezier curv to bezier curv to bezier curv to close path fill alpha fill style color blend fill alpha fill style color encod fill fill stroke stroke style color encod stroke is na n width line width width stroke restor objcontain stroke fill width style prototyp draw draw draw objcontain stroke fill width alpha objcontain stroke fill width alpha objmerg style objmerg stroke fill save begin path move to line to quadrat curv to line to quadrat curv to line to quadrat curv to line to quadrat curv to fill alpha fill style color blend fill alpha fill style color encod fill fill stroke stroke style color encod stroke is na n width line width width stroke restor point style is array point style point style prototyp draw point length is array point push point point save begin path move to line to extend objmerg style close close path fill color decod fill alpha alpha fill style color encod fill stroke color decod stroke alpha alpha stroke style color encod is na n width line width width stroke restor color decod prototyp to string color encod blend trace blend oval rect color path
+graphic graphic get context origin background fill stroke width font san serif size align left color color decod black alpha baselin ideograph primit oval rect color path init size is na n is na n attr width height width attr width height attr height clear length attr width attr height clear rect background save fill style color encod background fill rect restor background background color decod background clear no fill fill fill length fill length color decod fill fill style color encod no stroke stroke stroke style stroke length stroke stroke length color decod stroke stroke style color encod stroke width line width line width width color draw style length objcopi length color color decod color color background fill stroke width split is empti object length width width width line width width background fill stroke color decod fill style fill stroke style stroke text style length objcopi length color color decod color color font size align baselin alpha split is empti object length font font font size size size font nano size font align text align align align baselin text baselin baselin baselin alpha alpha alpha color color decod color color color color blend color alpha fill style text length is na n length objmerg save align text align align baselin text baselin baselin font is na n size font nano size font alpha alpha alpha color color color fill style color blend fill text math round restor text width objmerg save font nano size font measur text width restor rect rect prototyp draw oval oval prototyp draw line draw line push push draw line draw init
+
+arbor arbor arbor
+extend arbor
+‘new’ call
+graphic graphic
+
+use method deal
+color
+color dict colornam fef2e2
+valid color valid
+decod color decod hex string css color
+encod color encod hex or rgba string
+blend color blend color opac rgba string
+
+
+
+j queri
+
+
+render canva
+canva canva
+canva get context
+particl system
+
+palett
+africa d68300
+asia 4 d7 a00
+europ 6 d87 cf
+north america d4 e200
+oceania 4 f2170
+south america cd2900
+
+
+
+init system
+particl system system
+particl system screen pad leav space bottom param slider
+step ‘camera’ zoom somewhat slowli graph unfold
+window resiz resiz
+resiz
+
+init mous handl
+
+redraw
+particl system
+
+clear rect canva width canva height
+stroke style d3d3d3
+line width
+begin path
+particl system each edg edg
+edg sourc node target node length
+sourc posit screen coord
+target posit screen coord
+
+weight math edg border
+color edg color
+color color match color
+
+color weight
+save
+begin path
+
+is na n weight line width weight
+
+edg sourc region edg target region
+stroke style palett edg sourc region
+
+
+color stroke style color
+fill style
+
+move to
+line to
+stroke
+restor
+
+draw line
+move to
+line to
+
+
+stroke
+
+particl system each node node
+node mass name
+node posit screen coord
+
+
+determin size round coord
+draw text label aw align jitter otherwis
+measur text node label width
+label node label
+label match
+math floor
+math floor
+
+label
+
+
+clear edg text label
+fill style rgba
+fill rect
+
+
+clear rect
+
+
+
+draw text
+label
+font bold 11px arial
+text align center
+
+node region fill style palett node region
+fill style 888888
+fill style 888888
+
+fill text label
+fill text label
+
+
+
+
+resiz
+window width
+window height
+canva width canva height resiz canva element fill screen
+particl system screen size inform system coord
+redraw
+
+
+init mous handl
+nonsens drag drop thank springi
+select
+nearest
+drag
+oldmass
+
+canva mousedown
+offset
+page x left page y
+select nearest drag particl system nearest
+
+select node
+drag node temp mass
+drag node
+
+
+
+
+canva mousemov
+nearest nearest nearest node
+offset
+page x left page y
+
+nearest particl system nearest
+nearest
+
+drag drag node
+particl system from screen
+drag node
+drag temp mass 10000
+
+
+
+
+
+window bind mouseup
+drag drag node
+drag node
+drag node temp mass
+drag
+select
+
+
+
+
+
+
+
+
+
+
+map
+arbor particl system 4000
+render render viewport newli creat render init method call shortli
+
+
+link find
+
+sourc
+nation deriv wikipedia’ target blank href http wikipedia wiki list countri territori land border list countri territori land border
+state deriv target blank href http statemast graph geographi land border land border state
+risk deriv garrett robinson’ target blank href http risk strategi risk
+
+
+map
+usofa titl unit state stiff sourc sourc state
+africa titl africa stiff sourc sourc nation
+asia titl asia stiff sourc sourc nation
+europ titl europ stiff sourc sourc nation
+mideast titl middl east stiff sourc sourc nation
+risk titl risk stiff sourc sourc risk
+
+
+
+init
+
+map stub
+link append href stub stub titl
+
+link find click map click
+link find usofa click
+
+
+map click
+select target
+new map select attr
+new map map select map new map
+link find remov class activ
+select add class activ
+
+
+select map
+get json map json
+load particl system sinc alreadi format correctli merg
+node node
+node name info
+info label name replac peopl republ replac
+
+
+merg node node edg edg
+paramet map
+dataset html map sourc
+
+
+
+
+
+init
+
+
+
+
+
+document readi
+
+map map
+
+
+
+
+
+
+
+
+
+
+
+
+echolalia
+
+creat christian swinehart 2010
+copyright 2011 samizdat draft right reserv
+
+
+
+
+dead simpl render canva
+canva canva
+canva get context
+particl system
+
+
+
+particl system call init right
+first frame drawn good place canva
+canva size particl system
+
+init system
+save refer particl system redraw
+particl system system
+
+inform system screen dimens coord
+canva ever resiz screen size call
+dimens
+particl system screen size canva width canva height
+particl system screen pad leav extra 80px whitespac side
+
+
+
+redraw call repeatedli whenev node posit
+chang posit node access look
+attribut given node howev valu coordin
+particl system rather screen either
+screen conveni iter each node each edg
+allow step actual node object also
+point screen coordin system
+
+
+redraw
+clear rect canva width canva height
+
+particl system each edg edg
+edg sourc node target node length
+sourc posit screen coord
+target posit screen coord
+
+draw line
+stroke style rgba
+line width edg weight
+begin path
+move to
+line to
+stroke
+
+
+particl system each node node
+node mass name
+node posit screen coord
+
+draw rectangl center
+
+fill style white
+fill rect
+
+
+
+
+
+
+document readi
+arbor particl system 1000 creat system sensibl repuls stiff friction
+render dead simpl render viewport newli creat render init method call shortli
+
+pick random datafil load
+allbird bk42w74 bk43w73 bk70bk62 bk95bk3 g81w58 g83w57 pk60gr7 r15bl29 r17pu46
+alltran
+rand bird allbird math floor math random allbird length alltran math floor math random alltran length json
+
+load particl system sinc alreadi format correctli graft
+get json bird rand bird
+graft node node edg edg
+
+
+display name handl click ‘see another’ link
+label span html rand bird replac json to upper case
+anoth click
+window locat reload
+
+
+
+
+
+j queri
+
+
+
+paramet set screen
+
+dashboard
+
+
+ordin
+ordin hint
+norm
+hint friction
+norm math floor
+
+math round
+11000
+norm replac ordin
+1000000
+norm math floor 1000
+1000000000
+norm math floor 1000 replac ordin
+
+
+norm
+
+
+rang
+stiff 15000
+repuls 100000
+friction
+
+state
+
+
+help panel help panel rtfm
+init
+initi display particl system
+updat
+
+click drag param valu modifi
+find frob mousedown begin frob
+find mousedown
+find toggl click toggl graviti
+
+help click show help
+find click show intro
+intro click hide intro
+
+help panel bind close hide help
+
+
+
+updat
+paramet param
+param graviti
+find graviti toggl text center
+
+find param find frob
+text ordin param
+param param
+
+
+
+
+
+
+show help
+help panel reveal
+find help fade out
+trace help
+
+
+
+hide help
+trace close
+find help fade in
+
+
+show intro
+intro intro
+intro display block
+
+intro stop opac show fade to fast
+find remov class activ
+
+
+
+hide intro
+intro intro
+intro opac
+
+find add class activ
+intro stop fade to fast
+intro hide
+
+
+
+
+toggl graviti
+old graviti paramet graviti
+paramet graviti old graviti
+updat
+
+
+begin frob
+frob target
+param frob param
+frob
+rang param
+prop param friction math math math math
+
+param friction frob add class huge
+param friction frob add class tini
+
+state
+origin page x
+frob
+param param
+
+prop prop
+
+
+html add class adjust
+frob add class adjust
+
+window bind mousemov still frob
+window bind mouseup done frob
+
+
+
+still frob
+state
+
+slide param space nice exponenti step size
+disp state prop page x state origin 1000
+state param friction
+prop math math disp
+
+prop math math math disp math
+prop math math prop
+
+state prop
+prop
+state origin page x
+state prop prop
+
+
+prop state param friction state add class huge
+state remov class huge
+
+prop state param friction state add class tini
+state remov class tini
+
+updat display
+state text ordin state param
+
+
+particl system know chang
+param
+param state param
+paramet param
+
+
+
+done frob
+window unbind mousemov still frob
+window unbind mouseup done frob
+
+html remov class adjust
+state remov class adjust
+state remov class huge
+state remov class tini
+state
+
+
+
+
+init
+
+
+
+
+
+
+
+scrollabl popup window halfton doc
+
+help panel
+
+
+drag offset
+mode basic
+anim
+
+
+init
+find mousedown begin move
+find click hide
+find click switch section
+window resiz resiz
+
+
+reveal
+display block
+
+
+left grabber offset left width
+
+
+
+
+stop show opac
+resiz
+fade to fast
+
+
+
+hide
+stop fade to fast
+hide
+
+trace close
+trigger close
+
+
+
+resiz
+display block
+
+panel offset
+panel width
+screen window width window height
+left x math math screen panel panel left
+top x math screen panel
+max h screen top x
+max height max h left left x top x
+
+
+switch section
+new mode target text to lower case
+anim
+new mode mode
+anim
+
+find remov class activ
+target add class activ
+
+find mode stop fade to fast
+hide
+find new mode stop opac show fade to fast
+anim
+mode new mode
+resiz
+
+
+
+
+
+
+
+begin move
+dom offset offset
+drag offset dom offset left page x
+drag offset dom offset page y
+window bind mousemov move
+window bind mouseup end move
+
+
+move
+left page x drag offset page y drag offset
+
+resiz
+
+
+end move
+window unbind mousemov move
+window unbind mouseup end move
+
+
+
+
+init
+
+
+
+
+
+
+popup menu button editor textarea
+
+
+
+dialog find dialog
+anim
+
+
+init
+
+find ctrl live click menu click
+dialog find live click exampl click
+
+get json librari json resp
+dialog append choos your adventur
+resp row
+cyoa
+titl valu
+stub
+book href
+book attr stub replac
+book find text titl
+dialog append book
+
+
+dialog append doodl
+resp row
+doodl
+titl valu
+stub
+doodl href
+doodl attr stub replac
+doodl find text titl
+dialog append doodl
+
+
+
+address valu
+resp total row
+book dialog find
+rand book resp row math floor math random
+address valu rand book
+
+
+
+
+address chang navig
+
+
+
+
+navig
+trace path
+doc id path replac
+
+doc id match
+trigger doc id
+
+
+
+exampl click
+target
+target doc closest attr
+
+closest find remov class activ
+add class activ
+
+
+address valu target doc
+hide exampl
+
+
+
+show exampl
+anim
+anim
+find exampl add class select
+
+dialog find remov class activ
+view id locat hash replac
+view id length dialog find view id find add class activ
+
+
+dialog stop slide down
+anim
+
+
+hide exampl
+anim
+anim
+find exampl remov class select
+dialog stop slide up
+anim
+
+
+
+menu click
+button target tag name target target closest
+button attr replac select activ
+
+
+exampl
+toggl button ha class select
+toggl hide exampl
+show exampl
+
+
+
+hide exampl
+trigger clear
+
+
+save
+target attr href
+
+
+trigger save
+
+
+
+
+
+
+
+init
+
+
+
+
+
+
+quick incomplet sure buggi ‘parser’ read halfton sourc
+
+parseur
+strip replac
+recogn
+first map none
+
+
+depth
+
+
+
+depth
+depth
+
+
+depth
+depth
+
+
+
+substr
+
+unpack
+process key1 val1 key2 val2 recogn map
+
+
+pair substr length split
+
+
+pair pair
+pair split
+
+strip
+strip slice join back colon part valu
+is na n pars float
+
+
+
+
+
+
+
+lech
+token
+
+
+in obj
+obj beg
+obj end
+
+flush
+bufstr strip
+bufstr length token push ident ident bufstr
+
+
+
+replac screen comment
+
+length
+
+
+
+
+flush
+edg substr
+token push arrow direct edg
+
+
+
+
+
+
+obj str recogn substr
+obj str length
+
+
+
+style unpack obj str
+is empti object style
+flush
+token push style style style
+
+obj str length
+
+
+
+
+
+
+flush
+
+
+
+
+token
+
+
+yack statement
+node
+edg
+
+nodestyl
+edgestyl
+statement
+type token
+token
+join
+
+trace
+type match ident arrow ident style
+edg
+edg ident ident style style
+edg style direct direct
+node edg node edg is empti object nodestyl 2600 objcopi nodestyl
+node edg node edg is empti object nodestyl 2600 objcopi nodestyl
+edg edg edg edg
+edg edg edg objmerg edgestyl edg style
+type match ident arrow ident style
+node declar edg typo still salvag node name
+node ident
+style
+node node objmerg nodestyl style
+
+node node is empti object nodestyl 2600 objcopi nodestyl default
+
+
+type style
+style declar node
+nodestyl objmerg nodestyl style
+type arrow style
+style declar edg
+edgestyl objmerg edgestyl style
+
+
+
+find node brought edg never style explicitli
+whatev nodestyl built
+node name
+2600
+node name objcopi nodestyl
+
+
+
+node node edg edg
+
+
+
+lech lech
+yack yack
+pars
+line split
+statement
+line line
+token lech line
+token length statement push token
+
+
+yack statement
+
+
+
+
+
+
+
+
+
+
+
+
+render canva
+canva canva
+canva get context
+arbor graphic canva
+particl system
+
+
+init system
+particl system system
+particl system screen size canva width canva height
+particl system screen pad
+
+init mous handl
+
+
+redraw
+particl system
+
+clear conveni clear whole canva rect
+
+draw node save bound edg draw
+node box
+particl system each node node
+node mass name
+node posit screen coord
+
+determin size round coord
+draw text label aw align jitter otherwis
+label node label
+measur text label width
+label match
+math floor
+math floor
+
+label
+
+
+draw rectangl center
+node color fill style node color
+fill style rgba
+node color none fill style white
+
+node shape
+oval fill fill style
+node box node name
+
+rect fill fill style
+node box node name
+
+
+draw text
+label
+font 12px helvetica
+text align center
+fill style white
+node color none fill style 333333
+fill text label
+fill text label
+
+
+
+
+draw edg
+particl system each edg edg
+edg sourc node target node length
+sourc posit screen coord
+target posit screen coord
+
+weight edg weight
+color edg color
+
+color color match color
+
+find start point
+tail intersect line node box edg sourc name
+head intersect line tail node box edg target name
+
+save
+begin path
+line width is na n weight pars float weight
+stroke style color color cccccc
+fill style
+
+move to tail tail
+line to head head
+stroke
+restor
+
+draw arrowhead style edg
+edg direct
+save
+move head posit edg drew
+is na n weight pars float weight
+arrow length
+arrow width
+fill style color color cccccc
+translat head head
+rotat math atan2 head tail head tail
+
+edg alreadi point hidden
+clear rect arrow length arrow length
+
+draw chevron
+begin path
+move to arrow length arrow width
+line to
+line to arrow length arrow width
+line to arrow length
+close path
+fill
+restor
+
+
+
+
+
+
+init mous handl
+nonsens drag drop thank springi
+select
+nearest
+drag
+oldmass
+
+handler initi listen mousedown
+move mouseup drag
+handler
+click
+canva offset
+mous p arbor point page x left page y
+select nearest drag particl system nearest mous p
+
+drag node drag node
+
+canva bind mousemov handler drag
+window bind mouseup handler drop
+
+
+
+drag
+nearest nearest nearest node
+canva offset
+arbor point page x left page y
+
+nearest
+drag drag node
+particl system from screen
+drag node
+
+
+
+
+
+drop
+drag drag node
+drag node drag node
+drag node temp mass
+drag
+select
+canva unbind mousemov handler drag
+window unbind mouseup handler drop
+mous p
+
+
+
+canva mousedown handler click
+
+
+
+
+
+helper figur draw arrow thank springi
+intersect line line
+
+denom
+denom line parallel
+denom
+denom
+
+
+arbor point
+
+
+intersect line box tupl
+
+box tupl box tupl
+box tupl
+box tupl
+
+
+
+
+
+
+intersect line line
+intersect line line
+intersect line line
+intersect line line
+
+
+
+
+
+
+
+
+halfviz
+
+instanti helper class set particl system render
+maintain canva editor splitview
+
+
+
+trace arbor trace
+objmerg arbor objmerg
+objcopi arbor objcopi
+pars parseur pars
+
+half viz
+
+
+arbor particl system 2600
+render render viewport newli creat render init method call shortli
+screen pad
+
+find editor
+code find textarea
+canva find viewport
+grabber find grabber
+
+updat timeout
+current save
+edit whether undim save menu prevent navig away
+failur
+
+
+dashboard dashboard dashboard
+editor
+init
+
+window resiz resiz
+resiz
+updat layout math window width
+
+code keydown type
+grabber bind mousedown grab
+
+bind get doc
+bind clear new doc
+
+
+
+get doc
+get json librari json
+
+updat system paramet
+
+paramet
+dashboard updat
+
+
+modifi graph particl system
+code
+updat graph
+resiz
+edit
+
+
+
+
+new doc
+lorem exampl node nhello color label hello nworld color orang edg nhello world color yellow nfoo weight nbar weight
+
+code lorem focu
+address valu
+updat graph
+resiz
+edit
+
+
+updat graph
+code
+network pars
+network node nname ndata
+ndata label ndata label nname
+
+merg network
+updat timeout
+
+
+resiz
+window width
+width
+updat layout
+render redraw
+
+
+updat layout split
+width
+grabber height
+split split grabber offset left
+split w grabber width
+grabber left split
+
+split
+
+width height
+split hide
+show
+
+canv w split split w
+canv h
+canva width canv w
+canva height canv h
+screen size canv w canv h
+
+code height width margin left
+
+
+grab
+window bind mousemov drag
+window bind mouseup releas
+
+
+drag
+width
+updat layout math math page x
+render redraw
+
+
+releas
+window unbind mousemov drag
+
+
+type
+key code
+in array
+
+
+
+edit
+address valu
+
+edit
+
+updat timeout clear timeout updat timeout
+updat timeout set timeout updat graph
+
+
+
+init
+
+
+
+document readi
+half viz halfviz
+
+
+
+
+
+
+
+wrapper run minifi file
+
+
+make sure html includ look like
+script script
+script kernel script
+script graphic color script
+script graphic primit script
+script graphic graphic script
+script tween eas script
+script tween tween script
+script physic atom script
+script physic barn script
+script physic physic script
+script physic system script
+script script
+
+
+
+
+arbor arbor arbor
+extend arbor
+constructor ‘new’ call
+particl system particl system
+tween tween
+point point
+graphic canva graphic canva
+
+immut object use method
+color
+color colornam fef2e2
+valid color valid
+decod color decod hex string css color
+encod color encod hex or rgba string
+blend color blend color opac rgba string
+
+
+trace trace consol log
+dirnam dirnam path lead part path
+basenam basenam path trail part path
+ordin ordin abbrev integ comma
+objcopi objcopi
+objcmp objcmp strict order comparison
+objkey objkey key
+objmerg objmerg like extend destruct
+uniq uniq uniqu item
+arbor path arbor path guess directori code
+
+
+
+
+
+
+
+kernel
+
+manag physic tween updat
+
+
+kernel p system
+chrome worker avail page file url
+chrome local file window locat protocol file
+navig user agent to lower case index of chrome
+worker window worker chrome local file
+
+physic
+tween
+fp window keep track actual frame rate
+fp window last date
+screen interv
+attach
+
+tick interv
+last tick
+paus
+
+
+system p system
+tween
+node
+
+init
+tween tween tween
+arbor tween tween arbor tween
+tween busi
+tick
+trace pleas arbor tween enabl tween tween
+tween tween
+p system paramet
+
+worker
+trace arbor worker
+screen interv set interv screen updat timeout
+
+physic worker arbor path physic worker
+physic onmessag worker msg
+physic onerror trace physic
+physic post messag physic
+physic objmerg
+timeout math ceil timeout
+
+trace arbor singl thread
+physic physic stiff repuls friction system updat geometri integr
+start
+
+
+
+
+
+
+updat particl system
+graph chang chang
+node edg ad delet
+worker physic post messag chang chang chang
+physic updat chang
+start kick thing worker mode
+
+
+particl modifi mod
+particl posit mass chang
+trace objkey mod
+worker physic post messag modifi mod mod
+physic modifi node mod
+start kick thing worker mode
+
+
+physic modifi param
+
+intercept chang framer worker
+manag draw timer
+is na n param timeout
+worker
+clear interv screen interv
+screen interv set interv screen updat param timeout
+
+clear interv call start
+clear interv tick interv
+tick interv
+
+
+
+chang physic paramet
+worker physic post messag param param
+physic modifi physic param
+start kick thing worker mode
+
+
+worker msg
+
+geometri
+worker updat
+
+trace physic
+
+
+last posit
+worker updat
+last posit
+last bound bound
+
+
+
+
+main render run worker mode
+last frametim date valu of
+last bound
+current render
+screen updat
+date valu of
+
+should redraw
+last posit
+system updat geometri last posit
+last posit
+should redraw
+
+
+tween tween busi should redraw
+
+system updat bound last bound should redraw
+
+
+should redraw
+render system render
+render
+render attach
+render init system
+attach render
+
+
+tween tween tick
+render redraw
+
+prev frame fp window last
+fp window last date
+fp window push fp window last prev frame
+fp window length fp window shift
+
+
+
+
+
+main render run worker mode
+physic updat
+tween tween tick
+physic tick
+
+still activ system updat bound
+tween tween busi still activ
+
+render system render
+date
+render system render
+render
+render attach
+render init system
+attach render
+
+render redraw timestamp
+
+
+prev frame fp window last
+fp window last
+fp window push fp window last prev frame
+fp window length fp window shift
+
+stop simul energi system goe threshold
+sy energi physic system energi
+sy energi mean sy energi
+last tick last tick date valu of
+date valu of last tick 1000
+trace stop
+clear interv tick interv
+tick interv
+
+trace paus
+
+
+trace continu
+last tick
+
+
+
+
+new target fp
+new target fp
+timeout 1000 math target fp
+physic modifi timeout timeout
+
+
+tot interv
+fp window length tot interv fp window
+mean intev tot interv math fp window length
+is na n mean intev math round 1000 mean intev
+
+
+
+
+start stop simul
+
+start unpaus
+tick interv alreadi run
+paus unpaus stop wait unpaus
+paus
+
+worker
+physic post messag start
+
+last tick
+tick interv set interv physic updat
+system paramet timeout
+
+
+stop
+paus
+worker
+physic post messag stop
+
+tick interv
+clear interv tick interv
+tick interv
+
+
+
+
+
+
+init
+
+
+
+
+
+misc util
+
+
+trace
+window window consol
+length
+arg
+arg push
+consol arg join
+
+
+dirnam path
+path replac split
+
+join
+
+basenam path
+path replac split
+path replac split
+
+
+
+
+
+
+ordin
+ordin
+norm
+11000
+norm replac ordin
+1000000
+norm math floor 1000
+1000000000
+norm math floor 1000 replac ordin
+
+norm
+
+
+nano templat tomasz mazur jacek becela
+nano
+replac
+key split valu key shift
+key
+valu ha own properti valu valu
+valu
+
+valu
+
+
+
+objcopi
+
+
+
+parent node
+
+
+substr
+
+
+
+
+
+
+
+
+
+
+
+new obj is array
+
+new obj objcopi
+
+new obj
+
+
+objmerg
+
+
+merg objcopi
+merg
+merg
+
+
+objcmp strict order
+handl
+handl mismatch
+
+atom
+
+
+collect
+
+first compar bucket
+is array
+is array
+length length
+
+key ha own properti key push
+key ha own properti key push
+strict order
+key sort
+key sort
+
+key join key join
+
+
+compar content
+
+
+diff objcmp
+diff
+
+
+
+
+
+
+objkey
+key
+ha own properti key push
+key
+
+
+objcontain
+
+length
+ha own properti
+
+
+
+
+uniq
+keep mind sensibl string
+anyth objkey coercion turn anyway
+length
+
+
+
+
+
+objkey
+
+
+arbor path
+candid script
+attr
+
+match arbor
+match
+
+
+
+candid length candid
+
+
+
+
+hermet
+
+part jqueri live without worker
+
+
+callback
+is array
+length callback
+
+callback
+
+
+
+
+
+result
+result push result
+
+
+
+extend
+
+
+
+ha own properti
+
+
+
+
+is array
+
+to string index of array
+
+
+in array
+length
+
+
+is empti object
+
+is empti
+
+is empti
+
+is empti
+
+
+
+eas
+world famou penner eas equat
+
+
+
+
+term eas equat
+
+open sourc licens
+
+copyright 2001 robert penner
+right reserv
+
+redistribut sourc binari form without modif
+permit provid follow condit
+
+redistribut sourc code must retain copyright notic
+condit follow disclaim
+redistribut binari form must reproduc copyright notic
+condit follow disclaim document materi
+provid distribut
+
+neither name author name contributor use endors
+promot product deriv softwar without specif prior written permiss
+
+thi softwar provid copyright holder contributor
+express impli warranti includ limit impli warranti
+merchant fit particular purpos disclaim event shall
+copyright owner contributor liabl direct indirect incident special
+exemplari consequenti damag includ limit procur substitut
+good servic loss data profit busi interrupt howev caus
+theori liabil whether contract strict liabil tort includ
+neglig otherwis aris thi softwar even advis
+possibl such damag
+
+
+
+eas
+
+current time begin valu chang valu durat
+linear
+
+
+quadin
+
+
+quadout
+
+
+quadinout
+
+
+
+cubicin
+
+
+cubicout
+
+
+cubicinout
+
+
+
+quartin
+
+
+quartout
+
+
+quartinout
+
+
+
+quintin
+
+
+quintout
+
+
+quintinout
+
+
+
+sinein
+math math
+
+sineout
+math math
+
+sineinout
+math math
+
+expoin
+math
+
+expoout
+math
+
+expoinout
+
+
+math
+math
+
+circin
+math sqrt
+
+circout
+math sqrt
+
+circinout
+math sqrt
+math sqrt
+
+elasticin
+70158
+
+math
+math math asin
+math math math
+
+elasticout
+70158
+
+math
+math math asin
+math math math
+
+elasticinout
+70158
+
+math
+math math asin
+math math math
+math math math
+
+backin
+70158
+
+
+backout
+70158
+
+
+backinout
+70158
+
+
+
+bouncein
+bounc out
+
+bounceout
+
+5625
+
+5625
+
+5625 9375
+
+5625 984375
+
+
+bounceinout
+bounc in
+bounc out
+
+
+
+
+
+tween
+
+interpol field member node edg
+
+
+tween
+tween
+done
+
+
+init
+
+
+
+busi
+busi
+tween busi
+busi
+
+
+node
+date valu of
+seen field
+
+tween color node node 1000 1000
+eas linear
+
+eas
+need better insensit linear
+also okay function get pass
+eas to lower case
+eas eas eas eas
+
+delay
+delay 1000
+tween delay
+tween delay
+
+
+
+color valid
+color valu
+tween color color decod node color decod
+seen field
+
+tween node node
+tween
+seen field
+
+
+tween eas eas eas
+
+tween node tween node
+tween node push tween
+
+look queu prune redund
+tween length
+tween length
+tween
+
+
+seen field
+seen field
+
+
+color
+seen field color
+seen field
+
+
+is empti object color is empti object
+tween splice
+
+
+
+
+
+done
+
+
+interpol eas
+eas eas to lower case
+eas eas linear
+eas eas eas eas eas
+
+proport eas
+color valid color valid
+lerp rgb proport
+is na n
+lerp number proport
+
+proport
+
+
+
+
+tick
+
+tween
+
+
+date valu of
+
+tween tween
+unprun tween
+
+tween tween
+proport tween eas tween tween
+proport math proport
+tween
+tween
+color tween color
+node data tween node
+
+last tick proport
+
+
+
+
+node data lerp number proport
+alpha node data math math node data
+
+
+last tick
+node data
+
+
+
+
+
+color
+last tick
+node data color
+
+lerp rgb proport color color
+node data color encod
+
+
+
+last tick
+tween complet
+unprun tween
+
+
+
+unprun tween
+tween tween complet
+tween length tween
+
+
+
+done is empti object tween
+done
+
+
+init
+
+
+lerp number proport
+proport
+
+
+lerp rgb proport
+proport math math proport
+mixtur
+
+rgba split
+mixtur math round proport
+
+mixtur
+
+
+
+
+
+primit
+
+creat christian swinehart 2010
+copyright 2011 samizdat draft right reserv
+
+
+
+primit draw style font style
+
+macro primit start
+oval style
+
+
+
+
+style style style
+
+oval prototyp
+draw overrid style
+draw overrid style
+
+
+draw style
+objcontain stroke fill width style
+
+
+style objmerg style style
+
+style objmerg draw style style
+style stroke style fill
+
+kappa 5522848
+kappa control point offset horizont
+kappa control point offset vertic
+
+
+middl
+middl
+
+save
+begin path
+move to
+bezier curv to
+bezier curv to
+bezier curv to
+bezier curv to
+close path
+
+trace style fill style stroke
+style fill
+trace fill fill color color encod fill color
+style alpha fill style color blend style fill style alpha
+fill style color encod style fill
+fill
+
+
+style stroke
+stroke style color encod style stroke
+is na n style width line width style width
+stroke
+
+restor
+
+
+
+
+rect style
+objcontain stroke fill width
+style
+
+
+
+
+
+
+
+style style style
+
+rect prototyp
+draw overrid style
+draw overrid style
+
+
+draw style
+objcontain stroke fill width alpha
+style
+objcontain stroke fill width alpha
+style
+
+
+
+style objmerg style style
+
+style objmerg draw style style
+style stroke style fill
+
+round
+save
+begin path
+move to
+line to
+round quadrat curv to
+line to
+round quadrat curv to
+line to
+round quadrat curv to
+line to
+round quadrat curv to
+
+
+style fill
+style alpha fill style color blend style fill style alpha
+fill style color encod style fill
+fill
+
+
+style stroke
+stroke style color encod style stroke
+is na n style width line width style width
+stroke
+
+restor
+
+
+
+path style
+call pattern
+style
+style
+style continu line
+style separ line
+
+style
+style
+point
+style style
+is array
+style
+point
+style
+
+style
+point
+style
+
+
+path prototyp
+draw overrid style
+point length
+
+sublin
+is array point sublin push point
+sublin point
+
+save
+begin path
+sublin lineseg
+move to lineseg lineseg
+lineseg
+
+line to
+
+
+
+style extend objmerg draw style style overrid style
+style close close path
+
+style fill
+fill color color decod style fill style alpha style alpha
+fill color fill style color encod fill color
+fill
+
+
+style stroke
+stroke color color decod style stroke style alpha style alpha
+stroke color stroke style color encod stroke color
+is na n style width line width style width
+stroke
+
+restor
+
+
+
+
+color
+rgba color decod
+rgba
+rgba
+rgba
+rgba
+rgba
+
+
+
+color prototyp
+to string
+color encod
+
+blend
+trace blend
+
+
+
+font face size
+face face face san serif
+size size size
+align opt align align left
+baselin opt baselin baselin ideograph
+color opt color color decod opt color color decod black
+
+font prototyp
+face size
+extend face face size size opt
+face size align baselin color split param
+param
+param color font style param color decod param
+font style param param
+
+
+
+text align font style align
+text baselin font style baselin
+font nano size face face face size size
+trace font face size
+fill style color encod font style
+font style face face size size align opt align baselin opt baselin color opt color
+
+
+font nano size face
+
+
+
+
+
+macro primit
+
+
+
+
+
+
+
+
+
+oval oval
+rect rect
+color color
+path path
+frame frame
+
+
+color
+iscolor
+hexrgb
+
+
+
+to string
+length
+
+
+
+
+pars int
+
+
+is rgb color
+color color
+compon objkey color sort join
+compon abgr
+
+
+is hsb color
+color css or hex
+compon objkey color sort join
+compon
+
+
+
+
+aliceblu f0f8ff antiquewhit faebd7 aqua 00ffff aquamarin 7fffd4 azur f0ffff beig f5f5dc bisqu ffe4c4 black 000000 blanchedalmond ffebcd blue 0000ff blueviolet 8a2be2 brown a52a2a burlywood deb887 cadetblu 5f9ea0 chartreus 7fff00 chocol d2691e coral ff7f50 cornflowerblu 6495ed cornsilk fff8dc crimson dc143c cyan 00ffff darkblu 00008b darkcyan 008b8b darkgoldenrod b8860b darkgray a9a9a9 darkgrey a9a9a9 darkgreen 006400 darkkhaki bdb76b darkmagenta 8b008b darkolivegreen 556b2f darkorang ff8c00 darkorchid 9932cc darkr 8b0000 darksalmon e9967a darkseagreen 8fbc8f darkslateblu 483d8b darkslategray 2f4f4f darkslategrey 2f4f4f darkturquois 00ced1 darkviolet 9400d3 deeppink ff1493 deepskyblu 00bfff dimgray 696969 dimgrey 696969 dodgerblu 1e90ff firebrick b22222 floralwhit fffaf0 forestgreen 228b22 fuchsia ff00ff gainsboro dcdcdc ghostwhit f8f8ff gold ffd700 goldenrod daa520 gray 808080 grey 808080 green 008000 greenyellow adff2f honeydew f0fff0 hotpink ff69b4 indianr cd5c5c indigo 4b0082 ivori fffff0 khaki f0e68c lavend e6e6fa lavenderblush fff0f5 lawngreen 7cfc00 lemonchiffon fffacd lightblu add8e6 lightcor f08080 lightcyan e0ffff lightgoldenrodyellow fafad2 lightgray d3d3d3 lightgrey d3d3d3 lightgreen 90ee90 lightpink ffb6c1 lightsalmon ffa07a lightseagreen 20b2aa lightskyblu 87cefa lightslategray 778899 lightslategrey 778899 lightsteelblu b0c4de lightyellow ffffe0 lime 00ff00 limegreen 32cd32 linen faf0e6 magenta ff00ff maroon 800000 mediumaquamarin 66cdaa mediumblu 0000cd mediumorchid ba55d3 mediumpurpl 9370d8 mediumseagreen 3cb371 mediumslateblu 7b68ee mediumspringgreen 00fa9a mediumturquois 48d1cc mediumvioletr c71585 midnightblu 191970 mintcream f5fffa mistyros ffe4e1 moccasin ffe4b5 navajowhit ffdead navi 000080 oldlac fdf5e6 oliv 808000 olivedrab 6b8e23 orang ffa500 orang ff4500 orchid da70d6 palegoldenrod eee8aa palegreen 98fb98 paleturquois afeee palevioletr d87093 papayawhip ffefd5 peachpuff ffdab9 peru cd853f pink ffc0cb plum dda0dd powderblu b0e0e6 purpl 800080 ff0000 rosybrown bc8f8f royalblu 4169e1 saddlebrown 8b4513 salmon fa8072 sandybrown f4a460 seagreen 2e8b57 seashel fff5ee sienna a0522d silver c0c0c0 skyblu 87ceeb slateblu 6a5acd slategray 708090 slategrey 708090 snow fffafa springgreen 00ff7f steelblu 4682b4 d2b48c teal 008080 thistl d8bfd8 tomato ff6347 turquois 40e0d0 violet ee82e wheat f5deb3 white ffffff whitesmok f5f5f5 yellow ffff00 yellowgreen 9acd32
+
+possibl invoc
+decod
+decod
+decod ff0000
+decod ff0000
+decod white
+decod
+decod
+arg len length
+arg len arg len
+arg
+
+arg len is rgb
+
+
+
+
+alpha
+arg len alpha arg
+
+name match to lower case
+name match
+name match
+
+hex match match iscolor
+hex match
+val match hexrgb
+trace val
+val val length val length
+val val val alpha
+
+
+arg len
+arg arg arg
+arg len arg
+arg len
+arg arg arg
+arg len arg
+
+
+
+
+trace color
+trace nano
+
+length
+is rgb
+
+
+name match to lower case
+name match
+name match
+
+hex match match iscolor
+hex match
+val match hexrgb
+val val length val length
+val val val
+
+
+
+
+
+
+valid
+
+
+to lower case
+match iscolor
+
+
+
+transform
+color1 color2 proport
+decod color1
+decod color2
+
+mix triplet
+
+blend rgb or hex alpha
+alpha alpha math math alpha
+
+decod rgb or hex
+
+
+alpha rgb or hex
+rgb or hex
+rgb or hex decod rgb or hex
+
+blend objcopi
+blend alpha
+
+nano rgba blend
+
+
+output
+encod
+is rgb
+decod
+is rgb
+
+
+nano
+
+nano rgba
+
+
+encod encod
+is rgb
+encod
+
+nano
+
+
+rgba
+nano rgba alpha
+
+
+length length
+join
+
+
+
+
+
+
+graphic
+
+creat christian swinehart 2010
+copyright 2011 samizdat draft right reserv
+
+
+graphic canva
+canva
+get context
+
+bound
+
+color mode
+coord mode origin center
+
+draw librari
+draw style background
+fill
+stroke
+width
+
+font librari
+font style font san serif
+size
+align left
+color color decod black
+alpha
+baselin ideograph
+
+line buffer call line flush drawlin
+
+macro primit start
+primit primit draw style font style
+oval primit oval
+rect primit rect
+color primit color
+path primit path
+macro primit
+
+
+draw style background color
+fill color
+stroke color
+alpha
+weight
+
+
+
+
+
+
+init
+
+
+
+
+canva wide set
+size width height
+is na n width is na n height
+attr width width height height
+
+draw style fill fill draw style fill
+draw style stroke stroke draw style stroke
+text style font style
+
+trace draw style font style
+
+width attr width height attr height
+
+
+clear
+length
+
+attr width
+attr height
+
+
+clear rect
+draw style background
+save
+fill style color encod draw style background
+fill rect
+restor
+
+
+
+background
+
+draw style background
+
+
+
+fill color color decod
+fill color
+draw style background fill color
+clear
+
+
+
+
+draw screen
+no fill
+draw style fill
+
+fill
+length
+draw style fill
+length
+fill color color decod
+draw style fill fill color
+fill style color encod fill color
+
+
+
+no stroke
+draw style stroke
+stroke style
+
+stroke
+length draw style stroke
+draw style stroke
+length
+stroke color color decod
+draw style stroke stroke color
+stroke style color encod stroke color
+
+
+stroke width ptsize
+ptsize line width
+line width draw style width ptsize
+
+
+
+
+color
+color
+
+
+
+font font name point size
+font font name point size
+
+font font name point size
+font name font style font font name
+point size font style size point size
+font nano size font font style
+
+
+
+draw style style
+without show current state
+length objcopi draw style
+
+stylenam style invoc chang current
+state librari
+length
+style name
+style def
+style name style def
+new style
+style def color
+text color color decod style def color
+text color new style color text color
+
+background fill stroke width split param
+style def param new style param style def param
+
+is empti object new style draw librari style name new style
+
+
+
+
+stylenam invoc load select style
+length draw librari
+style draw librari
+
+
+properti specifi updat canva state
+style width draw style width style width
+line width draw style width
+
+background fill stroke color
+style color
+style color draw style color
+
+use color color decod style color
+use color draw style color use color
+
+
+
+fill style draw style fill
+stroke style draw style stroke
+
+
+text style style
+without show current state
+length objcopi font style
+
+name style invoc chang current
+state librari
+length
+style name
+style def
+style name style def
+new style
+style def color
+text color color decod style def color
+text color new style color text color
+
+font size align baselin alpha split param
+style def param new style param style def param
+
+is empti object new style font librari style name new style
+
+
+
+
+length font librari
+style font librari
+
+
+style font font style font style font
+style size font style size style size
+font nano size font font style
+
+style align
+text align font style align style align
+
+style baselin
+text baselin font style baselin style baselin
+
+
+style alpha font style alpha style alpha
+style color
+text color color decod style color
+text color font style color text color
+
+font style color
+text color color blend font style color font style alpha
+text color fill style text color
+
+trace font style opt
+
+
+text text str opt opt color font align baselin width
+length is na n
+opt opt
+opt
+opt
+length
+opt
+
+opt opt
+
+
+style objmerg font style opt
+save
+style align text align style align
+style baselin text baselin style baselin
+style font is na n style size
+font nano size font style
+
+
+alpha style alpha style alpha font style alpha
+color style color style color font style color
+fill style color blend color alpha
+
+alpha fill text text str style style
+alpha fill text text str math round style style
+restor
+
+
+text width text str style style color font align baselin width
+style objmerg font style style
+save
+font nano size font style
+width measur text text str width
+restor
+width
+
+
+ha font font name
+test txt
+save
+font 10px san serif
+default width measur text test txt width
+
+font 10px font name
+put width measur text test txt width
+restor
+
+default width text width test txt font time roman size
+put width text width test txt font font name size
+trace default width put width font
+put width default width font name time roman
+put width default width
+
+
+
+shape primit
+class fill stroke without draw
+function draw shape base current stroke fill state
+rect style
+rect style
+
+rect style
+rect prototyp draw style
+
+
+oval style
+oval style
+
+oval style
+style style
+oval prototyp draw style
+
+
+draw line immedi
+line style
+path
+draw style
+
+
+queue line segment drawn batch draw line
+line
+
+
+line buffer push
+
+
+line buffer push
+
+
+
+flush buffer line screen
+draw line style
+path line buffer
+draw style
+line buffer
+
+
+
+
+
+init
+
+
+
+helper figur draw arrow
+intersect line line
+
+denom
+
+line parallel
+denom
+
+
+
+denom
+denom
+
+
+
+
+
+arbor point
+
+
+intersect line
+
+
+
+
+
+
+result
+result intersect line line result
+result intersect line line result right
+result intersect line line result bottom
+result intersect line line result left
+
+
+
+
+atom
+
+particl system physic relat datatyp
+
+
+node
+next node id simpl int allow kernel particl system chat
+user servic part
+mass mass mass
+
+point
+
+
+
+mass
+
+
+next node id
+
+edg sourc target
+next edg id
+sourc sourc
+target target
+length length length
+
+length
+
+next edg id
+
+particl posit mass
+posit
+mass
+point veloc
+point forc
+
+particl prototyp appli forc forc
+forc divid
+
+
+spring point1 point2 length
+
+point1 point1 particl
+point2 point2 anoth particl
+length length spring length rest
+stiff
+
+spring prototyp distanc to particl point
+
+http stackoverflow question 849211 shortest distanc point line segment 865080 865080
+point2 subtract point1 normal normal
+point subtract point1
+math
+
+
+point
+ha own properti
+
+
+
+
+
+
+point random radiu
+radiu radiu radiu
+point radiu math random radiu math random
+
+
+point prototyp
+explod
+is na n is na n
+
+
+point
+
+subtract
+point
+
+multipli
+point
+
+divid
+point
+
+magnitud
+math sqrt
+
+normal
+point
+
+normal
+divid magnitud
+
+
+
+
+barn
+
+implement barn quadtre algorithm bodi repuls
+http princeton cours archiv fall03 cs126 assign barn html
+
+creat christian swinehart 2011
+copyright 2011 samizdat draft right reserv
+
+
+barn hut tree
+branch
+branch ctr
+root
+theta
+
+
+init topleft bottomright theta
+theta theta
+
+creat fresh root node spatial bound
+branch ctr
+root new branch
+root origin topleft
+root size bottomright subtract topleft
+
+
+insert new particl
+particl tree start current root work
+node root
+queue new particl
+
+queue length
+particl queue shift
+mass particl particl
+quad which quad particl node
+
+node quad
+slot drop node updat mass
+node quad particl
+node mass mass
+node
+node node particl multipli mass
+
+node particl multipli mass
+
+
+origin node quad
+slot conatin branch node keep iter branch
+root
+node mass mass
+node node node particl multipli mass
+node particl multipli mass
+
+node node quad
+queue unshift particl
+
+slot contain particl creat branch recurs
+point queue
+branch size node size divid
+branch origin point node origin
+quad branch origin branch size
+quad branch origin branch size
+
+replac previous particl occupi quad branch node
+old particl node quad
+node quad new branch
+node quad origin branch origin
+node quad size branch size
+node mass mass
+node particl multipli mass
+node node quad
+
+old particl particl old particl particl
+prevent infinit bisect particl
+ident coordin jostl slightli
+spread branch size
+spread branch size
+old particl math branch origin branch size
+math branch origin
+old particl spread
+math random spread
+old particl math branch origin branch size
+math branch origin
+old particl spread
+math random spread
+
+
+keep iter place current particl
+replac branch node
+queue push old particl
+queue unshift particl
+
+
+
+
+
+
+appli forc particl repuls
+find particl branch node particl interact appli
+specifi repuls particl
+queue root
+queue length
+node queue shift
+node
+particl node
+
+node
+particl leafnod appli forc directli
+particl subtract node
+distanc math magnitud
+direct magnitud point random normal
+particl appli forc direct multipli repuls node node
+divid distanc distanc
+
+branch node decid cluster distant enough
+summar singl point complex open deal
+quadrant turn
+dist particl subtract node divid node mass magnitud
+size math sqrt node size node size
+size dist theta
+open quad recurs
+queue push node
+queue push node
+queue push node
+queue push node
+
+treat quad singl bodi
+particl subtract node divid node mass
+distanc math magnitud
+direct magnitud point random normal
+particl appli forc direct multipli repuls node mass
+divid distanc distanc
+
+
+
+
+
+which quad particl node
+sort particl quadrant node
+particl explod
+particl particl subtract node origin
+halfsiz node size divid
+particl halfsiz
+particl halfsiz
+
+
+particl halfsiz
+
+
+
+
+new branch
+prevent horrorshow recycl tree node iter
+branch branch ctr
+branch branch branch ctr
+branch branch branch branch
+branch mass
+branch
+
+branch origin size
+mass
+branch branch ctr branch
+
+
+branch ctr
+branch
+
+
+
+
+
+
+
+system
+
+main control creat modifi graph
+
+
+particl system repuls stiff friction center graviti target fp precis integr
+also integr stiff repuls friction timestep graviti
+
+chang
+notif
+epoch
+
+screen size
+screen step
+screen pad
+bound
+bound target
+
+repuls
+repuls
+friction friction
+repuls repuls
+target fp
+
+stiff stiff
+center graviti graviti
+precis precis
+integr integr
+
+
+param valid default
+integr verlet integr euler integr verlet
+friction is na n friction friction
+repuls is na n repuls 1000 repuls
+target fp is na n target fp target fp
+stiff is na n stiff stiff
+is na n
+precis is na n precis precis
+center graviti center graviti
+
+system timeout target fp 1000 target fp 1000
+paramet integr integr repuls repuls stiff stiff friction friction graviti center graviti precis precis timeout system timeout
+energi
+
+state
+render librari user
+tween get fill kernel
+node lookup base node worker
+edg likewis
+adjac name1 name2 name3
+name lookup tabl base name field object
+kernel
+
+
+
+paramet new param
+new param
+is na n new param precis
+new param precis math math new param precis
+
+paramet
+new param paramet new param
+
+state kernel physic modifi new param
+
+paramet
+
+
+new fp
+new fp state kernel
+paramet timeout 1000 new fp
+
+
+start
+state kernel start
+
+
+stop
+state kernel stop
+
+
+add node name
+
+prior node state name name
+prior node
+prior node
+prior node
+name
+magic field actual use
+simul
+mass overrid
+overrid
+start posit rather
+default random placement
+
+
+
+
+node node
+node name name
+state name name node
+state node node node
+
+chang push add node node node mass
+notifi
+node
+
+
+
+
+remov node associ edg graph
+prune node node or name
+node get node node or name
+
+state node node
+state node node
+state name node name
+
+
+
+state edg
+sourc node target node
+prune edg
+
+
+
+chang push drop node node
+notifi
+
+
+get node node or name
+node or name
+node or name
+node or name node or name
+state name node or name
+
+otherwis
+
+
+each node callback
+callback accept node point
+state node
+
+screen size to screen
+callback call
+
+
+
+add edg sourc target
+sourc get node sourc add node sourc
+target get node target add node target
+
+edg edg sourc target
+
+sourc
+target
+state adjac state adjac
+state adjac state adjac
+
+exist state adjac length
+exist
+probabl allow multipl edg direct
+node overwrit
+extend state adjac edg
+
+
+state edg edg edg
+state adjac push edg
+edg length edg length
+chang push add spring edg
+notifi
+
+
+edg
+
+
+
+remov edg associ lookup entri
+prune edg edg
+
+chang push drop spring edg
+state edg edg
+
+state adjac
+state adjac
+edg state adjac
+
+edg length
+state adjac edg
+state adjac splice
+
+
+
+
+
+notifi
+
+
+find edg node1 node2
+get edg node1 node2
+node1 get node node1
+node2 get node node2
+node1 node2
+
+state adjac node1
+state adjac node1 node2
+state adjac node1 node2
+
+
+
+
+
+get edg from node
+node get node node
+node
+
+state adjac node
+node edg
+state adjac node sub edg
+node edg node edg concat sub edg
+
+node edg
+
+
+
+
+
+get edg to node
+node get node node
+node
+
+node edg
+state edg edg id edg
+edg target node node edg push edg
+
+
+node edg
+
+
+each edg callback
+callback accept edg point
+state edg
+state node sourc
+state node target
+
+
+
+
+screen size to screen
+screen size to screen
+
+callback call
+
+
+
+
+prune callback
+callback form node
+
+chang drop node edg
+callback
+state node node
+chang drop node push node
+prune node node
+
+
+each node node
+drop callback call node get edg from node get edg to node
+drop
+chang drop node push node
+prune node node
+
+
+
+trace prune chang drop
+chang
+
+
+graft branch
+branch form node name1 name2
+edg from nm to nm1 to nm2
+
+chang ad node edg
+branch node branch node name node data
+old node get node name
+probabl merg well
+old node extend old node node data
+
+old node old node node data
+chang ad node push add node name node data
+
+state kernel start
+
+
+branch edg branch edg dst
+src node get node
+src node chang ad node push add node
+
+dst edg data
+
+probabl merg well
+src node extend src node node data
+
+
+wonder spawn exist node part
+edg request
+dst node get node
+dst node chang ad node push add node
+
+old edg get edg
+old edg length
+trace updat
+old edg edg data
+
+trace
+chang ad edg push add edg edg data
+
+
+
+
+trace graft chang ad
+chang
+
+
+merg branch
+chang ad node edg drop node edg
+
+state edg edg
+branch edg edg sourc name branch edg edg sourc name edg target name
+branch edg edg target name branch edg edg target name edg sourc name
+branch edg edg sourc name branch edg edg sourc name edg target name
+prune edg edg
+chang drop edg push edg
+
+
+
+prune chang prune node edg
+branch node node name
+chang drop node push node
+
+
+
+graft chang graft branch
+chang ad node chang ad node concat graft chang ad node
+chang ad edg chang ad edg concat graft chang ad edg
+chang drop node chang drop node concat prune chang drop node
+chang drop edg chang drop edg concat prune chang drop edg
+
+trace chang chang
+chang
+
+
+
+tween node node or name
+node get node node or name
+node state tween node
+
+
+tween edg
+
+call edg
+tween edg
+
+call node1 node2
+edg get edg
+edg edg
+tween edg edg
+
+
+
+
+tween edg edg
+edg edg state tween edg
+
+
+updat geometri
+
+stale epoch epoch
+
+energi energi
+geometri form
+
+length
+
+
+canari silenc
+stale state node
+
+state node
+state node
+
+
+
+
+
+convert screen coordin
+screen opt
+opt size screen size objcopi screen size
+pad screen pad concat
+step screen step
+opt size screen size opt size width opt size height
+is na n opt step screen step opt step
+opt pad screen pad opt pad
+
+
+screen size canva width canva height
+screen size width canva width height canva height
+updat bound
+
+
+screen pad
+is array trbl
+trbl
+
+trbl
+right trbl
+trbl
+right trbl
+trbl right right
+
+screen pad trbl
+
+
+screen step stepsiz
+screen step stepsiz
+
+
+to screen
+bound screen size
+trace
+
+pad screen pad
+size bound bottomright subtract bound topleft
+pad subtract bound topleft divid size screen size width pad pad
+pad subtract bound topleft divid size screen size height pad pad
+
+arbor point math floor math floor
+arbor point
+
+
+from screen
+bound screen size
+
+pad screen pad
+size bound bottomright subtract bound topleft
+pad screen size width pad pad size bound topleft
+pad screen size height pad pad size bound topleft
+
+arbor point
+
+
+updat bound new bound
+step render current bound closer contain
+node screen step screen step
+bound remain stationari initi
+screen size
+
+new bound bound target new bound
+bound target bound
+
+bound target new bound bound
+bound target topleft point bound target topleft bound target topleft
+bound target bottomright point bound target bottomright bound target bottomright
+
+bottomright point bound target bottomright bound target bottomright
+topleft point bound target topleft bound target topleft
+dim bottomright subtract topleft
+center topleft dim divid
+
+
+minsiz perfect scale
+minsiz math math minsiz dim dim proport scale
+
+size point math dim minsiz math dim minsiz
+bound target topleft center subtract size divid
+bound target bottomright center size divid
+
+bound
+is empti object state node
+bound bound target
+
+
+
+step size math dim dim minsiz screen step
+step size screen step
+new bound
+bottomright bound bottomright bound target bottomright subtract bound bottomright multipli step size
+topleft bound topleft bound target topleft subtract bound topleft multipli step size
+
+
+still approach target ‘close enough’
+diff point bound topleft subtract new bound topleft magnitud bound bottomright subtract new bound bottomright magnitud
+diff screen size width diff screen size height
+bound new bound
+
+
+
+
+
+
+energi
+energi
+
+
+bound
+
+
+
+bottomright
+topleft
+
+find rang node
+state node node
+bottomright
+bottomright point node
+topleft point node
+
+
+
+point node
+point point
+point bottomright bottomright point
+point bottomright bottomright point
+point topleft topleft point
+point topleft topleft point
+
+
+
+rang from screen handl pad
+bottomright topleft
+bottomright bottomright topleft topleft
+
+topleft point bottomright point
+
+
+
+find nearest node particular posit
+nearest
+screen size from screen
+screen size specifi presum screen pixel
+unit convert back particl system coordin
+
+node point distanc
+
+
+state node node
+node
+
+distanc subtract magnitud
+distanc distanc distanc
+node node point distanc distanc
+screen size screen point to screen
+
+
+
+node
+screen size distanc to screen node subtract to screen magnitud
+
+
+
+
+
+
+notifi
+graph chang physic worker thread
+timeout batch chang
+notif epoch
+clear timeout notif
+
+notif set timeout synchron
+synchron
+
+synchron
+chang length
+state kernel graph chang chang
+chang
+notif
+
+
+
+
+state kernel kernel
+state tween state kernel tween
+
+magic attr make node object phone home physic relev chang
+node prototyp defin getter
+
+robo point
+robo point defin getter
+robo point defin setter new x state kernel particl modifi new x
+robo point defin getter
+robo point defin setter new y state kernel particl modifi new y
+robo point proto point prototyp
+robo point
+
+node prototyp defin setter new p
+new p
+new p
+state kernel particl modifi new p new p
+
+
+node prototyp defin getter mass mass
+node prototyp defin setter mass new m
+mass new m
+state kernel particl modifi new m
+
+
+node prototyp defin setter temp mass new m
+state kernel particl modifi new m
+
+
+node prototyp defin getter
+node prototyp defin setter is fix
+is fix
+state kernel particl modifi is fix
+
+
+
+
+
+
+physic
+
+particl system either worker worker
+
+
+physic stiff repuls friction updat fn integr
+bh tree barn hut tree comput particl repuls
+activ particl spring
+free particl
+particl
+spring
+epoch
+energi mean
+bound topleft point bottomright point
+
+speed limit 1000 particl veloc tick
+
+
+integr verlet euler index of integr integr verlet
+stiff stiff stiff 1000
+repuls repuls repuls
+friction friction friction
+graviti
+
+theta criterion valu barn calcul
+
+init
+
+
+
+modifi physic param
+stiff repuls friction graviti precis integr
+param
+precis
+theta param
+
+
+param
+
+stiff
+stiff param
+activ spring spring
+spring stiff
+
+
+
+
+
+
+add node
+
+mass
+
+bound bottomright bound topleft
+bound bottomright bound topleft
+randomish point bound topleft math random
+bound topleft math random
+
+
+activ particl particl randomish mass
+activ particl connect
+activ particl
+free particl activ particl
+particl push activ particl
+
+
+drop node
+
+drop activ particl
+in array drop particl
+particl splice
+activ particl
+free particl
+
+
+modifi node mod
+activ particl
+activ particl
+mod mod
+mod mod
+mod mod
+mod mod
+mod
+
+mod
+
+
+
+
+add spring
+
+length
+activ particl
+activ particl
+
+
+activ spring spring length stiff
+spring push activ spring
+
+connect
+connect
+
+free particl
+free particl
+
+
+
+drop spring
+
+drop activ spring
+
+drop point1 connect
+drop point2 connect
+
+in array drop spring
+
+spring splice
+
+activ spring
+
+
+updat chang
+batch chang phone automat particl system
+epoch
+
+chang
+
+
+epoch
+
+
+tick
+tend particl
+integr euler
+updat forc
+updat veloc
+updat posit
+
+verlet
+updat forc
+cach forc snapshot
+updat posit updat posit
+updat forc calcul
+updat veloc updat
+
+tock
+
+
+tock
+coord
+activ particl
+coord push
+coord push
+coord push
+
+
+updat fn updat fn geometri coord epoch epoch energi energi bound bound
+
+
+tend particl
+activ particl
+decay temporari mass increas pass along
+instead node
+temp mass attr
+
+math
+
+
+
+
+
+
+
+zero veloc tick
+
+
+
+
+
+
+physic stuff
+updat forc
+repuls
+theta appli barn hut repuls
+appli brute forc repuls
+
+stiff appli spring
+appli center drift
+graviti appli center graviti
+
+
+cach forc
+keep snapshot current forc verlet integr
+activ particl point
+point point
+
+
+
+appli brute forc repuls
+activ particl point1
+activ particl point2
+point1 point2
+point1 subtract point2
+distanc math magnitud
+direct magnitud point random normal
+
+appli forc point
+consult cach real mass valu mass poke allow
+reposit poke mass still use applyforc
+well
+point1 appli forc direct multipli repuls point2 point2
+divid distanc distanc
+point2 appli forc direct multipli repuls point1 point1
+divid distanc distanc
+
+
+
+
+
+
+appli barn hut repuls
+bound topleft bound bottomright
+bottomright point bound bottomright
+topleft point bound topleft
+
+build barn tree
+bh tree init topleft bottomright theta
+activ particl particl
+bh tree insert particl
+
+
+approxim repuls forc
+activ particl particl
+bh tree appli forc particl repuls
+
+
+
+appli spring
+activ spring spring
+spring point2 subtract spring point1 direct spring
+displac spring length magnitud math magnitud
+direct magnitud point random normal
+
+
+sinc thing oscil wildli node probabl normal spring
+forc incom edg node naiv normal
+work well though right
+
+appli forc point
+spring point1 appli forc direct multipli spring displac
+spring point2 appli forc direct multipli spring displac
+
+
+
+
+appli center drift
+find centroid particl system shift everyth
+cloud center origin
+num particl
+centroid point
+activ particl point
+centroid point
+num particl
+
+
+num particl
+
+correct centroid divid num particl
+activ particl point
+point appli forc correct
+
+
+
+appli center graviti
+attract node origin
+activ particl point
+direct point multipli
+point appli forc direct multipli repuls
+
+
+
+updat veloc timestep
+translat forc veloc particl
+
+activ particl point
+point
+point point
+point point
+
+
+
+integr euler
+point point point multipli timestep multipli friction
+
+point point point point divid point multipli timestep multipli friction
+
+point point
+
+speed point magnitud
+speed speed limit point point divid speed speed
+
+speed point magnitud
+speed speed
+
+math
+
+
+energi mean
+
+
+
+updat posit timestep
+translat veloc posit delta
+bottomright
+topleft
+
+activ particl point
+
+move node posit
+integr euler
+point point point multipli timestep
+
+follow equat
+timestep timestep
+accel point multipli timestep timestep divid point
+point point point multipli timestep accel
+
+
+bottomright
+bottomright point point point
+topleft point point point
+
+
+
+point
+
+bottomright bottomright
+bottomright bottomright
+topleft topleft
+topleft topleft
+
+
+bound topleft topleft point bottomright bottomright point
+
+
+system energi timestep
+system stat
+energi
+
+
+
+
+init
+
+
+near particl center
+
+center
+center
+
+point math random math random
+
+
+worker
+
+wrap physic on messag post messag protocol
+kernel deal
+
+import script atom
+import script barn
+import script physic
+miss jqueri util worker
+
+callback
+is array
+length callback
+
+callback
+
+
+
+
+
+result
+result push result
+
+
+
+
+is array
+to string index of array
+
+
+in array
+length
+
+
+
+endalia
+physic worker
+timeout
+physic
+physic interv
+last tick
+
+time
+last date valu of
+
+
+init param
+timeout param timeout
+physic physic param param stiff param repuls param friction tock
+
+
+timeout new timeout
+new timeout timeout
+timeout new timeout
+physic interv
+stop
+
+
+
+
+
+physic interv
+
+post messag start
+last tick
+physic interv set interv tick timeout
+
+stop
+physic interv
+clear interv physic interv
+physic interv
+post messag stop
+
+tick
+iter system
+physic tick
+
+
+stop simul energi system goe threshold
+sy energi physic system energi
+sy energi mean sy energi
+last tick last tick date valu of
+date valu of last tick 1000
+stop
+
+post messag paus
+
+
+last tick
+
+
+
+
+tock sy data
+sy data geometri
+post messag sy data
+
+
+modifi node mod
+physic modifi node mod
+
+
+
+modifi physic param
+physic modifi physic param
+
+
+updat chang
+epoch physic updat chang
+
+
+
+
+
+
+
+physic physic worker
+
+onmessag
+
+post messag ¿kérnèl
+
+
+
+physic
+param physic
+physic init physic
+
+
+
+
+modifi
+physic modifi node mod
+
+
+chang
+physic updat chang
+physic
+
+
+start
+physic
+
+
+stop
+physic stop
+
+
+
+param param
+is na n param timeout physic timeout param timeout
+physic modifi physic param
+physic
+
+
+
+
+main
+
+project arbor
+
+
+
+
+render canva
+canva canva
+canva get context
+particl system
+
+
+init system
+
+particl system call init right
+first frame drawn good place canva
+canva size particl system
+
+save refer particl system redraw
+particl system system
+
+inform system screen dimens coord
+canva ever resiz screen size call
+dimens
+particl system screen size canva width canva height
+particl system screen pad leav extra 80px whitespac side
+
+handler allow node drag
+init mous handl
+
+
+redraw
+
+redraw call repeatedli whenev node posit
+chang posit node access look
+attribut given node howev valu coordin
+particl system rather screen either
+screen conveni iter each node each edg
+allow step actual node object also
+point screen coordin system
+
+fill style white
+fill rect canva width canva height
+
+particl system each edg edg
+edg sourc node target node length
+sourc posit screen coord
+target posit screen coord
+
+draw line
+stroke style rgba
+line width
+begin path
+move to
+line to
+stroke
+
+
+particl system each node node
+node mass name
+node posit screen coord
+
+draw rectangl center
+
+fill style node alon orang black
+fill rect
+
+
+
+init mous handl
+nonsens drag drop thank springi
+drag
+
+handler initi listen mousedown
+move mouseup drag
+handler
+click
+canva offset
+mous p arbor point page x left page y
+drag particl system nearest mous p
+
+drag drag node
+drag physic move node
+drag node
+
+
+canva bind mousemov handler drag
+window bind mouseup handler drop
+
+
+
+drag
+canva offset
+arbor point page x left page y
+
+drag drag node
+particl system from screen
+drag node
+
+
+
+
+
+drop
+drag drag node
+drag node drag node
+drag node temp mass 1000
+drag
+canva unbind mousemov handler drag
+window unbind mouseup handler drop
+mous p
+
+
+
+
+start listen
+canva mousedown handler click
+
+
+
+
+
+
+
+document readi
+arbor particl system 1000 creat system sensibl repuls stiff friction
+paramet graviti center graviti make graph settl nice ymmv
+render render viewport newli creat render init method call shortli
+
+node graph watch
+add edg
+add edg
+add edg
+add edg
+add node alon mass
+
+equival
+
+graft
+node
+alon mass
+
+edg
+
+
+
+
+
+
+
+
+
+
+j queri
+
+arbor tween
+smooth transit realtim clock
+
+licens
+
+eas equat eas
+copyright 2001 robert penner right reserv
+
+open sourc licens redistribut sourc
+binari form without modif permit
+provid follow condit
+
+redistribut sourc code must retain copyright
+notic condit follow disclaim
+redistribut binari form must reproduc copyright
+notic condit follow disclaim
+document materi provid distribut
+
+neither name author name contributor
+use endors promot product deriv softwar
+without specif prior written permiss
+
+thi softwar provid copyright holder contributor
+express impli warranti includ
+limit impli warranti merchant fit
+particular purpos disclaim event shall copyright
+owner contributor liabl direct indirect incident
+special exemplari consequenti damag includ
+limit procur substitut good servic loss
+data profit busi interrupt howev caus
+theori liabil whether contract strict liabil tort
+includ neglig otherwis aris
+thi softwar even advis possibl such damag
+
+
+
+
+dep
+
+arbor arbor arbor
+extend arbor
+realli user servic particl system’ tween method instead
+tween tween
+
+immut use method
+color
+color dictionari colornam fef2e2
+valid color valid
+decod color decod hex string css color
+encod color encod hex or rgba string
+blend color blend color opac rgba string
+
+
+
+j queri
+
+
+
+
+
+
+arbor
+graph vizual toolkit
+
+licens
+
+
+
+dep
+
+arbor arbor arbor
+extend arbor
+constructor ‘new’ call
+particl system particl system
+node node
+edg sourc target length edg sourc target length
+point point
+
+tween tween
+graphic canva graphic canva
+
+immut object use method
+color
+color colornam fef2e2
+valid color valid
+decod color decod hex string css color
+encod color encod hex or rgba string
+blend color blend color opac rgba string
+
+
+trace trace consol log
+dirnam dirnam path lead part path
+basenam basenam path trail part path
+ordin ordin abbrev integ comma
+objcopi objcopi
+objcmp objcmp strict order comparison
+objkey objkey key
+uniq uniq uniqu item
+arbor path arbor path guess directori code
+
+physic physic tween tween avoir dragon
+
+
+j queri
+
+arbor version
+graph vizual toolkit
+
+licens
+
+
+
+dep
+
+call worker thread physic bail
+window
+worker dep
+worker
+
+
+
+arbor arbor arbor
+extend arbor
+constructor ‘new’ call
+particl system particl system
+point point
+
+immut use method
+
+trace trace consol log
+dirnam dirnam path lead part path
+basenam basenam path trail part path
+ordin ordin abbrev integ comma
+objcopi objcopi
+objcmp objcmp strict order comparison
+objkey objkey key
+objmerg objmerg like extend destruct
+uniq uniq uniqu item
+arbor path arbor path guess directori code
+
+
+
+j queri
+
+arbor graphic
+canva fructos
+
+licens
+
+
+
+dep
+
+arbor arbor arbor
+extend arbor
+‘new’ call
+graphic graphic
+
+use method deal
+color
+color dict colornam fef2e2
+valid color valid
+decod color decod hex string css color
+encod color encod hex or rgba string
+blend color blend color opac rgba string
+
+
+
+j queri

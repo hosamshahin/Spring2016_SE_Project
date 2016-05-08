@@ -1,0 +1,1463 @@
+
+copyright 2014 netti project
+
+netti project licens file apach licens
+version licens file complianc
+licens obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi without
+warranti condit kind either express impli
+licens specif languag govern permiss limit
+licens
+
+
+netti resolv
+
+netti util net util
+junit test
+
+java inet socket address
+java util collect
+java util ident hash map
+java util
+
+hamcrest matcher
+junit assert
+
+dn server address test
+
+inet socket address addr1 inet socket address net util localhost
+inet socket address addr2 inet socket address net util localhost
+inet socket address addr3 inet socket address net util localhost
+
+test
+test default address
+assert that dn server address default address list size greater than
+
+
+test
+test sequenti
+dn server address dn server address sequenti addr1 addr2 addr3
+assert that stream same instanc stream
+
+
+dn server address stream stream
+assert next addr1
+assert next addr2
+assert next addr3
+assert next addr1
+assert next addr2
+assert next addr3
+
+
+
+test
+test rotat
+dn server address dn server address rotat addr1 addr2 addr3
+
+dn server address stream stream
+assert next addr1
+assert next addr2
+assert next addr3
+assert next addr1
+assert next addr2
+assert next addr3
+
+stream
+assert next addr2
+assert next addr3
+assert next addr1
+assert next addr2
+assert next addr3
+assert next addr1
+
+stream
+assert next addr3
+assert next addr1
+assert next addr2
+assert next addr3
+assert next addr1
+assert next addr2
+
+stream
+assert next addr1
+assert next addr2
+assert next addr3
+assert next addr1
+assert next addr2
+assert next addr3
+
+
+test
+test shuffl
+dn server address dn server address shuffl addr1 addr2 addr3
+
+ensur three address return iter
+theori test fail extrem chanc realli care
+inet socket address collect new set from map ident hash map inet socket address boolean
+dn server address stream stream
+1048576
+
+
+
+assert that size
+assert that stream same instanc stream
+
+
+test
+test singleton
+dn server address dn server address singleton addr1
+
+should iter instanc least possibl footprint
+assert that stream same instanc stream
+
+dn server address stream stream
+assert next addr1
+assert next addr1
+assert next addr1
+
+
+assert next dn server address stream inet socket address addr
+assert that same instanc addr
+
+
+
+copyright 2015 netti project
+
+netti project licens file apach licens
+version licens file complianc
+licens obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi without
+warranti condit kind either express impli
+licens specif languag govern permiss limit
+licens
+
+netti resolv
+
+netti buffer byte buf
+netti buffer byte buf holder
+netti channel address envelop
+netti channel event loop group
+netti channel nio event loop group
+netti channel socket internet protocol famili
+netti channel socket nio datagram channel
+netti handler codec default dn question
+netti handler codec dn record
+netti handler codec dn record type
+netti handler codec dn respons
+netti handler codec dn respons code
+netti handler codec dn section
+netti util net util
+netti util concurr futur
+netti util intern string util
+netti util intern thread local random
+netti util intern log intern logger
+netti util intern log intern logger factori
+apach directori server dn server
+apach directori server encod dn messag encod
+apach directori server encod resourc record encod
+apach directori server messag dn messag
+apach directori server messag question record
+apach directori server messag record class
+apach directori server messag record type
+apach directori server messag resourc record
+apach directori server messag resourc record modifi
+apach directori server protocol dn protocol handler
+apach directori server protocol dn udp decod
+apach directori server protocol dn udp encod
+apach directori server store dn attribut
+apach directori server store record store
+apach directori server protocol share transport udp transport
+apach mina core buffer io buffer
+apach mina core session io session
+apach mina filter codec protocol codec factori
+apach mina filter codec protocol codec filter
+apach mina filter codec protocol decod
+apach mina filter codec protocol encod
+apach mina filter codec protocol encod output
+apach mina transport socket datagram acceptor
+apach mina transport socket datagram session config
+junit after class
+junit befor class
+junit test
+
+java io except
+java inet address
+java inet socket address
+java unknown host except
+java util array list
+java util array
+java util collect
+java util hash map
+java util hash set
+java util link hash map
+java util list
+java util
+java util entri
+java util
+
+hamcrest matcher greater than
+hamcrest matcher ha size
+hamcrest matcher instanc of
+hamcrest matcher
+junit assert assert equal
+junit assert assert that
+junit assert fail
+
+dn name resolv test
+
+intern logger logger intern logger factori get instanc dn name resolv
+
+use site rank alexa 2014
+pleas follow seri shell command date
+curl http amazonaw alexa
+unzip
+head read done topsit
+string domain collect unmodifi set hash set string array as list
+googl
+facebook
+youtub
+yahoo
+baidu
+wikipedia
+amazon
+twitter
+
+taobao
+linkedin
+googl
+live
+hao123
+sina
+blogspot
+weibo
+yahoo
+tmall
+yandex
+sohu
+bing
+ebay
+pinterest
+
+googl
+wordpress
+appl
+googl
+googl
+
+instagram
+googl
+
+
+soso
+googl
+tumblr
+paypal
+mail
+xvideo
+microsoft
+googl
+reddit
+googl
+imgur
+
+googl
+imdb
+aliexpress
+
+
+adcash
+craigslist
+amazon
+alibaba
+googl
+stackoverflow
+xhamster
+
+googl
+
+espn
+
+googl
+peopl
+
+pornhub
+blogger
+huffingtonpost
+flipkart
+akamaihd
+googl
+amazon
+netflix
+onclickad
+googleusercont
+kickass
+googl
+googl
+xinhuanet
+ebay
+wordpress
+odnoklassniki
+googl
+adob
+dailymot
+dailymail
+indiatim
+amazon
+xnxx
+rakuten
+dropbox
+tudou
+
+cnet
+vimeo
+redtub
+blogspot
+
+
+domain name exclud link test resolv aor aaaa
+
+string exclus resolv hash set string
+
+collect add all
+exclus resolv
+akamaihd
+googleusercont
+string util empti string
+
+
+
+domain name exclud link test resolv aaaa
+unfortun hand domain name i pv6 address
+
+string exclus resolv aaaa hash set string
+
+exclus resolv aaaa add all exclus resolv
+exclus resolv aaaa add all domain
+exclus resolv aaaa remov all array as list
+googl
+facebook
+youtub
+wikipedia
+googl
+blogspot
+
+googl
+googl
+googl
+googl
+googl
+googl
+googl
+googl
+googl
+xhamster
+googl
+googl
+blogger
+flipkart
+googl
+googl
+googl
+googl
+blogspot
+
+
+
+
+domain name exclud link test queri mx
+
+string exclus queri hash set string
+
+collect add all
+exclus queri
+hao123
+blogspot
+
+espn
+peopl
+googleusercont
+blogspot
+string util empti string
+
+
+test dn server dn server test dn server
+event loop group group nio event loop group
+
+dn name resolv builder new resolv
+dn name resolv builder group
+channel type nio datagram channel
+name server address dn server address singleton dn server local address
+max queri per resolv
+opt resourc enabl
+
+
+dn name resolv builder new resolv internet protocol famili resolv address type
+new resolv
+resolv address type resolv address type
+
+
+befor class
+init except
+dn server start
+
+after class
+destroy
+dn server stop
+group shutdown grace
+
+
+test
+test resolv aor aaaa except
+dn name resolv resolv new resolv internet protocol famili i pv4 internet protocol famili i pv6 build
+
+test resolve0 resolv exclus resolv
+
+resolv close
+
+
+
+test
+test resolv aaa aor a except
+dn name resolv resolv new resolv internet protocol famili i pv6 internet protocol famili i pv4 build
+
+test resolve0 resolv exclus resolv
+
+resolv close
+
+
+
+test
+test resolv a except
+dn name resolv resolv new resolv internet protocol famili i pv4
+cach etern
+integ valu integ valu
+build
+
+string inet address result a test resolve0 resolv exclus resolv
+
+resolv cach
+thi test work server usual random order record respons
+cach resolv address must alway reus respons
+
+string inet address result b test resolve0 resolv exclus resolv
+
+ensur result cach ident uncach
+assert that result b size result a size
+entri string inet address result a entri set
+inet address expect get valu
+inet address actual result b get key
+actual equal expect
+print content cach test failur expect
+system println cach get key resolv resolv all get key get now
+
+assert that actual expect
+
+
+resolv close
+
+
+
+test
+test resolv aaaa except
+dn name resolv resolv new resolv internet protocol famili i pv6 build
+
+test resolve0 resolv exclus resolv aaaa
+
+resolv close
+
+
+
+string inet address test resolve0 dn name resolv resolv string exclud domain
+interrupt except
+
+assert that resolv is recurs desir
+
+string inet address result hash map string inet address
+string futur inet address futur
+link hash map string futur inet address
+
+string name domain
+exclud domain contain name
+
+
+
+resolv resolv futur name
+
+
+entri string futur inet address futur entri set
+string unresolv get key
+inet address resolv get valu sync get now
+
+logger info unresolv resolv get host address
+
+assert that resolv get host name unresolv
+
+type match
+internet protocol famili resolv resolv address type
+class resolv type resolv get class
+address type is assign from resolv type
+type match
+
+
+
+assert that type match
+
+result resolv get host name resolv
+
+
+result
+
+
+test
+test queri mx except
+dn name resolv resolv new resolv build
+
+assert that resolv is recurs desir
+
+string futur address envelop dn respons inet socket address futur
+link hash map string futur address envelop dn respons inet socket address
+string name domain
+exclus queri contain name
+
+
+
+queri mx resolv futur name
+
+
+entri string futur address envelop dn respons inet socket address futur entri set
+string hostnam get key
+futur address envelop dn respons inet socket address get valu await uninterrupt
+
+dn respons respons get now content
+assert that respons code dn respons code noerror
+
+answer count respons count dn section answer
+list dn record mx list array list dn record answer count
+answer count
+dn record respons record at dn section answer
+type dn record type
+mx list
+
+
+
+assert that mx list size greater than
+string builder string builder
+dn record mx list
+byte buf record content byte buf holder content
+
+append string util newlin
+append
+append name
+append
+append type name
+append
+append record content read unsign short
+append
+append dn name resolv context decod domain name record content
+
+
+logger info follow record hostnam
+respons releas
+
+
+resolv close
+
+
+
+test
+test neg ttl except
+dn name resolv resolv new resolv neg ttl build
+
+resolv non exist domain resolv
+
+size 10000
+list unknown host except except array list unknown host except
+
+neg cach work thread done realli quickli
+thread neg lookup thread thread
+overrid
+
+size
+except resolv non exist domain resolv
+is interrupt
+
+
+
+
+
+
+neg lookup thread start
+neg lookup thread join 5000
+
+neg lookup thread is aliv
+neg lookup thread interrupt
+fail cach neg lookup finish quickli
+
+
+assert that except ha size size
+
+resolv close
+
+
+
+unknown host except resolv non exist domain dn name resolv resolv
+
+resolv resolv exist netti sync
+fail
+null
+except
+assert that instanc of unknown host except
+unknown host except
+
+
+
+test
+test resolv ip
+dn name resolv resolv new resolv build
+
+inet address address resolv resolv sync uninterrupt get now
+
+assert equal address get host address
+
+resolv close
+
+
+
+resolv dn name resolv resolv string futur inet address futur string hostnam
+futur hostnam resolv resolv hostnam
+
+
+queri mx
+dn name resolv resolv
+string futur address envelop dn respons inet socket address futur
+string hostnam except
+futur hostnam resolv queri default dn question hostnam dn record type
+
+
+test dn server dn server
+string byte hash map string
+string ipv6 address
+
+byte
+byte
+byte
+byte
+byte
+byte
+byte
+byte
+
+ipv6 address byte key set to array string byte size
+
+
+overrid
+start io except
+inet socket address address inet socket address net util localhost4
+udp transport transport udp transport address get host name address get port
+set transport transport
+
+datagram acceptor acceptor transport get acceptor
+
+acceptor set handler dn protocol handler test record store
+overrid
+session creat io session session except
+codec support aaaa test
+session get filter chain
+add first codec protocol codec filter test dn protocol udp codec factori
+
+
+
+datagram session config acceptor get session config set reus address
+
+start listen
+acceptor bind
+
+
+inet socket address local address
+inet socket address get transport get acceptor get local address
+
+
+
+link protocol codec factori allow test aaaa resolut
+
+test dn protocol udp codec factori protocol codec factori
+dn messag encod encod dn messag encod
+test aaaa record encod record encod test aaaa record encod
+
+overrid
+protocol encod get encod io session session except
+dn udp encod
+
+overrid
+encod io session session object messag protocol encod output
+io buffer io buffer alloc 1024
+dn messag dn messag dn messag messag
+encod encod dn messag
+resourc record record dn messag get answer record
+thi hack allow also test aaaa resolut dn messag encod
+support hard extend interest method
+
+record type aaaa need encod record type
+record get record type record type aaaa
+
+record encod record
+io except
+should never happen
+illeg state except
+
+
+
+flip
+
+write
+
+
+
+
+overrid
+protocol decod get decod io session session except
+dn udp decod
+
+
+test aaaa record encod resourc record encod
+
+overrid
+put resourc record data io buffer io buffer resourc record resourc record
+byte byte resourc record dn attribut address
+byte null
+illeg state except
+
+encod
+io buffer byte
+
+
+
+
+test record store record store
+number
+char
+
+
+number length
+number
+
+
+char length
+char
+
+
+
+index array length
+math thread local random current next int array length
+
+
+string next domain
+char index char length netti
+
+
+string next ip
+ip part ip part ip part ip part
+
+
+ip part
+number index number length
+
+
+string next ip6
+ipv6 address index ipv6 address length
+
+
+overrid
+resourc record get record question record question record
+string name question record get domain name
+domain contain name
+resourc record modifi resourc record modifi
+set dn class record class
+set dn name name
+set dn ttl
+set dn type question record get record type
+
+question record get record type
+
+
+dn attribut address next ip
+thread local random current next boolean
+
+aaaa
+
+dn attribut address next ip6
+thread local random current next boolean
+
+
+prioriti
+
+dn attribut domain name next domain
+dn attribut prefer string valu of prioriti
+thread local random current next boolean
+
+
+null
+
+collect singleton get entri
+
+null
+
+
+
+
+
+copyright 2015 netti project
+
+netti project licens file apach licens
+version licens file complianc
+licens obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi without
+warranti condit kind either express impli
+licens specif languag govern permiss limit
+licens
+
+
+netti resolv
+
+java inet socket address
+
+default dn server address dn server address
+
+inet socket address address
+string str val
+
+default dn server address string type inet socket address address
+address address
+
+string builder string builder type length address length
+append type append
+
+inet socket address address
+append append
+
+
+set length length
+append
+
+str val to string
+
+
+overrid
+string to string
+str val
+
+
+
+copyright 2014 netti project
+
+netti project licens file apach licens
+version licens file complianc
+licens obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi without
+warranti condit kind either express impli
+licens specif languag govern permiss limit
+licens
+
+
+netti resolv
+
+netti buffer byte buf
+netti buffer byte buf holder
+netti channel address envelop
+netti channel socket internet protocol famili
+netti handler codec default dn question
+netti handler codec default dn record decod
+netti handler codec dn respons code
+netti handler codec dn section
+netti handler codec dn question
+netti handler codec dn raw record
+netti handler codec dn record
+netti handler codec dn record type
+netti handler codec dn respons
+netti util charset util
+netti util refer count util
+netti util concurr futur
+netti util concurr futur listen
+netti util concurr promis
+netti util intern string util
+
+java inet4 address
+java inet6 address
+java inet address
+java inet socket address
+java unknown host except
+java util array list
+java util collect
+java util hash map
+java util ident hash map
+java util iter
+java util list
+java util local
+java util
+java util
+
+dn name resolv context
+
+inaddrsz4
+inaddrsz6
+
+futur listen address envelop dn respons inet socket address releas respons
+futur listen address envelop dn respons inet socket address
+overrid
+oper complet futur address envelop dn respons inet socket address futur
+futur is success
+futur get now releas
+
+
+
+
+dn name resolv parent
+dn server address stream name server addr
+promis promis
+string hostnam
+dn cach resolv cach
+trace enabl
+max allow queri
+internet protocol famili resolv address type
+
+futur address envelop dn respons inet socket address queri in progress
+collect new set from map
+ident hash map futur address envelop dn respons inet socket address boolean
+
+list dn cach entri resolv entri
+string builder trace
+allow queri
+tri cname
+
+dn name resolv context dn name resolv parent
+string hostnam
+promis promis
+dn cach resolv cach
+parent parent
+promis promis
+hostnam hostnam
+resolv cach resolv cach
+
+name server addr parent name server address stream
+max allow queri parent max queri per resolv
+resolv address type parent resolv address type unsaf
+trace enabl parent is trace enabl
+allow queri max allow queri
+
+
+promis promis
+promis
+
+
+resolv
+inet socket address name server addr to tri name server addr
+internet protocol famili resolv address type
+dn record type type
+
+i pv4
+type dn record type
+
+i pv6
+type dn record type aaaa
+
+
+error
+
+
+queri name server addr to tri default dn question hostnam type
+
+
+
+queri inet socket address name server addr dn question question
+allow queri promis is cancel
+tri to finish resolv
+
+
+
+allow queri
+
+futur address envelop dn respons inet socket address parent queri name server addr question
+queri in progress
+
+add listen futur listen address envelop dn respons inet socket address
+overrid
+oper complet futur address envelop dn respons inet socket address futur
+queri in progress remov futur
+
+promis is done futur is cancel
+
+
+
+
+futur is success
+on respons question futur get now
+
+server respond error occur
+trace enabl
+add trace futur caus
+
+queri name server addr question
+
+
+tri to finish resolv
+
+
+
+
+
+on respons dn question question address envelop dn respons inet socket address envelop
+
+dn respons envelop content
+dn respons code code code
+code dn respons code noerror
+dn record type type question type
+type dn record type type dn record type aaaa
+on respons aor aaaa type question envelop
+type dn record type cname
+on respons cname question envelop
+
+
+
+
+trace enabl
+add trace envelop sender
+respons code code count dn section answer answer
+count dn section author author resourc
+
+
+retri server server tell domain exist
+code dn respons code nxdomain
+queri name server addr question
+
+
+refer count util safe releas envelop
+
+
+
+on respons aor aaaa
+dn record type q type dn question question address envelop dn respons inet socket address envelop
+
+often bunch cname well ask aaaa
+dn respons respons envelop content
+string string cname build alia map respons
+answer count respons count dn section answer
+
+found
+answer count
+dn record respons record at dn section answer
+dn record type type type
+type dn record type type dn record type aaaa
+
+
+
+string q name question name to lower case local
+string r name name to lower case local
+
+make sure record question domain
+r name equal q name
+even record name exactli might defin cname record
+string resolv q name
+
+resolv cname resolv
+r name equal resolv
+
+
+resolv null
+
+resolv null
+
+
+
+
+dn raw record
+
+
+
+byte buf content byte buf holder content
+content len content readabl byte
+content len inaddrsz4 content len inaddrsz6
+
+
+
+addr byte content len
+content get byte content reader index addr byte
+
+inet address resolv
+
+resolv inet address get by address hostnam addr byte
+unknown host except
+should never reach
+error
+
+
+resolv entri null
+resolv entri array list dn cach entri
+
+
+dn cach entri dn cach entri hostnam resolv
+resolv cach cach hostnam resolv time to live parent event loop
+resolv entri
+found
+
+note loop decod cach aaaa record
+
+
+found
+
+
+
+trace enabl
+add trace envelop sender match q type record found
+
+
+ake aaaa cname
+cname is empti
+on respons cname question envelop cname
+
+
+
+on respons cname dn question question address envelop dn respons inet socket address envelop
+on respons cname question envelop build alia map envelop content
+
+
+on respons cname
+dn question question address envelop dn respons inet socket address respons
+string string cname trace
+
+resolv host name question real host name
+string name question name to lower case local
+string resolv name
+found
+cname is empti attempt call remov
+collect empti map
+whose remov unsupport oper except
+string cname remov resolv
+null
+found
+resolv
+
+
+
+
+
+found
+follow cname respons sender name resolv
+trace trace enabl
+add trace respons sender match cname record found
+
+
+
+string string build alia map dn respons respons
+answer count respons count dn section answer
+string string cname null
+answer count
+dn record respons record at dn section answer
+dn record type type type
+type dn record type cname
+
+
+
+dn raw record
+
+
+
+byte buf record content byte buf holder content
+string domain name decod domain name record content
+domain name null
+
+
+
+cname null
+cname hash map string string
+
+
+cname name to lower case local domain name to lower case local
+
+
+cname null cname collect string string empti map
+
+
+tri to finish resolv
+queri in progress is empti
+there still queri receiv respons
+got prefer address
+finish resolut process resolv address prefer type
+finish resolv
+
+
+resolv address prefer type finish resolut process
+
+
+
+there queri left
+resolv entri null
+could find aaaa record
+tri cname
+last resort queri cname name server
+tri cname
+queri name server addr default dn question hostnam dn record type cname
+
+
+
+
+least resolv address tri cname last resort
+finish resolv
+
+
+got prefer address
+resolv entri null
+
+
+
+size resolv entri size
+resolv address type
+i pv4
+size
+resolv entri address inet4 address
+
+
+
+
+i pv6
+size
+resolv entri address inet6 address
+
+
+
+
+
+
+
+
+
+finish resolv
+queri in progress is empti
+queri progress cancel alreadi finish resolut
+iter futur address envelop dn respons inet socket address queri in progress iter
+ha next
+futur address envelop dn respons inet socket address
+remov
+
+cancel
+add listen releas respons
+
+
+
+
+resolv entri null
+found least resolv address
+internet protocol famili resolv address type
+finish resolv address type resolv entri
+
+
+
+
+
+resolv address found
+tri max allow queri allow queri
+string builder string builder
+
+append fail resolv
+append hostnam
+
+tri
+append
+append tri
+trace null
+append queri
+append trace
+
+append queri
+
+
+trace null
+append
+append trace
+
+
+
+unknown host except caus unknown host except to string
+
+resolv cach cach hostnam caus parent event loop
+promis tri failur caus
+
+
+finish resolv
+class inet address address type list dn cach entri resolv entri
+
+
+adapt link default dn record decod decod name byte buf
+
+string decod domain name byte buf
+mark reader index
+
+posit
+check
+writer index
+string builder name string builder readabl byte
+read unsign byte is readabl read unsign byte
+pointer 0xc0 0xc0
+pointer
+posit
+posit reader index
+
+
+0x3f read unsign byte
+
+should happen
+null
+
+reader index
+
+check loop
+check
+check
+name contain loop give
+null
+
+
+name append to string reader index charset util append
+skip byte
+
+
+
+posit
+reader index posit
+
+
+name length
+null
+
+
+name substr name length
+
+reset reader index
+
+
+
+follow cname inet socket address name server addr string name string cname
+
+trace enabl
+trace null
+trace string builder
+
+
+trace append string util newlin
+trace append tfrom
+trace append name server addr
+trace append
+trace append name
+trace append cname
+trace append cname
+
+
+inet socket address next addr name server addr
+queri next addr default dn question cname dn record type
+queri next addr default dn question cname dn record type aaaa
+
+
+add trace inet socket address name server addr string
+trace enabl
+
+trace null
+trace string builder
+
+
+trace append string util newlin
+trace append tfrom
+trace append name server addr
+trace append
+trace append
+
+
+add trace throwabl caus
+trace enabl
+
+trace null
+trace string builder
+
+
+trace append string util newlin
+trace append caus
+trace append caus
+
+
+
+copyright 2016 netti project
+
+netti project licens file apach licens
+version licens file complianc
+licens obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi without
+warranti condit kind either express impli
+licens specif languag govern permiss limit
+licens
+
+netti resolv
+
+netti channel event loop
+
+java inet address
+java util collect
+java util list
+
+
+noop cach actual never cach anyth
+
+noop dn cach dn cach
+
+noop dn cach instanc noop dn cach
+
+
+privat singleton constructor
+
+noop dn cach
+
+
+overrid
+clear
+
+
+overrid
+clear string hostnam
+
+
+
+overrid
+list dn cach entri string hostnam
+collect empti list
+
+
+overrid
+cach string hostnam inet address address origin ttl event loop loop
+
+
+overrid
+cach string hostnam throwabl caus event loop loop
+
+
+overrid
+string to string
+noop dn cach get simpl name
+
+

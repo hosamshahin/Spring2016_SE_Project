@@ -1,0 +1,399 @@
+
+licens apach softwar foundat
+contributor licens agreement notic file
+distribut work addit inform
+regard copyright ownership licens file
+apach licens version
+licens file complianc
+licens obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi
+without warranti condit kind either express impli
+licens specif languag govern permiss
+limit licens
+
+apach cassandra locat
+
+java inet address
+
+i latenc subscrib
+
+receiv time inet address address latenc
+
+
+licens apach softwar foundat
+contributor licens agreement notic file
+distribut work addit inform
+regard copyright ownership licens file
+apach licens version
+licens file complianc
+licens obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi
+without warranti condit kind either express impli
+licens specif languag govern permiss
+limit licens
+
+apach cassandra locat
+
+java data input stream
+java filter input stream
+java io except
+java http url connect
+java inet address
+java
+java charset standard charset
+java util
+
+slf4j logger
+slf4j logger factori
+apach cassandra system keyspac
+apach cassandra except configur except
+apach cassandra applic state
+apach cassandra endpoint state
+apach cassandra gossip
+apach cassandra util file util
+apach cassandra util fb util
+
+
+snitch assum region avail zone
+rack thi inform avail config node
+
+ec2 snitch abstract network topolog snitch
+
+logger logger logger factori get logger ec2 snitch
+string zone name queri http latest meta data placement avail zone
+string default unknown
+string default rack unknown rack
+inet address string string save endpoint
+string ec2zon
+string ec2region
+
+ec2 snitch io except configur except
+
+string aw api call zone name queri
+split east asia east asia
+string split split
+ec2zon split split length
+
+hack cassandra 4026
+ec2region substr length
+ec2region end with
+ec2region substr length
+
+string datacent suffix snitch properti suffix
+ec2region ec2region concat datacent suffix
+logger info ec2 snitch use region zone ec2region ec2zon
+
+
+string aw api call string io except configur except
+
+popul region zone introspect fail metadata
+http url connect conn http url connect open connect
+data input stream null
+
+
+conn set request method
+conn get respons code
+configur except ec2 snitch unabl execut call node
+
+read inform wish could string conn get content
+conn get content length
+
+data input stream filter input stream conn get content
+read fulli
+string standard charset
+
+
+
+file util close
+conn disconnect
+
+
+
+string get rack inet address endpoint
+
+endpoint equal fb util get broadcast address
+ec2zon
+endpoint state state gossip instanc get endpoint state for endpoint endpoint
+state null state get applic state applic state rack null
+
+save endpoint null
+save endpoint system keyspac load dc rack info
+save endpoint contain key endpoint
+save endpoint endpoint rack
+default rack
+
+state get applic state applic state rack valu
+
+
+string get datacent inet address endpoint
+
+endpoint equal fb util get broadcast address
+ec2region
+endpoint state state gossip instanc get endpoint state for endpoint endpoint
+state null state get applic state applic state null
+
+save endpoint null
+save endpoint system keyspac load dc rack info
+save endpoint contain key endpoint
+save endpoint endpoint data center
+default
+
+state get applic state applic state valu
+
+
+
+licens apach softwar foundat
+contributor licens agreement notic file
+distribut work addit inform
+regard copyright ownership licens file
+apach licens version
+licens file complianc
+licens obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi
+without warranti condit kind either express impli
+licens specif languag govern permiss
+limit licens
+
+
+apach cassandra locat
+
+java inet address
+java unknown host except
+
+apach cassandra
+apach cassandra messag servic
+slf4j logger
+slf4j logger factori
+
+
+sidekick helper snitch want reconnect addr node anoth
+typic situat like node address address
+connect discov reconnect
+
+reconnect snitch helper i endpoint state chang subscrib
+
+logger logger logger factori get logger reconnect snitch helper
+i endpoint snitch snitch
+string local dc
+prefer local
+
+reconnect snitch helper i endpoint snitch snitch string local dc prefer local
+
+snitch snitch
+local dc local dc
+prefer local prefer local
+
+
+reconnect inet address public address version valu local address valu
+
+
+
+reconnect public address inet address get by name local address valu valu
+
+unknown host except
+
+logger error error get address resolv
+
+
+
+reconnect inet address public address inet address local address
+
+snitch get datacent public address equal local dc
+messag servic instanc get connect pool public address end point equal local address
+
+messag servic instanc get connect pool public address reset local address
+logger debug string format intiat reconnect intern local address public address
+
+
+
+befor chang inet address endpoint endpoint state current state applic state new state key version valu new valu
+
+
+
+
+on join inet address endpoint endpoint state ep state
+
+prefer local gossip instanc is dead state ep state ep state get applic state applic state intern null
+reconnect endpoint ep state get applic state applic state intern
+
+
+on chang inet address endpoint applic state state version valu valu
+
+prefer local state applic state intern gossip instanc is dead state gossip instanc get endpoint state for endpoint endpoint
+reconnect endpoint valu
+
+
+on aliv inet address endpoint endpoint state state
+
+prefer local state get applic state applic state intern null
+reconnect endpoint state get applic state applic state intern
+
+
+on dead inet address endpoint endpoint state state
+
+noth
+
+
+on remov inet address endpoint
+
+noth
+
+
+on restart inet address endpoint endpoint state state
+
+noth
+
+
+
+licens apach softwar foundat
+contributor licens agreement notic file
+distribut work addit inform
+regard copyright ownership licens file
+apach licens version
+licens file complianc
+licens obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi
+without warranti condit kind either express impli
+licens specif languag govern permiss
+limit licens
+
+apach cassandra locat
+
+java input stream
+java
+java util properti
+
+apach cassandra util file util
+slf4j logger
+slf4j logger factori
+
+snitch properti
+
+logger logger logger factori get logger snitch properti
+string rackdc properti filenam cassandra rackdc properti
+
+properti properti
+
+snitch properti
+
+properti properti
+input stream stream null
+string config url system get properti rackdc properti filenam
+
+
+
+config url null
+snitch properti get class loader get resourc rackdc properti filenam
+
+config url
+
+stream open stream block handl potenti
+properti load stream
+
+except
+
+except consid incomplet properti file
+logger warn unabl read config url null config url rackdc properti filenam
+
+
+
+file util close quietli stream
+
+
+
+
+snitch properti valu default valu defin
+
+string string properti name string default valu
+
+properti get properti properti name default valu
+
+
+contain string properti name
+
+properti contain key properti name
+
+
+
+licens apach softwar foundat
+contributor licens agreement notic file
+distribut work addit inform
+regard copyright ownership licens file
+apach licens version
+licens file complianc
+licens obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi
+without warranti condit kind either express impli
+licens specif languag govern permiss
+limit licens
+
+apach cassandra locat
+
+java inet address
+java util collect
+java util list
+
+
+thi help determin locat node data center rel anoth node
+give node anoth node tell rack
+data center
+
+
+i endpoint snitch
+
+
+return string repes rack endpoint belong
+
+string get rack inet address endpoint
+
+
+return string repres datacent endpoint belong
+
+string get datacent inet address endpoint
+
+
+return list sort proxim given endpoint
+
+list inet address get sort list by proxim inet address address collect inet address unsort address
+
+
+thi method sort list proxim given address
+
+sort by proxim inet address address list inet address address
+
+
+compar endpoint relat target endpoint return compar compar would
+
+compar endpoint inet address target inet address inet address
+
+
+call gossip instanc exist immedi start gossip
+
+gossip start
+
+
+return whether rang queri queri merg like
+faster sequenti queri follow
+
+is worth merg for rang queri list inet address merg list inet address list inet address
+

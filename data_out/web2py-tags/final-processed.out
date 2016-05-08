@@ -1,0 +1,704 @@
+python
+code
+
+
+thi setup script gener py2applet
+
+usag
+python setup py2app
+
+
+setuptool setup
+gluon base modul contribut modul
+
+fnmatch
+
+reglob
+init directori pattern
+stack directori
+pattern pattern
+file
+index
+getitem index
+
+
+file file index
+index index
+index error
+index
+directori stack
+file listdir directori
+
+fullnam path join directori file
+path isdir fullnam path islink fullnam
+stack append fullnam
+file startswith file startswith file endswith
+fnmatch fnmatch file pattern
+fullnam
+
+setup web2pi
+data file
+newinstal
+about
+licens
+version
+
+reglob applic exampl
+reglob applic welcom
+reglob applic admin
+option py2app
+argv emul
+includ base modul
+packag contribut modul
+
+setup requir py2app
+
+
+
+python
+code
+
+web2pi window servic web2pi
+load command line option
+expect find conifgur set file call
+
+web2pi option
+
+file exampl option
+
+socket
+
+
+
+port
+interfac certif
+password recycl recycl mean previou password
+filenam httpserver
+filenam httpserver
+profil filenam
+certif certif path certif file
+path file
+numthread deprec remov
+minthread
+maxthread
+server name socket gethostnam
+request queue size
+timeout
+shutdown timeout
+folder getcwd
+extcron
+nocron
+
+
+
+python
+code
+
+applic control
+use respect element miss
+possibl rewritten incom
+
+applic init ordinarili base rout
+control ordinarili specif rout
+index ordinarili specif rout
+
+rout tupl tupl first item regexp
+use match incom request second item tupl
+applicationnam thi mechan allow specifi
+specif rout thi entri meaning base rout
+
+exampl support welcom admin myapp myapp
+
+
+rout welcom admin
+myapp
+myapp
+
+rout tupl tupl first item regexp
+use match incom request second item tupl
+replac thi mechan allow redirect incom
+rout differ web2pi locat
+
+exampl wish entir websit init directori
+
+rout file init file
+
+
+rout favicon exampl favicon
+robot exampl robot
+http otherdomain
+
+rout like rout translat path creat web2pi
+manner rout translat inbound path
+
+
+rout http otherdomain
+
+
+specifi level rewrit debug log
+possibl valu debug info warn error critic loglevel
+use statement rather log
+user want suppress routin log
+
+log debug
+
+error handl redirect http error statu code specifi
+path wish error handl redirect uncom tupl
+custom respons ad tupl entri first
+valu app name htt pstatu code format onli http code
+rout valu path redirect user also
+wildcard
+
+error handl page also pass error code ticket
+variabl traceback inform store ticket
+
+rout onerror
+init init login
+init init fail html
+init cantfind html
+init error index
+
+
+specifi action charg error handl
+
+error handler dict applic error
+control
+index
+
+event error handl page return error web2pi
+fall back respons custom
+error messag ticket take string format dictionari contain
+ticket
+
+error messag html bodi bodi html
+error messag ticket html bodi intern error ticket issu href admin ticket ticket target blank ticket bodi html
+
+specifi app bypass arg check request arg
+
+rout app myapp
+rout app myapp myotherapp
+
+rout doctest
+
+dummi doctest rout
+
+filter test incom outgo rout
+filter error redirect
+
+filter accept overrid method remot host
+filter method remot
+
+filter accept overrid applic ticket
+filter statu applic ticket
+
+
+gluon main
+gluon rewrit regex select load filter regex filter filter compil regex
+regex select
+load rout path basenam file
+
+path relpath filter http domain favicon
+applic exampl favicon
+path relpath filter http domain robot
+applic exampl robot
+filter http domain
+init index
+filter http domain
+init index
+filter http domain init
+init
+filter http domain init
+init
+filter http domain
+
+filter http domain arg1
+arg1
+filter http domain arg1
+arg1
+filter http domain arg1
+arg1
+filter http domain arg1
+arg1
+filter http domain
+
+filter http domain queri
+queri
+filter http otherdomain
+
+regex filter
+
+filter http otherdomain
+
+filter http otherdomain arg1
+arg1
+filter http otherdomain
+
+filter http otherdomain queri
+queri
+filter http otherdomain anchor
+anchor
+filter
+
+filter
+
+filter
+
+filter http domain welcom
+welcom
+filter http domain
+myapp
+filter http domain
+myapp
+compil regex http otherdomain pattern
+http otherdomain
+compil regex http otherdomain
+
+compil regex init pattern
+http
+compil regex init
+init
+
+
+
+name main
+doctest
+doctest testmod
+
+
+
+python
+code
+
+
+scgihandl handler scgi protocol
+
+modifi michel comitini michel comitini glisco
+fcgihandl support scgi
+
+fcgihandl follow copyright
+thi file part web2pi framework
+copyright massimo pierro mdipierro depaul
+licens lgp lv3 http licens lgpl html
+
+
+thi handler lighttpd scgi
+thi file pythonpath
+someth like lighttpd conf file
+
+server document root web2pi
+linux
+server event handler linux sysepol
+
+rewrit
+applic
+handler web2pi scgi
+
+scgi server handler web2pi scgi
+handler web2pi
+host
+port 4000
+check local disabl forget disabl
+
+
+
+
+
+
+
+
+
+log
+softcron
+
+
+
+
+path path dirnam path abspath file
+chdir path
+path path path path
+
+gluon main
+
+uncom import depend scgiwsgi server instal
+past util scgiserv scgi
+wsgitool scgi forkpool scgi server
+wsgitool filter wsgi filter middlewar gzip wsgi filter
+
+wsgiapp wsgi filter middlewar gluon main wsgibas gzip wsgi filter
+
+log
+applic gluon main appfactori wsgiapp wsgiapp
+logfilenam httpserver
+profilerfilenam
+
+applic wsgiapp
+
+softcron
+gluon set set
+set web2pi crontyp soft
+
+uncom row depend scgiwsgi server instal
+scgi serv applic applic 4000
+scgi server applic port 4000 enabl sighandl
+
+
+python
+code
+
+
+thi file part web2pi framework
+copyright massimo pierro mdipierro depaul
+licens lgp lv3 http licens lgpl html
+
+thi file base although rewrit licens code bottl framework
+
+
+
+
+optpars
+urllib
+
+path path dirnam path abspath file
+chdir path
+path path path path
+
+
+server
+staticmethod
+address option
+wsgiref handler cgi handler
+cgi handler just ignor host port
+
+staticmethod
+flup address option
+flup server fcgi
+flup server fcgi wsgi server bind address address
+
+staticmethod
+wsgiref address option pragma cover
+wsgiref simpl server make server wsgi request handler
+option
+quiet handler wsgi request handler
+request arg
+
+option handler quiet handler
+make server address address option
+serv forev
+
+staticmethod
+cherrypi address option
+cherrypi wsgiserv
+server wsgiserv cherri py wsgi server address
+server start
+
+staticmethod
+rocket address option
+gluon rocket cherri py wsgi server
+server cherri py wsgi server address
+server start
+
+staticmethod
+rocket repoz profil address option
+gluon rocket cherri py wsgi server
+repoz profil profil accumul profil middlewar
+gluon set set
+set web2pi crontyp none
+wrap accumul profil middlewar
+
+filenam wsgi prof
+discard first request
+flush shutdown
+path profil
+
+server cherri py wsgi server address wrap
+server start
+
+staticmethod
+past address option
+option
+past httpserver
+past translogg tran logger
+httpserver serv host address port address option
+
+staticmethod
+fapw address option
+fapw evwsgi evwsgi
+fapw base
+evwsgi start address address
+evwsgi base base
+
+environ start respons
+environ wsgi multiprocess
+environ start respons
+evwsgi wsgi
+evwsgi
+
+staticmethod
+gevent address option
+option option option
+worker option worker
+gevent pywsgi
+gevent pool pool
+pywsgi wsgi server address spawn worker pool
+option worker serv forev
+
+staticmethod
+bjoern address option
+bjoern
+bjoern address
+
+staticmethod
+tornado address option
+tornado wsgi
+tornado httpserver
+tornado ioloop
+contain tornado wsgi wsgi contain
+server tornado httpserver http server contain
+server listen address address port address
+tornado ioloop io loop instanc start
+
+staticmethod
+twist address option
+twist server wsgi
+twist python threadpool thread pool
+twist internet reactor
+thread pool thread pool
+thread pool start
+reactor add system event trigger shutdown thread pool stop
+factori server site wsgi wsgi resourc reactor thread pool
+reactor listen tcp address factori address
+reactor
+
+staticmethod
+diesel address option
+diesel protocol wsgi wsgi applic
+wsgi applic port address
+
+
+staticmethod
+gunicorn address option
+option
+gunicorn base applic
+config bind address
+config updat option
+argv anyserv
+
+gunicorn applic applic
+init parser opt arg
+config
+
+load
+
+gunicorn applic
+
+
+staticmethod
+eventlet address option
+eventlet wsgi listen
+wsgi server listen address
+
+staticmethod
+mongrel2 address option
+uuid
+path append path abspath path dirnam file
+mongrel2 handler
+conn handler connect uuid uuid4
+9997
+9996
+mongrel2 handler conn debug
+
+staticmethod
+motor address option
+http github rpedroso motor
+motor
+motor wsgi contain
+http server motor http server
+http server listen address address port address
+http server start
+motor io loop instanc start
+
+staticmethod
+pulsar address option
+pulsar app wsgi
+argv anyserv
+wsgi wsgi server bind address
+start
+
+
+mongrel2 handler applic conn debug
+
+base
+http github berri mongrel2 wsgi handler blob master wsgi handler
+
+wsgi handler base python wsgiref simpl handler
+wsgi applic iter string type
+encod must handl wsgi applic
+
+wsgiref handler simpl handler
+
+c string io string io
+
+string io
+
+todo wsgi handler execut applic render page
+memori complet return respons client
+thu stream result back client
+possibl though simpl handler accept file like stream object
+matter connect request respons stream
+simpl handler request respons stream howev python
+mongrel2 seem support file like stream object request
+respons unless miss someth
+
+
+debug
+wait request
+
+receiv request
+conn recv
+debug
+request bodi bodi
+
+disconnect
+debug
+disconnect
+effect ignor disconnect client
+
+coupl environ attribut header attribut
+must accord
+environ header
+environ server protocol http simpl handler expect server protocol let assum http
+environ request method environ method
+environ host
+environ server name environ host split
+environ server port environ host split
+
+environ server name environ host
+environ server port
+environ script name
+environ path info urllib unquot environ path
+environ
+environ queri string environ split
+
+environ queri string
+content length environ
+environ content length environ
+content length necessari post work django
+environ wsgi input bodi
+
+debug
+environ environ
+
+simpl handler need file like stream object
+request error respons
+req io string io string io bodi
+err io string io string io
+resp io string io string io
+
+execut applic
+handler simpl handler req io resp io err io environ
+multithread multiprocess
+handler applic
+
+respons filter respons data
+respons header
+respons statu code respons statu descript
+respons resp io getvalu
+respons respons split
+data respons
+header dict split respons
+code respons
+statu respons
+
+strip respons data
+especi wsgi handler django seem gener actual
+realli necessari caus html pars error chrome safari
+also http xs4all mechiel project bomstrip
+although still find ugli hack work
+data data replac
+
+gener error
+error err io getvalu
+
+respons
+debug
+respons respons
+error
+debug
+error error
+data data error
+conn repli http
+data code code statu statu header header
+
+
+servernam port softcron log profil
+option
+servernam gevent
+gevent monkey
+monkey patch
+servernam eventlet
+eventlet
+eventlet monkey patch
+
+gluon main
+
+log
+applic gluon main appfactori wsgiapp gluon main wsgibas
+logfilenam httpserver
+profil profil
+
+applic gluon main wsgibas
+softcron
+gluon set set
+set web2pi crontyp soft
+getattr server servernam applic port option option
+
+
+
+main
+usag python anyserv tornado 8000
+
+version open version
+io error
+version
+parser optpars option parser usag optpars option version
+parser option
+log
+action store
+
+dest log
+help httpserver
+parser option
+profil
+
+dest profil
+help profil
+server join server
+parser option
+server
+rocket
+dest server
+help server name server
+parser option
+
+
+dest
+help address
+parser option
+port
+8000
+dest port
+help port number
+parser option
+worker
+
+dest worker
+help number worker number
+option arg parser pars arg
+start
+option server option option port
+option server option option port
+log option log profil option profil
+option option
+
+name main
+main

@@ -1,0 +1,2269 @@
+rotat point theta
+theta rad theta math
+rot x math theta rad math theta rad
+rot y math theta rad math theta rad
+
+
+rot x
+rot y
+
+
+
+rand int
+math floor math random
+
+current time beg inn ing valu chang valu durat
+eas out cubic
+
+
+
+render text font size color text font
+save
+font
+font 20px
+
+
+font size set scale
+font font size font
+text align center
+fill style color
+fill text text font size set scale
+restor
+
+
+draw scoreboard
+score opac
+score opac
+text opac
+
+global alpha text opac
+score size
+score string string score
+score string length
+score size
+score string length
+score size
+score string length
+score size
+score string length
+score size
+
+rush
+color
+
+font size set platform mobil
+true canva height set scale
+game state
+render text true canva width set scale true canva height string from char code 0xf04b font awesom
+render text true canva width set scale true canva height set scale 2c3e50 hextri
+render text true canva width set scale font size play
+game state text opac
+text opac
+render text true canva width set scale true canva height string from char code 0xf04b font awesom
+render text true canva width set scale true canva height set scale 2c3e50 hextri
+render text true canva width set scale font size play
+global alpha score opac
+render text true canva width true canva height score size color score
+
+global alpha score opac
+render text true canva width true canva height score size color score
+
+
+global alpha
+
+
+clear game board
+draw polygon true canva width true canva height true canva width hexagon background color rgba
+
+
+draw polygon side radiu theta fill color line width line color
+fill style fill color
+line width line width
+stroke style line color
+
+begin path
+coord rotat point radiu theta
+move to coord coord
+old x coord
+old y coord
+side
+coord rotat point old x old y side
+line to coord coord
+old x coord
+old y coord
+
+
+close path
+fill
+stroke
+stroke style rgba
+
+
+toggl class element activ
+element ha class activ
+element remov class activ
+
+element add class activ
+
+
+
+show text text
+messag
+paus center header unselect game paus
+paus android center header unselect game paus unselect center sub header style posit absolut margin left 150px left margin 20px width 300px font size 16px href http play googl store app detail hextri hextrisadfre target blank want support develop like hextri free
+pausedi os center header unselect game paus unselect center sub header style posit absolut margin left 150px left margin 20px width 300px font size 16px href http itun appl hextri free id912895524 target blank want support develop like hextri free
+paus other center header unselect game paus unselect center sub header style margin 10px posit absolut left margin left 190px width 380px font size 18px href http hextri github target blank want support develop click free mobil version
+start center header unselect style line height 80px press enter start
+
+
+text paus
+set android
+text paus android
+set
+text pausedi os
+set platform nonmobil
+text paus other
+
+
+
+text gameov
+clay client share text think beat score score super cool game
+gameoverscreen fade in
+
+overlay html messag text
+overlay fade in 1000 swing
+
+
+
+set main menu
+game state
+can restart
+set timeout
+can restart
+
+restart btn hide
+paus btn replac paus
+paus btn attr imag resum
+
+paus btn attr imag paus
+
+
+
+hide text
+overlay fade out
+overlay html
+
+
+
+game over display
+set end block
+cooki visit
+document get element by id canva
+class name blur
+updat high score
+highscor length
+current high score text
+
+
+current high score text highscor
+
+gameoverscreen fade in
+button cont fade in
+contain fade in
+social share fade in
+restart fade in
+score
+
+
+updat high score
+c score text score
+1place text highscor
+2place text highscor
+3place text highscor
+
+
+pausabl
+paus
+game state game state pausabl
+
+
+
+pausabl
+write high score
+messag
+
+messag
+
+messag paus
+
+
+document get element by id canva
+game state
+fork ribbon fade out linear
+restart btn fade out linear
+button cont fade out linear
+help screen visibl
+help screen fade out linear
+
+
+paus btn attr imag paus
+help text fade out linear
+overlay fade out linear
+hide text
+set timeout
+game state prev game state
+pausabl
+
+game state game state game state
+restart btn fade in linear
+button cont fade in linear
+help text fade in linear
+messag paus
+show text messag
+
+fork ribbon fade in linear
+paus btn attr imag resum
+overlay fade in linear
+prev game state game state
+set timeout
+pausabl
+
+game state
+
+
+document readi
+initi
+
+initi
+window rush
+window last time date
+window ifram ha load
+window color e74c3c f1c40f 3498db 2ecc71
+window hex color to tint color
+e74c3c
+f1c40f
+3498db
+2ecc71
+
+
+window rgb to hex
+e74c3c
+f1c40f
+3498db
+2ecc71
+
+
+window rgb color to tint color
+
+
+
+
+
+
+window hexagon background color
+window hexagon background color clear rgba
+window center blue
+window angular veloc const
+window score opac
+window text opac
+window prev game state
+window
+window save state local storag get item save state
+save state
+
+
+
+window text shown
+window request anim frame
+window request anim frame window webkit request anim frame window moz request anim frame callback
+window set timeout callback 1000 framer
+
+
+click to exit bind click toggl dev tool
+window set
+android web os i phone i pod black berri ie mobil opera mini test navig user agent
+rrssb email remov
+set
+
+platform mobil
+start dist
+creation dt
+base scale
+scale
+prev scale
+base hex width
+hex width
+base block height
+block height
+row
+speed modifi
+creation speed modifi
+combo time
+
+
+set
+
+platform nonmobil
+base scale
+start dist
+creation dt
+scale
+prev scale
+hex width
+base hex width
+base block height
+block height
+row
+speed modifi
+creation speed modifi
+combo time
+
+
+
+android test navig user agent
+set android
+
+
+navig user agent match i phone navig user agent match i pad navig user agent match i pod
+set
+
+
+window canva document get element by id canva
+window canva get context
+window true canva
+width canva width
+height canva height
+
+scale canva
+
+window framer
+window histori
+window score
+window score addit coeff
+window prev score
+window num high score
+
+highscor
+local storag get item highscor
+
+highscor json pars local storag get item highscor
+
+highscor
+
+
+window block
+window main hex
+window
+window
+window dev mode
+window last gen
+window prev time score
+window next gen
+window spawn lane
+window import
+window import histori
+window start time
+window game state
+set start screen
+
+window can restart
+window onblur
+game state
+paus
+
+
+start btn
+set platform mobil
+start btn touchstart start btn handler
+
+start btn mousedown start btn handler
+
+
+document add event listen touchmov
+prevent default
+
+window resiz scale canva
+window unload
+
+game state game state game state local storag set item save state export save state
+local storag set item save state
+
+
+add key listen
+
+googl analyt object
+
+push
+date
+creat element get element by tag name
+async
+
+parent node insert befor
+window document script googl analyt analyt
+creat 51272720 teamsnowman github
+send pageview
+
+document add event listen paus handl paus
+document add event listen backbutton handl paus
+document add event listen menubutton handl paus menu button android
+
+set timeout
+set platform mobil
+
+document bodi remov event listen touchstart handl tap befor
+
+
+
+
+
+document bodi remov event listen touchstart handl tap
+
+
+
+
+document bodi add event listen touchstart handl tap befor
+
+
+document bodi remov event listen mousedown handl click befor
+
+
+
+
+
+document bodi remov event listen mousedown handl click
+
+
+
+
+document bodi add event listen mousedown handl click befor
+
+
+
+
+
+start btn handler
+set timeout
+set platform mobil
+
+document bodi remov event listen touchstart handl tap befor
+
+
+
+
+
+document bodi remov event listen touchstart handl tap
+
+
+
+
+document bodi add event listen touchstart handl tap
+
+
+document bodi remov event listen mousedown handl click befor
+
+
+
+
+
+document bodi remov event listen mousedown handl click
+
+
+
+
+document bodi add event listen mousedown handl click
+
+
+
+can restart
+
+open side bar visibl
+open side bar fade out linear
+
+
+import
+init
+check visual element
+
+resum game
+
+
+
+handl paus
+game state game state
+paus
+
+
+
+handl tap
+handl click tap chang touch client x chang touch client y
+
+
+handl click
+handl click tap client x client y
+
+
+handl tap befor
+chang touch client x
+chang touch client y
+
+help text visibl
+show help
+
+
+
+
+handl click befor
+client x
+client y
+
+help text visibl
+show help
+
+
+
+scale canva
+canva width window width
+canva height window height
+
+canva height canva width
+set scale canva width set base scale
+
+set scale canva height set base scale
+
+
+true canva
+width canva width
+height canva height
+
+
+window devic pixel ratio
+canva attr width
+canva attr height
+
+canva attr width window devic pixel ratio
+canva attr height window devic pixel ratio
+canva width
+canva height
+
+true canva
+width
+height
+
+
+scale window devic pixel ratio window devic pixel ratio
+
+set bottom contain
+score
+
+
+set bottom contain
+button offset button cont offset
+play offset true canva height set scale
+delta button offset play offset
+delta
+bottom contain margin bottom math delta
+
+
+
+score
+contain margin
+middl contain contain height contain offset
+bottom contain button cont offset
+high score in game text
+bottom offset offset height
+target midpoint bottom contain bottom
+diff target midpoint middl contain
+contain margin diff
+
+
+toggl dev tool
+devtool toggl
+
+
+resum game
+game state
+hide ui element
+paus btn show
+restart btn hide
+import
+start time date
+set timeout
+game state game state help screen visibl
+open side bar fade out linear
+
+7000
+
+check visual element
+
+
+check visual element
+open side bar visibl open side bar fade out linear
+paus btn visibl paus btn fade in linear
+fork ribbon fade out
+restart btn visibl restart btn fade out linear
+button cont visibl button cont fade out linear
+
+
+hide ui element
+paus btn hide
+restart btn hide
+start btn hide
+
+
+init
+set end block
+
+paus btn attr imag paus
+help screen visibl
+help screen fade out linear
+
+
+set timeout
+open side bar fade out linear
+infobuttonfad
+7000
+clear save state
+check visual element
+
+highscor length
+current high score text
+
+
+current high score text highscor
+
+infobuttonfad
+paus btn attr imag paus
+hide ui element
+save state local storag get item save state
+save state jso nfn pars save state
+document get element by id canva class name
+histori
+import histori
+import
+score save state score
+prev score
+spawn lane
+
+tweetblock
+score opac
+game state
+restart btn hide
+paus btn show
+save state game state
+
+set block height set base block height set scale
+set hex width set base hex width set scale
+main hex save state set hex width
+save state
+main hex play through
+
+main hex side length set hex width
+
+
+block
+save state block
+save state block
+rgb to hex color
+color rgb to hex color
+
+
+
+save state block length
+block save state block
+block push block
+
+
+block
+
+
+save state
+save state
+combo time save state combo time
+
+main hex block length
+main hex block length
+main hex block height set block height
+main hex block settl
+
+
+
+main hex block
+
+rgb to hex color
+color rgb to hex color
+
+
+
+
+main hex
+
+start time date
+waveon save state wavegen wave gen main hex
+
+main hex text clear text
+main hex delay
+hide text
+
+
+add new block blocklan color iter dist from hex settl last option paramet
+iter set speed modifi
+histori main hex
+histori main hex
+
+
+histori main hex block
+blocklan blocklan
+color color
+iter iter
+
+
+dist from hex
+histori main hex dist from hex dist from hex
+
+settl
+block hist main hex settl settl
+
+block push block blocklan color iter dist from hex settl
+
+
+export histori
+devtool text html json stringifi histori
+toggl dev tool
+
+
+set start screen
+start btn show
+init
+is state save
+import
+
+import
+
+
+paus btn hide
+restart btn hide
+start btn show
+
+game state
+request anim frame anim loop
+
+
+
+
+anim loop
+game state
+
+request anim frame anim loop
+render
+date
+last time rush
+
+
+
+
+game state
+main hex delay
+updat
+
+
+main hex delay
+
+
+
+last time
+
+check game over import
+save state local storag get item save state
+save state jso nfn pars save state
+game state
+
+set timeout
+enabl restart
+
+
+help screen visibl
+help screen fade out linear
+
+
+paus btn visibl paus btn fade out linear
+restart btn visibl restart btn fade out linear
+open side bar visibl open side bar fade out linear
+
+can restart
+clear save state
+
+
+
+
+request anim frame anim loop
+render
+
+
+
+request anim frame anim loop
+render
+
+
+
+date
+last time rush
+request anim frame anim loop
+updat
+render
+last time
+
+
+
+request anim frame anim loop
+fade out object on screen
+render
+
+
+
+set timeout
+initi
+
+render
+
+
+
+initi
+set start screen
+
+
+
+game state game state
+last time date
+
+
+
+enabl restart
+can restart
+
+
+is infring
+side
+sub total
+block length
+sub total block delet
+
+
+block length sub total set row
+
+
+
+
+
+
+check game over
+main hex side
+is infring main hex
+http string score
+highscor index of score
+highscor push score
+
+write high score
+game over display
+
+
+
+
+
+
+show help
+open side bar attr imag back
+open side bar attr imag help
+game state game state game state
+fork ribbon fade out linear
+
+
+open side bar attr imag back
+game state game state game state
+fork ribbon fade in linear
+
+
+
+inst main bodi html instruct head play goal hextri stop block leav insid outer gray hexagon set platform mobil press right left arrow key left right side screen rotat hexagon clear block point make block color touch time left combo streak disappear indic span style color f1c40f span span style color e74c3c color span span style color 3498db line span span style color 2ecc71 span outer hexagon afterhr href http loganengstrom target blank logan engstrom href http github garrettdreyfu target blank garrett finucan find hextri href http itun appl id903769553 target blank href http play googl store app detail hextri hextri target blank android more href http hextri github target blank hextri websit
+game state
+paus
+
+
+paus btn attr imag paus game state infobuttonfad
+
+
+
+open side bar fade in linear
+help screen fade toggl linear
+
+export save state
+state
+
+game state game state game state local storag get item save state
+state
+extend main hex
+block extend block
+score score
+wavegen waveon
+
+
+combo time set combo time
+
+
+state block
+length
+extend
+
+
+descal block
+
+
+state block length
+state block extend state block
+
+
+state block descal block
+
+
+local storag set item highscor json stringifi highscor
+
+jso nfn stringifi state
+
+
+descal block
+dist from hex set scale
+
+
+write high score
+highscor sort
+
+pars int
+pars int
+
+
+
+
+
+
+
+
+
+highscor highscor slice
+local storag set item highscor json stringifi highscor
+
+
+clear save state
+local storag set item save state
+
+
+is state save
+local storag get item save state local storag get item save state
+
+text text font color increment function
+
+
+font font
+color color
+opac
+text text
+aliv
+draw
+aliv
+global alpha opac
+render text color text
+global alpha
+increment function
+
+
+
+
+
+
+
+
+fade up and out text
+text opac main hex math math text opac
+text aliv text opac
+text main hex
+
+block destroy
+waveon next gen 1350
+waveon next gen set creation speed modifi
+waveon next gen
+waveon next gen set creation speed modifi
+
+waveon next gen
+
+
+waveon difficulti
+waveon difficulti set speed modifi
+
+waveon difficulti
+
+
+
+wave gen
+last gen
+last
+next gen 2700
+start
+color color
+
+
+difficulti
+
+updat
+current function
+set platform mobil 6667 main hex
+comput difficulti
+last gen set creation speed modifi next gen
+next gen
+next gen next gen 1300 set creation speed modifi
+
+
+
+
+random gener
+last gen next gen
+
+last gen
+rand int main hex side
+add new block color rand int color length difficulti
+
+
+next pattern rand int
+next pattern
+
+current function doubl gener
+next pattern
+
+current function crosswis gener
+next pattern
+
+current function spiral gener
+next pattern
+
+current function circl gener
+next pattern
+
+current function half circl gener
+
+
+
+
+
+comput difficulti
+difficulti
+increment
+difficulti
+increment last 5166667 set speed modifi
+difficulti
+increment last 72333333 set speed modifi
+
+increment last 90000000 set speed modifi
+
+
+difficulti increment
+
+
+
+circl gener
+last gen next gen
+num color rand int
+num color
+num color rand int
+
+
+color list
+next loop num color
+rand int color length
+color list
+color list color
+
+next loop
+
+
+color list push color
+
+
+main hex side
+add new block color list num color difficulti
+
+
+
+last gen
+should chang pattern
+
+
+
+half circl gener
+last gen next gen
+num color rand int
+color rand int color length
+color list
+num color
+color list color rand int color length
+
+
+rand int
+
+add new block color list difficulti
+
+
+
+last gen
+should chang pattern
+
+
+
+crosswis gener
+last gen next gen
+rand int color length
+rand int color length
+add new block color difficulti
+add new block main hex side color difficulti
+
+last gen
+should chang pattern
+
+
+
+spiral gener
+rand int
+last gen next gen
+
+add new block main hex side color rand int color length difficulti
+
+add new block main hex side color rand int color length difficulti
+
+
+last gen
+should chang pattern
+
+
+
+doubl gener
+last gen next gen
+rand int color length
+add new block color rand int color length difficulti
+add new block main hex side color rand int color length difficulti
+
+last gen
+should chang pattern
+
+
+
+set random
+
+current function random gener
+
+
+should chang pattern
+
+rand int
+
+
+
+current function doubl gener
+
+
+current function spiral gener
+
+
+current function crosswis gener
+
+
+
+rand int
+set random
+
+
+
+
+
+
+
+rest gener function
+
+current function random gener
+
+draw timer
+game state
+left vertex
+right vertex
+main hex main hex last combo set combo time
+
+done main hex main hex last combo
+done set combo time
+left vertex push calc side
+right vertex push calc side
+
+
+left vertex push calc side done set combo time
+right vertex push calc side done set combo time
+
+
+
+
+right vertex length draw side right vertex
+left vertex length draw side left vertex
+
+
+
+calc side start vertex end vertex fraction offset
+start vertex start vertex offset
+end vertex end vertex offset
+global alpha
+begin path
+line cap round
+
+radiu set row set block height math sqrt set hex width
+half radiu radiu
+tri height radiu math sqrt
+vertex
+half radiu tri height
+radiu
+half radiu tri height
+half radiu tri height
+tri height
+half radiu tri height
+half radiu tri height
+radiu
+half radiu tri height
+half radiu tri height
+tri height
+half radiu tri height
+revers
+start x true canva width vertex start vertex
+start y true canva height vertex start vertex
+end x true canva width vertex end vertex
+end y true canva height vertex end vertex
+start x start y end x start x fraction start x end y start y fraction start y
+
+draw side vertex
+game state
+stroke style hex color to tint color main hex last color score
+
+stroke style main hex last color score
+
+line width set scale
+move to vertex vertex
+line to vertex vertex
+vertex length
+line to vertex vertex
+move to vertex vertex
+
+close path
+fill
+stroke
+
+
+render
+grey bdc3c7
+game state
+grey
+
+
+clear rect true canva width true canva height
+clear game board
+game state game state game state game state
+
+
+
+global alpha
+draw polygon true canva width true canva height set row set block height math sqrt set hex width grey
+draw timer
+global alpha
+
+
+
+main hex block length
+main hex block length
+block main hex block
+block draw
+
+
+block length
+block draw
+
+
+main hex draw
+game state game state game state
+draw scoreboard
+
+
+main hex text length
+aliv main hex text draw
+aliv
+main hex text splice
+
+
+
+
+main hex game state main hex play through
+main hex
+global alpha main hex
+
+
+main hex
+global alpha main hex
+
+
+render begin text
+global alpha
+
+
+game state
+global alpha
+fill style
+fill rect true canva width true canva height
+global alpha
+
+
+set prev scale set scale
+set hex width set base hex width set scale
+set block height set base block height set scale
+
+
+render begin text
+upperheight true canva height set row set block height math sqrt
+lowerheight true canva height set row set block height math sqrt
+text
+font size
+mobil mobil android web os i phone i pad i pod black berri ie mobil opera mini test navig user agent
+
+input text screen left ride
+action text side rotat hexagon
+score text match block score
+font size
+
+
+input text right left arrow key
+action text rotat hexagon
+score text match block score
+font size
+
+render text true canva width set scale upperheight set scale font size 2c3e50 input text
+render text true canva width set scale upperheight set scale font size 2c3e50 action text
+
+draw key true canva width set scale upperheight set scale
+
+
+render text true canva width set scale lowerheight font size 2c3e50 score text
+
+
+draw key
+save
+
+left
+translat set scale
+rotat 14159
+font 20px fontawesom
+scale set scale set scale
+fill text string from char code 0xf04b
+
+right
+font 20px fontawesom
+translat set scale
+scale set scale set scale
+fill text string from char code 0xf04b
+
+
+
+draw key left
+draw key right
+
+restor
+
+side length
+play through
+fill color
+temp color
+angular veloc
+posit
+
+
+side
+block
+angl side
+target angl angl
+shake
+side length side length
+stroke color blue
+true canva width
+true canva height
+
+last combo set combo time
+last color score
+combo time
+text
+last rotat date
+side
+block push
+
+
+shake lane particl lane
+angl lane
+angl math
+math angl magnitud
+math angl magnitud
+
+
+magnitud
+magnitud
+shake length
+shake
+shake splice
+
+
+
+
+
+add block block
+game state game state
+block settl
+block tint
+lane side block fall lane posit
+shake push lane block fall lane magnitud window devic pixel ratio window devic pixel ratio set scale
+lane posit
+lane lane side side
+block dist from hex main hex side length math sqrt block height block lane length
+block lane push block
+block attach lane lane
+block
+
+
+doe block collid block posit t arr
+block settl
+
+
+
+posit
+t arr
+posit
+block dist from hex block iter set scale side length math sqrt
+block dist from hex side length math sqrt
+block settl
+block
+
+block settl
+block iter waveon difficulti
+
+
+posit settl block dist from hex block iter set scale posit dist from hex posit height
+block dist from hex posit dist from hex posit height
+block settl
+block
+
+
+block settl
+block iter waveon difficulti
+
+
+
+lane side block fall lane posit
+lane posit
+
+lane lane side side
+block lane
+
+length
+block dist from hex block iter set scale length dist from hex length height
+block dist from hex length dist from hex length height
+add block block
+
+
+block dist from hex block iter set scale side length math sqrt
+block dist from hex side length math sqrt
+add block block
+
+
+
+
+
+rotat step
+date last rotat android web os i phone i pad i pod black berri ie mobil opera mini test navig user agent
+game state game state
+posit step
+histori
+histori
+
+
+histori rotat
+histori rotat step
+
+
+histori rotat step
+
+
+posit
+posit
+
+
+posit posit side
+block for each block
+block for each block
+block target angl block target angl step
+
+
+
+target angl target angl step
+last rotat date
+
+
+draw
+true canva width
+
+game state
+true canva height
+
+side length set hex width
+
+
+shake length
+shake shake
+
+angl target angl
+angular veloc angular veloc const
+
+angl target angl
+angular veloc angular veloc const
+
+
+math angl target angl angular veloc math angular veloc better soon
+angl target angl
+angular veloc
+
+
+angl angular veloc
+
+
+draw polygon side side length angl array to color fill color rgba
+
+
+
+array to color
+
+
+block fall lane color iter dist from hex settl
+whether block rest center anoth block
+settl settl
+height set block height
+lane block shot
+fall lane fall lane
+
+
+angl block fall
+angl fall lane
+calcul rotat block attach center
+angular veloc
+target angl angl
+color color
+block slate delet valid score happen
+delet
+block slate remov fall ad
+remov
+valu opac white blcok drawn fall block give glow attach
+tint
+valu use delet anim
+opac
+block expand
+initi
+main hex
+speed block
+iter iter
+iter start drop
+init len set creation dt
+side block attach
+attach lane
+distanc center
+dist from hex dist from hex set start dist set scale
+
+increment opac
+delet
+shake
+opac
+t lane attach lane main hex posit
+t lane main hex side t lane
+t lane
+t lane main hex side
+
+
+t lane main hex side
+main hex shake push lane t lane magnitud window devic pixel ratio window devic pixel ratio set scale
+
+fade opac
+opac opac main hex
+opac
+slate delet
+opac
+delet
+game state game state
+local storag set item save state export save state
+
+
+
+
+
+get index
+index block stack
+parent arr main hex block attach lane
+parent arr length
+parent arr
+
+
+
+
+
+draw attach index
+height set block height
+math set scale set prev scale 000000001
+dist from hex set scale set prev scale
+
+
+increment opac
+attach
+attach
+
+angl target angl
+angular veloc angular veloc const main hex
+
+angl target angl
+angular veloc angular veloc const main hex
+
+
+math angl target angl angular veloc math angular veloc better soon
+angl target angl
+angular veloc
+
+
+angl angular veloc
+
+
+width dist from hex math sqrt
+width wide dist from hex height math sqrt
+width wide width height
+
+
+
+
+initi
+main hex init len
+
+
+
+rotat point width height angl
+rotat point width height angl
+rotat point width wide height angl
+rotat point width wide height angl
+main hex init len
+initi
+
+
+rotat point width height angl
+rotat point width height angl
+rotat point width wide height angl
+rotat point width wide height angl
+
+
+delet
+fill style
+game state
+color char at
+fill style rgb color to tint color color
+
+
+fill style hex color to tint color color
+
+
+
+fill style color
+
+
+global alpha opac
+base x true canva width math angl math dist from hex height
+base y true canva height math angl math dist from hex height
+begin path
+move to base x base y
+line to base x base y
+line to base x base y
+line to base x base y
+line to base x base y
+close path
+fill
+
+tint
+opac
+game state game state
+local storag set item save state export save state
+
+
+iter
+tint
+
+
+fill style
+global alpha tint
+begin path
+move to base x base y
+line to base x base y
+line to base x base y
+line to base x base y
+line to base x base y
+close path
+fill
+tint main hex
+tint
+tint
+
+
+
+global alpha
+
+
+
+find center of block
+avg dfh
+avg angl
+length
+avg dfh dist from hex
+angl
+
+
+
+
+avg angl
+
+
+avg dfh length
+avg angl length
+
+
+true canva width math avg angl math avg dfh
+true canva height math avg angl math avg dfh
+
+
+
+rememb updat histori show respect iter speed
+updat
+main hex
+game state
+waveon updat
+main hex waveon prev time score 1000
+waveon prev time score main hex
+
+
+lowest delet index
+
+
+block
+
+object to remov
+block length
+main hex doe block collid block
+block settl
+block initi block dist from hex block iter set scale
+block remov
+block remov
+
+
+
+main hex block length
+main hex block length
+main hex block
+consolid block main hex main hex block attach lane main hex block get index
+main hex block
+
+
+
+
+main hex block length
+lowest delet index
+main hex block length
+block main hex block
+block delet
+main hex block splice
+block destroy
+lowest delet index lowest delet index
+
+
+
+
+lowest delet index main hex block length
+lowest delet index main hex block length
+main hex block settl
+
+
+
+
+main hex block length
+main hex block length
+block main hex block
+main hex doe block collid block main hex block
+
+main hex block settl
+main hex block dist from hex block iter set scale
+
+
+
+
+block length
+block remov
+block splice
+
+
+
+
+main hex
+
+add key listen
+keypress combo
+key left
+keydown
+main hex game state
+main hex rotat
+
+
+
+
+keypress combo
+key right
+keydown
+main hex game state
+main hex rotat
+
+
+
+keypress combo
+key
+keydown
+main hex game state
+main hex rotat
+
+
+
+
+keypress combo
+key
+keydown
+main hex game state
+main hex rotat
+
+
+
+
+keypress combo
+key
+keydown paus
+
+
+keypress combo
+key space
+keydown paus
+
+
+keypress combo
+key
+keydown
+dev mode toggl dev tool
+
+
+
+keypress combo
+key enter
+keydown
+game state import
+init
+
+game state
+init
+gameoverscreen fade out
+
+game state
+resum game
+
+
+
+
+paus btn touchstart mousedown
+game state game state
+
+
+
+help screen visibl
+help screen fade out linear
+
+paus
+
+
+
+color blind btn touchstart mousedown
+window color 8e44ad f1c40f 3498db d35400
+
+window hex color to tint color
+8e44ad
+f1c40f
+3498db
+d35400
+
+
+window rgb to hex
+8e44ad
+f1c40f
+3498db
+d35400
+
+
+window rgb color to tint color
+
+
+
+
+
+
+
+
+android web os i phone i pad i pod black berri ie mobil opera mini test navig user agent
+restart touchstart
+init
+can restart
+gameoverscreen fade out
+
+
+
+
+restart mousedown
+init
+can restart
+gameoverscreen fade out
+
+
+
+android web os i phone i pad i pod black berri ie mobil opera mini test navig user agent
+restart btn touchstart
+init
+can restart
+gameoverscreen fade out
+
+
+
+
+restart btn mousedown
+init
+can restart
+gameoverscreen fade out
+
+
+
+
+
+
+insid point
+cast algorithm base
+http ecs homepag research short note pnpoli html
+
+point point
+
+insid
+length length
+
+
+
+intersect
+
+intersect insid insid
+
+
+insid
+
+
+handl click tap
+help text visibl
+show help
+
+
+radiu set hex width
+half radiu radiu
+tri height radiu math sqrt
+vertex
+radiu
+half radiu tri height
+half radiu tri height
+radiu
+half radiu tri height
+half radiu tri height
+vertex vertex coord
+coord true canva width coord true canva height
+
+main hex game state game state
+
+
+
+window inner width
+main hex rotat
+
+window inner width
+main hex rotat
+
+
+
+search two d one d
+search dimension contain dimension index of work
+two d length
+two d one d two d one d
+
+
+
+
+
+
+flood fill side index delet
+block side block side index
+
+store color
+color block side index color
+nest loop navig block
+
+
+make sure diagon
+math math
+calcul side explor mod
+cur side side side side
+calcul index
+cur index index
+make sure block exist side index
+block cur side
+block cur side cur index
+check equival color alreadi explor alreadi delet
+block cur side cur index color color search delet cur side cur index block cur side cur index delet
+alreadi explor
+delet push cur side cur index
+recal block explor
+flood fill cur side cur index delet
+
+
+
+
+
+
+consolid block side index
+record side chang
+side chang
+delet
+delet block
+start
+delet push side index
+fill delet
+flood fill side index delet
+make sure block delet
+delet length
+
+delet length
+delet
+make sure array
+length
+side chang
+side chang index of
+side chang push
+
+mark delet
+block delet
+delet block push block
+
+
+
+score
+main hex
+last combo set combo time
+set combo time set creation speed modifi waveon next gen 666667
+combo multipli
+last combo
+coord find center of block delet block
+text push text coord coord combo multipli to string bold fade up and out
+
+
+set combo time
+last combo
+combo multipli
+
+adder delet length delet length combo multipli
+text push text adder to string bold delet block color fade up and out
+last color score delet block color
+score adder
+
+j queri 2005 2012 j queri foundat jqueri licens
+document locat j queri concat push slice index of to string ha own properti trim init sourc u feff u feff bfnrt to upper case add event listen load complet readi state readi add event listen remov event listen dom content load remov event listen load detach event onreadystatechang detach event onload prototyp jqueri init char at char at length length exec jqueri find find merg pars html node type owner document test is plain object is function attr get element by id parent node find length context selector node type context length is function readi selector selector selector context context make array selector length size length to array call to array length push stack merg prev object context context readi readi promis done slice push stack appli first last length push stack push stack call prev object push sort sort splice splice init prototyp extend extend length is function is plain object is array is array is plain object extend extend no conflict j queri j queri is readi readi wait hold readi readi wait readi readi readi wait is readi bodi set timeout readi is readi readi wait resolv with trigger trigger readi readi is function is array array is array is window window is numer is na n pars float is finit call is plain object node type is window call call prototyp is prototyp of call is empti object error error pars html exec creat element build fragment remov merg child node pars json json json pars json pars trim test replac replac replac function error invalid json pars xml dom parser dom parser pars from string text activ x object microsoft xmldom async load xml document element get element by tag name parsererror length error invalid noop global eval trim exec script call camel case replac replac node name node name node name to lower case to lower case length appli appli call call trim call ufeff u00a0 call replac make array object merg call in array call length math merg length length length grep length push length length length appli guid proxi is function call appli concat call guid guid guid guid access length access is function call call call call date get time readi promis defer complet readi state set timeout readi add event listen add event listen dom content load add event listen load attach event onreadystatechang attach event onload frame element document element do scroll is readi do scroll left set timeout readi promis boolean number string function array date reg exp object error split to lower case length is window node type match callback extend memori length appli stop on fals length shift disabl length uniqu push length length remov in array splice in array length disabl disabl disabl lock fire with slice slice push fire fire with fire extend defer resolv done callback memori resolv reject fail callback memori reject notifi progress callback memori pend state alway done fail defer is function appli is function promis promis done resolv fail reject progress notifi with promis promis promis extend pipe disabl with with fire with promis call call length is function promis defer length call notifi with resolv with array array array is function promis promis done fail reject progress resolv with promis support creat element set attribut class name inner html link tabl tabl href input checkbox get element by tag name get element by tag name length creat element select append child creat element option get element by tag name input style css text left opac get set attribut class name lead whitespac first child node type tbodi get element by tag name tbodi length html serial get element by tag name link length style test get attribut style href normal get attribut href opac test style opac css float style css float check on valu opt select select enctyp creat element form enctyp html5 clone creat element clone node outer html box model css1 compat compat mode delet expando no clone event inlin block need layout shrink wrap block reliabl margin right box size reliabl pixel posit no clone check clone node disabl opt disabl disabl test delet expando creat element input set attribut valu input get attribut valu valu set attribut radio radio valu valu set attribut set attribut name creat document fragment append child append check check clone clone node clone node last child attach event attach event onclick no clone event clone node click submit chang focusin set attribut bubbl attribut expando style background clip content clone node style background clip clear clone style content style background clip pad margin border display block size content size content webkit size content get element by tag name bodi creat element style css text border width height posit absolut left 9999px margin append child append child inner html tabl tabl get element by tag name style css text pad margin border display none offset height style display style display none reliabl hidden offset offset height inner html style css text size border size border webkit size border pad border display block width margin posit absolut box size offset width doe not includ margin in bodi offset offset top get comput style pixel posit get comput style box size reliabl get comput style width width append child creat element style css text style css text style margin right style width style width reliabl margin right pars float get comput style margin right style zoom inner html style css text width pad display zoom inlin block need layout offset width style display block inner html first child style width shrink wrap block offset width inlin block need layout style zoom remov child accept data expando node type cach guid to json noop extend extend camel case camel case accept data node type cach expando expando is array concat camel case camel case split length is empti object clean data support delet expando window extend cach expando j queri math random replac no data emb clsid d27 cdb6 e ae6 d 11cf 96 b8 444553540000 applet ha data node type cach expando expando remov data remov data accept data node type node type node type node name no data node name to lower case get attribut classid extend length node type pars attr attribut length name index of camel case slice pars attr access length remov data remov data node type replac to lower case get attribut test pars json is empti object to json extend queue queue is array make array push dequeu queue length shift queue hook dequeu inprogress shift unshift inprogress stop call fire queue hook queue hook callback memori remov data queue remov data extend queue length queue queue queue hook inprogress dequeu dequeu dequeu delay speed queue set timeout stop clear timeout clear queue queue promis defer length resolv with queue hook promis input select textarea button area select autofocu autoplay async control defer disabl hidden multipl open requir scope select support get set attribut support input extend attr access attr length remov attr remov attr prop access prop length remov prop prop fix add class length is function add class call class name match node type class name class name replac index of class name trim remov class length length is function remov class call class name match node type class name class name replac index of replac class name trim toggl class is function toggl class call class name match ha class add class remov class class name class name class name class name class name class name ha class length node type class name replac index of length is function node type call is array val hook val hook node name to lower case valu valu val hook val hook node name to lower case valu valu replac extend val hook option attribut valu specifi valu text select option select index select length select support opt disabl disabl get attribut disabl parent node disabl node name parent node optgroup push make array find option select in array length select index attr node type get attribut prop is xml doc to lower case attr hook test get attribut get attribut set attribut remov attr remov attr match node type prop fix test test camel case attr remov attribut attr hook support radio valu radio node name input valu set attribut valu prop fix tabindex tab index read onli html for class name maxlength max length cellspac cell space cellpad cell pad rowspan row span colspan col span usemap use map framebord frame border contentedit content edit prop node type is xml doc prop fix prop hook prop hook tab index get attribut node tabindex specifi pars int valu test node name test node name href prop get attribut test camel case get attribut node valu to lower case remov attr test set attribut prop fix camel case attr hook valu get attribut node node name input default valu specifi valu node name input default valu val hook button get attribut node name coord valu specifi valu get attribut node set attribut node owner document creat attribut valu valu get attribut attr hook contentedit width height attr hook extend attr hook set attribut support href normal href width height attr hook extend attr hook get attribut href prop hook get attribut support style attr hook style style css text style css text support opt select prop hook select extend prop hook select parent node select index parent node parent node select index support enctyp prop fix enctyp encod support check on radio checkbox val hook get attribut valu valu radio checkbox val hook extend val hook is array in array input select textarea mous contextmenu click focusinfocu focusoutblur handler handler selector guid guid guid event event handl handl trigger dispatch appli elem elem match length exec split sort special deleg type bind type special extend orig type handler guid guid selector need context expr match need context test join deleg count setup setup call add event listen add event listen attach event attach event call handler guid handler guid guid splice deleg count push remov ha data event match length exec split sort special deleg type bind type reg exp join length orig type guid guid test selector selector splice selector deleg count remov remov call length teardown teardown call handl remov event handl remov is empti object handl remov data event trigger call call split node type node type test trigger index of split shift sort index of expando event is trigger join reg exp join result target target make array special trigger trigger appli no bubbl is window deleg type test parent node parent node push owner document push default view parent window is propag stop bind type event handl appli accept data appli appli prevent default is default prevent appli owner document click node name accept data is window trigger trigger result dispatch call event special deleg target pre dispatch pre dispatch call handler call is propag stop current target elem handler is immedi propag stop test handl obj special orig type handl handler appli elem result prevent default stop propag post dispatch post dispatch call result handler deleg count target node type button click parent node node type disabl click selector need context index find length push length push elem handler length push elem handler slice expando fix hook fix hook test mous hook test key hook prop prop concat prop prop event length target target src element target node type target target parent node meta key meta key filter filter prop alt key bubbl cancel ctrl key current target event phase meta key relat target shift key target time stamp view split fix hook key hook prop char code key code split filter char code char code key code mous hook prop button button client x client y from element offset x offset y page x page y screen x screen y to element split filter button from element page x client x target owner document document element bodi page x client x scroll left scroll left client left client left page y client y scroll top scroll top client top client top relat target relat target target to element special load no bubbl click trigger node name input checkbox click click focu trigger activ element focu focu deleg type focusin blur trigger activ element blur blur deleg type focusout beforeunload post dispatch result origin event return valu result simul extend event is simul origin event trigger dispatch call is default prevent prevent default remov event remov event listen remov event listen remov event listen detach event detach event event event origin event is default prevent default prevent return valu get prevent default get prevent default extend time stamp time stamp expando event event prototyp is default prevent is propag stop is immedi propag stop prevent default origin event is default prevent prevent default prevent default return valu stop propag origin event is propag stop stop propag stop propag cancel bubbl stop immedi propag is immedi propag stop stop propag mouseent mouseov mouseleav mouseout special deleg type bind type handl relat target handl obj
+contain orig type handler appli support submit bubbl special submit setup node name form click submit keypress submit target node name input node name button form submit bubbl submit submit submit bubbl submit bubbl post dispatch submit bubbl submit bubbl parent node is trigger simul submit parent node teardown node name form remov submit support chang bubbl special chang setup test node name checkbox radio propertychang chang origin event properti name chang click chang chang is trigger chang simul chang beforeactiv chang target test node name chang bubbl chang chang parent node is simul is trigger simul chang parent node chang bubbl handl target is simul is trigger radio checkbox handl obj handler appli teardown remov chang test node name support focusin bubbl focu focusin blur focusout simul target special setup add event listen teardown remov event listen extend appli guid guid guid guid prevent default handl obj handl obj deleg target orig type orig type selector handler remov bind unbind undeleg length trigger trigger trigger handler trigger sizzl date document push slice index of length replac replac reg exp reg exp reg exp reg exp reg exp reg exp class reg exp name reg exp name reg exp replac attr reg exp pseudo reg exp child reg exp first last last child even need context reg exp even first last code input select textarea button 65536 string from char code 65536 string from char code 55296 56320 1023 call document element child node node type push test push cach length shift creat element owner document node type exec get element by id parent node push owner document owner document get element by id push appli call get element by tag name get by class name get element by class name appli call get element by class name test node name to lower case get attribut replac set attribut length test parent node join appli call queri selector all remov attribut replac is xml owner document document element html node name set document owner document node type document element document element tag name no comment append child creat comment get element by tag name length attribut inner html select select last child get attribut multipl get by class name inner html hidden hidden get element by class name get element by class name length last child class name get element by class name length get by name inner html name name insert befor first child get element by name get element by name length get element by name length get id not name get element by id remov child attr handl inner html href first child first child get attribut first child get attribut href href get attribut href get attribut get id not name find get element by id get element by id parent node filter replac get attribut find get element by id get element by id get attribut node get attribut node valu filter replac get attribut node get attribut node valu find tag name no comment get element by tag name get element by tag name get element by tag name node type push find name get by name get element by name get element by name name find class get by class name get element by class name get element by class name focu queri selector all inner html select option select option select queri selector all select length push disabl ismap multipl select valu queri selector all length push inner html input hidden queri selector all length push queri selector all enabl length push enabl disabl queri selector all push match selector match selector moz match selector webkit match selector o match selector ms match selector disconnect match call call push reg exp join reg exp join contain compar document posit node type document element parent node node type contain contain compar document posit compar document posit parent node compar document posit compar document posit compar document posit compar document posit parent node parent node node type compar document posit parent node parent node parent node unshift parent node unshift sort detect duplic match match selector owner document replac match selector test test call disconnect match document document node type length contain owner document attr owner document to lower case attr handl attribut get attribut get attribut node get attribut specifi valu error error syntax error unrecogn express uniqu sort detect duplic sort push splice sourc index sourc index next sibl node name to lower case input node name to lower case input button length length get text node type text content text content first child next sibl node valu selector cach length creat pseudo match find rel parent node first parent node previou sibl first previou sibl pre filter attr replac replac slice child to lower case slice error even error pseudo child test test index of length length slice slice slice filter replac to lower case node name node name to lower case class reg exp test class name get attribut get attribut attr attr index of index of slice length index of slice length child slice last slice parent node next sibl previou sibl parent node node name to lower case node name to lower case node type next sibl first child last child child node node type node name to lower case node type pseudo pseudo set filter to lower case error unsupport pseudo length set filter ha own properti to lower case length call pseudo replac length length contain text content inner text index of lang test error unsupport lang replac to lower case get attribut lang get attribut lang lang to lower case index of parent node node type target locat locat hash slice root focu activ element ha focu ha focu href tab index enabl disabl disabl disabl node name to lower case input option select select parent node parent node select index select first child next sibl node name node type node type parent pseudo header test node name input test node name button node name to lower case input button button text input node name to lower case text get attribut to lower case first last even push push push push radio checkbox file password imag pseudo submit reset pseudo slice pre filter exec slice length push exec shift push valu replac slice length filter exec shift push valu match slice length length error slice length valu parent node first node type node type node type length length length push push length node type length length push length call splice length appli length rel rel call node type rel filter appli match rel slice replac slice slice push length length find parent node math random push push call appli length length uniqu sort compil length push push length length slice length node type rel find match replac slice shift valu length need context test length rel find match replac test parent node splice length appli call test pseudo pseudo filter prototyp pseudo set filter attr attr find expr selector expr expr pseudo uniqu uniqu sort text get text is xml doc is xml contain contain until parent prev until expr match need context children content prev extend find length push stack filter contain find push stack uniqu selector selector selector length filter contain push stack filter push stack test context index filter length filter length closest length test context owner document node type index find match selector push parent node push stack length uniqu index in array in array jqueri parent node first prev all length make array node type merg push stack uniqu add back prev object prev object filter and self add back node type parent parent node node type parent parent node parent until parent node next sibl prev previou sibl next all next sibl prev all previou sibl next until next sibl prev until previou sibl sibl sibl parent node first child children sibl first child content node name ifram content document content window document merg child node test filter length uniqu length test revers push stack extend filter length find match selector find match node type node type node type push sibl next sibl node type push is function grep call node type grep grep node type test filter filter grep in array split creat document fragment creat element length creat element abbr articl asid audio canva datalist detail figcapt figur footer header hgroup mark meter output progress section summari time video j queri reg exp area emb input link meta param tbodi script style link checkbox radio java ecma script cdata option select multipl multipl select legend fieldset fieldset area param thead tabl tabl tabl tbodi tbodi tabl tabl tbodi tbodi colgroup colgroup tabl tabl tbodi tbodi tabl support html serial append child creat element optgroup option tbodi tfoot colgroup caption thead extend text access text append owner document creat text node length wrap all is function wrap all call owner document parent node insert befor first child first child node type first child append wrap inner is function wrap inner call content length wrap all append wrap is function wrap all call unwrap parent node name bodi replac with child node append dom manip node type node type node type append child prepend dom manip node type node type node type insert befor first child dom manip parent node parent node insert befor dom manip parent node parent node insert befor next sibl remov filter length node type clean data parent node contain owner document script parent node remov child node type clean data first child remov child first child option node name select option length html access length node type inner html replac test support html serial test support lead whitespac test exec to lower case replac node type clean data inner html append length replac with is function detach dom manip next sibl parent node remov insert befor detach remov dom manip appli length is function support check clone test call html dom manip build fragment owner document first child child node length node name script length merg script call node name tabl tbodi length owner document test global eval contain ajax data type script async global eval text text content inner html replac get element by tag name append child owner document creat element get attribut node specifi exec remov attribut global eval global eval node type ha data event handl event length extend node type node name to lower case support no clone event expando event remov event handl remov attribut expando script text text text text parent node outer html outer html support html5 clone inner html trim inner html inner html inner html input test default check valu valu valu valu option default select select default select input textarea default valu default valu append to append prepend to prepend insert befor insert after replac all replac with length appli push stack get element by tag name get element by tag name queri selector all queri selector all child node node name push merg node name merg test default check extend contain owner document support html5 clone is xml doc test node name clone node inner html outer html remov child first child support no clone event support no clone check node type node type is xml doc script length script build fragment length merg node type test append child creat element exec to lower case inner html replac last child support lead whitespac test push creat text node exec support tbodi tabl test tabl test first child child node length node name child node tbodi child node length remov child
+merg child node text content first child remov child first child last child push creat text node remov child support append check grep input in array contain owner document append child script test push clean data expando cach support delet expando special accept data event event remov remov event handl remov attribut remov attribut push alpha opac right bottom left none tabl margin reg exp reg exp reg exp bodi block posit absolut visibl hidden display block letter space font weight right bottom left webkit char at to upper case slice length none display contain owner document length style olddisplay style display none style display style display olddisplay node name none olddisplay display style none style display style display style display none extend access is array length style length show hide toggl show hide extend css hook opac opac css number column count fill opac font weight line height opac orphan widow z index zoom css prop support css float css float style float style node type node type style camel case style css prop css prop css hook css hook exec pars float is na n css number support clear clone style index of background inherit camel case css prop css prop style css hook css hook normal pars float is numer swap style style appli style get comput style get comput style get properti valu style contain owner document style test test width min width max width min width max width width width width min width max width document element current style current style style test test left runtim style left left current style left left font size pixel left left left exec math border content width margin content pad margin border width pad pad border width width offset width offset height support box size border box size style test support box size reliabl style pars float border content none ifram framebord width height css text display block import append to document element content window content document document write doctyp html html bodi close detach creat element append to bodi display remov height width css hook offset width test display swap support box size border box size support opac css hook opac test current style current style filter style filter pars float reg exp style current style is numer alpha opac filter filter zoom trim replac remov attribut remov attribut filter filter filter test replac support reliabl margin right css hook margin right swap display block margin right support pixel posit posit left css hook test posit expr expr filter expr filter hidden offset width offset height support reliabl hidden offset none style style display display expr filter visibl expr filter hidden margin pad border width css hook expand split test css hook submit button imag reset file input select textarea keygen extend serial param serial array serial array prop element make array filter name disabl test node name test test is array name name valu replac name name valu replac param is function length encod uri compon encod uri compon ajax set ajax set tradit is array jqueri is plain object name valu join replac is array test blur focu focusin focusout load resiz scroll unload click dblclick mousedown mouseup mousemov mouseov mouseout mouseent mouseleav chang select submit keydown keypress keyup error contextmenu split length trigger hover mouseent mouseleav storag extens file widget head load concat href creat element href href exec to lower case to lower case match is function slice unshift push data type unshift data type ajax set flat option extend load appli index of slice length slice is function post length ajax data type html done html append pars html find complet respons text ajax start ajax stop ajax complet ajax error ajax success ajax send post is function ajax data type success extend activ last modifi etag ajax set is local test process data async content type applic form urlencod charset accept text text plain html text html applic text json applic json text javascript content html html json json respons field respons xml text respons text convert text string text html text json pars json text pars xml flat option context ajax setup ajax set ajax set ajax prefilt ajax transport ajax ajax setup context context node type jqueri defer callback memori statu code cancel readi state get respons header exec to lower case to lower case get all respons header set request header to lower case overrid mime type mime type statu code alway statu abort abort promis complet success done error fail replac replac method method data type trim data type to lower case match cross domain exec to lower case cross domain http http process data param tradit activ trigger ajax start to upper case ha content test ha content test cach test replac test if modifi last modifi set request header modifi sinc last modifi etag set request header match etag ha content content type content type set request header content type content type set request header accept data type accept data type accept data type data type accept header set request header header befor send befor send call abort abort success error complet readi state trigger ajax send async timeout set timeout abort timeout timeout send transport clear timeout readi state if modifi get respons header last modifi last modifi get respons header etag etag nocont notmodifi state error error statu statu text resolv with reject with statu code trigger ajax success ajax error fire with trigger ajax complet activ trigger ajax stop get script script get json json content data type respons field shift mime type get respons header content type test unshift convert unshift data type slice data filter data filter data type convert to lower case convert split splice state parsererror error convers state success ajax setup accept script text javascript applic javascript applic ecmascript applic ecmascript content script java ecma script convert text script global eval ajax prefilt script cach cach cross domain ajax transport script cross domain head head document element send creat element script async script charset charset script charset onload onreadystatechang readi state load complet test readi state onload onreadystatechang parent node parent node remov child success insert befor first child abort onload ajax setup jsonp callback jsonp callback expando ajax prefilt json jsonp jsonp test content type index of applic form urlencod test jsonp data type jsonp callback is function jsonp callback jsonp callback jsonp callback replac jsonp test jsonp convert script json error call data type json alway jsonp callback jsonp callback push is function script activ x object xml http request activ x object microsoft xmlhttp ajax set activ x object is local ajax set support cor with credenti support ajax ajax transport cross domain support cor send usernam open async usernam password open async xhr field xhr field xhr field mime type overrid mime type overrid mime type mime type cross domain request with request with xml http request set request header send ha content readi state onreadystatechang noop readi state abort statu get all respons header respons text text respons text statu text is local cross domain 1223 text async readi state set timeout unload onreadystatechang abort toggl show hide reg exp queue hook creat tween exec css number elem style elem unit start set timeout concat length call length defer alway elem math start time durat durat tween length tween notifi with resolv with promis elem prop extend opt extend special eas origin properti origin option start time durat durat tween creat tween tween opt opt special eas opt eas tween push stop tween length tween resolv with reject with prop opt special eas call opt is function opt start opt start call timer extend elem anim queue opt queue progress opt progress done opt done opt complet fail opt fail alway opt alway camel case is array css hook expand expand anim extend tweener is function split length unshift prefilt unshift push style node type queue queue hook unqueu unqueu fire fire unqueu unqueu alway alway unqueu queue length fire node type height width overflow overflow overflow x overflow y display none support inlin block need layout node name zoom display block overflow overflow hidden support shrink wrap block alway overflow overflow overflow x overflow overflow y overflow exec toggl hide show push length fxshow fxshow hidden hidden hidden show done hide done remov data fxshow style creat tween style start start start width height prototyp init tween prototyp init elem prop eas swing option start unit css number prop hook prop prop hook prop hook prop option durat eas eas option durat option durat start start option step option step call elem prop hook prototyp init prototyp prototyp prop hook elem prop elem style elem style prop elem prop elem prop step prop step prop elem style elem style css prop prop css hook prop style elem prop unit elem prop prop hook scroll top prop hook scroll left elem node type elem parent node elem prop toggl show hide appli anim extend fade to filter opac show anim opac anim is empti object speed extend finish stop finish stop finish queue queue queue stop stop stop queue queue hook timer stop stop test length elem queue anim stop splice dequeu finish queue queue hook timer length finish queue finish finish call length elem queue anim stop splice finish finish call finish height margin pad opac width slide down show slide up hide slide toggl toggl fade in opac show fade out opac hide fade toggl opac toggl anim speed extend complet is function durat eas is function durat durat durat durat speed speed durat speed queue queue queue complet complet is function call queue dequeu queue eas linear swing math math timer prototyp init tick timer length splice length stop timer timer push start interv start set interv tick interv stop clear interv speed slow fast step expr expr filter expr filter anim grep timer elem length offset length offset set offset left owner document document element contain get bound client rect get bound client rect page y offset scroll top client top left left page x offset scroll left client left offset set offset posit style posit rel offset left absolut in array posit left pars float pars float is function call left left left left call extend posit left posit get bound client rect offset parent offset node name html offset border top width left border left width margin top left left left margin left offset parent offset parent document element node name html posit offset parent document element scroll left page x offset scroll top page y offset test access document document element scroll to scroll left scroll top length is window node type default view parent window height height width width pad inner content outer length margin border access is window document document element client node type document element math bodi scroll scroll bodi offset offset client style j queri defin defin defin j queri defin jqueri window
+
+keypress version 2013 david mauro
+licens apach licens version
+http apach licens licens
+
+index of length ha own properti ctrl meta option ctrl shift split key count filter filter length push consol appli consol
+length length length call length length length length call length index of
+keypress suppress default keypress forc default prevent default prevent default return valu stop propag stop propag prevent keydown key length call call count releas count keyup
+keyup fire length order key order key length order key order key call call push key push call solitari
+key push length sequenc call key key push call length length exclus exclus key length call key key length
+call splice splice unshift length splice count keyup fire push length length prevent clear timeout keypress sequenc delay set timeout keypress sequenc delay
+length length slice sequenc call key shift shift length length key push length sequenc length
+call key shift shift slice key length length length call key shift shift shift call key shift key shift key call key prevent call
+keyup fire count keydown count keydown keydown call push call length splice length length length prevent
+call push keyup fire slice push solitari key keyup count keyup keydown count releas shift key call call keyup call length
+splice length length call key push length length call length length key code length splice push
+key length tri bind combo key key length key key meta key splice warn meta rather window compat key length call recogn call key meta call key key slice length
+index of splice length meta combo cannot modifi key call key code shift cap window keypress keypress forc default keypress suppress default keypress sequenc delay keypress regist combo keypress reset keypress combo
+keypress combo key keydown prevent keypress count combo keypress combo key count order keydown prevent keypress sequenc combo keypress combo key keydown sequenc prevent keypress combo key key key split call
+push keypress mani length push keypress combo keypress unregist combo key length key key push push keypress unregist mani length push keypress unregist combo
+keypress listen keypress stop listen meta key ctrl ctrl key shift shift key alt key escap control ctrl command paus window option cap cap apostroph semicolon tild accent scroll scroll
+backspac enter shift ctrl paus cap escap space pageup pagedown home left right insert
+multipli enter subtract divid scroll 57392 ctrl 63289 push push navig user agent index of
+navig user agent index of opera document attach event complet document readi state load document readi state set timeout add event listen add event listen attach event attach event document bodi keydown window document bodi keyup window
+window blur length call
+queri selector queri selector queri selector button cancel queri selector button confirm inner html html titl titl split join inner html html text text split join text custom class custom class set attribut custom custom class get attribut custom set attribut custom queri selector all icon length unknown alert queri selector icon success anim queri selector anim success tip queri selector anim success long error anim error icon queri selector mark anim x mark warn puls warn queri selector bodi puls warn in queri selector puls warn in imag url queri selector icon custom style background imag imag url imag size imag size to string split paramet imag size expect valu format widt hx height imag size set attribut style get attribut style width height set attribut cancel button show cancel button show cancel button style display block set attribut confirm button show confirm button show confirm button style display block cancel button text inner html cancel button text confirm button text inner html confirm button text style background color confirm button color confirm button color set attribut allow ousid click allow outsid click done function set attribut done anim set attribut anim set attribut anim none set attribut timer timer string replac length pars int substr math round math math to string substr length ha own properti exec pars int pars int pars int style box shadow rgba inset rgba show sweet alert hide sweet alert activ element queri selector button confirm focu set timeout visibl get attribut timer timeout set timeout close style margin top attach event add event listen consol consol sweet alert sweet alert sweet overlay error warn info success titl text allow outsid click show confirm button show cancel button close on confirm close on cancel confirm button text confirm button color aedef4 cancel button text cancel imag url imag size timer custom class html anim allow escap key queri selector queri selector reg exp test class name class name class name replac index of replac class name replac creat element append child creat text node inner html style opac style display block length length style opac style display none length length parent node parent node style left 9999px style display block client height get comput style pars int get comput style get properti valu pad pars int current style pad style left style display none pars int style opac style opac style display block date style opac style opac date date style opac set timeout style display block style opac date style opac style opac date date style opac set timeout style display none mous event mous event click view bubbl cancel dispatch event creat event creat event mous event init event click dispatch event creat event object fire event onclick onclick onclick stop propag stop propag prevent default ha own properti cancel bubbl cancel bubbl sweet overlay tab index sweet alert tab index icon error span mark span line left span span line right span span icon warn span bodi span span span icon info icon success span line span span line span placehold icon custom titl text button cancel tab index cancel button button confirm tab index button creat element inner html first child bodi append child first child key code index of target src element length length focu confirm button color allow escap key target src element relat target visibl length focu sweet alert expect least attribut titl text titl miss titl argument titl titl text custom class allow outsid click show confirm button show cancel button close on confirm close on cancel timer confirm button color cancel button text imag url imag size html anim allow escap key length confirm button text show cancel button confirm confirm button text confirm button text confirm button text done function unexpect argument expect target src element class name index of confirm visibl done function get attribut done mouseov style background color confirm button color mouseout style background color confirm button color mousedown style background color confirm button color mouseup style background color confirm button color focu queri selector button confirm queri selector button cancel style box shadow none style box shadow none click done function close on confirm close string done function replac substr substr done function close on cancel close close queri selector all button length onclick onmouseov onmouseout onmousedown onfocu onclick onclick target src element visibl get attribut allow ousid click close queri selector button confirm queri selector button cancel queri selector all button tabindex onkeydown onkeydown onblur onblur onfocu set timeout focu set default set default error user param requir error user param close close show sweet alert hide sweet alert visibl queri selector icon success anim queri selector anim success tip queri selector anim success long queri selector icon error anim error icon queri selector mark anim x mark queri selector icon warn puls warn queri selector bodi puls warn in queri selector puls warn in onkeydown onclick focu clear timeout timeout defin defin defin export export sweet alert swal window document
+strict calc rrssb extend descript email address email bodi email subject imag titl ha own properti find rrssb facebook attr href http facebook sharer sharer find rrssb tumblr attr href http tumblr share link titl name titl descript descript descript find rrssb linkedin attr href http linkedin share articl mini titl titl titl descript summari descript find rrssb twitter attr href http twitter home statu descript descript find rrssb hackernew attr href http news ycombin submitlink titl text titl find rrssb reddit attr href http reddit submit descript text descript titl titl titl find rrssb googleplu attr href http plu googl share descript descript find rrssb pinterest attr href http pinterest creat button imag media imag descript descript descript find rrssb pocket attr href http getpocket save find rrssb github attr href email address find rrssb email attr href mailto email address email subject subject email subject email bodi bodi email bodi calc webkit calc calc bodi append length width width calc remov match encod uri compon decod uri compon rrssb button visibl length width attr initwidth rrssb button width small first width small length add class larg format remov class larg format remov class small format add class tini format remov class tini format rrssb button filter small first pars float attr size length length width remov class small format first remov class small small pars float attr size pars float width remov class small rrssb button revers ha class small pars float attr size pars float width small last add class small rrssb button filter small length length remov class small format width 42px small length calc inner width math floor calc small width length add class small format remov class small format rrssb button add class rrssb rrssb button rrssb text width closest attr size rrssb button small remov class small screen left screen left screen left screen top screen top screen inner width inner width document document element client width document document element client width screen width inner height inner height document document element client height document document element client height screen height open scrollbar width height left focu focu call twice without uniqu id clear timeout set timeout document readi rrssb button popup click attr href find rrssb text html prevent default resiz finish resiz rrssb init window
+strict export export stringifi json stringifi function to string reg exp px eg er export pars date2obj iso8061 date2obj json pars valu prefix valu valu valu length valu prefix valu substr iso8061 valu match iso8061 date valu prefix valu prefix px eg er valu slice valu export export pars export stringifi export window jso nfn export
+hammer 2014
+http eightmedia github hammer
+
+copyright 2014 jorik tangeld tangeld gmail
+licens licens
+
+
+strict readi determin event type gestur on touch document detect on touch document detect readi instanc version default behavior user select none touch action none touch callout none content zoom none user drag none tap highlight color rgba document document pointerev navig pointer enabl navig ms pointer enabl touchev ontouchstart mobil mobil tablet hone android silk test navig user agent mouseev touchev mobil pointerev calcul interv direct down direct left left direct direct right right pointer mous mous pointer touch touch pointer event start start event move move event event releas releas event touch touch readi plugin plugin gestur gestur util extend ha own properti add event listen remov event listen for each for each length length call ha own properti call in str index of in array index of index of length to array array prototyp slice call ha parent parent node get center math math length page x page x page y page y client x client x client y client y push page x push page y push client x push client y page x appli math appli math page y appli math appli math client x appli math appli math client y appli math appli math get veloc math math get angl client x client x client y client y math atan2 math get direct math client x client x math client y client y client x client x client y client y get distanc client x client x client y client y math sqrt get scale length length get distanc get distanc get rotat length length get angl get angl is vertic set prefix css webkit to camel case length slice to upper case slice style style toggl behavior style set prefix css none user select onselectstart none user drag ondragstart to camel case replac to upper case prevent mous event start should detect split split on touch to lower case pointerev in str mous prevent mous event button prevent mous event should detect should detect button prevent mous event should detect updat pointer should detect do detect call prevent mous event should detect reset updat pointer do detect get touch list length trigger length chang touch chang touch length start start collect event data call chang length event type call event type chang length call start determin event type pointerev pointer event pointerdown pointermov pointerup pointercancel lostpointercaptur ms pointer down ms pointer move ms pointer up ms pointer cancel ms lost pointer captur mouseev touchstart touchmov touchend touchcancel touchstart mousedown touchmov mousemov touchend touchcancel mouseup get touch list pointerev get touch list touch touch concat to array touch to array chang touch in array identifi push push identifi identifi collect event data in str mous match type match type center get center time stamp date target target touch event type pointer type src event prevent default src event prevent manipul prevent manipul prevent default prevent default stop propag src event stop propag stop detect stop detect pointer event pointer get touch list pointer push updat pointer button pointer pointer id identifi pointer id pointer pointer id match type pointer type pointer type mspointer type mous mspointer type touch mspointer type reset pointer detect gestur current previou stop start detect current stop current inst start event extend last event last calc event futur calc event last calc data name detect detect current stop extend event data current inst option gestur stop enabl name handler call stop detect current current last event event type stop detect stop detect previou extend current current stop get calcul data current last calc event last calc data time stamp time stamp calcul interv center time stamp time stamp center client x center client x center client y center client y event type event type futur calc event last calc event veloc get veloc angl get angl center direct get direct center last calc event futur calc event futur calc event veloc x veloc veloc y veloc interim angl angl interim direct direct extend event data current start event last event event type event type touch touch touch push client x client x client y client y time stamp time stamp center client x center client x center client y center client y get calcul data center extend start event delta time delta x delta y distanc get distanc center center angl get angl center center direct get direct center center scale get scale touch touch rotat get rotat touch touch default name name extend default index index gestur push gestur sort index index index index gestur instanc element enabl to camel case option extend extend default option behavior toggl behavior element option behavior event start handler on touch enabl event type start detect event type detect event handler instanc prototyp element event handler push gestur handler element in array gestur handler event handler splice trigger document creat event event init event gestur element ha parent target target dispatch event enabl enabl dispos toggl behavior element option behavior event handler element gestur handler event handler element event start handler current option drag max touch touch length option drag max touch event type distanc option drag min distanc name start event center name name option drag distanc correct distanc math option drag min distanc distanc page x delta x page y delta y client x delta x client y delta y extend event data last event drag lock to axi option drag lock to axi option drag lock min distanc distanc drag lock to axi last event direct drag lock to axi direct direct is vertic delta y delta x trigger start trigger trigger direct is vertic direct option drag block vertic option drag block horizont prevent default chang length option drag max touch trigger gestur drag name index handler default drag min distanc drag distanc correct drag max touch drag block horizont drag block vertic drag lock to axi drag lock min distanc drag gestur gestur name gestur index 1337 handler trigger name option current event type clear timeout name set timeout name trigger hold timeout distanc hold threshold clear timeout clear timeout gestur hold name index default hold timeout hold threshold handler hold gestur releas name releas index handler event type trigger name gestur swipe name swipe index default swipe min touch swipe max touch swipe veloc x swipe veloc y handler event type touch length option swipe min touch swipe max touch veloc x swipe veloc x veloc y swipe veloc y trigger name trigger name direct option current previou event type distanc tap max distanc touchcancel src event delta time tap max time last event time stamp last event time stamp name doubl tap interv distanc doubl tap distanc trigger doubletap tap alway name trigger name gestur name index handler default tap max time tap max distanc tap alway doubl tap distanc doubl tap interv gestur touch name touch index default prevent default prevent mous handler option prevent mous pointer type stop detect option prevent default prevent default event type trigger touch event type touch length math scale math rotat option transform min scale option transform min rotat current name trigger start trigger option transform min rotat trigger rotat option transform min scale trigger pinch trigger pinch scale chang length trigger gestur transform name index default transform min scale transform min rotat handler transform defin defin defin export export hammer window
+
+java script cooki
+http github cooki cooki
+
+copyright 2006 2015 klau hartl
+releas licens
+
+factori
+defin defin
+defin factori
+export
+export factori
+
+old cooki window cooki
+window cooki factori window j queri
+no conflict
+window cooki old cooki
+
+
+
+
+extend
+
+result
+length
+attribut
+attribut
+result attribut
+
+
+result
+
+
+init convert
+valu attribut
+result
+
+write
+
+length
+attribut extend
+path
+default attribut
+
+attribut expir
+expir date
+expir set millisecond expir get millisecond attribut expir 864e
+attribut expir expir
+
+
+
+result json stringifi valu
+test result
+valu result
+
+
+
+valu encod uri compon string valu
+valu valu replac decod uri compon
+
+encod uri compon string
+replac decod uri compon
+replac escap
+
+document cooki
+valu
+attribut expir expir attribut expir to utc string expir attribut support
+attribut path path attribut path
+attribut domain domain attribut domain
+attribut secur secur
+join
+
+
+read
+
+
+result
+
+
+prevent first place assign
+cooki also prevent result
+call
+cooki document cooki document cooki split
+rdecod
+
+
+cooki length
+part cooki split
+name part replac rdecod decod uri compon
+cooki part slice join
+
+cooki char at
+cooki cooki slice
+
+
+cooki convert convert cooki name cooki replac rdecod decod uri compon
+
+json
+
+cooki json pars cooki
+
+
+
+name
+result cooki
+
+
+
+
+result name cooki
+
+
+
+result
+
+
+
+get json
+appli
+json
+slice call
+
+default
+
+remov attribut
+extend attribut
+expir
+
+
+
+with convert init
+
+
+
+
+init
+

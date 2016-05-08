@@ -1,0 +1,192 @@
+
+
+request collector
+
+thi file collect request
+rewrit avail htaccess file support
+requir base url uncom config core
+webroot document root
+
+cake php rapid develop framework http cakephp
+copyright cake softwar foundat http cakefound
+
+licens licens
+full copyright licens inform pleas licens
+redistribut file must retain copyright notic
+
+copyright copyright cake softwar foundat http cakefound
+link http cakephp cake php project
+sinc cake php
+licens http opensourc licens licens licens
+
+
+
+cake php root directori
+
+defin
+defin directori separ
+defin root dirnam file
+defin webroot webroot
+defin root root webroot
+
+
+thi need chang cake directori locat
+outsid distribut structur
+full path directori contain cake trail directori separ
+
+defin cake core includ path
+defin cake core includ path root
+
+
+webroot index
+
+
+
+
+cake php rapid develop framework http cakephp
+copyright 2005 2012 cake softwar foundat http cakefound
+
+licens licens
+redistribut file must retain copyright notic
+
+copyright copyright 2005 2012 cake softwar foundat http cakefound
+link http cakephp cake php project
+
+sinc cake php 1076
+licens licens http opensourc licens licens
+
+webroot directori separ index
+
+
+access frontend test suit
+
+
+
+cake php test http book cakephp develop test html
+copyright 2005 2012 cake softwar foundat http cakefound
+
+licens licens
+redistribut file must retain copyright notic
+
+copyright copyright 2005 2012 cake softwar foundat http cakefound
+link http book cakephp develop test html
+webroot
+sinc cake php 4433
+licens licens http opensourc licens licens
+
+time limit
+display error
+
+dirnam config bootstrap
+
+cake core configur
+cake test suit test suit dispatch
+
+configur read debug
+cake debug set allow access
+
+
+test suit dispatch
+
+
+index
+
+front control handl everi request
+
+
+
+cake php rapid develop framework http cakephp
+copyright 2005 2012 cake softwar foundat http cakefound
+
+licens licens
+redistribut file must retain copyright notic
+
+copyright copyright 2005 2012 cake softwar foundat http cakefound
+link http cakephp cake php project
+webroot
+sinc cake php
+licens licens http opensourc licens licens
+
+built server
+sapi name server
+server self basenam file
+
+dirnam config bootstrap
+
+cake core configur
+cake network request
+cake network respons
+cake rout dispatch
+
+dispatch dispatch
+dispatch dispatch
+request creat from global
+respons
+
+
+
+rout configur
+
+file rout control action
+rout import mechan allow freeli connect
+differ url chosen control action function
+
+
+
+cake php rapid develop framework http cakephp
+copyright 2005 2012 cake softwar foundat http cakefound
+
+licens licens
+redistribut file must retain copyright notic
+
+copyright copyright 2005 2012 cake softwar foundat http cakefound
+link http cakephp cake php project
+config
+licens licens http opensourc licens licens
+
+config
+
+cake core configur
+cake core plugin
+cake rout router
+
+
+uncom defin cake php prefix rout
+
+valu defin determin name rout
+associ control action
+
+prefix want applic
+admin prefix rout
+
+rout prefix admin manag
+
+enabl
+control admin admin control index
+control manag manag control index
+
+
+configur write rout prefix admin
+
+
+here connect base path control call page
+action call display param select view file
+view page home
+
+router connect control page action display home
+
+connect rest page control url
+
+router connect page control page action display
+
+
+load plugin rout plugin document
+custom load plugin rout
+
+plugin rout
+
+
+load cake php rout onli remov want
+built rout
+
+cake config rout

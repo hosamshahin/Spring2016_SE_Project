@@ -1,0 +1,512 @@
+
+copyright 2012 2014 origin author author
+
+licens apach licens version licens
+file complianc licens
+obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi
+without warranti condit kind either express impli
+licens specif languag govern permiss
+limit licens
+
+
+control
+
+java lang reflect type
+java util date
+java util
+
+model articl dto
+model articl dto
+ninja ninja api doc test
+
+junit test
+
+googl common collect map
+googl gson gson
+googl gson gson builder
+googl gson json deseri context
+googl gson json deseri
+googl gson json element
+googl gson json pars except
+
+devbliss apitest api respons
+
+api control doc test ninja api doc test
+
+string articl usernam articl json
+string post articl usernam articl json
+string login login
+
+string user gmail
+
+test
+test get and post articl via json except
+
+
+test initi data
+
+
+say next section retriev articl user json
+
+retriev articl user request articl
+
+api respons api respons make get request build uri articl replac usernam gmail
+
+articl dto articl dto get gson with long to date pars from json api respons payload articl dto
+
+assert equal and say articl dto articl size back articl user
+
+
+post articl
+
+say next section post articl json
+
+post articl post request post articl
+pleas note authent order allow post
+
+articl dto articl dto articl dto
+articl dto content contentcont
+articl dto titl titl titl
+
+api respons make post request build uri post articl replac usernam user articl dto
+assert equal and say api respons http statu authent order post articl
+
+do login
+
+authent expect post succeed
+api respons make post request build uri post articl replac usernam user articl dto
+assert equal and say api respons http statu after success login abl post articl
+
+
+fetch articl
+
+
+fetch articl get articl post success
+api respons make get request build uri articl replac usernam gmail
+
+articl dto get gson with long to date pars from json api respons payload articl dto
+result
+assert equal and say articl dto articl size get articl
+
+
+
+
+
+gson get gson with long to date pars
+creat json object manag inform receiv
+gson builder builder gson builder
+regist adapt manag date type valu
+builder regist type adapt date json deseri date
+date deseri json element json
+type type of t
+json deseri context context
+json pars except
+date json get as json primit get as long
+
+
+gson gson builder creat
+
+gson
+
+
+do login except
+
+authent send credenti login
+issu cooki server authent request
+
+string string form paramet map new hash map
+form paramet usernam gmail
+form paramet password secret
+
+make post request build uri login form paramet
+
+
+
+overrid
+string get file name
+get class get simpl name
+
+
+
+
+copyright 2012 2014 origin author author
+
+licens apach licens version licens
+file complianc licens
+obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi
+without warranti condit kind either express impli
+licens specif languag govern permiss
+limit licens
+
+
+control
+
+junit assert assert equal
+mockito mockito
+ninja result
+
+junit befor
+junit test
+junit runner run with
+mockito mock
+mockito runner mockito j unit runner
+
+articl dao
+
+run with mockito j unit runner
+api control mock test
+
+mock
+articl dao articl dao
+
+api control api control
+
+befor
+setup test
+api control api control
+api control articl dao articl dao
+
+
+
+
+test
+test that post articl return ok when articl dao return true
+
+articl dao post articl null null then return
+
+result result api control post articl json null null
+
+assert equal result get statu code
+
+
+
+test
+test that post articl return not found when articl dao return fals
+
+articl dao post articl null null then return
+
+result result api control post articl json null null
+
+assert equal result get statu code
+
+
+
+
+
+copyright 2012 2014 origin author author
+
+licens apach licens version licens
+file complianc licens
+obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi
+without warranti condit kind either express impli
+licens specif languag govern permiss
+limit licens
+
+
+control
+
+junit assert assert true
+
+java util
+
+ninja ninja test
+
+junit befor
+junit test
+
+googl common collect map
+
+login logout control test ninja test
+
+befor
+setup
+
+ninja test browser make request get server address setup
+
+
+
+test
+test loge logout
+
+string string header map new hash map
+
+
+test post articl work without login
+
+string respons ninja test browser make request get server address
+articl header
+system println respons
+assert true respons contain error forbidden
+
+
+login
+
+string string form paramet map new hash map
+form paramet usernam gmail
+form paramet password secret
+
+ninja test browser make post request with form paramet get server address
+login header form paramet
+
+
+test post articl work log
+
+respons ninja test browser make request get server address
+articl header
+
+assert true respons contain articl
+
+
+logout
+
+ninja test browser make request get server address logout header
+
+
+assert post articl work
+
+respons ninja test browser make request get server address
+articl header
+system println respons
+assert true respons contain error forbidden
+
+
+
+
+
+copyright 2012 2014 origin author author
+
+licens apach licens version licens
+file complianc licens
+obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi
+without warranti condit kind either express impli
+licens specif languag govern permiss
+limit licens
+
+
+control
+
+java lang reflect type
+java util date
+java util
+
+model articl dto
+model articl dto
+
+junit test
+
+googl common collect map
+googl gson gson
+googl gson gson builder
+googl gson json deseri context
+googl gson json deseri
+googl gson json element
+googl gson json pars except
+
+model articl
+ninja ninja doc tester
+doctest testbrows request
+doctest testbrows respons
+hamcrest core matcher
+
+api control doc tester test ninja doc tester
+
+string articl usernam articl json
+string articl usernam articl json
+string post articl usernam articl json
+string login login
+
+string user gmail
+
+test
+test get and post articl via json
+
+
+test initi data
+
+
+say next section retriev articl user json
+
+retriev articl user request articl
+
+respons respons say and make request
+request
+test server url path articl replac usernam gmail
+
+articl dto articl dto get gson with long to date pars from json respons payload articl dto
+
+say and assert that back articl user
+articl dto articl size
+core matcher
+
+
+post articl
+
+say next section post articl json
+
+post articl post request post articl
+pleas note authent order allow post
+
+articl dto articl dto articl dto
+articl dto content contentcont
+articl dto titl titl titl
+
+respons say and make request
+request post
+test server url path post articl replac usernam user
+payload articl dto
+
+say and assert that
+authent order post articl
+respons http statu
+core matcher
+
+do login
+
+authent expect post succeed
+respons say and make request request post
+test server url path post articl replac usernam user
+content type applic json
+payload articl dto
+
+say and assert that after success login abl post articl
+respons http statu
+core matcher
+
+
+fetch articl
+
+
+fetch articl get articl post success
+respons say and make request request test server url path articl replac usernam gmail
+
+articl dto get gson with long to date pars from json respons payload articl dto
+result
+say and assert that get articl
+articl dto articl size
+core matcher
+
+
+
+
+fetch singl articl
+
+also fetch individu articl json
+that request articl
+respons say and make request
+request
+test server url path
+articl
+replac usernam gmail
+replac
+
+articl articl get gson with long to date pars from json respons payload articl
+result
+say and assert that back first articl
+articl
+core matcher
+
+
+
+
+gson get gson with long to date pars
+creat json object manag inform receiv
+gson builder builder gson builder
+regist adapt manag date type valu
+builder regist type adapt date json deseri date
+date deseri json element json
+type type of t
+json deseri context context
+json pars except
+date json get as json primit get as long
+
+
+gson gson builder creat
+
+gson
+
+
+do login
+
+authent send credenti login
+issu cooki server authent request
+
+string string form paramet map new hash map
+form paramet usernam gmail
+form paramet password secret
+
+make request
+request post
+test server url path login
+add form paramet usernam gmail
+add form paramet password secret
+
+
+
+
+copyright 2012 2014 origin author author
+
+licens apach licens version licens
+file complianc licens
+obtain copi licens
+
+http apach licens licens
+
+unless requir applic agre write softwar
+distribut licens distribut basi
+without warranti condit kind either express impli
+licens specif languag govern permiss
+limit licens
+
+
+control
+
+ninja ninja router test
+
+junit test
+
+
+remov ninja router test rest
+
+author
+deprec
+
+deprec
+rout test ninja router test
+
+test
+test rout
+
+start server in prod mode
+a request like is handl by applic control index
+a request like index is handl by applic control index
+
+
+test
+test that setup is not access in prod
+
+start server in prod mode
+a request like setup is not handl by applic control setup
+
+
+
+

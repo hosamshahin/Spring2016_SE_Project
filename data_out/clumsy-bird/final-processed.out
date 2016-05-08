@@ -1,0 +1,1301 @@
+
+export grunt
+sourc file
+game
+resourc
+entiti entiti
+entiti
+screen titl
+screen play
+screen gameov
+
+
+project configur
+grunt init config
+uglifi
+option
+report
+preserv comment
+
+dist
+file
+build clumsi
+sourc file
+
+
+
+
+
+jshint
+option
+jshintrc jshintrc
+
+
+befor concat
+file
+sourc file
+
+
+
+after concat
+file
+sourc file
+
+
+
+
+connect
+root
+option
+port 8001
+keepal
+host
+
+
+
+
+clean
+dist
+build clumsi
+
+
+
+
+
+grunt load npm task grunt contrib uglifi
+grunt load npm task grunt contrib jshint
+grunt load npm task grunt contrib clean
+grunt load npm task grunt contrib connect
+
+
+default task
+grunt regist task uglifi
+grunt regist task lint jshint befor concat concat jshint after concat
+
+game
+
+score
+step
+start
+new hi score
+mute
+
+
+onload
+video init
+wrapper screen
+render video canva
+scale
+scale method
+
+alert your browser support html5 canva
+
+
+audio init
+
+loader onload load bind
+loader preload game resourc
+state chang state load
+
+debug enabl debug panel
+document locat hash match debug
+window on readi
+plugin defer debug panel debug input
+
+
+
+
+load
+state state menu game titl screen
+state state play game play screen
+state state game over game game over screen
+
+input bind key input space
+input bind key input mute
+input bind pointer input space
+
+pool clumsi bird entiti
+pool pipe pipe entiti
+pool hit entiti
+pool ground ground
+
+melon js viewport size infin
+game viewport set bound
+state chang state menu
+
+
+homescreen 2014 matteo spinelli licens http cubiq licens
+window document dom readi document readi state complet dom readi window add event listen load load load window remov event listen load load dom readi re smart url re queri string option class option intl messag dies home bildschirm hinzuzufügen tippen icon dann strong action strong action home bildschirm android startbildschirm hinzufügen window startseit messag home screen icon strong action strong action home screen android homescreen window start messag para añadir esta aplicación pantalla inicio pulsa icon selecciona strong action strong action añadir pantalla inicio android añadir pantalla inicio window añadir inicio messag pour ajout cett applic écran accueil appuyez icon sélectionnez strong action strong action ajout écran accueil android ajout écran accueil window épingler écran accueil messag aggiunger questa alla schermata inizial premi icon strong action strong action aggiungi home android aggiungi alla homescreen window aggiungi start messag installer denn appen hjem skjermen trykk icon derett strong action strong action legg hjem skjerm android legg startsiden window fest start messag deze webapp telefoon installeren klik icon strong action strong action voeg beginscherm android toevoegen startscherm window startscherm vastmaken messag lägga till denna webbapplik hemskärmen tryck icon därefter strong action strong action lägg till hemskärmen android lägg startskärmen window fäst startskärmen messag 如要把应用程式加至主屏幕 icon strong action strong action 加至主屏幕 android 加至主屏幕 window 按住启动 messag 如要把應用程式加至主屏幕 icon strong action strong action 加至主屏幕 android 加至主屏幕 window 按住啟動 lang intl intl lang substr intl lang default app id cubiq addtohom font size debug modal mandatori autostart skip first visit start delay lifespan display pace 1440 max display count icon messag valid locat on init on show on remov on add on privat detect homescreen window navig user agent window navig extend ha token document locat hash re smart url test document locat href re queri string test document locat search is retina window devic pixel ratio window devic pixel ratio is i devic iphon ipod ipad test is mobil chrome index of android chrome test is mobil ie index of window phone languag languag languag to lower case replac languag languag languag intl languag is mobil safari is i devic index of safari index of cri os is i devic is mobil chrome android is mobil ie window unsupport os version match android os version os version os version os version replac is standalon window navig standalon is mobil chrome screen height document document element client height is tablet is mobil safari index of i pad is mobil chrome index of mobil is compat is mobil safari os version is mobil chrome default session last display time return visitor display count optedout ad remov session app id local storag remov item app id default app id class option option extend default extend option option option mandatori option mandatori standalon window navig option debug option modal option modal option mandatori option mandatori option start delay option detect homescreen option detect homescreen hash option detect homescreen option debug is compat option debug option debug unsupport android os version contain document document element session json pars local storag get item option app id ha token is compat session ha token remov token is compat session session default session local storag set item option app id json stringifi session ha local storag ha local storag option on privat option on privat call is valid locat option valid locat length option valid locat length option valid locat test document locat href is valid locat local storag get item add to home opt out session optedout session ad is valid locat is standalon session ad session ad updat session option on add ha local storag option on add call option detect homescreen ha token remov token session ad session ad updat session option on add ha local storag option on add call option detect homescreen hash histori replac state window document titl document locat href option detect homescreen smart url histori replac state window document titl document locat href replac histori replac state window document titl document locat href document locat search session return visitor session return visitor updat session option skip first visit ha local storag readi option on init option on init call option autostart show class prototyp event load delay show error delay show orientationchang resiz resiz resiz scroll resiz click remov touchmov prevent default transitionend remov element webkit transit end remov element ms transit end remov element handl event event show forc option autostart dom readi set timeout show bind shown date last display time session last display time forc readi last display time option display pace option max display count session display count option max display count shown session last display time session display count updat session applic icon applic icon document queri selector head link appl touch icon size 152x152 head link appl touch icon size 144x144 head link appl touch icon size 120x120 head link appl touch icon size 114x114 head link appl touch icon applic icon document queri selector head link shortcut icon size 196x196 head link appl touch icon messag option messag intl messag intl option messag messag replac action intl option messag action option messag messag option messag messag intl languag messag replac action intl languag action messag messag replac icon span action icon icon span viewport document creat element viewport class name viewport option modal viewport class name modal option mandatori viewport class name mandatori viewport style posit absolut element document creat element element class name contain os version substr is tablet tablet phone element style css text webkit transit properti webkit transform opac webkit transit durat webkit transform translate3d transit properti transform opac transit durat transform translate3d webkit transit time eas element style webkit transform translate3d window inner height element style webkit transit durat option icon applic icon element class name icon document creat element class name applic icon add event listen load add event listen error applic icon href element append child element inner html messag viewport style left 99999em viewport append child element contain append child viewport delay show delay show set timeout show bind option start delay show updat viewport window add event listen resiz window add event listen scroll window add event listen orientationchang option modal document add event listen touchmov option mandatori set timeout element add event listen click set timeout element style webkit transform translate3d element style webkit transit durat option lifespan remov timer set timeout remov bind option lifespan option on show option on show call remov clear timeout remov timer remov event listen load remov event listen error window remov event listen resiz window remov event listen scroll window remov event listen orientationchang document remov event listen touchmov element remov event listen click element add event listen transitionend element add event listen webkit transit end element add event listen ms transit end element style webkit transit durat element style opac remov element element remov event listen transitionend element remov event listen webkit transit end element remov event listen ms transit end contain remov child viewport shown option on remov option on remov call updat viewport shown viewport style width window inner width viewport style height window inner height viewport style left window scroll x viewport style window scroll y client width document document element client width orient client width document document element client height landscap portrait screen width orient portrait screen width screen height screen width scale screen width client width screen width window inner width element style font size option font size scale resiz clear timeout resiz timer resiz timer set timeout updat viewport bind updat session ha local storag local storag set item option app id json stringifi session clear session session default session updat session opt out session optedout updat session opt in session optedout updat session clear display count session display count updat session prevent default prevent default stop propag extend target target target remov token document locat hash histori replac state window document titl document locat href split re smart url test document locat href histori replac state window document titl document locat href replac re smart url re queri string test document locat search histori replac state window document titl document locat href replac re queri string window add to homescreen window document
+game resourc
+imag
+name imag
+name clumsi imag clumsi
+name pipe imag pipe
+name logo imag logo
+name ground imag ground
+name gameov imag gameov
+name gameoverbg imag gameoverbg
+name imag
+name getreadi imag getreadi
+name imag
+name share imag share
+name tweet imag tweet
+sound
+name theme audio
+name audio
+name lose audio
+name wing audio
+
+document bodi set timeout document remov event listen document remov event listen dom content load window remov event listen load length call window length defin defin defin complet document readi state document add event listen document add event listen dom content load window add event listen load
+elon js ngine melon js function defin insid
+
+gener properti
+overwritten futur version
+name
+
+licens link http opensourc licens licens
+copyright 2011 2015 olivi biot jason oster aaron mc leod
+
+window window window on readi call window push call window skip auto init window on readi boot init boot window throttl window throttl window perform window perform clear timeout set timeout appli appli consol consol info error alert array prototyp slice call join function prototyp bind empti function prototyp bind type error function prototyp bind call incompat array prototyp slice call appli concat array prototyp slice call object appli concat array prototyp slice call prototyp empti prototyp prototyp prototyp empti empti prototyp function prototyp defer set timeout bind appli object defin properti object defin properti defin getter type error object defin properti support defin getter defin setter object creat object creat prototyp object object object assign object defin properti object assign enumer configur writabl valu strict type error cannot convert first argument object length object key object length object get own properti descriptor enumer object key for each type error extend method object defin properti prototyp configur valu prototyp appli object defin properti object prototyp extend valu init appli array length length push prototyp object creat prototyp for each method init prototyp type error extend class miss name init object defin properti prototyp valu object defin properti method valu error error extend init name error messag number prototyp clamp number prototyp random math random number prototyp random float math random number prototyp weight random math math random number prototyp round length math number prototyp to hex 0123456789 abcdef char at 0123456789 abcdef char at number prototyp sign number prototyp deg to rad math number prototyp rad to deg math string prototyp trim string prototyp trim replac string prototyp trim left string prototyp trim left replac string prototyp trim right string prototyp trim right replac string prototyp is numer is na n trim string prototyp is boolean trim string prototyp contain string prototyp contain string prototyp index of call string prototyp to hex length char code at to string array prototyp remov array prototyp index of call array prototyp splice call array prototyp for each array prototyp for each length call array is array array is array array array prototyp random random length array prototyp weight random weight random length type array array is array concat slice length error type array polyfil unsupport push type array prototyp array prototyp type array prototyp length length error type array pollyfil buffer overflow length window float32 array window float32 array type array window uint8 array window uint8 array type array window uint16 array window uint16 array type array window uint32 array window uint32 array type array window perform window perform date date date get time window perform time offset date window perform time window perform time navig start time offset window perform time navig start window perform date time offset strict key valu hash object onli call size prototyp for each for each hash key splice valu splice hash valu object onli object type error invalid valu use weak collect hash ha own properti length index of call valu call key hash valu valu key push valu push valu length hash valu slice concat object key hash hash key slice concat object key hash valu length valu key for each call valu slice for each call object defin properti object weak map weak map clear key valu for each clear clear valu for each weak set weak set clear export window document locat hash document locat hash substr split filter for each split shift join melon js version interpol scale graviti stop on audio error paus on blur resum on focu stop on blur pre render check version version split split math length length length length object defin properti initi boot devic check save init game hash loader set nocach game hash nocach timer init map reader tmx map reader state init pool init devic is mobil input enabl keyboard event level director reset game move to center viewport current level world merg group sort on tmx render on level load hash init video render get width video render get height viewport viewport world contain world name root contain world ancestor world subscrib viewport onres current level world transform move to center ident translat v collis init video render publish game init input translat pointer event current level reset collis quad tree clear world destroy viewport viewport reset current level reset get parent contain ancestor repaint updat timer updat collis quad tree clear collis quad tree insert contain world world updat timer get delta viewport updat timer get delta draw viewport viewport offset viewport viewport offset world transform translat viewport screen x current level viewport screen y current level video render prepar surfac world draw viewport world transform translat viewport draw video render blit surfac substr to upper case substr length agent webkit prefix window set prefix window devic read acceler x read acceler x acceler y read acceler y acceler z read acceler z acceler x acceler includ graviti acceler y acceler includ graviti acceler z acceler includ graviti gamma gamma beta beta alpha alpha check devic detect devic devic pointer enabl agent prefix pointer enabl navig devic max touch point agent prefix max touch point navig window gestur agent prefix gestur devic touch creat touch document ontouchstart window navig is cocoon js devic pointer enabl devic max touch point devic ha acceleromet window devic motion event window window window devic sensor acceleromet ha pointer lock support agent prefix pointer lock element document ha pointer lock support document exit pointer lock agent prefix exit pointer lock document window devic orient event devic ha devic orient ha fullscreen support agent prefix fullscreen enabl document document moz full screen enabl document exit fullscreen agent prefix cancel full screen document agent prefix exit fullscreen document navig vibrat agent prefix vibrat navig local storag window local storag local storag window add event listen blur stop on blur state stop paus on blur state paus window add event listen focu stop on blur state restart resum on focu state resum document hidden hidden visibilitychang document moz hidden moz hidden mozvisibilitychang document ms hidden ms hidden msvisibilitychang document webkit hidden webkit hidden webkitvisibilitychang document add event listen document stop on blur state stop paus on blur state paus stop on blur state restart resum on focu state resum detect devic devic devic match i phone i pad i pod devic android devic match android devic android2 devic match android devic devic match window phone devic black berri devic match black berri devic kindl devic match kindl silk mobil safari devic is mobil devic match mobi devic devic android devic devic black berri devic kindl devic navig user agent local storag ha acceleromet ha devic orient ha fullscreen support ha pointer lock support nativ base64 window atob max touch point touch is mobil android android2 black berri kindl orient acceler x acceler y acceler z gamma beta alpha languag navig languag navig browser languag navig user languag request fullscreen ha fullscreen support video get wrapper request fullscreen agent prefix request fullscreen moz request full screen request fullscreen exit fullscreen ha fullscreen support document exit fullscreen get pixel ratio video render video render get screen context render prototyp get context2d document creat element canva window devic pixel ratio agent prefix back store pixel ratio get storag local local save error storag support turn on pointer lock ha pointer lock support video get wrapper devic match firefox agent prefix fullscreen element document document moz full screen element document remov event listen fullscreenchang document remov event listen mozfullscreenchang request pointer lock agent prefix request pointer lock request pointer lock document add event listen fullscreenchang document add event listen mozfullscreenchang devic request fullscreen request pointer lock turn off pointer lock ha pointer lock support document exit pointer lock watch acceleromet devic ha acceleromet window window add event listen devicemot window devic sensor acceleromet get default minimum report interv report interv add event listen readingchang unwatch acceleromet window window remov event listen devicemot window devic sensor acceleromet get default remov event listen readingchang watch devic orient devic ha devic orient window add event listen deviceorient unwatch devic orient window remov event listen deviceorient vibrat navig vibrat navig vibrat object defin properti devic is fullscreen devic ha fullscreen support agent prefix fullscreen element document document moz full screen element video get wrapper object defin properti devic sound howler no audio timer math ceil length timer id splice length pauseabl state is paus elaps elaps delay appli elaps delay timer clear timeout timer id tick init reset reset window perform set timeout push delay elaps timer id pauseabl set interv push delay elaps timer id pauseabl clear timeout defer clear interv defer get time get delta count fp clamp updat tick interpol pool init entiti entiti collect entiti collect entiti level entiti level entiti tween tween color color particl particl sprite sprite vector2d vector2d pool pull array length length pool shift on reset event on reset event appli init appli bind appli class name error cannot instanti entiti purg pool push class name pool push exist vector2d object extend init vector2d error invalid paramet set zero set v scale scale v clamp vector2d clamp clamp clamp self clamp clamp min v max v floor vector2d floor self ceil vector2d math ceil math ceil ceil self math ceil math ceil negat vector2d negat self copi equal normal length perp rotat math math math math revers dot product length2 dot product length math sqrt length2 distanc math sqrt angl math atan2 project dot product length2 project n dot product reflect project scale reflect n project n scale vector2d to string vector2d error error extend init error prototyp init appli name vector2d error observ vector2d vector2d extend init object defin properti on updat object defin properti on updat on updat observ vector2d error on updat callback on updat on updat on updat scale scale v clamp observ vector2d clamp clamp on updat on updat clamp self clamp clamp min v max v floor observ vector2d on updat on updat floor self ceil observ vector2d math ceil math ceil on updat on updat ceil self math ceil math ceil negat observ vector2d on updat on updat negat self copi equal normal length perp rotat math math math math revers dot product distanc math sqrt angl math atan2 reflect project scale reflect n project n scale observ vector2d on updat on updat to vector2d vector2d to string observ vector2d error error extend init error prototyp init appli name observ vector2d error matrix2d object extend init float32 array matrix2d copi length ident ident copi multipli vector multipli scale rotat math math translat translat v translat is ident matrix2d to string matrix2d rect object extend init vector2d width height shape type rectangl set shape resiz resiz width height get bound updat bound rect width height copi set shape width height translat translat v translat math left left math resiz math right right math bottom bottom overlap left right left right bottom bottom contain left left right right bottom bottom contain point v contain point contain point left right bottom to polygon width height polygon vector2d vector2d vector2d vector2d object defin properti rect prototyp left configur object defin properti rect prototyp right width width configur object defin properti rect prototyp configur object defin properti rect prototyp bottom height height configur object defin properti rect prototyp width width width configur object defin properti rect prototyp height height height configur ellips object extend init vector2d bound radiu radiu v vector2d radiu sq vector2d ratio vector2d shape type ellips set shape set shape radiu math ratio radiu radiu radiu v radiu radiu scale v ratio radiu radiu radiu sq scale v ratio updat bound rotat scale set shape radiu v radiu v scale v scale translat bound translat translat v bound translat v contain point v contain point contain point radiu sq radiu sq get bound bound updat bound radiu v radiu v bound bound set shape bound rect bound ellips radiu v radiu v polygon object extend init vector2d bound point shape type polygon set shape set shape point recalc updat bound rotat point length rotat recalc updat bound scale point length scale recalc updat bound scale v scale recalc edg normal point length polygon error requir least point vector2d copi push push vector2d copi perp normal translat bound translat translat v bound translat v contain point v contain point contain point point length get bound bound updat bound point for each math math math math bound bound set shape bound rect bound translat v point for each
+push vector2d polygon polygon error error extend init error prototyp init appli name polygon error line polygon extend contain point v contain point contain point point point recalc edg normal point length line error requir exactli point vector2d copi push push vector2d copi perp normal point for each push vector2d line line error error extend init error prototyp init appli name line error bodi rect extend init entiti shape collis mask collis type object collis type collis type enemi object vector2d accel accel vector2d accel friction friction vector2d friction max vel max vel vector2d max vel graviti graviti graviti fall jump rect init width height length add shape add shape rectangl shape type shape push to polygon shape push updat bound shape length add shape from json bodi error identifi given physic editor json length shape length push vector2d shape shape add shape polygon updat bound shape length get shape shape remov shape shape remov updat bound shape length remov shape at remov shape get shape set collis mask collis mask respond to collis overlap v entiti fall jump updat bound shape length shape get bound set v resiz width height shape length shape get bound entiti on bodi updat width height set veloc accel accel accel accel set max veloc set max veloc max vel max vel set friction friction friction comput veloc graviti graviti timer tick fall jump fall jump friction util appli friction friction friction util appli friction friction clamp max vel max vel clamp max vel max vel updat comput veloc entiti destroy entiti shape bodi error error extend init error prototyp init appli name bodi error object level level bound object node length bound object level level quad tree push prototyp split level bound width bound height bound bound node width height object level node width height object level node width height object level node width height object level prototyp get index bound bound width bound bound height height width prototyp insert contain children length children contain insert contain bodi insert prototyp insert node length get index get bound node insert object push object length object level level node length split object length get index object get bound node insert object splice prototyp retriev object node length get index get bound concat node retriev node length concat node retriev prototyp clear object node length node clear node node bound bound bound width width bound height height quad tree number valu number valu length dot product copi dot product push push push a in b b in a b in a a in b math overlap overlap overlap n copi overlap n revers push push push length2 dot product push vector2d push collis quad tree max depth max children bound type object player object object enemi object collect object action object projectil object world shape object 4294967295 init bound game viewport quad tree quad tree bound max children max depth subscrib level load bound game world quad tree clear bound respons object overlap n vector2d overlap v vector2d a in b b in a index shape a index shape b overlap number valu respons object prototyp clear a in b b in a overlap number valu index shape a index shape b respons respons object should collid bodi bodi bodi collis mask bodi collis type bodi collis type bodi collis mask check respons quad tree retriev length should collid get bound overlap get bound bodi shape length bodi shape length bodi get shape bodi get shape test shape type shape type call clear index shape a index shape b on collis bodi respond to collis call bodi on collis bodi respond to collis call bodi test polygon polygon point normal length point normal length copi ancestor ab po copi ancestor ab po push push push push overlap v copi overlap n scale overlap push push test ellips ellips copi ancestor ab po ancestor ab po radiu radiu length2 push math sqrt overlap overlap n copi normal overlap v copi scale overlap a in b b in a push test polygon ellips copi ancestor ab po ancestor ab po radiu point edg length copi copi length2 a in b copi copi length push push push push push b in a normal push copi copi length push push push push b in a normal copi normal dot product math push push push push b in a math math overlap overlap overlap n copi overlap v copi overlap n scale overlap push push push push test ellips polygon test polygon ellips a in b overlap n revers overlap v revers a in b b in a b in a render rect extend init is render guid in viewport alway updat updat when paus is persist float anchor point vector2d alpha bound bound rect ab po ab po vector2d observ vector2d on updat updat bound po bind width height shape type rectangl anchor point set opac get bound bound get opac alpha resiz bound bound resiz bound set opac alpha clamp alpha alpha alpha updat updat bound po bound ancestor bound ancestor ab po bound updat bound consol warn deprec render updat bound rect prototyp updat bound appli draw object defin properti render prototyp width width resiz bound height width configur object defin properti render prototyp height height resiz bound width height configur render error error extend init error prototyp init appli name render error sprite render extend init scale vector2d scale flag lastflip x lastflip y flip x flip x flip y flip y offset vector2d angl rotat sourc angl flicker flicker durat flickercb flicker state is sprite util get imag imag render prototyp init appli framewidth width frameheight height imag is flicker flicker flicker flicker durat flicker durat flicker flickercb flicker flickercb flicker flip x lastflip x lastflip x scale scale scale flag scale scale flip y lastflip y lastflip y scale scale scale flag scale scale scale scale scale scale scale scale flag scale scale scale v scale updat flicker flicker durat flicker durat flickercb flickercb flicker draw flicker flicker state flicker state flicker state global alpha set global alpha get opac width height angl sourc angl scale flag save anchor point anchor point translat scale flag scale scale scale rotat sourc angl height width draw imag imag offset offset scale flag restor set global alpha destroy on destroy event appli on destroy event anim sheet sprite extend init animationpaus animationspe anim reset anim current animationspe sprite prototyp init appli atla textur atla atla atla indic atla indic textur atla video render cach util get imag imag get atla atla indic add anim set current anim add anim anim name frame length animationspe animationspe next frame object key textur atla for each length textur atla anim frame textur atla atla indic render error paramet add anim allow standard spritesheet base textur anim frame textur atla atla indic anim length set current anim anim render error anim defin current anim reset anim set anim frame current current next frame current animationspe is current anim current name set anim frame current current length current frame current offset offset width width height height sourc angl angl get current anim frame current updat animationpaus current length current next frame current next frame set anim frame current current reset anim reset anim set current anim reset anim reset anim reset anim current current length set anim frame current sprite prototyp updat appli current next frame current animationspe sprite prototyp updat appli sprite prototyp updat appli math math viewport render extend init axi none horizont vertic both bound deadzon target follow axi shake fade in fade out screen x screen y render prototyp init appli bound rect offset vector2d target follow axi axi none shake intens durat axi axi both on complet fade out color durat tween fade in color durat tween set deadzon width height follow h deadzon right deadzon right bound width width deadzon deadzon bound follow v deadzon bottom deadzon bottom bound height height deadzon deadzon bound reset target follow axi set deadzon deadzon deadzon rect deadzon width height deadzon resiz updat target resiz render prototyp resiz appli game current level set bound math width math height set deadzon move to updat publish viewport onres width height set bound bound bound resiz follow entiti target vector2d render error invalid target viewport follow target follow axi axi both updat target move move to move to clamp bound bound width width clamp bound bound height height publish viewport onchang updat target target follow axi axi none axi horizont follow h target axi vertic follow v target axi both follow h target follow v target updat updat target shake durat shake durat shake durat shake durat offset set zero shake on complet shake on complet shake axi axi both shake axi axi horizont offset math random shake intens shake axi axi both shake axi axi vertic offset math random shake intens publish viewport onchang fade in tween fade out tween shake shake durat shake intens durat axi axi both on complet fade out fade out color pool pull color copi fade out color alpha fade out durat fade out tween pool pull tween fade out color alpha fade out durat on complet fade out tween start fade in fade in color pool pull color copi fade in color alpha fade in durat fade in tween pool pull tween fade in color alpha fade in durat on complet fade in tween start get width width get height height focu on get bound move to width height is visibl overlap local to world vector2d game current level world to local vector2d game current level draw fade in tween video render clear surfac fade in color fade in color alpha fade in tween pool push fade in color fade in color fade out tween video render clear surfac fade out color fade out color alpha fade out tween pool push fade out color fade out color object sprite extend init is clickabl hold threshold is holdabl hover hold timeout updat releas sprite prototyp init appli float input regist pointer event pointerdown click bind input regist pointer event pointerup releas bind input regist pointer event pointercancel releas bind input regist pointer event pointerent enter bind input regist pointer event pointerleav leav bind updat updat releas updat click devic touch is clickabl updat is holdabl hold timeout timer clear timeout hold timeout hold timeout timer set timeout hold bind hold threshold releas on click on click enter hover on over on over leav hover releas call on out on out releas releas releas timer clear timeout hold timeout on releas on releas hold timer clear timeout hold timeout releas on hold on hold on destroy event input releas pointer event pointerdown input releas pointer event pointerup input releas pointer event pointercancel input releas pointer event pointerent input releas pointer event pointerleav timer clear timeout hold timeout ancestor ancestor remov child now contain render extend init pend sort transform matrix2d render prototyp init appli children sort on game sort on auto sort transform ident draw count child bound get bound add child ancestor ancestor remov child now is render guid util creat guid children length ancestor children push auto sort sort on activ event on activ event add child at children length ancestor ancestor remov child now is render guid util creat guid ancestor children splice on activ event on activ event contain error index bound add child at swap children get child index get child index contain error both suppli child must child caller children children get child at children length children contain error index bound get child at get child index children index of ha child ancestor get child by prop reg exp test push push children length children contain concat get child by prop get child by name get child by prop name get child by guid get child by prop guid length updat child bound child bound child bound resiz children length children is render contain child bound get bound child bound child bound updat bound po render prototyp updat bound po appli ab po ancestor ab po ancestor ab po children length children is render updat bound po bound remov child ancestor defer remov child now ha child contain error suppli child must child caller ancestor on deactiv event on deactiv event destroy destroy pool push children splice get child index set child properti children length children contain set child properti move up get child index swap children get child at move down get child index children length swap children get child at move to top get child index children splice children splice children move to bottom get child index children length children splice children length children splice children children length sort pend sort children length children contain sort pend sort children sort sort sort on to upper case pend sort game repaint defer sort z sort x sort y destroy pend sort clear timeout pend sort pend sort children length children is persist remov child now transform ident updat render prototyp updat appli state is paus game viewport ab po set v ancestor ab po ancestor ab po children length children updat when paus is render float in viewport is visibl get bound in viewport alway updat updat ab po set v ab po updat draw game viewport draw count transform is ident save transform transform global alpha set global alpha get opac translat children length children float in viewport is render translat screen x screen y draw translat screen x screen y draw count set global alpha translat restor contain error render error extend init render error prototyp init appli name contain error entiti render extend init render width height entiti error height width properti mandatori pass set paramet entiti render prototyp init appli width height imag render anim sheet imag imag framewidth framewidth width frameheight frameheight height space space margin margin name name aliv array is array shape shape rect width height bodi bodi init bodi bodi bodi updat bound width height resiz width height collis mask bodi set collis mask collis mask collis type collis type collis type entiti error invalid valu collis type properti bodi collis type collis type collis type distanc to get bound get bound width width height height math sqrt distanc to point get bound width height math sqrt angl to get bound get bound width width height height math atan2 angl to point get bound width height math atan2 resiz bound bound resiz updat render render updat render prototyp updat appli updat bound po bodi render prototyp updat bound po appli bound on bodi updat bound set v ancestor bound ancestor ab po bound resiz draw render bodi anchor point bodi width render width bodi anchor point bodi height render height translat render draw translat destroy render render destroy appli render render bodi destroy appli bodi bodi
+on destroy event on collis collect entiti entiti extend init entiti prototyp init appli bodi collis type collis type collect object level entiti entiti extend init entiti prototyp init appli nextlevel fade fade durat durat fade name level entiti gotolevel bodi collis type collis type action object on fade complet level director load level gotolevel game viewport fade out fade durat go to gotolevel nextlevel fade durat fade fade game viewport fade in fade durat on fade complet bind level director load level gotolevel on collis level entiti name go to entiti error render error extend init render error prototyp init appli name entiti error screen object object extend init reset game reset on reset event appli destroy on destroy event appli on reset event on destroy event agent prefix request anim frame agent prefix cancel anim frame agent prefix cancel request anim frame window perform math window set timeout window clear timeout window request anim frame window cancel anim frame state timer reset window request anim frame timer reset game updat game draw window request anim frame window cancel anim frame screen destroy screen reset appli screen game repaint color durat load menu readi play gameov game score credit set user on paus on resum on stop on restart init load default load screen stop load is run audio paus track window perform publish state stop on stop on stop paus load is paus audio paus track window perform publish state paus on paus on paus restart is run audio resum track window perform game repaint publish state restart on restart on restart resum is paus audio resum track window perform publish state resum on resum on resum is run is paus screen transit current screen transit fade color durat set transit transit chang error undefin screen object state length array prototyp slice call durat transit game viewport fade out color durat game viewport fade in color durat defer defer is current render extend init render prototyp init appli invalid bar height progress on progress updat progress width invalid updat invalid invalid draw set color black fill rect height bar height width bar height set color 55aa00 fill rect height bar height progress bar height set color white render extend init render prototyp init appli icon canva video render get context2d icon canva translat begin path move to bezier curv to bezier curv to line to bezier curv to bezier curv to line to line to close path fill style fill begin path move to bezier curv to bezier curv to bezier curv to bezier curv to line to close path line width stroke style line join miter miter limit stroke draw draw imag icon canva render extend init render prototyp init appli logo1 font centuri gothic white middl logo2 font centuri gothic 55aa00 middl logo2 bold logo1 text baselin logo2 text baselin alphabet draw logo1 measur text melon width width logo2 measur text width height logo2 measur text melon height logo1 draw melon logo2 draw default load screen screen object extend on reset event game reset game world add child color layer background 202020 vector2d video render get width video render get height loader hdlr subscrib loader progress on progress updat bind resiz hdlr subscrib viewport onres resiz bind game world add child icon canva video creat canva game viewport width game viewport height icon canva video render get width video render get height bar height game world add child game world add child video render get width video render get height on destroy event unsubscrib loader hdlr unsubscrib resiz hdlr loader hdlr resiz hdlr loader onload clear timeout set timeout onload publish loader complet consol error load callback defin set timeout name imag name onload name onerror name nocach name is tmx format level director add tmx level name format xml http request util get file extens overrid mime type json overrid mime type applic json overrid mime type text open nocach ontimeout onreadystatechang readi state statu statu respons text devic match msie respons xml window dom parser error file format load support json file format instead dom parser pars from string respons text text respons xml tmx util pars json json json pars respons text error file format support send xml http request overrid mime type overrid mime type applic json open nocach ontimeout onreadystatechang readi state statu statu respons text name json pars respons text send xml http request open nocach respons type arraybuff onerror onload respons uint8 array byte length string from char code name join send nocach onload on progress error error extend init error prototyp init appli name loader error on resourc load get load progress on progress on progress publish loader progress on load error error fail load resourc set nocach nocach math random preload length load on resourc load bind on load error bind load binari call imag call json call call audio audio load error load unknown invalid resourc unload binari name name imag name name dispos name dispos name json name name name name audio audio unload name error unload unknown invalid resourc unload all ha own properti unload name binari ha own properti unload name imag ha own properti unload name ha own properti unload name json audio unload all get tmx get binari get imag get json get load progress font render extend init font size vector2d fill style color copi stroke style color line width text align left text baselin line height render prototyp init appli set font util creat guid bold font bold font ital font ital font set font split trim test font size height font size font join fill style copi text align measur text font context2 d font font fill style fill style to rgba text align text align text baselin text baselin height width split length width math measur text trim right width width height font size line height width width height height draw global alpha set global alpha get opac draw font draw font font context2 d set global alpha draw stroke global alpha set global alpha get opac draw font draw font font context2 d set global alpha draw font font font fill style fill style to rgba stroke style stroke style to rgba line width line width text align text align text baselin text baselin split font size line height length trim right math measur text width stroke text fill text right text align center text align hang index of text baselin middl text baselin length bitmap font font extend init s size vector2d char count font prototyp init appli 000000 first char load font metric text align left text baselin resiz load font metric font loader get imag font size font size font height s size copi font size height s size char count font width font size text align resiz resiz s size set v font size s size s size height s size measur text split height width length width math trim right length s size width height s size line height width width height height draw split s size line height global alpha set global alpha get opac length trim right length s size text align right center text baselin middl ideograph alphabet bottom length char code at first char draw imag font font size char count font size char count font size font size s size s size s size set global alpha audio melon js fail load stop on audio error error audio disabl consol disabl audio load error error extend init error prototyp init appli name audio error init initi error audio init call engin initi audio format split howler no audio enabl unmut all disabl mute all load audio format audio format length error target audio extens audio init call preload audio format length push name audio format loader nocach name howl volum howler volum onloaderror name call audio name onload name play play volum clamp howler volum fade fade stop stop paus paus play track audio play stop track stop paus track paus resum track play get current track set volum howler volum get volum howler volum mute mute unmut mute mute all howler mute unmut all howler mute unload unload dispos dispos unload all ha own properti unload video web gl render canva render wrapper render doubl buffer auto scale scale scale method transpar anti alia error error extend init error prototyp init appli name video error canva webgl auto init initi error video init call engin initi object assign doubl buffer doubl buffer auto scale scale scale method fill flex width flex height stretch index of scale method scale method transpar transpar game hash webgl render webgl scale auto scale scale scale vector2d scale scale auto scale scale doubl buffer scale scale zoom x zoom y window add event listen resiz throttl publish window onres window add event listen orientationchang publish window onorient chang subscrib window onres video onres bind video subscrib window onorient chang video onres bind video creat canva wrapper wrapper document get element by id wrapper wrapper wrapper document bodi wrapper append child get context render webgl render web gl render auto render render canva render devic get pixel ratio style width width style height height window get comput style window get comput style video set max size pars int max width pars int max height game init video onres get po render get screen canva get bound client rect get bound client rect left set max size onres defer creat canva error width height zero canva could initi document creat element canva navig is cocoon js devic android2 screencanva width width height height get wrapper wrapper onres window orient devic orient window orient devic orient window outer width window outer height auto scale video render get screen canva parent node math width window inner width math height window inner height fill scale method flex width scale method math render resiz game viewport resiz game world updat child bound fill scale method flex height scale method math render resiz game viewport resiz game world updat child bound stretch scale method devic get pixel ratio devic get pixel ratio clear timeout video updat display size defer updat display size scale render scale canva game repaint input offset video get po render object extend init transpar transpar doubl buffer doubl buffer anti alia anti alia game width zoom zoom x game height zoom zoom y canva back buffer canva context global color color appli rgb filter get context2d video creat canva width height util get pixel length bright math clamp length transpar pool pull color pars css pool pull color length set color equal pool push pool push put imag data prepar surfac reset reset transform cach reset get canva back buffer canva get screen canva canva get screen context context get context2d video error must canva element order creat context get context video error your browser support html5 canva navig is cocoon js get context antialia anti alia alpha get context alpha canva canva set anti alia anti alia get width back buffer canva width get height back buffer canva height global alpha global color gl array resiz back buffer canva width back buffer canva height set anti alia agent set prefix imag smooth enabl canva style imag render pixel canva style imag render canva style imag render pixel draw font render textur cach object extend init size reset reset cach unit length valid length size video error textur cach overflow size textur unit avail cach valid width height meta melon js size frame filenam frame video render textur cach unit length cach valid cach unit length get unit unit canva render render extend init render prototyp init appli context get context2d canva transpar doubl buffer back buffer canva video creat canva back buffer context2 d get context2d back buffer canva transpar context global composit oper copi back buffer canva canva back buffer context2 d context font context2 d back buffer context2 d set color global color cach render textur cach prepar surfac transpar clear surfac rgba blit surfac doubl buffer context draw imag back buffer canva back buffer canva width back buffer canva height game width zoom game height zoom clear surfac back buffer context2 d canva save set transform global composit oper copi sourc fill style color to rgba fill rect width height restor draw imag back buffer context2 d draw imag appli back buffer context2 d fill arc back buffer context2 d save back buffer context2 d begin path back buffer context2 d translat back buffer context2 d back buffer context2 d fill back buffer context2 d close path back buffer context2 d restor fill rect back buffer context2 d fill rect get context back buffer context2 d reset transform back buffer context2 d set transform scale canva canva width game width zoom back buffer canva width canva height game height zoom back buffer canva height devic get pixel ratio canva style width canva width devic get pixel ratio canva style height canva height devic get pixel ratio doubl buffer transpar context global composit oper copi set anti alia context anti alia blit surfac save back buffer context2 d save restor back buffer context2 d restor global color gl array back buffer context2 d global alpha rotat back buffer context2 d rotat scale back buffer context2 d scale set color back buffer context2 d stroke style back buffer context2 d fill style color to rgba set global alpha back buffer context2 d global alpha global color gl array set line width back buffer context2 d line width stroke arc back buffer context2 d begin path back buffer context2 d translat back buffer context2 d back buffer context2 d stroke back buffer context2 d close path stroke ellips context begin path 551784 551784 back buffer context2 d move to back buffer context2 d bezier curv to back buffer context2 d bezier curv to back buffer context2 d bezier curv to back buffer context2 d bezier curv to back buffer context2 d stroke stroke line back buffer context2 d begin path back buffer context2 d move to back buffer context2 d line to back buffer context2 d stroke stroke polygon back buffer context2 d translat back buffer context2 d begin path back buffer context2 d move to point point point length point back buffer context2 d line to back buffer context2 d line to point point back buffer context2 d stroke back buffer context2 d close path back buffer context2 d translat stroke rect back buffer context2 d stroke rect draw shape rect stroke rect left width height line polygon save stroke polygon restor ellips save radiu v radiu v stroke arc radiu radiu radiu math stroke ellips radiu v radiu v restor transform back buffer context2 d transform translat back buffer context2 d translat math canva render prototyp textur object extend init format textur atla meta meta contain texturepack format texturepack meta imag textur util get imag textur video render textur error atla textur found textur meta contain shoe box meta export meta export contain melon js video render textur error shoe box requir json export http github melonj melon js tree master media shoebox json format shoe box textur meta contain melon js format melon js textur atla build framewidth frameheight format spritesheet cell size imag atla build from sprite sheet atla video render textur error textur atla format support video render cach textur build frame for each ha own properti filenam frame filenam name name offset vector2d width height angl rotat build from sprite sheet imag space margin width height vector2d framewidth frameheight framewidth frameheight framewidth frameheight consol warn spritesheet textur imag divis framewidth frameheight truncat effect size name offset vector2d framewidth frameheight width framewidth height frameheight angl get atla atla get textur textur get region atla creat sprite from name get region pool pull sprite imag get textur framewidth width frameheight height offset set v offset sourc angl angl video render textur error textur region found creat anim from name length get region video render textur error textur region found anim sheet imag textur framewidth frameheight margin space atla atla indic canva render prototyp textur error error extend init error prototyp init appli name canva render textur error video shader creat shader shader sourc compil shader get shader paramet compil statu video error get shader info log vec2 vec3 vec4 bvec2 bvec3 bvec4 ivec2 ivec3 ivec4 mat2 matrix2fv mat3 matrix3fv mat4 matrix4fv sampler2 d creat shader attribut uniform handl handl creat program attribut uniform attach shader vertex shader
+attach shader fragment shader link program get program paramet link statu video error could initi shader use program exec push for each exec for each attribut get attrib locat enabl vertex attrib array attribut object key for each get uniform locat index of length substr uniform object defin properti uniform creat textur creat textur video render anti alia linear nearest activ textur texture0 bind textur textur tex parameteri textur textur wrap clamp edg tex parameteri textur textur wrap clamp edg tex parameteri textur textur filter tex parameteri textur textur filter tex image2 d textur rgba rgba unsign byte tex image2 d textur rgba rgba unsign byte web gl render render extend init render prototyp init appli get context gl transpar color stack matrix stack line point vector2d vector2d vector2d vector2d global matrix matrix2d compositor web gl render compositor compositor global matrix global color cach render textur cach compositor max textur video render creat fill textur creat font textur scale canva creat fill textur uint8 array fill textur textur meta melon js size frame filenam frame cach fill textur compositor upload textur fill textur creat font textur video creat canva back buffer canva width back buffer canva height font context2 d get context2d font textur textur meta melon js size back buffer canva width back buffer canva height frame filenam frame back buffer canva width back buffer canva height cach font textur compositor upload textur font textur blit surfac compositor flush clear surfac global color global matrix global color copi global matrix ident compositor clear fill rect canva width canva height global matrix copi global color copi pool push draw font compositor flush compositor upload textur font textur compositor add quad font textur font context2 d clear rect back buffer canva width back buffer canva height draw imag width height width height compositor add quad cach fill rect compositor add quad fill textur get screen context get context gl video error must canva element order creat context get context video error your browser support web gl antialia anti alia alpha get context webgl get context experiment webgl get context reset transform global matrix ident reset global matrix ident cach reset compositor reset creat fill textur creat font textur scale canva canva width canva height devic get pixel ratio canva style width devic get pixel ratio canva style height devic get pixel ratio canva style width canva style height compositor set project canva width canva height restor color stack pool push global color copi global matrix copi matrix stack rotat global matrix rotat save color stack push global color matrix stack push global matrix scale global matrix scale set anti alia render prototyp set anti alia appli set global alpha global color gl array set color global color copi set line width compositor line width stroke arc stroke ellips stroke line line point slice compositor draw line stroke polygon point length line point length line point push vector2d line point slice point point compositor draw line stroke rect line point slice compositor draw line draw shape rect stroke rect left width height line polygon save stroke polygon restor ellips save radiu v radiu v stroke arc radiu radiu radiu math stroke ellips radiu v radiu v restor transform global matrix multipli translat global matrix translat web gl render prototyp textur canva render prototyp textur extend build meta size meta size canva render prototyp textur prototyp build appli add st map build from sprite sheet imag width imag height canva render prototyp textur prototyp build from sprite sheet appli add st map add st map object key for each offset width height st map float32 array insert region textur width textur height atla name offset vector2d width height angl st map float32 array atla web gl render prototyp textur error error extend init error prototyp init appli name web gl render textur error float32 array byte element float32 array byte element float32 array byte element float32 array byte element float32 array byte element 16e3 web gl render compositor object extend init length unit max textur get paramet textur imag unit vector2d vector2d vector2d vector2d matrix color u matrix matrix2d get shader precis format fragment shader high float precis mediump highp line shader video shader creat shader precis highp attribut vec2 a vertex uniform mat3 u matrix main posit vec4 u matrix vec3 a vertex precis precis uniform vec4 u color main frag color u color precis quad shader video shader creat shader precis highp attribut vec2 a vertex attribut vec4 a color attribut a textur attribut vec2 a region uniform mat3 u matrix vari vec4 v color vari v textur vari vec2 v region main posit vec4 u matrix vec3 a vertex v color a color v textur a textur v region a region precis precis uniform sampler2 d u sampler max textur vari vec4 v color vari v textur vari vec2 v region main textur v textur textur frag color texture2 d u sampler v region v color max textur textur frag color texture2 d u sampler v region v color frag color texture2 d u sampler max textur v region v color precis max textur max textur shader quad shader handl creat buffer bind buffer array buffer buffer data array buffer stream draw sb size sb index stream float32 array sb size creat buffer bind buffer element array buffer buffer data element array buffer creat ib static draw vertex attrib pointer quad shader attribut a vertex float vertex attrib pointer quad shader attribut a color float vertex attrib pointer quad shader attribut a textur float vertex attrib pointer quad shader attribut a region float reset set project canva width canva height clear color enabl blend blend func alpha minu alpha set project flush viewport u matrix quad shader uniform u matrix u matrix upload textur video render cach get unit unit unit video shader creat textur textur reset sb index length max textur unit quad shader uniform u sampler creat ib array length uint16 array resiz sb sb size float32 array sb size stream stream use shader shader flush shader use program shader add quad use shader quad shader handl length flush length sb size resiz sb matrix is ident vector multipli vector multipli vector multipli vector multipli sb index stream stream stream stream stream stream stream stream color to gl stream stream stream stream upload textur stream stream stream stream get region consol warn ad textur region textur split insert region st map stream stream stream stream stream stream stream stream sb index length flush length length buffer data array buffer stream subarray stream draw draw element triangl length unsign short sb index length draw line use shader line shader handl length matrix is ident matrix vector multipli stream stream line shader uniform u matrix u matrix line shader uniform u color color gl array buffer data array buffer stream subarray length stream draw vertex attrib pointer line shader attribut a vertex float draw array line strip line loop length vertex attrib pointer quad shader attribut a vertex float line width line width clear flush clear color buffer input prevent default stop propag stop propag cancel bubbl prevent default prevent default return valu prevent default input key bind enabl keyboard event window add event listen keydown keydown window add event listen keyup keyup keydown key code key bind publish keydown prevent default keyup key code key bind publish keyup prevent default backspac enter shift ctrl paus cap lock space page page down home left right down print screen insert delet num0 num1 num2 num3 num4 num5 num6 num7 num8 num9 window numpad0 numpad1 numpad2 numpad3 numpad4 numpad5 numpad6 numpad7 numpad8 numpad9 multipli substract decim divid lock scroll lock semicolon plu comma minu period forwand slash grave accent open bracket back slash close bracket singl quot is key press key statu trigger key event keydown keyup bind key enabl keyboard event prevent default key bind unlock key unbind key key bind key bind length video render get screen canva add event listen push mous vector2d offset video get po window add event listen scroll throttl offset video get po publish window onscrol navig pointer enabl navig ms pointer enabl devic touch onwheel document creat element wheel mousewheel window add event listen throttl interv throttl interv throttl interv video render get screen canva add event listen video render get screen canva add event listen throttl throttl interv callback pointer id callback length callback for each game viewport local to world length time stamp time stamp time stamp devic pointer enabl pointer id game screen x game screen y game world x game screen x game world y game screen y region float game x game screen x game y game screen y game x game world x game y game world y region get bound contain point game x game y rectangl shape type contain point game x game y index of pointer id pointer id pointer id pointer id pointer id pointer id pointer id pointer id pointer id pointer id length touch chang touch length chang touch global to local client x client y identifi push global to local client x client y pointer id push is primari mous target video render get screen canva delta mode mousewheel delta x delta x delta y delta y delta z delta z mousewheel delta y wheel delta wheel delta x delta x wheel delta x prevent default prevent default prevent default button mous bind keydown keyup input mousewheel mousewheel pointermov pointerdown pointerup pointercancel pointerent pointerleav mousewheel ms pointer move ms pointer down ms pointer up ms pointer cancel ms pointer enter ms pointer leav mousewheel mousemov mousedown mouseup mousecancel mouseent mouseleav touchmov touchstart touchend touchcancel touchent touchleav vector2d offset mous left middl right bind throttl interv global to local offset devic get pixel ratio left scale vector2d bind pointer length mous left length key bind error action defin keycod mous bind unbind pointer mous bind input mous left regist pointer event index of error invalid index of region callback pointer id callback callback callback push releas pointer event index of error invalid index of callback length callback callback remov translat pointer event regist pointer event pointermov game viewport publish mousemov abcdefghijklmnopqrstuvwxi zabcdefghijklmnopqrstuvwxyz0123456789 decod replac devic nativ base64 window atob length index of char at index of char at index of char at index of char at push string from char code push string from char code push string from char code join encod replac devic nativ base64 window btoa length char code at char code at char code at is na n is na n push char at push char at push char at push char at join util decod base64 decod encod base64 encod decod base64 as array decod uint32 array length length char code at decompress error gzip zlib compress tile support decod csv trim split length split length push get basenam replac replac get file extens substr last index of length get pixel html imag element canva render get context2d video creat canva width height draw imag get imag data width height get context get imag data width height get imag loader get imag util get basenam reset guid to string to upper case to hex creat guid appli friction timer tick timer tick rgba black silver gray white maroon purpl fuchsia green lime oliv yellow navi blue teal aqua orang aliceblu antiquewhit aquamarin azur beig bisqu blanchedalmond blueviolet brown burlywood cadetblu chartreus chocol coral cornflowerblu cornsilk crimson darkblu darkcyan darkgoldenrod darkgray darkgreen darkgrey darkkhaki darkmagenta darkolivegreen darkorang darkorchid darkr darksalmon darkseagreen darkslateblu darkslategray darkslategrey darkturquois darkviolet deeppink deepskyblu dimgray dimgrey dodgerblu firebrick floralwhit forestgreen gainsboro ghostwhit gold goldenrod greenyellow grey honeydew hotpink indianr indigo ivori khaki lavend lavenderblush lawngreen lemonchiffon lightblu lightcor lightcyan lightgoldenrodyellow lightgray lightgreen lightgrey lightpink lightsalmon lightseagreen lightskyblu lightslategray lightslategrey lightsteelblu lightyellow limegreen linen mediumaquamarin mediumblu mediumorchid mediumpurpl mediumseagreen mediumslateblu mediumspringgreen mediumturquois mediumvioletr midnightblu mintcream mistyros moccasin navajowhit oldlac olivedrab orang orchid palegoldenrod palegreen paleturquois palevioletr papayawhip peachpuff peru pink plum powderblu rosybrown royalblu saddlebrown salmon sandybrown seagreen seashel sienna skyblu slateblu slategray slategrey snow springgreen steelblu thistl tomato turquois violet wheat whitesmok yellowgreen for each color object extend init gl array gl array float32 array set color set color color gl array gl array alpha pool pull color copi color gl array gl array pars css gl array gl array gl array clamp gl array gl array gl array clamp gl array gl array gl array clamp gl array gl array gl array darken clamp gl array gl array gl array lighten clamp gl array gl array gl array clamp gl array gl array gl array clamp gl array gl array gl array clamp random set color math random math random math random alpha equal gl array gl array gl array gl array gl array gl array gl array gl array pars css set color appli pars rgb pars rgb exec set color pars hex pars hex exec set color pars int pars int pars int exec set color pars int pars int pars int color error invalid paramet to gl gl array to hex to hex to hex to hex to rgb to rgba rgba alpha object defin properti color prototyp gl array gl array clamp enumer configur object defin properti color prototyp gl array gl array clamp enumer configur object defin properti color prototyp gl array gl array clamp enumer configur object defin properti color prototyp alpha gl array gl array clamp enumer configur color error error extend init error prototyp init appli name color error save remov init devic local storag json pars local storag get item save for each json pars local storag get item save object key for each object defin properti configur enumer devic local storag local storag set item save json stringifi devic local storag local storag set item save json stringifi object key remov devic local storag local storag remov item save local storag set item save json stringifi object key tmx constant collis group collis name name valu valu version version orient orient width width height height type opac opac tilewidth tilewidth tileheight tileheight tileoffset tileoffset firstgid firstgid tile tile nextobjid nextobjectid data compress compress gzip gzip zlib zlib encod encod attr base64 base64 space space margin margin properti properti properti properti imag imag sourc sourc visibl visibl tileset tileset layer layer tile layer tilelay imag layer imagelay objectgroup objectgroup object polygon polygon polylin polylin ellips ellips point point background color backgroundcolor rotat rotat hexsidelen hexsidelength flip 2147483648 flip 1073741824 flip 536870912 clear mask 536870911 tmx util is boolean is numer number match json split json json pars error unabl pars json attribut attribut length attribut length attribut item name name valu node name node valu pars node type ha child node child node length
+child node item node name node type node valu trim length node type tmx util pars draword array is array push tmx util pars length draword length valu appli tmx properti properti properti properti array is array for each name valu name valu ha own properti tmx constant tmx object group object extend init name width width height height object visibl visibl opac opac clamp tmx util appli tmx properti object array is array for each object push tmx object object push tmx object destroy object get object count object length get object by index object tmx object object extend init point name name width width height height type rotat number prototyp deg to rad rotat orient shape is ellips is polygon is poli line set tile ellips is ellips polygon is polygon polylin is poli line point point point split length split point push vector2d for each point push vector2d game tmx render adjust posit tmx util appli tmx properti shape shape pars tmx shape set tile get tileset by gid clear mask width framewidth tilewidth height frameheight tileheight tile tile pars tmx shape is ellips push ellips width height width height rotat rotat is polygon push polygon point rotat rotat is poli line point length rotat rotat rotat rotat rotat push line push polygon vector2d vector2d width vector2d width height vector2d height rotat rotat isometr orient length rotat math scale math sqrt2 math sqrt1 get object properti by name tmx constant tile rect extend init tileset transform rect prototyp init appli tilewidth tileheight tilewidth tileheight tile id flip x tile id flip flip y tile id flip flip ad tile id flip flip flip x flip y flip ad flip creat transform tile id clear mask creat transform transform transform matrix2d transform ident transform flip ad transform transform translat height width flip x transform translat flip ad height width flip y transform translat flip ad width height get render tileset anim tile id tileset anim tile id frame for each push tileid tileset textur creat anim from name tileset textur creat sprite from name tile id tileset firstgid rotat sourc angl math translat height math translat width height math translat width height flip flip x flip x flip y flip y tmx constant tmx tileset object extend init tile properti firstgid lastgid firstgid sourc util get file extens util get basenam loader get tmx tileset error tileset found name name tilewidth tilewidth tileheight tileheight space space margin margin tileoffset vector2d is anim anim tile ha own properti anim is anim anim firstgid frame anim anim tileoffset tileoffset tileoffset tileproperti ha own properti set tile properti firstgid tile tile array is array length firstgid tmx util appli tmx properti set tile properti anim is anim anim frame anim frame anim frame imag imag imag sourc imag util get imag imag tmx tileset error melon js file tileset name found textur video render cach imag framewidth tilewidth frameheight tileheight margin margin space space atla textur get atla imag width margin tilewidth space imag height margin tileheight space lastgid firstgid set tile properti tile properti contain firstgid lastgid get view tile id anim anim tileid firstgid get tile properti tile properti updat anim for each durat frame length frame draw tile flip save translat transform transform atla get view tile id tile id offset draw imag imag tilewidth tileheight tilewidth tileheight flip restor tmx tileset group object extend init tileset tileset push get tileset by index tileset get tileset by gid tileset length tileset contain tileset tileset firstgid tileset lastgid tileset firstgid tileset error match tileset found tmx tileset error error extend init error prototyp init appli name tmx tileset error tmx constant tmx orthogon render object extend init col row tilewidth tileheight can render orthogon orient col col row row tilewidth tilewidth tileheight tileheight pixel to tile coord vector2d pixel to tile x pixel to tile y pixel to tile x tilewidth pixel to tile y tileheight tile to pixel coord vector2d tilewidth tileheight adjust posit height draw tile draw tile tileoffset tilewidth tileoffset tileheight tileheight draw tile layer pixel to tile coord floor self pixel to tile coord width tilewidth height tileheight ceil self col col row row layer data draw tile tileset tmx isometr render object extend init col row tilewidth tileheight h tilewidth h tileheight origin x row h tilewidth can render isometr orient col col row row tilewidth tilewidth tileheight tileheight pixel to tile coord vector2d pixel to tile x pixel to tile y pixel to tile x tileheight origin x tilewidth pixel to tile y tileheight origin x tilewidth tile to pixel coord vector2d h tilewidth origin x h tileheight adjust posit h tilewidth tileheight tile to pixel coord draw tile draw tile col tilewidth tilewidth tilewidth tileheight draw tile layer tileset tileoffset pixel to tile coord tilewidth tileheight floor self pixel to tile coord width tilewidth height tileheight ceil self tile to pixel coord tile to pixel coord h tilewidth tileheight h tileheight h tilewidth h tilewidth h tilewidth h tileheight tileheight h tileheight set v tilewidth col row layer data tileset tileoffset draw tile tileheight h tilewidth h tilewidth tmx hexagon render object extend init orthogon tile support can render hexagon orient pixel to tile coord pixel to tile x pixel to tile y tile to pixel coord adjust posit draw tile draw tile layer color layer render extend init render prototyp init appli name color float draw global alpha set global alpha get opac game viewport set color color fill rect left width height set global alpha set color imag layer render extend init name name imag layer max width width max height height imag util get imag imag imag error imag imag imag file imag layer name found imagewidth imag width imageheight imag height render prototyp init appli max width max height resiz game viewport width game viewport height offset vector2d ratio vector2d ratio ratio ratio ratio ratio ratio set v ratio lastpo game viewport float repeat x repeat y object defin properti repeat x repeat y repeat x repeat y repeat x repeat y repeat x repeat y anchor point vp chang hdlr subscrib viewport onchang updat layer bind vp resiz hdlr subscrib viewport onres resiz bind resiz render prototyp resiz appli math max width math max height updat layer ratio ratio repeat x repeat y offset lastpo ratio imagewidth offset imagewidth offset imagewidth offset lastpo ratio imageheight offset imageheight offset imageheight offset lastpo ratio offset lastpo ratio lastpo set v draw game viewport anchor point anchor point anchor point width imagewidth anchor point height imageheight translat set global alpha global alpha get opac ratio ratio math width imagewidth math height imageheight draw imag imag left left offset offset math imagewidth width math imageheight height draw imag imag math imageheight height repeat y height repeat x width math imagewidth width offset math imageheight offset height translat destroy vp chang hdlr unsubscrib vp chang hdlr vp chang hdlr vp resiz hdlr unsubscrib vp resiz hdlr vp resiz hdlr imag lastpo tmx layer render extend init render prototyp init appli tilewidth tileheight orient tileset tileset tileset tileset get tileset by index anim tileset tileset tileset tileset length is anim is anim anim tileset push is anim anim tileset length is anim pre render init from json name name col width row height hexsidelength hexsidelen visibl visibl set opac opac isometr orient width col row tilewidth height col row tileheight width col tilewidth height row tileheight tmx util appli tmx properti pre render pre render pre render pre render canva render canva render video creat canva width height width height init array col row resiz bound width height destroy pre render canva render render layer data tileset tileset anim tileset set render render init array layer data layer data layer data get tile id get tile tile id get tile layer data render pixel to tile x render pixel to tile y set tile tileset contain tileset tileset get tileset by gid clear mask layer data tile tileset pre render render draw tile canva render tileset clear tile layer data pre render canva render clear rect tilewidth tileheight tilewidth tileheight updat is anim anim tileset length anim tileset updat draw pre render math width width math height height canva render set global alpha canva render global alpha get opac canva render global alpha draw imag canva render get canva global alpha set global alpha global alpha get opac global alpha render draw tile layer set global alpha tmx constant tmx tile map render extend init level id name col row tilewidth tileheight tileset map layer object group version orient tileset initi render prototyp init appli move to center game viewport width game viewport height width height width height get object group by name object group length object group name object group get object group object group get layer map layer get layer by name map layer length map layer name map layer clear tile map layer length map layer tmx layer map layer clear tile destroy initi map layer length map layer object group length object group destroy object group tileset map layer length object group length initi tmx map reader object extend init read map initi version version orient orient col width row height tilewidth tilewidth tileheight tileheight nextobjectid nextobjid isometr orient width col row tilewidth height col row tileheight width col tilewidth height row tileheight backgroundcolor background color tmx util appli tmx properti backgroundcolor map layer push color layer background color backgroundcolor background imag map layer push imag layer width width height height name background imag imag background imag game tmx render game tmx render can render game tmx render get new default render tileset tileset tmx tileset group tileset tileset array is array for each tileset read tileset tileset read tileset layer layer for each imag layer map layer push read imag layer tile layer map layer push read layer objectgroup object group push read object group layer layer array is array for each map layer push read layer draword map layer push read layer draword objectgroup objectgroup array is array for each object group push read object group draword object group push read object group draword imag layer imag layer array is array for each map layer push read imag layer draword map layer push read imag layer draword initi get new default render orient orthogon tmx orthogon render col row tilewidth tileheight isometr tmx isometr render col row tilewidth tileheight hexagon tmx hexagon render col row tilewidth tileheight hexsidelength error orient tile support set layer data array is array valu json attr base64 util decod csv col util decompress util decod base64 as array error tile encod support row col tmx parser get int attribut set tile read layer tmx layer tilewidth tileheight orient tileset init from json game tmx render can render set render game tmx render set render map reader get new default render array is array data encod data encod array is array data compress data compress set layer data data json read imag layer name width height imag imag sourc imag imag layer width tilewidth height tileheight name imag visibl visibl set opac opac clamp tmx util appli tmx properti ratio ratio ratio vector2d read tileset tmx tileset read object group tmx object group name orient tileset tmx constant level director auto sort game current level game viewport set bound math width game viewport width math height game viewport height get layer length add child get object group length name to lower case contain tmx constant collis group game merg group contain name name set opac opac auto sort object length object pool pull name entiti tile render tile get render name bodi collis type collis type world shape game merg group is render set opac get opac opac render render render set opac render get opac opac add child game merg group add child auto sort sort auto sort move to center transform translat v resiz width height game on level load game on level load call game on level load name publish level load name reset add level error level loader defin add tmx level tmx tile map name push load level error level found tmx tile map error level loader defin state is run state stop game reset get current level id get current level id destroy map reader read map loader get tmx util reset guid nextobjectid index of game world state restart defer get current level id reload level load level get current level id next level length load level previou level load level level count length
+preserv tween
+http github sole tween
+
+tween tween eas linear tween interpol linear pars float on reset event tween eas linear tween interpol linear start game world add child timer get time array length concat array stop game world ha child game world remov child now delay subscrib state resum yoyo eas tween error invalid eas tween eas interpol chain on start on updat on complet updat timer get time call array pars float call is finit pars float game world remov child now call length start tween eas linear quadrat in out cubic in out quartic in out quintic in out sinusoid math math math math in out math math exponenti math 1024 math in out math 1024 math circular math sqrt math sqrt in out math sqrt math sqrt elast math asin math math math math math asin math math math math in out math asin math math math math math math math back 70158 70158 in out 5949095 bounc tween eas bounc 5625 5625 5625 9375 5625 984375 in out tween eas bounc tween eas bounc tween interpol linear length math floor tween interpol util linear bezier length math tween interpol util bernstein catmul rom length math floor tween interpol util catmul rom math floor util linear bernstein tween interpol util factori factori catmul rom tween error error extend init error prototyp init appli name tween error
+preserv min pub sub
+micro publish subscrib messag framework
+http github daniellmb min pub sub
+author daniel lamb daniellmb
+
+releas licens
+
+state paus state on paus state resum state on resum state stop state on stop state restart state on restart game init game on init level load game on level load loader complet loader onload loader progress loader on progress keydown input keydown keyup input keyup mousemov game pointermov dragstart game dragstart dragend game dragend window onres window onres viewport onres viewport onres window onorient chang window orientationchang window onscrol window onscrol viewport onchang viewport onchang publish length appli window subscrib push unsubscrib length splice
+howler beta
+howlerj
+
+2013 2015 jame simpson gold fire studio
+goldfirestudio
+
+licens
+
+strict audio context audio context webkit audio context webkit audio context audio audio creat gain creat gain node creat gain gain valu connect destin init prototyp init codec howl mute volum i os auto enabl no audio use web audio setup codec volum pars float volum gain valu howl length howl web audio howl get sound id length howl sound by id node node volum volum volum mute mute gain valu volum howl length howl web audio howl get sound id length howl sound by id node node mute mute codec codec setup codec audio can play type audio mpeg replac codec can play type audio replac mpeg opu can play type audio codec opu replac can play type audio codec vorbi replac can play type audio codec replac can play type audio replac can play type audio can play type audio can play type audio replac can play type audio can play type audio can play type audio replac weba can play type audio webm codec vorbi replac webm can play type audio webm codec vorbi replac enablei os audio i os enabl i phone i pad i pod test navig user agent i os enabl creat buffer 22050 creat buffer sourc buffer connect destin start note on start set timeout playback state play state playback state finish state i os enabl i os auto enabl window remov event listen touchstart window add event listen touchstart length init consol error sourc file must pass howl prototyp init autoplay autoplay html5 html5 mute mute pool pool preload preload preload rate rate sprite sprite volum volum volum durat load sound end timer onend onend onend onfad onfad onfad onload onload onload onloaderror onloaderror onloaderror onpaus onpaus onpaus onplay onplay onplay web audio html5 i os auto enabl enablei os audio howl push preload load load emit loaderror length audio exec exec split to lower case codec web audio emit loaderror play sound length sound paus sound end sound sound by id inact sound sprite load sprite load play sound by id paus seek seek sprite sprite sprite sprite emit web audio stop play web audio emit play seek start play start current time end timer set timeout stop start math rate web audio paus end seek start clear timer node buffer sourc web audio stop end timer set timeout math rate paus end sprite seek start sprite stop sprite sprite sprite node web audio refresh buffer mute mute volum volum gain set valu at time current time play start current time buffer sourc start buffer sourc note grain on 2592e3 buffer sourc note grain on buffer sourc start 2592e3 buffer sourc start end timer end timer set timeout math rate set timeout emit play load load clear timer current time mute mute mute mute mute volum volum volum playback rate rate set timeout play emit play readi state readi state navig is cocoon js end timer set timeout math rate remov event listen canplaythrough add event listen canplaythrough clear timer paus load play paus get sound id length clear timer sound by id paus seek seek paus web audio node buffer sourc node buffer sourc stop node buffer sourc note off node buffer sourc stop node buffer sourc is na n node durat node paus emit paus stop load sound sprite play stop get sound id length clear timer sound by id paus seek start paus end web audio node node buffer sourc node buffer sourc stop node buffer sourc note off node buffer sourc stop node buffer sourc node is na n node durat node paus node current time start mute load play mute mute mute get sound id length sound by id mute web audio node node gain set valu at time volum volum current time node node mute mute volum length volum length get sound id index of pars int pars float length pars float pars int sound by id sound volum load play volum appli volum get sound id length sound by id volum web audio node node gain set valu at time volum current time node node volum volum fade load play fade volum get sound id length sound by id web audio current time volum node gain set valu at time node gain linear ramp to valu at time set timeout set timeout volum emit fade current time math ceil current time bind math set interv math math math round volum clear interv emit fade bind length length sound by id pars int length pars int get sound id length sound by id web audio node node buffer sourc seek length sound length get sound id index of pars int sound pars float length pars float pars int load load seek appli sound by id web audio seek play current time play start node current time play paus seek clear timer play play sound by id sound paus durat durat unload sound length paus stop emit web audio node node remov event listen error error fn node remov event listen canplaythrough load fn node clear timer howl index of howl splice push length splice appli emit length set timeout call bind clear timer end timer clear timeout end timer end timer sound by id sound length sound sound inact sound drain sound length sound end sound reset drain pool sound length sound length sound end sound length sound end web audio sound node sound node disconnect sound splice get sound id sound length push sound refresh buffer node buffer sourc creat buffer sourc node buffer sourc buffer panner node buffer sourc connect panner node buffer sourc connect node node buffer sourc node buffer sourc loop start start node buffer sourc loop end stop node buffer sourc playback rate valu rate parent init prototyp init parent mute mute volum volum mute mute seek paus end math round date math random sound push creat creat parent mute mute parent mute volum volum web audio node creat gain creat gain node creat gain node gain set valu at time current time node paus node connect node audio error fn error listen bind node add event listen error error fn load fn load listen bind node add event listen canplaythrough load fn node node preload node volum node load reset parent mute mute volum volum mute mute seek paus end sprite math round date math random error listen node error node error code no audio parent emit loaderror node error node error code node remov event listen error error listen load listen parent durat math ceil node durat object key sprite length sprite durat load load emit load autoplay play node remov event listen canplaythrough load fn durat durat base64 test window atob window atob abcdefghijklmnopqrstuvwxi zabcdefghijklmnopqrstuvwxyz0123456789 string replac char at string from char code index of atob split uint8 array length length char code at buffer xml http request open respons type arraybuff onload respons onerror web audio html5 web audio sound load send onerror decod audio data emit loaderror durat durat durat object key sprite length sprite durat load load emit load autoplay play defin defin defin howler howler howl export export howler export howl window window howler global window howler window howl window sound plugin base object extend init version patch prototyp prototyp object defin properti configur valu patch appli patch consol error exist plugin consol error plugin alreadi regist length array prototyp slice call plugin bind appli plugin plugin plugin base error plugin extend plugin base class check version plugin version error plugin version mismatch expect plugin version version draggabl entiti strict extend init prototyp init appli drag drag id grab offset on pointer event regist pointer event remov pointer event releas pointer event init event init event mous down translat pointer event dragstart mous up translat pointer event dragend on pointer event pointerdown mous down bind on pointer event pointerup mous up bind subscrib mousemov drag move bind subscrib dragstart drag start subscrib dragend drag end translat pointer event publish drag start drag drag drag id pointer id grab offset game x game y grab offset drag move drag drag id pointer id game x game y grab offset drag end drag pointer id drag destroy unsubscrib mousemov drag move unsubscrib dragstart drag start unsubscrib dragend drag end remov pointer event pointerdown remov pointer event pointerup entiti input vector2d droptarget entiti strict extend init checkmethod overlap overlap checkmethod contain contain check method prototyp init appli subscrib dragend check on me bind check method checkmethod overlap set check method check method check on me check method get bound drop drop destroy unsubscrib dragend check on me entiti video creat canva get context fill style fill rect particl emitt set width height imag total particl angl math angl variat min life max life speed speed variat min rotat max rotat min start scale max start scale min end scale max end scale graviti wind follow trajectori textur addit onli in viewport float max particl frequenc durat frame to skip particl emitt rect extend init stream frequenc timer durat timer enabl is render rect prototyp init appli auto sort contain particl contain object defin properti contain contain enumer configur object defin properti float contain float contain float enumer configur reset destroy reset get random point random float width random float height reset particl emitt set width width width height height height resiz object assign contain destroy add particl pool pull particl contain add child is run enabl stream stream particl enabl stream frequenc math frequenc durat timer durat stop stream enabl burst particl enabl stream add particl total particl enabl updat enabl stream durat timer durat timer durat timer stop stream frequenc timer contain children length total particl frequenc timer frequenc max particl total particl add particl max particl add particl total particl frequenc timer particl contain contain extend init bound game viewport contain prototyp init appli auto sort updat count emitt get bound bound updat updat count emitt frame to skip updat count updat count game viewport children length children is render in viewport float width width height height updat remov child now draw children length get context emitt textur addit global composit oper global composit oper lighter contain prototyp draw appli emitt textur addit global composit oper particl render extend init get random point render prototyp init appli imag width imag height alway updat is render imag imag angl angl variat random float angl variat speed speed variat random float speed variat vector2d math math life min life random float max life start life life start scale min start scale random float max start scale clamp min start scale max start scale end scale min end scale random float max end scale clamp min end scale max end scale graviti graviti wind wind follow trajectori follow trajectori onli in viewport onli in viewport delta inv transform matrix2d follow trajectori angl min rotat random float max rotat updat delta inv life life life life start life start scale start scale end scale end scale end scale start scale end scale end scale end scale alpha wind graviti follow trajectori math atan2 angl transform rotat in viewport onli in viewport life draw save set global alpha global alpha alpha transform transform width height draw imag imag restor window
+
+melon js game engin
+copyright 2011 2015 olivi biot jason oster aaron mc leod
+http melonj
+
+simpl debug panel plugin
+usag plugin defer debug panel debug
+
+plugin debug show plugin debug hide
+show hide panel press respect key
+
+note
+heap memori inform avail chrome
+enabl memori info paramet launch chrome
+
+
+
+
+debug defin
+debug debug
+
+debug height
+
+counter object extend
+init stat
+stat
+reset stat
+
+
+reset stat
+
+stat object key stat for each stat
+stat stat
+
+
+
+stat valu
+stat stat valu
+
+
+stat
+stat stat
+
+
+
+debug panel render extend
+
+init show key hide key
+call
+render init game viewport width debug height
+
+minimum melon js version expect
+version
+
+hold debug option
+clickabl rect area
+area
+
+use counter
+counter counter
+shape
+sprite
+veloc
+bound
+children
+
+
+order
+make ridicul high
+infin
+
+visibl flag
+visibl
+
+frame updat time
+frame updat time
+
+frame draw time
+frame draw time
+
+guid valu
+guid debug util creat guid
+
+entiti name
+name debug panel
+
+persist
+is persist
+
+float
+float
+
+render
+is render
+
+alway updat even visibl
+alway updat
+
+web gl canva compat
+canva video creat canva width height
+
+creat font width
+font size
+
+width
+font size
+
+
+font font courier font size white
+
+clickabl area
+size
+area render hit box rect size size
+area render veloc rect size size
+area render quad tree rect size size
+
+length
+help
+help font measur text video render help width
+font measur text video render width
+memori posit x
+
+enabl counter
+debug display fp
+
+bind key
+input bind key show key input show
+input bind key hide key input hide
+
+keyboard shortcut
+
+key handler subscrib keydown action
+action show
+show
+
+action hide
+hide
+
+
+subscrib viewport onres
+resiz debug height
+
+
+patch patch patch
+patch system fn
+
+
+
+patch system draw debug inform
+
+patch system fn
+
+debug flag defin
+debug render hit box debug render hit box game hash hitbox
+debug render veloc debug render veloc game hash veloc
+debug render quad tree debug render quad tree game hash quadtre
+
+
+bound rect
+
+patch timer
+plugin patch timer updat
+call origin timer updat
+patch
+
+call counter
+timer count fp
+
+
+patch game updat
+plugin patch game updat
+frame updat start time window perform
+
+patch
+
+calcul updat time
+frame updat time window perform frame updat start time
+
+
+patch game draw
+plugin patch game draw
+frame draw start time window perform
+
+counter reset
+patch
+
+calcul draw time
+frame draw time window perform frame draw start time
+
+
+patch sprite
+plugin patch sprite draw render
+call origin sprite draw
+patch render
+
+draw sprite rectangl
+debug render hit box
+render save
+render set color green
+render stroke rect left width height
+counter sprite
+render restor
+
+
+
+patch entiti
+plugin patch entiti draw render
+call origin entiti draw
+patch render
+
+check debug mode enabl
+debug render hit box
+render save
+render set line width
+
+draw bound rect shape
+render set color orang
+bound copi get bound
+bound ancestor ab po
+render draw shape bound
+counter bound
+
+draw defin shape
+render set color
+render translat
+bodi shape length shape shape bodi shape
+render draw shape shape
+counter shape
+
+
+render restor
+
+
+debug render veloc bodi bodi
+bound copi get bound
+bound ancestor ab po
+draw entiti current veloc
+bound bound width
+bound bound height
+
+render save
+render set line width
+
+render set color blue
+render translat
+render stroke line bodi bound width bodi bound height
+counter veloc
+
+render restor
+
+
+
+patch contain
+plugin patch contain draw render rect
+call origin contain draw
+patch render rect
+
+check debug mode enabl
+
+debug render hit box
+render save
+render set line width
+
+draw bound rect shape
+render set color orang
+bound copi get bound
+bound ancestor ab po
+render draw shape bound
+counter bound
+
+draw children bound rect shape
+render set color purpl
+bound copi child bound
+bound ancestor ab po
+render draw shape bound
+counter children
+
+render restor
+
+
+
+
+
+show debug panel
+
+show
+visibl
+mous checkbox
+input regist pointer event pointerdown on click bind
+debug panel game world
+game world add child infin
+mark visibl
+visibl
+
+
+
+
+hide debug panel
+
+hide
+visibl
+releas mous checkbox
+input releas pointer event pointerdown
+canva remov event listen click on click bind
+remov debug panel game world
+game world remov child
+mark invis
+visibl
+
+
+
+
+
+updat
+input is key press show
+show
+
+input is key press hide
+hide
+
+
+
+
+
+on click
+check clickabl area
+area render hit box contain point game x game y
+debug render hit box debug render hit box
+
+area render veloc contain point game x game y
+noth sinc veloc
+render togeth hitbox debug flag requir
+debug render veloc debug render veloc
+
+area render quad tree contain point game x game y
+debug render quad tree debug render quad tree
+
+forc repaint
+game repaint
+
+
+
+draw quad tree node render node
+bound node bound
+
+draw current bound
+node node length
+alpha valu maximum
+alpha node object length collis max children
+alpha
+render save
+render set color rgba alpha
+render fill rect bound bound bound width bound height
+render restor
+
+
+
+subnod draw quadtre
+node node length
+draw quad tree node render node node
+
+
+
+
+
+draw quad tree render
+save current global alpha valu
+alpha render global alpha
+game viewport
+game viewport
+
+render translat
+
+draw quad tree node render collis quad tree
+
+render translat
+
+render set global alpha alpha
+
+
+
+draw memori graph render end x
+window perform window perform memori
+use heap number prototyp round window perform memori use js heap size 1048576
+total heap number prototyp round window perform memori total js heap size 1048576
+max len end x memori posit x
+max len use heap total heap
+
+render set color 0065 ad
+render fill rect memori posit x max len
+render set color 3 aa4 f0
+render fill rect memori posit x
+
+font draw render heap use heap total heap memori posit x
+
+
+heap memori inform avail
+font draw render heap memori posit x
+
+
+
+
+draw render
+render save
+
+draw quad tree panel
+debug render quad tree
+draw quad tree render
+
+
+draw panel
+render set global alpha
+render set color black
+render fill rect
+left
+width height
+
+render set global alpha
+
+font draw render object game world children length
+font draw render draw game world draw count
+
+debug checkbox
+font draw render hitbox debug render hit box
+font draw render veloc debug render veloc
+
+font draw render quad tree debug render quad tree
+
+draw updat durat
+font draw render updat frame updat time to fix
+draw draw durat
+font draw render draw frame draw time to fix
+
+font bold
+
+draw color code hint
+font fill style copi
+font draw render shape counter shape
+
+font fill style copi green
+font draw render sprite counter sprite
+
+font fill style copi blue
+font draw render veloc counter veloc
+
+font fill style copi orang
+font draw render bound counter bound
+
+font fill style copi purpl
+font draw render children counter children
+
+reset font style
+font set font courier font size white
+
+draw memori heap usag
+end x width
+draw memori graph render end x help
+
+help
+font draw render help end x help
+
+counter
+timer
+font draw render width
+
+render restor
+
+
+
+on destroy event
+hide panel
+hide
+unbind key
+input unbind key input
+input unbind key input
+unsubscrib key handler
+
+
+
+
+
+
+plugin base
+member of
+
+
+debug panel plugin base extend
+scope debug panel prototyp
+
+
+
+init show key hide key
+call
+plugin base init
+
+panel debug panel show key hide key
+panel show
+
+
+
+
+
+
+
+game titl screen screen object extend
+init
+screen object init
+font
+ground1
+ground2
+logo
+
+
+on reset event
+audio stop theme
+game new hi score
+
+game world add child background layer
+input bind key input enter enter
+input bind key input space enter
+input bind pointer input mous left input enter
+
+handler subscrib keydown action key code edg
+action enter
+state chang state play
+
+
+
+logo
+logo img loader get imag logo
+logo sprite
+game viewport width
+logo img
+imag logo img
+
+game world add child logo
+
+
+logo tween pool pull tween logo
+game viewport height 1000
+eas tween eas exponenti in out start
+
+ground1 pool pull ground video render get height
+ground2 pool pull ground video render get width
+video render get height
+game world add child ground1
+game world add child ground2
+
+game world add child render extend
+
+init
+size matter avoid zero size
+render
+render init
+text devic touch start press space click left mous button start t press mute sound
+font font gamefont
+
+draw render
+measur font measur text render text
+xpo game viewport width measur width
+ypo game viewport height
+font draw render text xpo ypo
+
+
+
+
+on destroy event
+unregist
+unsubscrib handler
+input unbind key input enter
+input unbind key input space
+input unbind pointer input mous left
+ground1
+ground2
+game world remov child logo
+logo
+
+
+game game over screen screen object extend
+init
+save data
+handler
+
+
+on reset event
+save section
+save data
+score game score
+step game step
+
+save save data
+
+save top step save top step game step
+game step save top step
+save top step game step
+game new hi score
+
+input bind key input enter enter
+input bind key input space enter
+input bind pointer input mous left input enter
+
+handler subscrib keydown
+action key code edg
+action enter
+state chang state menu
+
+
+
+g imag loader get imag gameov
+game world add child sprite
+video render get width g imag width
+video render get height g imag height
+imag g imag
+
+
+g imag board loader get imag gameoverbg
+game world add child sprite
+video render get width g imag board width
+video render get height g imag board height
+imag g imag board
+
+
+game world add child background layer
+
+ground
+ground1 pool pull ground video render get height
+ground2 pool pull ground video render get width
+video render get height
+game world add child ground1
+game world add child ground2
+
+share button
+button height video render get height
+share share video render get width button height
+game world add child share
+
+tweet button
+tweet tweet share button height
+game world add child tweet
+
+dialog witht game inform
+game new hi score
+new rect sprite
+
+
+imag loader get imag
+
+game world add child new rect
+
+
+dialog render extend
+
+init
+size matter avoid
+zero size
+render
+render init
+font font gamefont black left
+step step game step to string
+top step higher step save top step to string
+
+
+draw render
+step text font measur text render step
+top step text font measur text render top step
+score text font measur text render score
+
+step
+font draw
+render
+step
+game viewport width step text width
+game viewport height
+
+
+score
+font draw
+render
+top step
+game viewport width step text width
+game viewport height
+
+
+
+game world add child dialog
+
+
+on destroy event
+unregist
+unsubscrib handler
+input unbind key input enter
+input unbind key input space
+input unbind pointer input mous left
+ground1
+ground2
+font
+audio stop theme
+
+
+game play screen screen object extend
+init
+audio play theme
+lower audio volum firefox browser
+devic contain firefox
+audio set volum
+screen object init
+
+
+on reset event
+game reset
+audio stop theme
+game mute
+audio play theme
+
+
+input bind key input space
+game score
+game step
+game start
+game new hiscor
+
+game world add child background layer
+
+ground1 pool pull ground video render get height
+ground2 pool pull ground video render get width
+video render get height
+game world add child ground1
+game world add child ground2
+
+game contain
+game world add child
+
+bird pool pull clumsi game viewport height
+game world add child bird
+
+input
+input bind pointer input mous left input space
+
+get readi sprite
+video render get width
+video render get height
+imag loader get imag getreadi
+
+game world add child get readi
+
+
+fade out tween get readi alpha 2000
+eas tween eas linear
+on complet
+game start
+game world add child pipe gener
+game world remov child get readi
+start
+
+
+on destroy event
+audio stop track theme
+free store
+
+bird
+ground1
+ground2
+input unbind key input space
+input unbind pointer input mous left
+
+
+bird entiti entiti extend
+init
+set
+set imag loader get imag clumsi
+set width
+set height
+set framewidth
+set frameheight
+
+entiti init set
+alway updat
+bodi graviti
+graviti forc
+max angl rotat number prototyp deg to rad
+max angl rotat down number prototyp deg to rad
+render add anim fli
+render add anim idl
+render set current anim fli
+render anchor point vector2d
+manual rectangular collis shape
+bodi remov shape at
+bodi add shape ellips
+
+tween fli physic effect
+fli tween tween
+fli tween eas tween eas exponenti in out
+
+anim tween
+end tween
+
+collis shape
+collid
+
+
+updat
+mechan
+
+game start
+entiti updat
+
+input is key press
+audio play wing
+graviti forc
+current po
+stop previou tween
+fli tween stop
+fli tween current po
+fli tween start
+render angl max angl rotat
+
+graviti forc
+timer tick graviti forc
+render angl number prototyp deg to rad graviti forc
+render angl max angl rotat down
+render angl max angl rotat down
+
+rect prototyp updat bound appli
+
+hit sky bird height 20px
+hit sky collid
+game start
+audio play lose
+end anim
+
+
+collis check
+entiti updat
+
+
+
+on collis respons
+respons
+pipe ground
+devic vibrat
+collid
+
+remov
+
+game world remov child now
+game step
+audio play
+
+
+
+
+end anim
+game viewport fade out
+current po render
+end tween tween render
+end tween eas tween eas exponenti in out
+
+fli tween stop
+render angl max angl rotat down
+final po video render get height render width
+end tween
+current po 1000
+final po 1000
+on complet
+state chang state game over
+
+end tween start
+
+
+
+
+
+pipe entiti entiti extend
+init
+set
+set imag imag loader get imag pipe
+set width
+set height 1664
+set framewidth
+set frameheight 1664
+
+entiti init set
+alway updat
+bodi graviti
+bodi
+pipe
+
+
+updat
+mechan
+game start
+entiti updat
+
+bodi
+imag width
+game world remov child
+
+rect prototyp updat bound appli
+entiti updat
+
+
+
+
+
+pipe gener render extend
+init
+render init game viewport width game viewport height
+alway updat
+gener
+pipe frequenc
+pipe hole size 1240
+po x game viewport width
+
+
+updat
+gener pipe frequenc
+po y number prototyp random
+video render get height
+
+
+po y2 po y video render get height pipe hole size
+pipe1 pool pull pipe po x po y
+pipe2 pool pull pipe po x po y2
+hit po po y
+pool pull po x hit po
+pipe1 render flip y
+game world add child pipe1
+game world add child pipe2
+game world add child
+
+entiti updat
+
+
+
+
+
+hit entiti entiti extend
+init
+set
+set imag imag loader get imag
+set width
+set height
+set framewidth
+set frameheight
+
+entiti init set
+alway updat
+bodi graviti
+updat time
+render alpha
+bodi accel
+bodi remov shape at
+bodi add shape rect set width set height
+
+
+
+updat
+mechan
+bodi accel
+imag width
+game world remov child
+
+rect prototyp updat bound appli
+entiti updat
+
+
+
+
+
+ground entiti extend
+init
+set
+set imag loader get imag ground
+set width
+set height
+entiti init set
+alway updat
+bodi graviti
+bodi
+ground
+
+
+updat
+mechan
+bodi
+render width
+video render get width
+
+rect prototyp updat bound appli
+entiti updat
+
+
+
+game game
+
+game contain contain extend
+init
+call
+contain init
+persist across level chang
+is persist
+
+collid
+collid
+
+make sure alway draw first
+infin
+
+give name
+name
+
+child score left corner
+add child game score item
+
+
+
+
+
+basic item display score
+
+game score item render extend
+
+
+
+init
+call parent
+size matter
+render init
+
+local copi score
+step font font gamefont center
+
+make sure screen coordin
+float
+
+
+draw render
+game start state is current state play
+step font draw render game step video render get width
+
+
+
+
+background layer imag layer extend
+init imag speed
+set
+set name imag
+set width
+set height
+set imag imag
+set
+set ratio
+call parent
+imag layer init set
+
+
+updat
+input is key press mute
+game mute game mute
+game mute
+audio disabl
+
+audio enabl
+
+
+
+
+
+
+share object extend
+init
+set
+set imag share
+set framewidth
+set frameheight
+object init set
+
+
+on click
+share text just made game step step clumsi bird beat onlin
+http ellisonleao github clumsi bird
+
+
+method feed
+name clumsi bird score
+caption share friend
+descript
+share text
+
+link
+pictur http ellisonleao github clumsi bird clumsi
+
+
+
+
+
+
+
+tweet object extend
+init
+set
+set imag tweet
+set framewidth
+set frameheight
+object init set
+
+
+on click
+share text just made game step step clumsi bird beat onlin
+http ellisonleao github clumsi bird
+hashtag clumsybird melonj
+window open http twitter intent tweet text share text hashtag hashtag count tweet height width
+
+
+
+
+game score step start new hi score mute onload video init wrapper screen render video canva scale scale method audio init loader onload load bind loader preload game resourc state chang state load document locat hash match debug window on readi plugin defer debug panel debug input alert your browser support html5 canva load state state menu game titl screen state state play game play screen state state game over game game over screen input bind key input space input bind key input mute input bind pointer input space pool clumsi bird entiti pool pipe pipe entiti pool hit entiti pool ground ground game viewport set bound state chang state menu game resourc name imag name clumsi imag clumsi name pipe imag pipe name logo imag logo name ground imag ground name gameov imag gameov name gameoverbg imag gameoverbg name imag name getreadi imag getreadi name imag name share imag share name tweet imag tweet name theme audio name audio name lose audio name wing audio bird entiti entiti extend init imag loader get imag clumsi width height framewidth frameheight entiti init alway updat bodi graviti graviti forc max angl rotat number prototyp deg to rad max angl rotat down number prototyp deg to rad render add anim fli render add anim idl render set current anim fli render anchor point vector2d bodi remov shape at bodi add shape ellips fli tween tween fli tween eas tween eas exponenti in out end tween collid updat game start entiti updat input is key press audio play wing graviti forc fli tween stop fli tween fli tween start render angl max angl rotat graviti forc timer tick graviti forc render angl number prototyp deg to rad graviti forc render angl max angl rotat down render angl max angl rotat down rect prototyp updat bound appli collid game start audio play lose end anim collis check entiti updat on collis pipe ground devic vibrat collid game world remov child now game step audio play end anim game viewport fade out render end tween tween render end tween eas tween eas exponenti in out fli tween stop render angl max angl rotat down video render get height render width end tween on complet state chang state game over end tween start pipe entiti entiti extend init imag imag loader get imag pipe width height 1664 framewidth frameheight 1664 entiti init alway updat bodi graviti bodi pipe updat game start bodi imag width game world remov child rect prototyp updat bound appli entiti updat entiti updat pipe gener render extend init render init game viewport width game viewport height alway updat gener pipe frequenc pipe hole size 1240 po x game viewport width updat gener pipe frequenc number prototyp random video render get height video render get height pipe hole size pool pull pipe po x pool pull pipe po x pool pull po x render flip y game world add child game world add child game world add child entiti updat hit entiti entiti extend init imag imag loader get imag width height framewidth frameheight entiti init alway updat bodi graviti updat time render alpha bodi accel bodi remov shape at bodi add shape rect width height updat bodi accel imag width game world remov child rect prototyp updat bound appli entiti updat ground entiti extend init imag loader get imag ground width height entiti init alway updat bodi graviti bodi ground updat bodi render width video render get width rect prototyp updat bound appli entiti updat game game game contain contain extend init contain init is persist collid name add child game score item game score item render extend init render init step font font gamefont center float draw game start state is current state play step font draw game step video render get width background layer imag layer extend init name width height imag ratio imag layer init updat input is key press mute game mute game mute game mute audio disabl audio enabl share object extend init imag share framewidth frameheight object init on click just made game step step clumsi bird beat onlin http ellisonleao github clumsi bird method feed name clumsi bird score caption share friend descript link pictur http ellisonleao github clumsi bird clumsi tweet object extend init imag tweet framewidth frameheight object init on click just made game step step clumsi bird beat onlin http ellisonleao github clumsi bird clumsybird melonj window open http twitter intent tweet text hashtag count tweet height width game titl screen screen object extend init screen object init font ground1 ground2 logo on reset event audio stop theme game new hi score game world add child background layer input bind key input enter enter input bind key input space enter input bind pointer input mous left input enter handler subscrib keydown enter state chang state play loader get imag logo logo sprite game viewport width imag game world add child logo pool pull tween logo game viewport height eas tween eas exponenti in out start ground1 pool pull ground video render get height ground2 pool pull ground video render get width video render get height game world add child ground1 game world add child ground2 game world add child render extend init render init text devic touch start press space click left mous button start press mute sound font font gamefont draw font measur text text game viewport width width game viewport height font draw text on destroy event unsubscrib handler input unbind key input enter input unbind key input space input unbind pointer input mous left ground1 ground2 game world remov child logo logo game play screen screen object extend init audio play theme devic contain firefox audio set volum screen object init on reset event game reset audio stop theme game mute audio play theme input bind key input space game score game step game start game new hiscor game world add child background layer ground1 pool pull ground video render get height ground2 pool pull ground video render get width video render get height game world add child ground1 game world add child ground2 game contain game world add child bird pool pull clumsi game viewport height game world add child bird input bind pointer input mous left input space get readi sprite video render get width video render get height imag loader get imag getreadi game world add child get readi tween get readi alpha eas tween eas linear on complet game start game world add child pipe gener game world remov child get readi start on destroy event audio stop track theme bird ground1 ground2 input unbind key input space input unbind pointer input mous left game game over screen screen object extend init save data handler on reset event save data score game score step game step save save data save top step save top step game step game step save top step save top step game step game new hi score input bind key input enter enter input bind key input space enter input bind pointer input mous left input enter handler subscrib keydown enter state chang state menu loader get imag gameov game world add child sprite video render get width width video render get height height imag loader get imag gameoverbg game world add child sprite video render get width width video render get height height imag game world add child background layer ground1 pool pull ground video render get height ground2 pool pull ground video render get width video render get height game world add child ground1 game world add child ground2 video render get height share share video render get width game world add child share tweet tweet share game world add child tweet game new hi score sprite imag loader get imag game world add child dialog render extend init render init font font gamefont black left step step game step to string top step higher step save top step to string draw font measur text step font measur text top step font measur text score font draw step game viewport width width game viewport height font draw top step game viewport width width game viewport height game world add child dialog on destroy event unsubscrib handler input unbind key input enter input unbind key input space input unbind pointer input mous left ground1 ground2 font audio stop theme

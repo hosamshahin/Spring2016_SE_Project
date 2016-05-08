@@ -1,0 +1,4056 @@
+check chapter introduct
+setwd introduct
+sourc sight
+setwd
+
+check chapter explor
+setwd explor
+sourc chapter02
+setwd
+
+check chapter classif
+setwd classif
+sourc email classifi
+setwd
+
+check chapter rank
+setwd rank
+sourc prioriti inbox
+setwd
+
+check chapter regress
+setwd regress
+sourc chapter05
+setwd
+
+check chapter regular
+setwd regular
+sourc chapter06
+setwd
+
+check chapter optim
+setwd optim
+sourc chapter07
+setwd
+
+check chapter
+setwd
+sourc chapter08
+setwd
+
+check chapter
+setwd
+sourc chapter09
+setwd
+
+check chapter recommend
+setwd recommend
+sourc chapter10
+setwd
+
+check chapter
+setwd
+sourc chapter09
+setwd
+
+check chapter model comparison
+setwd model comparison
+sourc chapter12
+setwd
+file name instal
+date 2012
+author drew conway drew conway
+purpos instal packag need machin learn hacker studi
+data use
+packag use
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+creat vector contain packag use studi
+particular order
+
+option repo structur cran http cran stat auckland
+
+cran packag e1071
+ggplot2
+glmnet
+hmisc
+igraph
+lme4
+lubrid
+plyr
+r curl
+reshap
+rjsonio
+scale
+
+
+
+thi script attempt instal packag use machin learn hacker
+
+cran packag
+suppress warn charact quietli
+past miss attempt instal
+instal packag depend sourc
+
+
+past instal
+
+
+
+requir packag instal
+
+file name twitter
+date 2012
+author drew conway drew cownway
+purpos file code chapter file write code gener
+network given twitter user onc network built
+vertex level attribut clean graph extract corr final
+perform hierarch cluster analysi node distanc base commun
+detect node partit node save file gaph ml
+data use
+packag use igraph googl
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+
+
+warn reader
+
+2012 appear that twitter
+chang interact with googl
+socialgraph thu thi code will
+produc error left exposit
+reader data
+origin produc your risk
+
+
+note run consol must setwd command
+work directori consol whereev save file prior run
+otherwis error load save figur
+
+load librari
+librari igraph
+
+note these code block left comment becasu run caus error
+code exampl provid chatper
+
+load function build network googl
+sourc googl
+
+first build round snowbal given user suppli command line
+twitter user seed
+user file stdin
+user read line user
+close user
+
+note window user abl script
+shell
+variabl whatev twitter user would like build
+network script done
+
+user johnmyleswhit
+
+creat past user show warn
+
+user suppress warn read graph past user user graphml format graphml
+user twitter snowbal user
+
+label work gephi
+user vertex attribut user label valu vertex attribut user name
+
+next extract core remov pendant gener result
+user core graph core user mode
+user clean subgraph user user core
+
+final extract
+user subgraph user neighbor user user mode
+
+hierarch cluster network
+user shortest path user
+user hclust dist user
+
+past imag user dendrogram width 1680 height 1050
+plot user
+
+
+first trival partit
+
+user cluster charact cutre user
+user cluster
+user vertex attribut user name past valu user cluster
+
+
+mean cluster network
+
+user kmean dist user center
+user cluster charact user cluster
+user cluster
+user vertex attribut user name past valu user cluster
+
+
+write file graph ml format
+write graph user past user user graphml format graphml
+write graph user clean past user user clean graphml format graphml
+write graph user past user user graphml format graphml
+file name googl
+date 2012
+author drew conway drew conway
+purpos file code chapter thi file contain function build
+igraph network twitter social graph initi code
+use write function queri googl social graph
+download pars build network object thi later
+use gener graph specif user perform analysi
+data use access googl social graph sourc http code googl api socialgraph
+packag use igraph r curl rjsonio
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+
+
+warn reader
+
+2012 appear that twitter
+chang interact with googl
+socialgraph thu thi code will
+produc error left exposit
+reader data
+origin produc your risk
+
+
+note run consol must setwd command
+work directori consol whereev save file prior run
+otherwis error load save figur
+
+load librari
+librari igraph
+librari r curl
+librari rjsonio
+
+function build given twitter
+user avail googl social
+graph
+
+highest level pars json
+twitter network user
+past http socialgraph googleapi lookup http twitter
+user
+get url
+guard request issu creat
+actual someth back get url
+grepl servic unavail pleas later
+get url
+
+json from json
+build json
+
+
+thi work build network
+relationship given user
+build json
+extract twitter node
+find twitter name json node
+build degre edgelist user
+node name json node node referenc
+length node
+connect
+twitter friend find twitter node
+length twitter friend
+twitter connect
+friend cbind twitter friend
+
+
+friend integ integ
+
+
+
+friend integ integ
+
+node name json node node referenc
+length node
+twitter follow find twitter node
+length twitter follow
+follow cbind twitter follow
+
+
+follow integ integ
+
+
+
+follow integ integ
+
+rbind friend follow
+
+
+
+some node return twitter
+social graph websit creat secondari
+extract node
+find twitter node vector
+twitter node node vector grepl http twitter node vector
+length twitter node
+twitter user strsplit twitter node
+user sappli length twitter user
+ifels twitter user account twitter user
+user user
+
+
+charact
+
+
+
+next build gener snowbal search
+twitter seed user purpos alway
+search hop seed build
+larger search possibl
+twitter snowbal seed
+seed user build onto
+network creat full snowbal search
+snowbal twitter network seed
+
+neighbor seed round snowbal
+seed seed snowbal seed
+round complet first round snowbal
+
+record node done reduc amount
+call done
+node seed
+
+
+begin snowbal search
+round
+seed
+user seed
+onli network alreadi visit node
+user node
+user twitter network user
+user
+snowbal rbind snowbal user
+seed seed seed user user
+node node user
+
+
+
+seed uniqu seed
+seed seed seed node
+round round
+
+like process creat duplic row
+matter hous keep remov
+twitter social graph contain parallel edg
+snowbal snowbal duplic snowbal
+graph edgelist snowbal
+
+
+small helper uniqu seed
+iter snowbal search
+seed snowbal seed
+seed uniqu snowbal snowbal
+seed seed seed
+
+
+file name twitter
+date 2012
+author drew conway drew conway
+purpos file code chapter piec studi design
+simpl social graph reccommend system base twitter use
+gener previou file make recommend user
+base densiti follow unfollw user social graph
+well commun specif reccomend base distanc base
+commun defin previou step
+data use graphml
+packag use igraph
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+
+
+warn reader
+
+2012 appear that twitter
+chang interact with googl
+socialgraph thu thi code will
+produc error left exposit
+reader data
+origin produc your risk
+
+
+note run consol must setwd command
+work directori consol whereev save file prior run
+otherwis error load save figur
+
+load librari
+librari igraph
+
+chang want code
+user rather load
+
+user drewconway
+
+would like gener user
+follow command
+sourc googl
+user graph twitter snowbal user
+
+would like work load
+set follow command
+user graph suppress warn read graph past user user graphml format graphml
+
+simpl method suggest follow attempt close triangl among user friend
+thi requir littl graph theori effeci count edg
+need find user within current unfollow user follow user friend
+
+friend user graph name neighbor user graph user mode
+user edgelist user graph
+
+current follow friend follow
+thi logic actual go heavi lifitng
+friend sappli nrow user ifels user user
+user friend user friend
+
+friend user friend
+friend count tabl friend
+
+report result
+friend follow frame twitter user name friend count
+friend follow numer friend count string as factor
+
+friend follow friend norm friend follow friend follow length friend
+friend follow friend follow friend follow order twitter user
+
+head friend follow
+
+write friend follow past user user friend name
+
+beyond triangl closur reccommend user follow base commun
+detect previou step
+
+user suppress warn read graph past user user graphml format graphml
+friend partit cbind user user name
+
+thi take singl partit within graph find twitter user
+member partit follow seed user follow
+partit follow
+friend friend partit friend partit
+partit follow friend match friend friend
+match follow
+nrow partit follow
+
+
+popualr user follow member partit
+
+partit favorit tabl partit follow
+partit favorit partit favorit order partit favorit
+name partit favorit
+
+
+
+partit follow parit remov duplic reccomend
+partit rec sappli uniqu friend partit partit follow
+partit rec partit rec partit rec duplic partit rec
+
+node index entir graph plu reccommend user
+friend charact user name partit rec
+index match friend user graph name
+
+take subgraph includ reccommend
+partit graph subgraph user graph index
+
+vertex attribut visual
+partit rbind cbind vertex attribut user user name partit rec
+index match charact partit partit graph name
+
+partit graph vertex attribut partit graph index index valu partit
+
+vertex size vcount user nrow partit rec
+partit graph vertex attribut partit graph size index index valu vertex size
+
+save resutl graph ml
+write graph partit graph past user user graphml format graphml
+
+file name chapter08
+date 2012
+author drew conway drew conway john myle white johnmyleswhit
+purpos
+data use stock price
+packag use ggplot2 lubrid reshap
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+note run consol must setwd command
+work directori consol whereev save file prior run
+otherwis error load save figur
+
+librari ggplot2
+
+first code snippet
+price read file path stock price
+string as factor
+
+price
+date stock close
+2011
+
+second code snippet
+librari lubrid
+
+price transform price date date
+
+third code snippet
+librari reshap
+
+date stock matrix cast price date stock valu close
+
+fourth code snippet
+price subset price date 2002
+price subset price stock
+
+date stock matrix cast price date stock valu close
+
+fifth code snippet
+matrix date stock matrix ncol date stock matrix
+correl numer matrix
+
+ggplot frame correl correl
+correl fill
+geom densiti
+theme legend posit none
+
+sixth code snippet
+princomp date stock matrix ncol date stock matrix
+
+seventh code snippet
+call
+princomp date stock matrix ncol date stock matrix
+standard deviat
+comp comp comp comp comp comp comp
+1001249 4403404 6726924 4636450 4963820 1969345 5438308
+comp comp comp comp comp comp comp
+1300931 7786752 2575099 3050931 6197715 4986181 1746125
+comp comp comp comp comp comp comp
+9469475 8706240 6984043 6344116 2327471 1280913 9877634
+comp comp comp
+8583681 7390626 4347983
+variabl 2366 observ
+
+eighth code snippet
+princip compon load
+
+ninth code snippet
+load numer princip compon
+
+ggplot frame load load
+load fill
+geom densiti
+theme legend posit none
+
+tenth code snippet
+market index predict
+
+eleventh code snippet
+price read file path
+string as factor
+price transform price date date
+
+twelfth code snippet
+price subset price date 2001
+price subset price date 2002
+
+thirteenth code snippet
+price close
+date price date
+
+fourteenth code snippet
+comparison frame date date
+market index market index
+
+
+ggplot comparison market index
+geom point
+geom smooth method
+
+fifteenth code snippet
+comparison transform comparison market index market index
+
+sixteenth code snippet
+ggplot comparison market index
+geom point
+geom smooth method
+
+seventeenth code snippet
+comparison melt comparison var date
+
+name comparison date index price
+
+ggplot comparison
+date price group index color index
+geom point
+geom line
+
+eighteenth code snippet
+comparison transform comparison market index scale market index
+comparison transform comparison scale
+
+comparison melt comparison var date
+
+name comparison date index price
+
+ggplot comparison date price group index color index
+geom point
+geom line
+file name chapter10
+date 2012
+author drew conway drew conway john myle white johnmyleswhit
+purpos
+data use exampl instal
+packag use reshap
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+note run consol must setwd command
+work directori consol whereev save file prior run
+otherwis error load save figur
+
+first code snippet
+read file path exampl
+
+head
+label
+373546 398106
+183643 387974
+164371 341120
+595281 870637
+329508 433024
+179532 980400
+
+second code snippet
+distanc matrix
+
+distanc matrix nrow nrow nrow
+
+nrow
+
+nrow
+
+distanc sqrt
+
+
+
+distanc
+
+
+third code snippet
+nearest neighbor distanc
+
+order distanc
+
+
+fourth code snippet
+
+
+distanc distanc matrix
+
+predict nrow
+
+nrow
+
+indic nearest neighbor distanc
+predict ifels mean indic label
+
+
+predict
+
+
+fifth code snippet
+transform k nn predict
+
+label k nn predict
+
+
+nrow
+
+
+sixth code snippet
+still implement memori
+
+librari
+
+read file path exampl
+
+nrow
+
+seed
+
+indic sort sampl
+
+train indic
+test indic
+
+train indic
+test indic
+
+there
+predict train test train
+
+predict test
+
+
+length test
+
+
+seventh code snippet
+logit model label indic
+
+predict numer predict logit model newdata indic
+
+predict test
+
+
+eighth code snippet
+instal read file path instal
+
+head instal
+packag user instal
+abind
+accept sampl
+acclma
+accuraci
+acepack
+a cgh spline
+
+ninth code snippet
+librari reshap
+
+user matrix cast instal user packag valu instal
+
+user matrix
+
+
+
+
+user matrix
+
+
+
+name user matrix user matrix
+
+user matrix user matrix
+
+tenth code snippet
+similar user matrix
+
+nrow similar
+2487
+ncol similar
+2487
+similar
+
+similar
+04822428
+
+eleventh code snippet
+distanc similar
+
+twelfth code snippet
+nearest neighbor distanc
+
+order distanc
+
+
+thirteenth code snippet
+instal probabl user user matrix distanc
+
+neighbor nearest neighbor distanc
+
+mean sappli neighbor neighbor user matrix user neighbor
+
+
+instal probabl user matrix distanc
+
+
+fourteenth code snippet
+probabl packag user user matrix distanc
+
+order sappli ncol user matrix
+
+
+instal probabl user
+
+user matrix
+distanc
+
+
+decreas
+
+
+user
+
+list probabl packag user user matrix distanc
+
+colnam user matrix list
+file name chapter05
+date 2012
+author drew conway drew conway john myle white johnmyleswhit
+purpos
+data use longev
+packag use ggplot2
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+note run consol must setwd command
+work directori consol whereev save file prior run
+otherwis error load save figur
+
+librari ggplot2
+
+first snippet
+age read file path longev
+
+ggplot age age at death fill factor smoke
+geom densiti
+facet grid smoke
+
+second snippet
+age read file path longev
+
+guess
+
+age mean age at death guess
+
+
+third snippet
+age read file path longev
+
+guess accuraci frame
+
+guess
+
+predict error age
+mean age at death guess
+guess accuraci rbind guess accuraci
+frame guess guess
+error predict error
+
+
+ggplot guess accuraci guess error
+geom point
+geom line
+
+fourth snippet
+age read file path longev
+
+constant guess age mean age at death
+
+age sqrt mean age at death constant guess
+
+smoker guess subset age smoke
+mean age at death
+
+smoker guess subset age smoke
+mean age at death
+
+age transform age
+new predict ifels smoke
+smoker guess
+smoker guess
+
+age sqrt mean age at death new predict
+
+fifth snippet
+librari ggplot2
+
+height weight read file path
+height weight gender
+header
+
+
+ggplot height weight height weight
+geom point
+geom smooth method
+
+sixth snippet
+fit regress weight height
+height weight
+
+coef fit regress
+intercept height
+737192 717288
+
+seventh snippet
+intercept coef fit regress
+slope coef fit regress
+
+predict weight intercept slope observ height
+predict weight 737192 717288 observ height
+
+eighth snippet
+predict fit regress
+
+ninth snippet
+valu height weight weight
+error valu predict fit regress
+
+tenth snippet
+residu fit regress
+
+eleventh snippet
+plot fit regress
+
+twelfth snippet
+
+
+
+fit regress
+
+plot fit regress
+
+thirteenth snippet
+
+
+
+fit regress
+
+error residu fit regress
+squar error error
+squar error
+
+
+fourteenth snippet
+
+
+
+fit regress
+
+error residu fit regress
+squar error error
+mean squar error
+
+
+
+fifteenth snippet
+
+
+
+fit regress
+
+error residu fit regress
+squar error error
+mean squar error
+rmse sqrt
+rmse
+266361
+
+sixteenth snippet
+there error book exampl
+squar ratio rmse
+mean 09209343
+model 954544
+
+model mean
+
+1259502
+
+seventeenth snippet
+1000 site read file path 1000 site
+
+string as factor
+
+ggplot 1000 site page view uniqu visitor
+geom point
+ggsave file path imag page view visitor
+
+eighteenth snippet
+ggplot 1000 site page view
+geom densiti
+
+ninteenth snippet
+ggplot 1000 site page view
+geom densiti
+
+twentieth snippet
+ggplot 1000 site page view uniqu visitor
+geom point
+ggsave file path imag page view visitor
+
+twenti first snippet
+ggplot 1000 site page view uniqu visitor
+geom point
+geom smooth method
+ggsave file path imag page view visitor
+
+twenti second snippet
+page view uniqu visitor
+1000 site
+
+twenti third snippet
+summari
+
+call
+formula page view uniqu visitor 1000 site
+
+residu
+median
+1825 7986 0741 6467 1549
+
+coeffici
+estim error valu
+intercept 83441 75201 000173
+uniqu visitor 33628 04568
+
+signif code
+
+residu standard error degre freedom
+multipl squar 4616 adjust squar 4611
+statist valu
+
+twenti fourth snippet
+page view ha advertis uniqu visitor in english
+1000 site
+summari
+
+call
+formula page view ha advertis uniqu visitor
+in english 1000 site
+
+residu
+median
+4283 7685 0632 6298 4133
+
+coeffici
+estim error valu
+intercept 94502 14777 09046
+ha advertis ye 30595 09170 00088
+uniqu visitor 26507 07053
+in english no 83468 20860
+in english ye 16913 20424 40780
+
+signif code
+
+residu standard error degre freedom
+multipl squar 4798 adjust squar 4777
+statist valu
+
+twenti fifth snippet
+page view ha advertis
+1000 site
+summari squar
+01073766
+
+page view uniqu visitor
+1000 site
+summari squar
+4615985
+
+page view in english
+1000 site
+summari squar
+03122206
+
+twenti sixth snippet
+
+
+
+ggplot frame
+geom point
+geom smooth method
+
+twenti seventh snippet
+
+9745586
+
+twenti eighth snippet
+coef scale scale
+intercept scale
+386469e 745586e
+file name chapter02
+date 2011
+author john myle white
+email johnmyleswhit
+purpos code chapter showcas tool exploratori analysi
+data use height weight gender
+packag use ggplot2
+machin john myle white mac book
+
+sourc code copyright 2011 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+
+snippet
+
+
+load disk
+file file path height weight gender
+height weight read file header
+
+creat numer vector contain height
+height height weight height
+summari height
+
+expect output
+median mean
+
+
+
+snippet
+
+
+defin mean median function
+mean
+
+length
+
+
+median
+
+sort sort
+length
+
+indic length length
+mean sort indic
+
+
+
+index ceil length
+sort index
+
+
+
+
+snippet
+
+
+compar mean median exampl
+vector
+
+vector
+
+
+mean vector
+
+
+median vector
+
+
+vector
+
+mean vector
+33333
+
+median vector
+
+
+
+snippet
+
+
+confirm mean median function produc correct answer
+mean height
+36756
+
+median height
+31807
+
+mean height mean height
+
+
+median height median height
+
+
+
+snippet
+
+
+experi function assess rang
+height
+26313
+
+
+snippet
+
+
+height
+99874
+
+
+snippet
+
+
+height height
+26313 99874
+
+rang height
+26313 99874
+
+
+snippet
+
+
+quantil comput arbitrari quantil
+quantil height
+
+26313 50562 31807 17426 99874
+
+
+snippet
+
+
+quantil height prob
+
+26313 85901 19422 43537 81162 99874
+
+
+snippet
+
+
+
+
+
+
+snippet
+
+
+defin varianc assess spread
+
+
+mean
+length
+
+
+
+snippet
+
+
+test varianc correct
+height height
+
+
+snippet
+
+
+updat varianc make unbias
+
+
+mean
+length
+
+
+test varianc correct
+height height
+
+
+snippet
+
+
+check rang predict varianc
+mean height height mean height height
+56409 17103
+
+
+snippet
+
+
+mean height height mean height height
+56409 17103
+rang height
+26313 99874
+
+
+snippet
+
+
+switch standard deviat instead think rang
+
+
+sqrt
+
+
+
+snippet
+
+
+test standard deviat correct
+height height
+
+
+snippet
+
+
+mean height height mean height height
+52003 21509
+
+rang height
+26313 99874
+
+
+snippet
+
+
+mean height height mean height height
+52003 21509
+
+quantil height prob quantil height prob
+
+50562 17426
+
+
+snippet
+
+
+start visual ggplot2
+librari ggplot2
+
+load scratch puriti
+file file path height weight gender
+height weight read file header
+
+experi histogram
+ggplot height weight height
+geom histogram binwidth
+
+
+snippet
+
+
+ggplot height weight height
+geom histogram binwidth
+
+
+snippet
+
+
+ggplot height weight height
+geom histogram binwidth
+
+
+snippet
+
+
+experi kernel densiti estim
+ggplot height weight height
+geom densiti
+
+
+snippet
+
+
+separ height weight base gender
+ggplot height weight height fill gender
+geom densiti
+
+
+snippet
+
+
+ggplot height weight weight fill gender
+geom densiti
+
+
+snippet
+
+
+produc facet singl plot make easier hidden structur
+ggplot height weight weight fill gender
+geom densiti
+facet grid gender
+
+
+snippet
+
+
+experi random number normal distribut
+
+
+ggplot frame rnorm 100000
+geom densiti
+
+
+snippet
+
+
+compar normal distribut cauchi distribut
+seed
+normal valu rnorm
+cauchi valu rcauchi
+rang normal valu
+rang cauchi valu
+
+
+snippet
+
+
+ggplot frame normal valu
+geom densiti
+ggplot frame cauchi valu
+geom densiti
+
+
+snippet
+
+
+experi random number gamma distribut
+gamma valu rgamma 100000
+ggplot frame gamma valu
+geom densiti
+
+
+snippet
+
+
+gener scatterplot height weight relationship
+ggplot height weight height weight
+geom point
+
+
+snippet
+
+
+smooth shape relat explicitli
+ggplot height weight height weight
+geom point
+geom smooth
+
+
+snippet
+
+
+smooth shape get better
+ggplot height weight height weight
+geom point
+geom smooth
+ggplot height weight height weight
+geom point
+geom smooth
+ggplot height weight 2000 height weight
+geom point
+geom smooth
+
+
+snippet
+
+
+visual gender depend height weight
+ggplot height weight height weight
+geom point color gender alpha
+scale alpha guid none
+scale color manual valu male black femal gray
+theme
+
+altern bright color
+ggplot height weight height weight color gender
+geom point
+
+
+snippet
+
+
+height weight transform height weight
+male ifels gender male
+
+logit model male weight height
+height weight
+famili binomi link logit
+
+ggplot height weight height weight
+geom point color gender alpha
+scale alpha guid none
+scale color manual valu male black femal gray
+theme
+stat ablin intercept coef logit model coef logit model
+slope coef logit model coef logit model
+geom ablin
+color black
+file name chapter06
+date 2012
+author drew conway drew conway john myle white johnmyleswhit
+purpos
+data use oreilli
+packag use ggplot2 glmnet boot
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+note run consol must setwd command
+work directori consol whereev save file prior run
+otherwis error load save figur
+
+librari ggplot2
+
+first snippet
+seed
+
+
+rnorm length
+
+ggplot frame
+geom point
+geom smooth
+
+second code snippet
+squar
+
+third code snippet
+ggplot frame x squar squar x squar
+geom point
+geom smooth method
+
+fourth code snippet
+summari squar
+973e
+
+summari squar squar
+9707
+
+fifth code snippet
+seed
+
+
+rnorm length
+
+frame
+
+ggplot
+geom point
+
+sixth code snippet
+summari
+
+call
+formula
+
+residu
+median
+00376 41253 00409 40664 85874
+
+coeffici
+estim error valu
+intercept 94111 09057
+86189 15648
+
+signif code
+
+residu standard error 4585 degre freedom
+multipl squar 5885 adjust squar 5843
+statist valu
+
+seventh code snippet
+ggplot frame
+geom point
+geom smooth method
+
+eighth code snippet
+transform
+transform
+
+summari
+
+call
+formula
+
+residu
+median
+32331 08538 00652 08320 20239
+
+coeffici
+estim error valu
+intercept 16341 04425 000367
+67844 38513
+94179 89748
+59349 58979
+
+signif code
+
+residu standard error 1153 degre freedom
+multipl squar 9745 adjust squar 9737
+statist 1235 valu
+
+ninth code snippet
+transform
+transform
+transform
+transform
+transform
+transform
+transform
+transform
+transform
+transform
+transform
+transform
+
+summari
+
+
+call
+formula
+
+
+residu
+median
+242662 038179 002771 052484 210917
+
+coeffici defin singular
+estim error valu
+intercept 909e 413e
+494e 056e
+609e 275e
+764e 863e
+203e 020e
+717e 050e
+225e 089e
+587e 881e
+889e 146e
+752e 544e
+398e 414e
+039e 384e
+276e 906e
+166e 467e
+
+
+residu standard error 09079 degre freedom
+multipl squar 9858 adjust squar 9837
+statist valu
+
+tenth code snippet
+summari poli degre
+
+call
+formula poli degre
+
+residu
+median
+232557 042933 002159 051021 209959
+
+coeffici
+estim error valu
+intercept 010167 009038 2638
+poli degre 455362 090827
+poli degre 039389 090827 6656
+poli degre 418054 090827
+poli degre 047966 090827 5988
+poli degre 706451 090827
+poli degre 204221 090827 0271
+poli degre 051341 090827 5734
+poli degre 031001 090827 7337
+poli degre 077232 090827 3975
+poli degre 048088 090827 5979
+poli degre 129990 090827 1560
+poli degre 024726 090827 7861
+poli degre 023706 090827 7947
+poli degre 087906 090827 3358
+
+signif code
+
+residu standard error 09083 degre freedom
+multipl squar adjust squar 9837
+statist valu
+
+eleventh code snippet
+poli poli degre
+transform predict y predict poli
+
+ggplot predict y
+geom point
+geom line
+
+poli poli degre
+transform predict y predict poli
+
+ggplot predict y
+geom point
+geom line
+
+poli poli degre
+transform predict y predict poli
+
+ggplot predict y
+geom point
+geom line
+
+poli poli degre
+transform predict y predict poli
+
+ggplot predict y
+geom point
+geom line
+
+twelfth code snippet
+seed
+
+
+rnorm length
+
+thirteenth code snippet
+length
+
+indic sort sampl round
+
+train indic
+train indic
+
+test indic
+test indic
+
+train frame train train
+test frame test test
+
+fourteenth code snippet
+rmse
+
+sqrt mean
+
+
+fifteenth code snippet
+perform frame
+
+
+
+poli poli degre train
+
+perform rbind perform
+frame degre
+data train
+rmse rmse train predict poli
+
+perform rbind perform
+frame degre
+data test
+rmse rmse test predict poli
+newdata test
+
+
+sixteenth code snippet
+ggplot perform degre rmse linetyp data
+geom point
+geom line
+
+seventeenth code snippet
+
+model complex coef
+
+eighteenth code snippet
+
+model complex coef
+model complex coef
+
+ninteenth code snippet
+seed
+
+
+rnorm length
+
+twentieth code snippet
+matrix cbind
+
+librari glmnet
+
+glmnet
+
+call glmnet
+
+lambda
+00000 542800
+09991 494600
+18290 450700
+25170 410600
+30890 374200
+
+58840 005182
+58840 004721
+58850 004302
+58850 003920
+58850 003571
+
+twenti first code snippet
+seed
+
+
+rnorm length
+
+length
+
+indic sort sampl round
+
+train indic
+train indic
+
+test indic
+test indic
+
+frame
+
+train frame train train
+test frame test test
+
+rmse
+
+sqrt mean
+
+
+twenti second code snippet
+librari glmnet
+
+glmnet train glmnet poli degre
+
+lambda glmnet
+
+perform frame
+
+lambda
+
+perform rbind perform
+frame lambda
+rmse rmse test
+test
+predict glmnet
+poli degre
+
+
+
+twenti third code snippet
+ggplot perform lambda rmse
+geom point
+geom line
+
+altern plot shown book
+ggplot perform lambda rmse
+geom point
+geom line
+scale log10
+
+twenti fourth code snippet
+best perform lambda rmse rmse
+
+glmnet glmnet poli degre
+
+twenti fifth code snippet
+coef glmnet best
+
+spars matrix dg c matrix
+
+intercept 0101667
+2132586
+0000000
+1759498
+0000000
+4643476
+0000000
+0000000
+0000000
+0000000
+0000000
+
+twenti sixth code snippet
+rank read file path oreilli
+string as factor
+
+librari
+
+document frame text rank long desc
+name document nrow document
+
+corpu corpu datafram sourc document
+corpu corpu tolow
+corpu corpu strip whitespac
+corpu corpu remov word stopword english
+
+document term matrix corpu
+
+twenti seventh code snippet
+matrix
+
+
+twenti eighth code snippet
+seed
+
+librari glmnet
+
+twenti ninth code snippet
+perform frame
+
+
+
+
+
+indic sampl
+
+train indic
+train indic
+
+test indic
+test indic
+
+glmnet train train
+
+predict predict test
+
+rmse sqrt mean predict test
+
+perform rbind perform
+frame lambda
+iter
+rmse rmse
+
+
+
+thirtieth code snippet
+ggplot perform lambda rmse
+stat summari mean boot geom errorbar
+stat summari mean boot geom point
+
+thirti first code snippet
+
+
+thirti second code snippet
+regular glmnet famili binomi
+
+thirti third code snippet
+regular glmnet
+
+regular glmnet famili gaussian
+
+regular glmnet famili binomi
+
+thirti fourth code snippet
+predict regular newx
+884576
+281354
+892129
+
+958003
+677161
+956271
+
+thirti fifth code snippet
+ifels predict regular newx
+
+
+
+
+
+
+
+
+thirti sixth code snippet
+librari boot
+
+logit predict regular newx
+992494427
+998132627
+992550485
+
+002578403
+003411583
+006989922
+
+thirti seventh code snippet
+seed
+
+perform frame
+
+
+
+indic sampl
+
+train indic
+train indic
+
+test indic
+test indic
+
+0001 0025
+
+glmnet train train famili binomi
+
+predict ifels predict test
+
+error rate mean predict test
+
+perform rbind perform
+frame lambda
+iter
+error rate error rate
+
+
+
+thirti eighth code snippet
+ggplot perform lambda error rate
+stat summari mean boot geom errorbar
+stat summari mean boot geom point
+scale log10
+file name sight
+date 2012
+author drew conway drew conway
+purpos code chapter review basic
+function code paradigm throughout book
+thi includ load view clean well
+basic visual thi specif
+report sight investig season trend
+exist
+data use http infochimp dataset 60000 document sight text descript metada
+packag use ggplot2 plyr scale
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+note run consol must setwd command
+work directori consol whereev save file prior run
+otherwis error load save figur
+
+load librari
+librari ggplot2 ggplot2 visual
+librari plyr manipul
+librari scale need date format plot
+
+thi delimit file read delim separ charact
+also alter default first want string convert
+factor type header label first
+want keep first
+read delim file path awesom
+
+string as factor
+header
+string
+thi larg text file 75 mb take moment
+
+inspect frame
+summari
+head
+
+from descript file column name accordingli
+name
+name date occur date report
+locat short descript
+durat long descript
+
+work date need convert yyyymmdd date
+strptime
+
+someth gone wrong ignor errata
+remov entri pars correctli know date
+string alway charact deviat would indic
+ignor ifels construct vector
+boolean indic problem row
+good row ifels nchar date occur
+nchar date report
+
+
+length good row while row seem like
+good row total record
+
+convert string date object work properli
+date occur date date occur format
+date report date date report format
+
+use creat separ column town state locat
+column strsplit perform regex
+note everi entri locat form citi state
+tri catch simpli next
+remov lead white space citi state string gsub
+locat
+
+split locat tri catch strsplit
+error
+clean locat gsub split locat
+length clean locat
+
+
+
+
+
+clean locat
+
+
+
+lappli citi state vector element
+citi state lappli locat locat
+
+call collaps matrix
+locat matrix call rbind citi state
+
+citi state frame transform
+
+transform
+us citi locat matrix
+us state locat matrix
+string as factor
+
+next step strip incid
+
+insert citi
+us state state match us state state
+
+final subset examin event unit state convert
+state factor categor variabl
+subset us state
+
+readi analysi first take look post process
+summari
+head
+
+summari function show actual back time 1440
+want take quick look date major exist
+creat histogram frequenc sight time
+quick hist ggplot date occur
+geom histogram
+scale date break year
+
+ggsave plot quick hist
+filenam file path imag quick hist
+height
+width
+
+first notic mani entri purpos look
+incid occur 1990 recent
+subset date occur date 1990
+
+look histogram
+hist ggplot date occur
+geom histogram fill white color
+scale fill manual valu white white guid none
+scale color manual valu guid none
+scale date break year
+
+ggsave plot hist
+filenam file path imag hist
+height
+width
+
+want look aggreg
+ddpli funtion plyr first creat column
+year month incid
+year month strftime date occur format
+
+thi sight year month state whole time seri
+sight count ddpli us state year month nrow
+
+might expect sever year month state combin
+sight need count zero back fill
+first creat vector year month date span
+rang time seri 1990 2010
+date rang date date date occur
+date date occur
+month
+date string strftime date rang
+
+fill miss date sight count frame need creat separ
+frame column state year month
+state date lappli state cbind date string
+state date frame call rbind state date
+string as factor
+
+merg take count merg miss date note specifi
+column frame merg fill
+miss date origin frame
+sight merg state date
+sight count
+date string
+us state year month
+
+
+need clean merg frame
+column name someth meaning
+name sight state year month sight
+
+covert realli want
+sight sight sight sight
+
+reset charact year month date object
+sight year month date date rang length state
+
+capit state abbrevi factor
+sight state factor sight state
+
+there lot way could test season sight basic method
+inspect trend visual construct plot show trend state
+time seri
+
+first creat ggplot2 creat geom layer line
+addit point note
+facet wrap creat separ plot state 10x5 grid
+theme chang ggplot2 style grey white person prefer
+scale color manual set line color dark blue
+scale date scale axi date major line everi year
+xlab ylab axi label
+opt set titl plot
+
+state plot ggplot sight year month sight
+geom line color darkblu
+facet wrap state nrow ncol
+theme
+scale color manual valu darkblu darkblu guid none
+scale date break year label date format
+xlab year
+ylab number sight
+ggtitl number sight month year state 1990 2010
+
+save plot
+ggsave plot state plot
+filenam file path imag sight
+width
+height
+
+
+creat graph signt normailz state popul
+state read file path censu string as factor
+
+state abb sappli state state state grep past state name
+sight sight norm sappli nrow sight
+sight sight state x2000 state abb sight state
+
+
+state plot norm ggplot sight year month sight norm
+geom line color darkblu
+facet wrap state nrow ncol
+theme
+scale color manual valu darkblu darkblu guid none
+scale date break year label date format
+xlab year
+ylab capita number sight 2000 censu
+ggtitl number sight month year state 1990 2010
+
+
+save plot
+ggsave plot state plot norm
+filenam file path imag sight norm
+width
+height
+librari slidifi
+slidifi index
+librari slidifi
+slidifi index
+file name chapter07
+date 2012
+author drew conway drew conway john myle white johnmyleswhit
+purpos
+data use height weight gender lexic databas rdata
+packag use
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+note run consol must setwd command
+work directori consol whereev save file prior run
+otherwis error load save figur
+
+first code snippet
+height weight height
+
+height
+
+
+second code snippet
+height weight read file path height weight gender
+
+coef weight height height weight
+intercept height
+737192 717288
+
+third code snippet
+squar error height weight
+
+predict height weight height weight height
+error height weight weight predict
+error
+
+
+fourth code snippet
+
+
+
+
+squar error height weight
+
+
+
+fifth code snippet
+optim
+
+
+squar error height weight
+
+
+786736 718158
+
+valu
+1492936
+
+count
+gradient
+
+
+converg
+
+
+messag
+
+
+sixth code snippet
+error
+
+squar error height weight
+
+
+seventh code snippet
+curv sappli error 1000 1000
+
+eighth code snippet
+error
+
+squar error height weight
+
+
+curv sappli error 1000 1000
+
+ninth code snippet
+ridg error height weight
+
+predict height weight height weight height
+error height weight weight predict
+error
+
+
+tenth code snippet
+
+
+optim
+
+
+ridg error height weight
+
+
+
+434108 562524
+
+valu
+1612443
+
+count
+gradient
+
+
+converg
+
+
+messag
+
+
+eleventh code snippet
+ridg error
+
+ridg error height weight
+
+curv sappli ridg error 1000 1000
+
+ridg error
+
+ridg error height weight
+
+curv sappli ridg error 1000 1000
+
+twelfth code snippet
+absolut error height weight
+
+predict height weight height weight height
+error height weight weight predict
+error
+
+
+thirteenth code snippet
+absolut error
+
+absolut error height weight
+
+
+curv sappli absolut error 1000 1000
+
+fourteenth code snippet
+english letter
+
+
+
+caesar cipher
+
+invers caesar cipher
+
+index length english letter
+
+caesar cipher english letter index english letter index
+invers caesar cipher english letter index english letter index
+
+
+caesar cipher
+
+fifteenth code snippet
+appli cipher cipher
+
+output
+
+nchar
+
+output past output cipher substr
+
+
+output
+
+
+appli cipher text text cipher
+
+output
+
+text
+
+output output appli cipher cipher
+
+
+output
+
+
+appli cipher text sampl text caesar cipher
+
+sixteenth code snippet
+gener random cipher
+
+cipher
+
+input english letter
+
+output english letter sampl length english letter length english letter
+
+index length english letter
+
+cipher input index output index
+
+
+cipher
+
+
+modifi cipher cipher input output
+
+cipher cipher
+
+cipher input output
+
+output cipher input
+
+collater input name sappli name cipher
+cipher output
+
+cipher collater input output
+
+cipher
+
+
+propos modifi cipher cipher
+
+input sampl name cipher
+
+output sampl english letter
+
+modifi cipher cipher input output
+
+
+seventeenth code snippet
+load file path lexic databas rdata
+
+eighteength code snippet
+lexic databas
+lexic databas
+lexic databas
+lexic databas
+lexic databas
+
+nineteenth code snippet
+gram probabl gram lexic databas
+
+lexic probabl lexic databas gram
+
+lexic probabl lexic probabl
+
+machin
+
+
+
+lexic probabl
+
+
+
+twentieth code snippet
+probabl text text cipher lexic databas
+
+probabl
+
+text
+
+decrypt appli cipher cipher
+probabl probabl
+gram probabl decrypt lexic databas
+
+
+probabl
+
+
+twenti first code snippet
+metropoli step text cipher lexic databas
+
+propos cipher propos modifi cipher cipher
+
+probabl text text cipher lexic databas
+probabl text text propos cipher lexic databas
+
+
+
+propos cipher
+
+
+
+
+runif
+
+
+
+propos cipher
+
+
+
+cipher
+
+
+
+
+twenti second code snippet
+decrypt text sampl text
+
+twenti third code snippet
+encrypt text appli cipher text decrypt text caesar cipher
+
+twenti fourth code snippet
+seed
+
+cipher gener random cipher
+
+result frame
+
+iter 50000
+
+iter iter
+
+probabl probabl text encrypt text
+cipher
+lexic databas
+
+current decrypt text past appli cipher text encrypt text
+cipher
+collaps
+
+correct text numer current decrypt text past decrypt text
+collaps
+
+result rbind result
+frame iter iter
+log probabl probabl
+current decrypt text current decrypt text
+correct text correct text
+
+cipher metropoli step encrypt text cipher lexic databas
+
+
+write tabl result
+file file path result
+name
+
+file name prioriti inbox
+date 2012
+author drew conway drew conway
+purpos code chapter studi attempt write prioriti
+inbox algorithm rank email measur import
+defin measur base email featur move beyond
+simpl work count use chapter
+data use email messag contain classif code
+sourc http spamassassin apach publiccorpu
+packag use ggplot2 plyr
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+note run consol must setwd command
+work directori consol whereev save file prior run
+otherwis error load save figur
+
+load librari
+librari
+librari ggplot2
+librari plyr
+
+path
+path file path classif
+easyham path file path path easi
+
+defin extract
+featur defin rank email
+impport thi includ follow messag
+bodi messag sourc messag subject date
+messag sent
+
+simpli return full text given email messag
+full path
+
+file path open encod latin1
+read line
+close
+
+
+
+retun email address sender given
+email messag
+
+
+grepl from
+strsplit
+
+grepl
+
+
+retun subject given email messag
+subject
+
+subj grepl subject
+length subj
+
+strsplit subj subject
+
+
+
+
+
+
+
+similar chapter return
+messag bodi given email
+
+
+length
+past collaps
+
+
+retun date given email messag receiv
+date
+
+date grep grepl date
+date grep date grep
+date date grep
+date strsplit date
+date gsub date
+strtrim date
+
+
+thi tie helper function togeth
+return vector contain featur
+use categor prioriti normal
+pars email path
+
+full full path
+date date full
+full
+subj subject full
+full
+date subj path
+
+
+interest classifiy spam take
+given perform easi email
+train test ranker
+easyham doc easyham path
+easyham doc easyham doc easyham doc cmd
+easyham pars lappli easyham doc
+pars email file path easyham path
+
+convert frame
+ehpars matrix call rbind easyham pars
+allpars frame ehpars matrix string as factor
+name allpars date from e mail subject messag path
+
+convert date string posix comparison becaus email
+contain slightli differ date format pattner account
+passin requir partmet
+date convert date pattern1 pattern2
+
+pattern1 convert strptime date pattern1
+pattern2 convert strptime date pattern2
+pattern1 convert pattern1 convert pattern2 convert pattern1 convert
+pattern1 convert
+
+
+pattern1
+pattern2
+
+allpars date date convert allpars date pattern1 pattern2
+
+convert email subject lower
+allpars subject tolow allpars subject
+allpars from e mail tolow allpars from e mail
+
+order messag chronolog
+prioriti allpars allpars order date
+
+first half prioriti train prioriti algorithm
+later second half test
+prioriti train prioriti round nrow prioriti
+
+first step creat rank weight featur
+simpliest email
+
+calcul frequenc correspond email train
+weight melt prioriti train tabl from e mail
+valu name freq
+
+weight weight weight order freq
+
+take subset weight frame show frequent
+correspond
+subset weight freq
+
+scale ggplot
+geom rect xmin nrow
+xmax nrow
+ymin
+ymax freq
+fill lightgrey
+color darkblu
+scale continu break nrow label from e mail
+coord flip
+scale fill manual valu lightgrey lightgrey guid none
+scale color manual valu darkblu darkblu guid none
+ylab number email receiv truncat
+xlab sender address
+theme
+theme axi text element text size hjust
+ggsave plot scale
+filenam file path imag 0011 scale
+height
+width
+
+weight scheme simpl effect
+weight transform weight
+weight freq
+log10 weight log10 freq
+
+rescal ggplot weight nrow weight
+geom line weight linetyp
+geom line log10 weight linetyp log10
+geom line freq linetyp absolut
+scale linetyp manual valu
+log10
+absolut
+name scale
+xlab
+ylab number email receiev
+theme
+theme axi text element blank axi text element blank
+ggsave plot rescal
+filenam file path imag 0012 rescal
+height
+width
+
+calcul rank prioriti email calcul probabl
+user respond commun
+calcul weight base word thread
+activ
+
+thi use find thread within obviou approach
+subject line identifi messag thread
+find thread email
+
+respons thread strsplit email subject
+thread sappli respons thread
+subj ifels subj
+thread respons thread thread
+sender email from e mail thread
+thread sappli thread
+past length collaps
+cbind sender thread
+
+
+thread matrix find thread prioriti train
+
+use matrix thread gener find thread
+creat sender email frequenc email
+sender weight sender base freqeunci correspon
+email thread thread matrix
+
+sender thread matrix
+sender freq tabl sender
+sender matrix cbind name sender freq
+sender freq
+sender freq
+sender frame sender matrix string as factor
+name sender nrow sender
+name sender from e mail freq weight
+sender freq numer sender freq
+sender weight numer sender weight
+sender
+
+
+sender email thread thread matrix
+
+addit weight enhanc notion thread import
+measur time respons given email thi
+take given thread email frame gener weight
+base activ level thi return vector thread
+activ time span thread weight
+thread count thread email
+
+need check look origin messag thread
+check subject
+thread time email date email subject thread
+email subject past thread
+freq length thread time
+time thread time
+time thread time
+time span numer difftim time time unit sec
+freq
+
+
+
+
+
+tran weight freq time span
+tran weight tran weight
+freq time span tran weight
+
+
+
+thi use thread count gener weight
+email thread
+thread thread matrix email
+
+thread uniqu thread matrix
+thread count lappli thread
+thread count email
+thread matrix call rbind thread count
+cbind thread thread matrix
+
+
+work gener train
+base thread featur
+thread weight thread thread matrix prioriti train
+thread weight frame thread weight string as factor
+name thread weight thread freq respons weight
+thread weight freq numer thread weight freq
+thread weight respons numer thread weight respons
+thread weight weight numer thread weight weight
+thread weight subset thread weight thread weight freq
+
+similar chapter creat simpl
+vector word count thi time howev keep free
+paramet
+term count term control
+
+corpu corpu vector sourc term
+term document matrix corpu control control
+row sum matrix
+
+
+thread term term count thread weight thread
+control stopword
+thread term name thread term
+
+term weight sappli thread term
+mean thread weight weight grepl thread weight thread
+term weight frame term name term weight
+weight term weight
+string as factor
+name length term weight
+
+final creat weight base frequenc term email
+will similar spam detect weight
+high word particularli hammmi
+
+term term count prioriti train messag
+control stopword
+remov punctuat
+remov number
+weight frame term name term
+weight term
+string as factor
+name length term
+
+remov word zero weight
+weight subset weight weight
+
+thi use calcul weight frame look
+appropri weightt given search term term
+paramet dertermin look word weight
+messag bodi weight subject line weight
+weight search term weight term
+
+length search term
+
+term
+
+term match match name search term weight term
+
+
+
+term match match search term weight thread
+
+match weight weight weight term match
+length match weight
+
+
+
+
+
+mean match weight
+
+
+
+
+
+
+
+
+step write assign weight messag base
+creat assign weight messag base
+mean weight across entir featur
+rank messag path
+
+pars email path
+weight base messag author
+
+first total frequenc
+ifels length weight from e mail
+weight weight weight from e mail
+
+
+second base sender thread thread
+thread ifels length sender from e mail
+sender weight sender from e mail
+
+
+subj strsplit tolow
+thread ifels subj
+thread
+
+activ weight subj thread weight term
+
+
+
+activ
+
+
+next weight base term
+
+weight base term thread
+thread term term count control stopword
+thread term weight weight thread term term weight
+
+weight base term messag
+term term count
+control stopword
+remov punctuat
+remov number
+weight weight term weight
+
+calcul rank interact weight
+rank prod
+thread
+activ
+thread term weight
+weight
+
+rank
+
+
+find split
+train path prioriti path round nrow prioriti
+test path prioriti path round nrow prioriti nrow prioriti
+
+creat full featur train
+train rank suppress warn lappli train path rank messag
+train rank matrix call rbind train rank
+train rank matrix cbind train path train rank matrix train
+train rank frame train rank matrix string as factor
+name train rank messag date from subj rank type
+train rank rank numer train rank rank
+
+prioriti threshold median rank weight
+prioriti threshold median train rank rank
+
+visual result locat threshold
+threshold plot ggplot train rank rank
+stat densiti fill darkr
+geom vline xintercept prioriti threshold linetyp
+scale fill manual valu darkr darkr guid none
+theme
+ggsave plot threshold plot
+filenam file path imag threshold plot
+height
+width
+
+classifi prioriti
+train rank prioriti ifels train rank rank prioriti threshold
+
+test ranker perform exact procedur test
+test rank suppress warn lappli test path rank messag
+test rank matrix call rbind test rank
+test rank matrix cbind test path test rank matrix test
+test rank frame test rank matrix string as factor
+name test rank messag date from subj rank type
+test rank rank numer test rank rank
+test rank prioriti ifels test rank rank prioriti threshold
+
+final combin set
+rbind train rank test rank
+date date convert date pattern1 pattern2
+order date
+
+save plot result
+write file path name
+
+test plot ggplot subset type train rank
+stat densiti fill type alpha
+stat densiti subset type test
+fill type alpha
+geom vline xintercept prioriti threshold linetyp
+scale alpha guid none
+scale fill manual valu train darkr test darkblu
+theme
+ggsave plot test plot
+filenam file path imag test plot
+height
+width
+file name email classifi
+date 2012
+author drew conway drew conway
+purpos code chapter introduc notion binari classif
+machin learn method determin categori
+given observ belong show creat simpl naiv bay
+classifi spam email detect visual result
+data use email messag contain directori sourc http spamassassin apach publiccorpu
+packag use ggplot2
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+note run consol must setwd command
+work directori consol whereev save file prior run
+otherwis error load save figur
+
+load librari
+librari
+librari ggplot2
+
+path
+spam path file path spam
+spam2 path file path spam
+easyham path file path easi
+easyham2 path file path easi
+hardham path file path hard
+hardham2 path file path hard
+
+creat motiv plot
+runif 1000
+cbind runif
+cbind runif
+cbind runif
+
+frame cbind rbind
+string as factor
+
+ggplot
+geom jitter shape factor
+posit posit jitter height
+scale shape discret guid none solid
+geom hline yintercept linetyp
+theme
+xlab
+ylab
+ggsave plot
+filenam file path imag
+height
+width
+
+return singl element vector email bodi
+thi simpl approach
+word featur
+path
+
+file path open encod latin1
+text read line
+messag alway begin first full line
+text text length text
+close
+past collaps
+
+
+creat term document matrix corpu spam email
+control modifi sparsiti level
+alter thi use creat featur use
+train classifi
+
+
+control stopword
+remov punctuat
+remov number
+min doc freq
+corpu corpu vector sourc
+term document matrix corpu control
+
+
+
+thi take file path email file
+term paramet return count term
+email bodi
+count word path term
+
+path
+corpu corpu vector sourc
+hard code control
+control stopword
+remov punctuat
+remov number
+term document matrix corpu control
+word freq row sum matrix
+term freq word freq name word freq term
+ifels term freq noth found
+ifels length term freq term freq
+
+
+thi workhors classifi email take
+requir paramt file path email classifi
+frame train also take
+option paramet first prior probabl email
+spam naiv constant valu
+probabl word email train
+return naiv bay probabl given email
+spam
+classifi email path train prior
+
+here mani support function
+email text workabl format
+path
+
+freq row sum matrix
+find intersect word
+match intersect name freq train term
+perform naiv bay calcul
+length match
+
+prior length freq
+
+
+
+match prob train occurr match match train term
+prior prod match prob length freq length match
+
+
+
+
+with support function written perform classif
+first creat document corpu spam messag
+
+spam email singl vector
+spam doc spam path
+spam doc spam doc spam doc cmd
+spam sappli spam doc
+file path spam path
+
+creat document term matrix vector
+spam spam
+
+creat frame provid featur train spam
+spam matrix matrix spam
+spam count row sum spam matrix
+spam frame cbind name spam count
+numer spam count
+string as factor
+name spam term frequenc
+spam frequenc numer spam frequenc
+spam occurr sappli nrow spam matrix
+
+
+length spam matrix ncol spam matrix
+
+spam densiti spam frequenc spam frequenc
+
+term densiti occurr rate
+spam transform spam
+densiti spam densiti
+occurr spam occurr
+
+easi email
+easyham doc easyham path
+easyham doc easyham doc easyham doc cmd
+easyham sappli easyham doc length spam doc
+file path easyham path
+
+easyham easyham
+
+easyham matrix matrix easyham
+easyham count row sum easyham matrix
+easyham frame cbind name easyham count
+numer easyham count
+string as factor
+name easyham term frequenc
+easyham frequenc numer easyham frequenc
+easyham occurr sappli nrow easyham matrix
+
+
+length easyham matrix ncol easyham matrix
+
+easyham densiti easyham frequenc easyham frequenc
+
+easyham transform easyham
+densiti easyham densiti
+occurr easyham occurr
+
+classif hard
+hardham doc hardham path
+hardham doc hardham doc hardham doc cmd
+
+hardham spamtest sappli hardham doc
+classifi email file path hardham path train spam
+
+hardham hamtest sappli hardham doc
+classifi email file path hardham path train easyham
+
+hardham ifels hardham spamtest hardham hamtest
+
+
+summari hardham
+
+find count term html tabl spam easyham doc creat figur
+html spam sappli spam doc
+count word file path spam path html
+tabl spam sappli spam doc
+count word file path spam path tabl
+spam init cbind html spam tabl spam spam
+
+html easyham sappli easyham doc
+count word file path easyham path html
+tabl easyham sappli easyham doc
+count word file path easyham path tabl
+easyham init cbind html easyham tabl easyham easyham
+
+init frame rbind spam init easyham init
+string as factor
+name init html tabl
+init html numer init html
+init tabl numer init tabl
+init factor init
+
+init plot1 ggplot init html tabl
+geom point shape
+scale shape manual valu spam easyham name email type
+xlab frequenc html
+ylab freqeunci tabl
+stat ablin yintersept slope
+theme
+ggsave plot init plot1
+filenam file path imag init plot1
+width
+height
+
+init plot2 ggplot init html tabl
+geom point shape posit jitter
+scale shape manual valu spam easyham name email type
+xlab frequenc html
+ylab freqeunci tabl
+stat ablin yintersept slope
+theme
+ggsave plot init plot2
+filenam file path imag init plot2
+width
+height
+
+final attempt classifi hardham classif develop
+rule classifi messag spam email spam email
+spam classifi path
+
+spam classifi email path spam
+classifi email path easyham
+spam ifels spam
+
+
+list email messag
+easyham2 doc easyham2 path
+easyham2 doc easyham2 doc easyham2 doc cmd
+
+hardham2 doc hardham2 path
+hardham2 doc hardham2 doc hardham2 doc cmd
+
+spam2 doc spam2 path
+spam2 doc spam2 doc spam2 doc cmd
+
+classifi
+easyham2 suppress warn lappli easyham2 doc
+
+
+spam classifi file path easyham2 path
+
+hardham2 suppress warn lappli hardham2 doc
+
+
+spam classifi file path hardham2 path
+
+spam2 suppress warn lappli spam2 doc
+
+
+spam classifi file path spam2 path
+
+
+creat singl frame classif
+easyham2 matrix call rbind easyham2
+easyham2 cbind easyham2 matrix easyham
+
+hardham2 matrix call rbind hardham2
+hardham2 cbind hardham2 matrix hardham
+
+spam2 matrix call rbind spam2
+spam2 cbind spam2 matrix spam
+
+matrix rbind easyham2 hardham2 spam2
+frame matrix string as factor
+name spam class type
+spam numer spam
+numer
+class logic numer class
+type factor type
+
+creat plot result
+plot ggplot spam
+geom point shape type alpha
+stat ablin yintercept slope
+scale shape manual valu easyham
+hardham
+spam
+name email type
+scale alpha guid none
+xlab
+ylab spam
+theme
+theme axi text element blank axi text element blank
+ggsave plot plot
+filenam file path imag classif
+height
+width
+
+result vector
+
+result length vector vector length vector
+length vector vector length vector
+result
+
+
+save result tabl
+easyham2 result subset type easyham class
+hardham2 result subset type hardham class
+spam2 result subset type spam class
+
+rbind easyham2 hardham2 spam2
+colnam spam spam
+
+
+save train chapter
+write spam file path spam name
+write easyham file path easyham name
+file name chapter09
+date 2012
+author drew conway drew conway
+purpos code chapter studi introduc multidimension scale
+techniqu visual display simialr observ
+mutlidimension space simpl exampl simul
+next perform analysi real senat roll call vote
+first must workabl format analyz
+data use file code sourc http voteview dwnl
+packag use ggplot2
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+load librari
+librari
+librari ggplot2
+
+simul analysi review techniqu
+
+some sampl code understand matrix multipl
+
+first code snippet
+seed 851982 make sure result consist
+matrix matrix sampl replac
+nrow
+ncol
+name matrix
+colnam matrix
+
+second code snippet
+matrix
+
+
+
+
+
+
+
+convert matrix custom custom matrix
+
+third code snippet
+matrix
+
+
+
+
+
+
+
+
+
+fourth code snippet
+calcul distanc matrix
+mult matrix matrix
+mult
+
+
+
+
+
+
+
+fifth code snippet
+sqrt mult mult
+236068
+
+dist dist mult
+dist
+
+
+244998
+477226 000000
+236068 782330 082763
+
+sixth code snippet
+visual cluster
+cmdscale dist
+plot
+text
+
+seventh code snippet
+librari
+librari ggplot2
+
+file path roll call
+file file
+
+file
+
+sen101kh sen102kh
+sen103kh sen104kh
+sen105kh sen106kh
+sen107kh sen108kh
+sen109kh sen110kh 2008
+sen111kh
+
+eighth code snippet
+roll call vote frame singl
+rollcal lappli file
+
+
+read file path convert factor
+
+
+ninth code snippet
+rollcal
+
+
+head rollcal
+cong state dist lstate parti name v638
+99908 bush
+14659 alabama shelbi
+14705 alabama heflin
+12109 alaska steven
+14907 alaska murkowski
+14502 arizona deconcini
+
+tenth code snippet
+thi take singl frame roll call vote return
+senat vote matrix
+rollcal simplifi
+
+pre subset state
+
+ncol pre
+
+pre ifels pre pre
+pre ifels pre pre pre
+pre ifels pre pre
+
+
+matrix pre ncol pre
+
+
+rollcal simpl lappli rollcal rollcal simplifi
+
+eleventh code snippet
+multipli matrix transpos senat senat tranform
+calcul euclidan distanc senat
+rollcal dist lappli rollcal simpl dist
+
+multidimension scale
+rollcal lappli rollcal dist
+frame cmdscale
+
+twelfth code snippet
+identif inform senat back frame
+congress
+
+length rollcal
+
+name rollcal
+
+congress subset rollcal state
+
+congress name sappli charact congress name
+strsplit
+
+rollcal transform rollcal
+name congress name
+parti factor congress parti
+congress congress
+
+
+head rollcal
+
+name parti congress
+44068 0001 shelbi
+82580 4369 heflin
+85564 3451 steven
+1714 21327 5262 murkowski
+58421 1038 deconcini
+1594 50998 8166 mccain
+
+thirteenth code snippet
+creat plot 110th congress
+cong rollcal
+
+ggplot cong
+scale size rang guid none
+scale alpha guid none
+theme
+theme axi tick element blank
+axi text element blank
+axi text element blank
+panel grid major element blank
+ggtitl roll call vote cluster 110th senat
+xlab
+ylab
+scale shape name parti break
+label solid
+scale color manual name parti valu black
+dimgray
+grey
+break
+label
+
+geom point shape parti
+alpha
+size
+geom text color parti
+alpha
+label cong name
+size
+
+fourteenth code snippet
+creat singl visual congress grid
+call rbind rollcal
+plot ggplot
+geom point shape parti alpha size
+scale size rang guid none
+scale alpha guid none
+theme
+theme axi tick element blank
+axi text element blank
+axi text element blank
+panel grid major element blank
+ggtitl roll call vote cluster senat 101st 111th congress
+xlab
+ylab
+scale shape name parti
+break
+label
+solid
+facet wrap congress
+
+plot
+
+thi code omit chapter thi use creat shnazi plot everyth
+length rollcal
+
+rollcal
+congress congress
+plot titl past roll call vote cluster
+congress
+senat
+
+
+build plot
+plot ggplot
+scale size rang guid none
+scale alpha guid none
+theme
+theme axi tick element blank
+axi text element blank
+axi text element blank
+panel grid major element blank
+ggtitl plot titl
+xlab
+ylab
+
+build point text plot separ
+point plot geom point shape parti
+alpha
+size
+text plot geom text color parti
+alpha
+label name
+size
+
+label shape color
+length level parti
+
+point point scale shape name parti
+break
+label
+solid
+text text scale color manual name parti
+valu black
+dimgray
+gray
+break
+label
+
+
+
+point point scale shape name parti
+break
+label
+solid
+text text scale color manual name parti
+valu black
+dimgray
+break
+label
+
+
+ggsave plot point
+filenam file path imag
+senat plot
+past congress point
+width
+height
+ggsave plot text
+filenam file path imag
+senat plot
+past congress name
+width
+height
+
+file name chapter12
+date 2012
+author drew conway drew conway john myle white johnmyleswhit
+purpos
+data use r data
+packag use ggplot2 glmnet boot
+
+sourc code copyright 2012 simplifi licens
+inform free bsd http opensourc licens licens
+
+imag materi produc code licens creativ common
+attribut share alik unit state licens http creativecommon licens
+
+right reserv
+
+note run consol must setwd command
+work directori consol whereev save file prior run
+otherwis error load save figur
+
+librari ggplot2
+
+first code snippet
+read file path
+
+logit label
+famili binomi link logit
+
+
+logit predict ifels predict logit
+
+mean logit predict label
+5156
+
+mean label
+5156
+
+second code snippet
+librari e1071
+
+label
+predict ifels predict
+mean predict label
+7204
+
+third code snippet
+librari reshap
+cbind
+frame logit ifels predict logit
+ifels predict
+
+predict melt var
+
+ggplot predict color factor valu
+geom point
+facet grid variabl
+
+fourth code snippet
+label
+
+linear label kernel linear
+mean label ifels predict linear
+
+polynomi label kernel polynomi
+mean label ifels predict polynomi
+
+radial label kernel radial
+mean label ifels predict radial
+
+sigmoid label kernel sigmoid
+mean label ifels predict sigmoid
+
+cbind
+frame linear svm ifels predict linear
+polynomi svm ifels predict polynomi
+radial svm ifels predict radial
+sigmoid svm ifels predict sigmoid
+
+predict melt var
+
+ggplot predict color factor valu
+geom point
+facet grid variabl
+
+fifth code snippet
+polynomi degree3 label
+
+kernel polynomi
+degre
+mean label ifels predict polynomi degree3
+5156
+
+polynomi degree5 label
+
+kernel polynomi
+degre
+mean label ifels predict polynomi degree5
+5156
+
+polynomi degree10 label
+
+kernel polynomi
+degre
+mean label ifels predict polynomi degree10
+4388
+
+polynomi degree12 label
+
+kernel polynomi
+degre
+mean label ifels predict polynomi degree12
+4464
+
+sixth code snippet
+label
+
+cbind
+frame degree3 svm ifels predict polynomi degree3
+
+
+degree5 svm ifels predict polynomi degree5
+
+
+degree10 svm ifels predict polynomi degree10
+
+
+degree12 svm ifels predict polynomi degree12
+
+
+
+predict melt var
+
+ggplot predict color factor valu
+geom point
+facet grid variabl
+
+seventh code snippet
+radial cost1 label
+
+kernel radial
+cost
+mean label ifels predict radial cost1
+7204
+
+radial cost2 label
+
+kernel radial
+cost
+mean label ifels predict radial cost2
+7052
+
+radial cost3 label
+
+kernel radial
+cost
+mean label ifels predict radial cost3
+6996
+
+radial cost4 label
+
+kernel radial
+cost
+mean label ifels predict radial cost4
+
+
+eighth code snippet
+label
+
+cbind
+frame cost1 svm ifels predict radial cost1
+cost2 svm ifels predict radial cost2
+cost3 svm ifels predict radial cost3
+cost4 svm ifels predict radial cost4
+
+predict melt var
+
+ggplot predict color factor valu
+geom point
+facet grid variabl
+
+ninth code snippet
+sigmoid gamma1 label
+
+kernel sigmoid
+gamma
+mean label ifels predict sigmoid gamma1
+
+
+sigmoid gamma2 label
+
+kernel sigmoid
+gamma
+mean label ifels predict sigmoid gamma2
+4824
+
+sigmoid gamma3 label
+
+kernel sigmoid
+gamma
+mean label ifels predict sigmoid gamma3
+4816
+
+sigmoid gamma4 label
+
+kernel sigmoid
+gamma
+mean label ifels predict sigmoid gamma4
+4824
+
+tenth code snippet
+label
+
+cbind
+frame gamma1 svm ifels predict sigmoid gamma1
+gamma2 svm ifels predict sigmoid gamma2
+gamma3 svm ifels predict sigmoid gamma3
+gamma4 svm ifels predict sigmoid gamma4
+
+predict melt var
+
+ggplot predict color factor valu
+geom point
+facet grid variabl
+
+eleventh code snippet
+load file path r data
+
+seed
+
+train indic sort sampl nrow round nrow
+test indic nrow train indic
+
+train train indic ncol
+train train indic
+
+test test indic ncol
+test test indic
+
+
+
+twelfth code snippet
+librari glmnet
+regular logit glmnet train train famili binomi
+
+thirteenth code snippet
+lambda regular logit
+
+perform frame
+
+lambda
+
+predict predict regular logit test
+predict numer predict
+mean predict test
+perform rbind perform frame lambda
+
+
+ggplot perform lambda
+geom point
+scale log10
+
+fourteenth code snippet
+best perform lambda
+
+fifteenth code snippet
+subset perform lambda best
+
+
+06830769
+
+sixteenth code snippet
+librari e1071
+linear train train kernel linear
+
+seventeenth code snippet
+predict predict linear test
+predict numer predict
+
+mean predict test
+
+
+
+
+eighteenth code snippet
+radial train train kernel radial
+
+predict predict radial test
+predict numer predict
+
+mean predict test
+
+
+1421538
+
+nineteenth code snippet
+librari
+
+train test train
+
+predict numer charact
+
+mean predict test
+
+
+1396923
+
+twentieth code snippet
+perform frame
+
+
+
+train test train
+predict numer charact
+mean predict test
+perform rbind perform frame
+
+
+best perform
+
+best subset perform best
+
+best
+09169231

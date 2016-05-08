@@ -1,0 +1,327 @@
+python
+
+path insert path abspath path dirnam file
+flask testsuit main
+main
+
+flask
+
+
+flask microframework python base werkzeug jinja good
+intent licens
+
+flask
+
+
+save hello
+
+code python
+
+flask flask
+flask name
+
+rout
+hello
+hello world
+
+name main
+
+
+easi setup
+
+
+
+
+code bash
+
+instal flask
+python hello
+run http localhost 5000
+
+link
+
+
+websit http flask pocoo
+document http flask pocoo doc
+develop version
+http github mitsuhiko flask zipbal master flask
+
+
+futur
+setuptool command setup
+
+
+audit command
+audit sourc code use py flake follow issu
+name use defin use defin
+name redefin without use
+
+descript audit sourc code py flake
+user option
+
+initi option
+
+
+final option
+
+
+
+
+
+
+pyflak script pyflak flake
+import error
+audit requir py flake instal system
+
+
+warn
+defin level directori
+dir flask exampl script
+dir
+root file walk
+file file
+file init file endswith
+warn flake check path path join root file
+warn
+audit finish total warn warn
+
+problem found sourcecod
+
+setup
+name flask
+version
+http github mitsuhiko flask
+licens
+author armin ronach
+author email armin ronach activ
+descript microframework base werkzeug jinja2
+good intent
+descript
+packag flask flask flask testsuit
+data
+safe
+platform
+instal requir
+werkzeug
+jinja2
+itsdanger
+click
+
+classifi
+develop statu beta
+environ environ
+intend audienc develop
+licens approv licens
+oper system independ
+program languag python
+program languag python
+topic internet http dynam content
+topic softwar develop librari python modul
+
+entri point
+consol script
+flask flask main
+
+cmdclass audit audit
+test suit flask testsuit suit
+
+code
+
+flask log
+
+
+implement log support flask
+
+copyright 2011 armin ronach
+licens licens detail
+
+
+futur absolut
+
+log get logger stream handler formatt get logger class debug
+
+
+creat logger
+creat logger given applic thi logger work
+similar regular python logger chang effect log
+level base applic debug flag furthermor
+also remov attach handler
+logger name
+
+logger get logger class
+
+debug logger logger
+get effect level
+level debug
+debug
+logger get effect level
+
+debug handler stream handler
+emit record
+stream handler emit record debug
+
+handler debug handler
+handler set level debug
+handler set formatt formatt debug format
+logger get logger logger name
+logger handler
+alreadi attach
+logger handler
+logger debug logger
+logger add handler handler
+logger
+code
+
+flask exthook
+
+
+redirect import extens thi basic make possibl
+transit flaskext flask without
+forc extens upgrad time
+
+when user flask attempt
+flask first fail
+flaskext
+
+switch packag pain
+everybodi involv
+
+thi use flask
+
+copyright 2011 armin ronach
+licens licens detail
+
+
+
+
+
+extens import object
+thi import redirect import submodul locat
+thi make possibl transit flaskext name
+newer flask name without peopl hard time
+
+
+init choic wrapper
+choic choic
+wrapper wrapper
+prefix wrapper
+prefix cutoff wrapper count
+
+
+
+name name
+wrapper wrapper
+choic choic
+
+
+
+
+instal
+meta path meta path
+
+find fullnam path
+fullnam startswith prefix
+
+
+load fullnam
+fullnam modul
+modul fullnam
+modnam fullnam split prefix cutoff prefix cutoff
+path choic
+realnam path modnam
+
+realnam
+import error
+type valu info
+sinc establish entri modul
+seem redund recurs import
+happen call move second time
+second invoc still entri
+fullnam modul
+fake name succeed sinc
+alreadi temporari entri modul dict
+sinc succeed temporarili second
+invoc creat fullnam entri
+modul kill
+modul fullnam
+
+import traceback rerais otherwis
+swallow choic skip frame
+care
+import traceback realnam
+type valu
+
+modul fullnam modul realnam
+modnam
+setattr modul wrapper modnam
+
+import error name fullnam
+
+import traceback import
+walk traceback frame check frame
+origin given import
+abl appar someth went
+wrong import fail
+
+
+import frame import
+
+
+
+
+import frame import
+check singl frame import
+frame global
+name
+
+
+name name
+
+python behavior modul clean late
+name show properli success
+name import
+
+
+some python verison clean modul earli
+name point longer guess
+filenam
+filenam path abspath frame code filenam
+test string path import replac path
+test string filenam
+test string path init filenam
+code
+
+flask global
+
+
+defin object proxi current
+activ context
+
+copyright 2011 armin ronach
+licens licens detail
+
+
+functool partial
+werkzeug local local stack local proxi
+
+lookup object name
+request stack
+
+runtim error work outsid request context
+getattr name
+
+
+find
+stack
+
+runtim error work outsid applic context
+
+
+
+context local
+request stack local stack
+stack local stack
+current local proxi find
+request local proxi partial lookup object request
+session local proxi partial lookup object session
+local proxi partial lookup object

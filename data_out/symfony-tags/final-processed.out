@@ -1,0 +1,456 @@
+
+
+
+
+thi file part symfoni framework
+
+fabien potenci fabien symfoni
+
+full copyright licens inform pleas view licens
+file distribut sourc code
+
+
+
+
+caution thi file instal depend need symfony2 test suit
+want creat project download symfoni standard edit instead
+
+http symfoni download
+
+
+
+time limit
+
+vendor dir dirnam file vendor
+mkdir vendor dir 0777
+
+
+option transport chang
+transport
+argv argv transport http transport http transport
+transport preg replac transport argv
+
+
+dep
+doctrin http github doctrin doctrine2
+doctrin dbal http github doctrin dbal
+doctrin common http github doctrin common
+monolog http github seldaek monolog
+swiftmail http github swiftmail swiftmail
+twig http github fabpot twig
+
+
+dep
+name
+
+transport
+preg replac http http transport
+
+
+instal updat name
+
+instal dir vendor dir name
+instal dir
+system sprintf escapeshellarg escapeshellarg instal dir
+
+
+system sprintf fetch origin reset hard escapeshellarg instal dir escapeshellarg
+
+
+
+server argc
+usag commit rang branch dir1 dir2 dir n
+
+
+
+dir server argv
+shift dir
+rang shift dir
+branch shift dir
+
+packag
+flag version 50400 json pretti print json unescap slash json unescap unicod
+
+dir
+diff name rang
+
+
+
+
+json ltrim file content compos json
+null json decod json
+passthru compos valid compos json
+
+
+
+repositori
+type compos
+file
+
+json rtrim json encod repositori repositori flag substr json
+file content compos json json
+passthru exclud
+
+version branch
+dist type
+dist file
+
+packag name version
+
+version file content http packagist packag name json
+version json decod version
+
+version version version
+packag name version
+
+
+
+file content packag json json encod compact packag flag
+
+
+
+thi file part symfoni
+
+fabien potenci fabien symfoni
+
+full copyright licens inform pleas view licens
+file distribut sourc code
+
+
+symfoni bridg twig
+
+symfoni compon templat engin interfac
+symfoni compon templat stream engin interfac
+symfoni compon templat templat name parser interfac
+
+
+thi engin know render twig templat
+
+author fabien potenci fabien symfoni
+
+twig engin engin interfac stream engin interfac
+
+environ
+parser
+
+
+constructor
+
+param twig environ environ twig environ instanc
+param templat name parser interfac parser templat name parser interfac instanc
+
+construct twig environ environ templat name parser interfac parser
+
+environ environ
+parser parser
+
+
+
+render templat
+
+param mix name templat name
+param paramet paramet templat
+
+string evalu templat string
+
+invalid argument except templat exist
+runtim except templat cannot render
+
+render name paramet
+
+load name render paramet
+
+
+
+stream templat
+
+param mix name templat name templat refer interfac instanc
+param paramet paramet templat
+
+runtim except templat cannot render
+
+stream name paramet
+
+load name display paramet
+
+
+
+return templat exist
+
+param mix name templat name
+
+bool templat exist otherwis
+
+exist name
+
+name twig templat
+
+
+
+loader environ get loader
+
+loader twig exist loader interfac
+loader exist name
+
+
+
+loader get sourc name
+twig error loader
+
+
+
+
+
+
+
+return abl render given templat
+
+param string name templat name
+
+bool support given resourc otherwis
+
+support name
+
+name twig templat
+
+
+
+templat parser pars name
+
+twig templat engin
+
+
+
+load given templat
+
+param mix name templat name instanc twig templat
+
+twig templat interfac twig templat interfac instanc
+
+invalid argument except templat exist
+
+load name
+
+name twig templat
+name
+
+
+
+environ load templat name
+twig error loader
+invalid argument except get messag get code
+
+
+
+
+
+
+thi file part symfoni
+
+fabien potenci fabien symfoni
+
+full copyright licens inform pleas view licens
+file distribut sourc code
+
+
+symfoni bridg twig form
+
+symfoni compon form form render engin interfac
+
+
+author bernhard schussek bschussek gmail
+
+twig render engin interfac form render engin interfac
+
+
+set twig environ
+
+param twig environ environ
+
+set environ twig environ environ
+
+
+
+
+thi file part symfoni
+
+fabien potenci fabien symfoni
+
+full copyright licens inform pleas view licens
+file distribut sourc code
+
+
+symfoni bridg twig form
+
+symfoni compon form abstract render engin
+symfoni compon form form view
+
+
+author bernhard schussek bschussek gmail
+
+twig render engin abstract render engin twig render engin interfac
+
+
+twig environ
+
+environ
+
+
+twig templat
+
+templat
+
+
+inheritdoc
+
+set environ twig environ environ
+
+environ environ
+
+
+
+inheritdoc
+
+render block form view view resourc block name variabl
+
+cach key view var cach
+
+context environ merg global variabl
+
+start
+
+contract thi method call get resourc
+pass method get resourc first time
+cach guarante invok load resourc from theme
+properti templat initi
+
+call render block avoid mani nest level call
+x debug limit level
+templat display block block name context resourc cach key
+
+clean
+
+
+
+load cach resourc given block name
+
+thi implement eagerli load block theme assign given view
+ancestor view thi necessari twig receiv
+block later point block must alreadi load
+block use twig templat
+
+get resourc for block
+
+param string cach key cach form view
+param form view view form view find appli theme
+param string block name name block load
+
+bool resourc could load otherwis
+
+load resourc for block name cach key form view view block name
+
+caller guarante resourc cach key block
+check whether resourc cach key
+resourc cach key theme
+cach key alreadi load eager popul comment
+resourc cach key
+said previou caller guarante
+resourc cach key block sinc theme
+alreadi load exist block
+resourc cach key block name
+
+
+
+
+recurs find block theme assign view
+parent view parent view parent
+when root view reach recurs also
+theme taken account
+
+check theme whether contain search block
+theme cach key
+count theme cach key
+load resourc from theme cach key theme cach key
+continu load comment
+
+
+
+check theme reach root view without success
+view parent
+count default theme
+load resourc from theme cach key default theme
+continu load comment
+
+
+
+proceed theme parent view
+view parent
+parent cach key view parent var cach
+
+resourc parent cach key
+load resourc for block name parent cach key view parent block name
+
+
+eager cach popul comment
+resourc parent cach key nest block name resourc
+resourc cach key nest block name
+resourc cach key nest block name resourc
+
+
+
+
+even though load theme happen none
+contain search block
+resourc cach key block name
+cach find anyth speed access
+resourc cach key block name
+
+
+resourc cach key block name
+
+
+
+load resourc block theme
+
+param string cach key cach store resourc
+param mix theme theme load block thi paramet
+pass refer might necessari
+initi theme first chang made
+variabl kept avail upon
+call method use theme
+
+load resourc from theme cach key theme
+
+theme twig templat
+twig templat theme
+theme environ load templat theme
+
+
+null templat
+store first twig templat instanc find
+call display block later matter
+templat sinc use block manual
+anyway
+templat theme
+
+
+separ variabl inherit travers
+theme refer want chang
+current theme theme
+
+context environ merg global
+
+loop take care templat inherit
+block templat inherit tree avoid
+overrid block alreadi
+
+current theme get block block block data
+resourc cach key block
+resourc given back bucket
+contain block
+resourc cach key block block data
+
+
+current theme current theme get parent context
+
+

@@ -1,0 +1,1402 @@
+
+file
+instal
+instal grunt
+
+grunt help
+
+
+
+browserifi browserifi
+json
+
+export grunt
+grunt init config
+mocha test
+test
+option
+style
+report spec
+
+test unit
+
+
+grunt file read json json
+uglifi
+option
+banner grunt file read licens
+
+dist
+file
+name version name version
+
+
+
+
+
+grunt regist task build build browser file
+done async
+
+outfil brain version
+
+bundl browserifi browser bundl
+consol outfil
+
+prepend licens
+licens read file sync licens
+licens
+
+write browser file
+write file sync outfil
+done
+
+
+grunt regist task test mocha test
+
+grunt load npm task grunt mocha test
+grunt load npm task grunt contrib uglifi
+
+
+brain brain
+
+brain neural network
+
+
+input output
+input output
+input output
+input output
+
+train stream creat train stream
+
+write train stream call train iter
+
+flood callback
+flood train stream
+
+
+
+call network done train
+
+done train callback
+consol train iter iter error
+error
+
+result
+
+consol result
+
+
+
+kick
+flood train stream
+
+
+flood stream
+length
+stream write
+
+know reach
+stream write
+
+file entrypoint build browser file browserifi
+
+brain brain
+underscor
+
+test partit classifi const opt train opt train set test set
+classifi classifi const opt
+
+begin train date
+
+train stat classifi train train set train opt
+
+begin test date
+
+test stat classifi test test set
+
+end test date
+
+stat test stat extend
+train time begin test begin train
+test time end test begin test
+iter train stat iter
+train error train stat error
+learn rate train opt learn rate
+hidden classifi hidden size
+network classifi to json
+
+
+stat
+
+
+export cross valid classifi const opt train opt
+
+size length
+
+sort by
+math random
+
+
+avg
+error
+train time
+test time
+iter
+train error
+
+
+stat
+true po
+true neg
+fals po
+fals neg
+total
+
+
+misclass
+
+result rang
+dclone
+test set dclone splice size size
+train set dclone
+
+result test partit classifi const opt train opt train set test set
+
+avg stat
+avg stat result stat
+
+
+stat stat
+stat stat result stat
+
+
+misclass push result misclass
+
+result
+
+
+avg
+avg
+
+
+stat precis stat true po stat true po stat fals po
+stat recal stat true po stat true po stat fals neg
+stat accuraci stat true neg stat true po stat total
+
+stat test size size
+stat train size length size
+
+
+avg avg
+stat stat
+set result
+misclass misclass flatten
+
+
+export neural network neuralnetwork neural network
+export cross valid cross valid
+underscor
+
+function turn spars hash array vice versa
+
+build lookup hash
+
+hash hash reduc memo hash
+memo extend hash
+
+lookup from hash hash
+
+
+lookup from hash hash
+
+lookup
+index
+hash
+lookup index
+
+lookup
+
+
+to array lookup hash
+
+
+lookup
+lookup hash
+
+
+
+
+to hash lookup
+
+hash
+lookup
+hash lookup
+
+hash
+
+
+lookup from array
+lookup
+fast
+
+length
+
+lookup
+
+lookup
+
+
+export
+build lookup build lookup
+lookup from hash lookup from hash
+to array to array
+to hash to hash
+lookup from array lookup from array
+
+underscor
+lookup lookup
+writabl stream writabl
+inherit inherit
+
+neural network option
+option option
+learn rate option learn rate
+momentum option momentum
+hidden size option hidden layer
+
+binari thresh option binari thresh
+
+
+neural network prototyp
+initi size
+size size
+output layer size length
+
+bias weight bia node
+weight
+output
+
+state train
+delta
+chang momentum
+error
+
+layer layer output layer layer
+size size layer
+delta layer zero size
+error layer zero size
+output layer zero size
+
+layer
+bias layer rando size
+weight layer array size
+chang layer array size
+
+node node size node
+prev size size layer
+weight layer node rando prev size
+chang layer node zero prev size
+
+
+
+
+
+input
+input lookup
+input lookup to array input lookup input
+
+
+output run input input
+
+output lookup
+output lookup to hash output lookup output
+
+output
+
+
+run input input
+output input output state input layer
+
+layer layer output layer layer
+node node size layer node
+weight weight layer node
+
+bias layer node
+weight length
+weight input
+
+output layer node math
+
+output input output layer
+
+output
+
+
+train option
+format data
+
+option option
+iter option iter 20000
+error thresh option error thresh
+option is function option option consol
+log period option log period
+learn rate option learn rate learn rate
+callback option callback
+callback period option callback period
+
+input size input length
+output size output length
+
+hidden size hidden size
+hidden size
+hidden size math math floor input size
+
+size input size hidden size output size flatten
+initi size
+
+error
+iter error error thresh
+
+length
+train pattern input output learn rate
+
+
+error length
+
+log period
+iter train error error
+
+callback callback period
+callback error error iter
+
+
+
+
+error error
+iter
+
+
+
+train pattern input target learn rate
+learn rate learn rate learn rate
+
+forward propog
+run input input
+
+back propog
+calcul delta target
+adjust weight learn rate
+
+error error output layer
+error
+
+
+calcul delta target
+layer output layer layer layer
+node node size layer node
+output output layer node
+
+error
+layer output layer
+error target node output
+
+
+delta delta layer
+delta length
+error delta weight layer node
+
+
+error layer node error
+delta layer node error output output
+
+
+
+
+adjust weight learn rate
+layer layer output layer layer
+incom output layer
+
+node node size layer node
+delta delta layer node
+
+incom length
+chang chang layer node
+
+chang learn rate delta incom
+momentum chang
+
+chang layer node chang
+weight layer node chang
+
+bias layer node learn rate delta
+
+
+
+
+format data
+is array turn stream datum
+
+push
+
+
+turn spars hash input array filler
+datum input
+datum is array datum float64 array
+input lookup
+input lookup lookup build lookup pluck input
+
+datum
+lookup to array input lookup datum input
+datum extend input
+
+
+
+output is array
+output lookup
+output lookup lookup build lookup pluck output
+
+datum
+lookup to array output lookup datum output
+datum extend output
+
+
+
+
+
+test
+format data
+
+binari classif problem output node
+is binari output length
+fals po
+fals neg
+true po
+true neg
+
+classif problem
+misclass
+
+pattern train network collect
+error misclassif statist
+
+length
+output run input input
+target output
+
+actual expect
+is binari
+actual output binari thresh
+expect target
+
+
+actual output index of output
+expect target index of target
+
+
+actual expect
+misclass
+misclass extend
+actual actual
+expect expect
+
+misclass push misclass
+
+
+is binari
+actual expect
+true neg
+
+actual expect
+true po
+
+actual expect
+fals neg
+
+actual expect
+fals po
+
+
+
+error output valu
+target valu
+
+error
+
+error length
+
+stat
+error error
+misclass misclass
+
+
+is binari
+stat extend
+true neg true neg
+true po true po
+fals neg fals neg
+fals po fals po
+total length
+precis true po true po fals po
+recal true po true po fals neg
+accuraci true neg true po length
+
+
+stat
+
+
+to json
+make json look like
+
+layer
+
+
+bia 98771313 weight 8374838 245858
+bia 48192004 weight 7825821 67899
+bia 27205739 weight 3161821 00436
+
+
+
+layer
+layer layer output layer layer
+layer layer
+
+node
+turn array back hash readabl json
+layer input lookup
+node input lookup key
+
+layer output layer output lookup
+node output lookup key
+
+
+node rang size layer
+
+
+node length
+node node
+layer layer node
+
+layer
+layer layer node bia bias layer
+layer layer node weight
+layer layer
+index
+layer input lookup
+index input lookup
+
+layer layer node weight weight layer index
+
+
+
+
+layer layer output lookup output lookup input lookup input lookup
+
+
+from json json
+size json layer length
+output layer size
+
+size array size
+weight array size
+bias array size
+output array size
+
+output layer
+layer json layer
+layer json input lookup
+input lookup lookup lookup from hash layer
+
+output layer layer json output lookup
+output lookup lookup lookup from hash layer
+
+
+node layer key
+size node length
+weight
+bias
+output
+
+node
+node node
+bias layer node bia
+weight layer node weight to array
+
+
+
+
+
+to function
+json to json
+standalon mimic
+function input
+json stringifi json
+layer length
+layer layer
+output
+
+layer
+node layer
+node bia
+
+node weight
+node weight input
+
+output math
+
+input output
+
+output
+
+
+thi creat train stream write stream
+send train
+param opt train option
+creat train stream opt
+opt opt
+opt neural network
+train stream train stream opt
+train stream
+
+
+
+random weight
+math random
+
+
+zero size
+array size
+size
+
+
+
+
+
+rando size
+array size
+size
+random weight
+
+
+
+
+error
+mean squar error
+
+error length
+math error
+
+error length
+
+
+export neural network neural network
+
+train stream opt
+writabl call
+object mode
+
+
+opt opt
+
+neural network
+opt neural network
+error neural network specifi
+
+
+neural network opt neural network
+data format determin
+
+input key
+output key keep track key seen
+keep track variabl
+iter opt iter 20000
+error thresh opt error thresh
+opt is function opt opt consol
+log period opt log period
+callback opt callback
+callback period opt callback period
+flood callback opt flood callback
+done train callback opt done train callback
+
+size
+count
+
+
+
+finish finish stream iter
+
+
+
+
+inherit train stream writabl
+
+
+write expect form datum
+input output
+
+train stream prototyp write chunk
+chunk check inter stream
+emit finish
+
+
+
+data format determin
+size
+input key input key key chunk input
+output key output key key chunk output
+first datum first datum chunk
+
+
+
+count
+
+neural network format data chunk
+train datum
+
+tell readabl stream readi
+
+
+
+train stream prototyp train datum datum
+neural network train pattern datum input datum output
+
+
+
+train stream prototyp finish stream iter
+data format determin size count
+consol thi iter length differ first
+
+
+data format determin
+creat lookup
+neural network input lookup lookup lookup from array input key
+is array first datum output
+neural network output lookup lookup lookup from array output key
+
+
+neural network format data first datum
+input size input length
+output size output length
+
+hidden size hidden size
+hidden size
+hidden size math math floor input size
+
+size input size hidden size output size flatten
+data format determin
+neural network initi size
+
+flood callback
+flood callback
+
+
+
+
+error size
+
+log period
+iter train error error
+
+callback callback period
+callback
+error error
+iter
+
+
+
+
+count
+updat iter
+
+
+check need stream
+iter error error thresh
+flood callback
+flood callback
+
+
+done train
+done train callback
+done train callback
+error error
+iter
+
+
+
+
+
+brain brain
+
+stream tester opt
+stream tester stream tester opt
+
+
+
+wiggl opt wiggl
+opt
+
+test data opt test data
+fake buffer
+error thresh opt error thresh
+
+brain neural network
+
+train stream creat train stream
+flood callback flood bind
+done train callback done train bind
+error thresh error thresh error threshold reach
+
+flood
+
+
+
+everi time finish epoch flood
+must write stream
+know reach epoch
+
+stream tester prototyp flood
+
+
+test data length
+train stream write test data
+
+train stream write
+
+
+stream tester prototyp done train info
+
+
+test data
+output test data input
+target test data output
+output target wiggl output target wiggl
+fail train output output target target
+
+
+
+
+test bitwis
+stream tester
+test data
+
+wiggl
+error thresh
+
+
+
+describ bitwis function
+
+
+
+input
+output
+
+input
+output
+
+test bitwis
+
+
+
+
+input
+output
+
+input
+output
+
+input
+output
+
+input
+output
+
+test bitwis
+
+
+
+
+input
+output
+
+input
+output
+
+input
+output
+
+input
+output
+
+test bitwis
+
+
+
+
+input
+output
+
+input
+output
+
+input
+output
+
+input
+output
+
+test bitwis
+
+
+
+brain brain
+
+describ hash input output
+run correctli input output
+brain neural network
+
+train input output
+input output
+input output
+input output
+output
+
+output output output
+
+
+run correctli hash input
+brain neural network
+
+info train input output
+input output
+input output
+input output
+output
+
+output output output
+
+
+run correctli hash output
+brain neural network
+
+train input output answer
+input output answer
+input output answer
+input output answer
+
+output
+
+output answer output output answer
+
+
+run correctli hash input output
+brain neural network
+
+train input output answer
+input output answer
+input output answer
+input output answer
+
+output
+
+output answer output output answer
+
+
+run correctli spars hash
+brain neural network
+
+train input output
+input output answer
+input output answer
+input output
+
+
+output
+
+output answer
+
+
+run correctli unseen input
+brain neural network
+
+train input output
+input output answer
+input output answer
+input output
+
+output
+output answer
+
+
+
+lookup lookup
+
+
+describ lookup
+lookup from hash
+lookup lookup from hash
+
+deep equal
+
+
+build lookup
+lookup build lookup
+
+
+
+
+deep equal
+
+
+to array
+
+
+lookup to array notinlookup
+
+deep equal
+
+
+to hash
+
+
+hash lookup to hash
+
+deep equal hash
+
+
+
+brain brain
+
+describ json
+brain neural network
+
+train input math random math random
+output math random math random
+input math random math random
+output math random math random
+
+serial to json
+net2 brain neural network from json serial
+
+input math random math random
+
+to json from json
+output1 input
+output2 net2 input
+
+equal json stringifi output1 json stringifi output2
+load json serial network fail
+
+
+
+to function
+output1 input
+output2 to function input
+
+equal json stringifi output1 json stringifi output2
+standalon network fail
+
+
+
+underscor
+brain brain
+
+describ neural network option
+hidden layer
+brain neural network hidden layer
+
+train input output
+input output
+input output
+input output
+
+json to json
+
+equal json layer length
+equal json layer key length
+equal json layer key length
+
+
+hidden layer expand input size
+brain neural network
+
+train input output
+input output
+input output
+input output
+
+json to json
+
+equal json layer length
+equal json layer key length input unit mean hidden
+
+
+
+learn rate higher learn rate train faster
+input output
+input output
+input output
+input output
+
+net1 brain neural network
+iters1 net1 train learn rate iter
+
+net2 brain neural network
+iters2 net2 train learn rate iter
+
+iters1 iters2 iters1 iters2
+
+
+learn rate backward compat
+input output
+input output
+input output
+input output
+
+net1 brain neural network learn rate
+iters1 net1 train iter
+
+net2 brain neural network learn rate
+iters2 net2 train iter
+
+iters1 iters2 iters1 iters2
+
+
+momentum higher momentum train faster
+input output
+input output
+input output
+input output
+
+net1 brain neural network momentum
+iters1 net1 train iter
+
+net2 brain neural network momentum
+iters2 net2 train iter
+
+iters1 iters2 iters1 iters2
+
+
+describ
+log call
+
+befor each
+log call
+
+
+log function
+log call
+
+
+train with log
+brain neural network
+train input output
+
+
+log period
+
+
+
+call consol
+origin log consol
+consol log function
+
+train with log
+
+consol origin log
+equal log call
+
+
+call given
+train with log log function
+
+equal log call
+
+
+
+
+brain brain
+
+input output
+input output
+input output
+input output
+
+describ train option
+train error threshold reach
+brain neural network
+error train
+error thresh
+iter 100000
+error
+
+error network train error threshold reach
+
+
+train iter reach
+brain neural network
+stat train
+error thresh
+iter
+
+
+equal stat iter
+
+
+train callback call train stat done
+iter
+period
+target iter
+
+call
+
+brain neural network
+train
+iter iter
+callback stat
+stat iter period
+
+call
+call target
+done
+
+
+callback period
+
+
+
+
+brain brain
+
+wiggl
+
+test bitwis
+brain neural network
+train error thresh
+
+
+output input
+target output
+output target wiggl output target wiggl
+fail train output output target target
+
+
+
+describ bitwis function
+
+
+input output
+input output
+test bitwis
+
+
+
+input output
+input output
+input output
+input output
+test bitwis
+
+
+
+input output
+input output
+input output
+input output
+test bitwis
+
+
+
+input output
+input output
+input output
+input output
+test bitwis
+
+
+canva canva
+underscor
+brain brain
+cross valid cross valid
+
+
+
+get sampl context letter font
+context clear rect
+context font font
+context fill text letter
+
+context get imag data
+luma extract point
+luma
+
+
+extract point imag data
+point
+imag data width
+imag data height
+imag data width
+imag data
+imag data
+imag data
+imag data
+
+luma 1000 1000
+1000
+
+point push luma
+
+
+point
+
+
+describ cross valid
+recogn charact differ font
+canva canva
+canva canva
+context canva get context
+
+letter
+
+font arial courier georgia menlo optima
+copperpl american typewrit comic san
+baskervil verdana helvetica didot
+geneva crack impact cooper
+
+
+
+letter for each letter
+font for each font
+input get sampl context letter font
+
+output
+output letter
+push input input output output
+
+
+
+consol cross valid
+result cross valid brain neural network
+
+consol n misclassif
+result misclass for each misclass
+consol input misclass input
+actual letter misclass actual
+expect letter misclass expect
+
+
+consol n cross valid
+consol result avg
+
+consol n misclassif rate
+result misclass length length
+
+consol n mean squar error
+result avg error
+
+perf result avg iter result avg train time 1000
+consol n train iter second perf
+
+result avg error
+
+

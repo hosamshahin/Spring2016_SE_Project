@@ -1,0 +1,6064 @@
+doctyp html
+html
+head
+titl epoch chart render test titl
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+link stylesheet text href dist epoch
+head
+bodi
+epoch chart render test
+
+basic chart
+
+
+href basic area html area
+href basic html
+
+href basic histogram html histogram
+
+href basic line html line
+href basic html
+href basic scatter html scatter
+href basic option html chart option event
+
+
+
+real time chart
+
+
+href real time area html area
+href real time html
+href real time gaug html gaug
+href real time heatmap html heatmap
+href real time line html line
+href real time option html chart option event
+
+
+
+theme
+
+
+href theme html default
+href theme dark html dark
+
+
+
+data model
+
+
+href basic model html basic model
+href real time model html real time model
+
+
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+script script
+link stylesheet text href dist epoch
+head
+bodi
+basic chart test
+breadcrumb href index html epoch chart test raquo basic
+
+
+href test singl seri
+href test singl seri
+href test multi seri
+href test multi seri
+href test singl seri transit
+href test multi seri transit
+href test singl seri multi seri transit
+href test layer color overrid
+href test categor color switch
+href test multi seri without label
+href test horizont orient singl seri
+href test horizont orient multi seri
+href test horizont orient multi seri transit
+href test vertic horizont transit
+href test pad chang
+href test hide show layer
+href test data format
+href test mani bar
+
+
+
+test
+test test
+singl seri
+display plot code code rang code code
+epoch
+
+
+script
+
+label valu
+length
+
+length
+math length
+math
+valu push
+
+
+test epoch epoch
+
+
+tick format
+bottom
+pars float to fix
+
+
+
+
+script
+
+
+test
+test test
+singl seri
+display plot code code rang code code
+epoch
+
+
+script
+
+label valu
+length
+
+length
+math length
+math
+valu push
+
+
+test epoch epoch
+
+
+tick format
+bottom
+pars float to fix
+
+
+
+
+script
+
+
+test
+test test
+multi seri plot
+
+display plot follow function stack atop anoth
+
+code code
+code code
+code code
+
+rang code code
+
+epoch
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+length
+valu push
+valu push
+valu push
+
+
+test epoch epoch
+
+
+
+
+script
+
+
+test
+test test
+multi seri plot
+
+display plot follow function stack atop anoth
+
+code code
+code code
+code code
+
+rang
+
+epoch
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+length length
+valu push math
+valu push math
+valu push math math
+
+
+test epoch epoch
+
+script
+
+
+test
+test test
+singl seri transit
+
+correctli transit plot code code rang code code rang transit initi press button plot
+
+epoch
+
+button index button
+button index button
+
+
+
+script
+
+data1 label valu
+data2 label valu
+data1 data2
+length
+
+length
+length length
+math
+length length
+math
+data1 valu push
+data2 valu push
+
+
+chart test epoch epoch
+
+data1
+
+
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test
+test test
+multi seri transit
+
+correctli render transit
+
+code code
+code code
+code code
+
+rang
+
+code code
+code code
+code code
+
+rang transit initi press button plot
+epoch
+
+button index button
+button index button
+
+
+
+script
+
+data1
+label valu
+label valu
+label valu
+
+
+data2
+label valu
+label valu
+label valu
+
+
+data1 data2
+length
+
+length
+length
+
+data1 valu push
+data1 valu push
+data1 valu push
+
+data2 valu push math
+data2 valu push math
+data2 valu push math
+
+
+chart test epoch epoch data1
+
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+
+test
+test test
+singl seri multi seri transit
+
+correctli transit singl seri plot function
+
+code code
+
+multi seri plot function
+
+code code
+code code
+code code
+
+rang plot transit initi press button plot
+
+epoch
+
+button index singl button
+button index multi button
+
+
+
+script
+
+data1 label valu
+data2
+label valu
+label valu
+label valu
+
+data1 data2
+length
+
+length
+length
+data1 valu push
+data2 valu push math
+data2 valu push
+data2 valu push math
+
+
+chart test epoch epoch
+
+data1
+tick format
+bottom to fix
+
+
+
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test
+test test
+layer color overrid
+
+display first layer plot pink second layer green third layer blue
+
+epoch
+
+
+style
+test epoch fill pink
+test epoch fill green
+test epoch fill blue
+style
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+length
+math
+length
+valu push
+
+
+
+test epoch epoch
+
+script
+
+test
+test test
+categor color switch
+
+chang layer color automat switch follow categor color class contain element
+
+code category10 code
+code category20 code
+code category20b code
+code category20c code
+
+chang categor color press button chart
+
+
+epoch category10
+
+
+button category10 category10 button
+button category20 category20 button
+button category20b category20b button
+button category20c category20c button
+
+
+script
+
+
+label valu
+label valu
+label valu
+label valu
+label valu
+label valu
+label valu
+
+length
+class name category10
+
+length
+length
+length
+valu push math
+
+
+
+test epoch epoch
+
+
+tick format
+bottom to fix
+
+
+
+test button click
+test epoch remov class class name
+class name target attr
+test epoch add class class name
+
+
+script
+
+test
+test test
+multi seri without label
+
+correctli render multi seri plot
+
+code code
+code code
+
+layer given without label
+
+epoch
+
+script
+
+valu valu
+length
+
+length
+math length
+valu push math
+valu push math
+
+
+test epoch epoch
+
+
+tick format
+bottom to fix
+
+
+
+script
+
+test
+test test
+horizont orient singl seri
+
+correctli render singl seri plot
+
+
+
+
+
+horizont orient
+
+epoch
+
+script
+
+valu
+
+
+
+
+
+test epoch epoch
+
+orient horizont
+
+
+
+script
+
+test
+test test
+horizont orient multi seri
+
+correctli render multi seri plot
+
+
+
+
+
+horizont orient
+
+epoch
+
+script
+
+
+valu
+valu
+
+
+test epoch epoch
+
+orient horizont
+
+
+
+script
+
+test
+test test
+horizont orient multi seri transit
+
+correctli render horizont orient multi seri plot
+
+
+
+
+
+transit singl seri plot
+
+
+
+
+
+
+epoch
+
+button index multi button
+button index singl button
+
+
+script
+
+data1
+valu
+valu
+
+data2
+valu
+
+data1 data2
+
+chart test epoch epoch
+
+orient horizont
+data1
+
+
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test test
+vertic horizont transit
+epoch
+
+button orient vertic vertic button
+button orient horizont horizont button
+
+
+script
+
+
+valu
+valu
+
+
+chart test epoch epoch
+
+
+
+
+test button click
+orient target attr orient
+chart option orient orient
+
+
+script
+
+test test
+pad chang
+epoch
+
+button index regular pad button
+button index pad button
+
+
+script
+
+
+valu
+valu
+
+
+pad
+
+pad group
+outer pad group
+
+
+pad group
+outer pad group
+
+
+
+chart test epoch epoch
+test button click
+index pars int target attr index
+chart option pad pad index pad
+chart option outer pad pad index outer pad
+
+
+script
+
+test test
+hide show layer
+epoch
+
+button toggl index toggl button
+button toggl index toggl button
+button toggl index toggl button
+
+button orient orient button
+
+
+script
+
+chart test epoch epoch
+
+
+
+
+
+
+test button toggl click
+index pars int target attr index
+chart toggl layer index
+
+
+test button orient click
+chart option orient vertic
+chart option orient horizont
+
+chart option orient vertic
+
+
+script
+
+test test
+data format
+ensur chart work tupl valu format
+epoch
+epoch tupl
+epoch keyvalu
+
+script
+
+test epoch
+
+
+data format
+
+
+test tupl epoch
+
+data format tupl
+
+
+
+
+
+
+test keyvalu epoch
+
+data format
+name keyvalu
+
+option
+
+
+
+
+
+
+
+
+
+
+
+
+script
+
+test test
+tick
+ensur tick option chart
+epoch
+
+script
+
+
+size
+
+size
+push
+
+math random
+math random
+
+
+
+chart test epoch epoch
+
+
+data format
+name keyvalu
+
+option
+
+
+
+
+
+consol chart
+
+script
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+script script
+link stylesheet text href dist epoch
+head
+bodi
+basic scatter plot test
+breadcrumb href index html epoch chart test raquo basic scatter
+
+href test singl seri
+href test multi seri
+href test singl seri transit
+href test multi seri transit
+href test multi seri transit
+href test color overrid
+href test categor color
+href test multi seri without label
+href test singl seri radiu
+href test radiu chang
+href test show hide layer
+
+
+test
+test test
+singl seri
+render singl random seri scatter plot
+epoch
+
+script
+
+
+length
+
+length
+math random
+math random
+push
+
+
+test epoch epoch scatter label valu
+
+script
+
+test
+test test
+multi seri
+render three random scatter seri plot
+epoch
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+length
+math random
+math random
+valu push
+
+
+
+test epoch epoch scatter
+
+script
+
+test
+test test
+singl seri transit
+
+transit random seri anoth random seri
+button plot initi transit
+
+epoch
+
+button index seri button
+button index seri button
+
+
+script
+
+
+
+label valu
+
+
+label valu
+
+
+length
+
+length
+length
+length
+math random
+math random
+valu push
+
+
+
+
+chart test epoch epoch scatter
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test
+test test
+multi seri transit
+
+transit multipl random seri random seri anoth multipl random seri
+button plot initi transit
+
+epoch
+
+button index seri button
+button index seri button
+
+
+script
+
+
+
+label valu
+label valu
+label valu
+
+
+label valu
+label valu
+label valu
+
+
+length
+
+length
+length
+length
+math random
+math random
+valu push
+
+
+
+
+chart test epoch epoch scatter
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test
+test test
+multi seri transit
+
+transit multi seri random singl seri random
+
+epoch
+
+button index seri button
+button index seri button
+
+
+script
+
+
+
+label valu
+label valu
+label valu
+
+
+label valu
+
+
+length
+
+length
+length
+length
+math random
+math random
+valu push
+
+
+
+
+chart test epoch epoch scatter
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test
+test test
+color overrid
+first seri pink second green thrid blue
+epoch
+
+style
+test fill pink
+test fill green
+test fill blue
+style
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+length
+math random
+math random
+valu push
+
+
+
+test epoch epoch scatter
+
+script
+
+test
+test test
+categor color
+
+correctli transit differ categor color set
+
+epoch
+
+button category10 category10 button
+button category20 category20 button
+button category20b category20b button
+button category20c category20c button
+
+
+script
+
+
+label valu
+label valu
+label valu
+label valu
+label valu
+label valu
+label valu
+label valu
+label valu
+label valu
+
+class name category10
+
+length
+math length
+math
+valu push
+
+
+test epoch epoch
+scatter
+radiu
+
+
+
+
+test button click
+test epoch remov class class name
+class name target attr
+test epoch add class class name
+
+
+script
+
+test
+test test
+multi seri without label
+correctli render random scatter plot label specifi layer
+epoch
+
+script
+
+valu valu
+length
+
+length
+length
+math random
+math random
+valu push
+
+
+
+test epoch epoch scatter
+
+script
+
+test
+test test
+singl seri radiu
+render singl random seri scatter plot differ radii
+epoch
+
+button regener button
+
+
+script
+
+length
+
+gener data length
+
+length
+math random
+math random
+math random
+push
+
+label valu
+
+
+chart test epoch epoch scatter gener data length
+
+test button click
+chart updat gener data length
+
+
+script
+
+test
+test test
+radiu chang
+epoch
+
+button index small button
+button index normal button
+button index larg button
+button index veri larg button
+
+
+script
+
+radii
+chart test epoch epoch
+scatter
+random
+
+test button click
+index pars int target attr index
+chart option radiu radii index
+
+
+script
+
+test
+test test
+show hide layer
+epoch
+
+button index toggl button
+button index toggl button
+button index toggl button
+
+
+script
+
+chart test epoch epoch
+scatter
+multi random
+
+
+test button click
+index pars int target attr index
+chart toggl layer index
+
+
+script
+
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+script script
+
+script
+window beta
+
+
+
+histogram beta data histogram
+valu
+
+histogram
+valu push histogram
+
+valu valu
+
+script
+
+link stylesheet text href dist epoch
+head
+bodi
+basic chart test
+breadcrumb href index html epoch chart test raquo basic
+
+
+href test beta
+href test beta horizont
+href test option bucket
+href test option bucket rang cut outlier
+
+
+test
+test test
+beta
+plot random select point beta distribut histogram
+epoch
+button refresh button
+
+script
+
+chart test epoch epoch
+histogram
+bucket
+beta
+
+
+test button click
+chart updat beta
+
+
+script
+
+test
+test test
+beta horizont
+plot random select point beta display horizont histogram
+epoch
+button refresh button
+
+script
+
+chart test epoch epoch
+histogram
+bucket
+beta
+orient horizont
+
+
+test button click
+chart updat beta
+
+
+script
+
+test
+test test
+option bucket
+plot beta chang bucket
+epoch
+
+button valu bucket button
+button valu bucket button
+button valu bucket button
+button valu bucket button
+button valu bucket button
+button refresh refresh button
+
+
+script
+
+chart test epoch epoch
+histogram
+bucket
+beta
+
+
+test button valu click
+bucket pars int target attr valu
+chart option bucket bucket
+
+
+test button refresh click
+chart updat beta
+
+
+script
+
+test
+test test
+option bucket rang cut outlier
+plot beta chang bucket rang
+epoch
+
+button rang rang button
+button rang rang button
+button rang rang button
+button cut outlier outlier button
+button keep outlier keep outlier button
+button refresh refresh button
+
+
+script
+
+chart test epoch epoch
+histogram
+bucket
+beta
+
+
+test button rang click
+rang target attr rang split
+chart option bucket rang rang
+
+
+test cut outlier click
+chart option cut outlier
+
+
+test keep outlier click
+chart option cut outlier
+
+
+test button refresh click
+chart updat beta
+
+
+script
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+script script
+link stylesheet text href dist epoch
+head
+bodi
+basic line chart test
+breadcrumb href index html epoch chart test raquo basic line
+
+
+href test singl seri
+href test singl seri
+href test multi seri
+href test singl seri transit
+href test multi seri transit
+href test singl multi seri transit
+href test color overrid
+href test categor color
+href test multi seri without label
+href test multi seri fix domain
+href test show hide layer
+
+
+test
+test test
+singl seri
+display plot code code rang code code
+epoch
+
+
+script
+
+label valu
+length
+length
+math length math
+math
+valu push
+
+test epoch epoch line
+
+script
+
+test
+test test
+singl seri
+display plot code code code code
+epoch
+
+
+script
+
+label valu
+length
+length
+math length
+math math
+valu push
+
+test epoch epoch line
+
+script
+
+test
+test test
+multi seri
+
+display plot follow function rang
+
+code code
+code code
+
+
+epoch
+
+
+script
+
+
+label valu
+label valu
+
+length
+length
+math length
+valu push math
+valu push math
+
+test epoch epoch line
+
+script
+
+test
+test test
+singl seri transit
+
+correctli transit function code code code code rang
+button chart initi transit
+
+epoch
+
+button index button
+button index button
+
+
+
+script
+
+data1 label valu
+data2 label valu
+data1 data2
+length
+
+length
+length
+data1 valu push
+data2 valu push
+
+
+chart test epoch epoch line data1
+
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test
+test test
+multi seri transit
+
+correctli transit
+
+code code
+code code
+
+
+
+code code
+code code
+
+
+
+code code
+code code
+
+
+epoch
+
+button index button
+button index button
+button index button
+
+
+
+script
+
+
+result
+
+result
+
+result
+
+
+taylor sin
+math math
+
+
+taylor co
+math math
+
+
+data1
+label valu
+label valu
+
+data2
+label valu
+label valu
+
+data3
+label valu
+label valu
+
+data1 data2 data3
+length
+
+length
+length
+data1 valu push math
+data1 valu push taylor sin
+data2 valu push math
+data2 valu push taylor co
+data3 valu push math taylor sin
+data3 valu push math taylor co
+
+
+chart test epoch epoch line data1
+
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test
+test test
+singl multi seri transit
+
+correctli transit
+
+code code
+
+
+
+code code
+code code
+code code
+
+
+epoch
+
+button index singl button
+button index multi button
+
+
+
+script
+
+data1 label valu
+data2
+label valu
+label valu
+label valu
+
+data1 data2
+length
+
+length
+length
+data1 valu push math
+data2 valu push math
+data2 valu push math
+data2 valu push math math
+
+
+chart test epoch epoch line data1
+
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test
+test test
+color overrid
+
+display first layer plot pink second layer green third layer blue
+
+epoch
+
+
+style
+test epoch line stroke pink
+test epoch line stroke green
+test epoch line stroke blue
+style
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+length
+length
+valu push math math
+
+
+
+test epoch epoch line
+
+script
+
+test
+test test
+categor color
+
+chang layer color automat switch follow categor color class contain element
+
+code category10 code
+code category20 code
+code category20b code
+code category20c code
+
+chang categor color press button chart
+
+epoch category10
+
+button category10 category10 button
+button category20 category20 button
+button category20b category20b button
+button category20c category20c button
+
+
+
+script
+
+
+label valu
+label valu
+label valu
+label valu
+label valu
+label valu
+label valu
+
+length
+class name category10
+
+length
+length
+length
+valu push math
+
+
+
+test epoch epoch line
+
+test button click
+test epoch remov class class name
+class name target attr
+test epoch add class class name
+
+
+script
+
+
+test
+test test
+multi seri without label
+
+correctli render multi seri plot
+
+code code
+code code
+
+layer given without label
+
+epoch
+
+script
+
+valu valu
+length
+
+length
+math length
+valu push math
+valu push math
+
+
+test epoch epoch line
+
+script
+
+test
+test test
+multi seri fix domain
+
+display plot follow function
+
+code code
+code code
+
+domain code code rang code code
+
+epoch
+
+
+script
+
+
+label valu
+label valu
+
+length
+length
+math length
+valu push math
+valu push math
+
+test epoch epoch
+line
+
+domain
+rang
+
+
+script
+
+test
+test test
+show hide layer
+epoch
+
+button index toggl button
+button index toggl button
+button index toggl button
+
+
+script
+
+chart test epoch epoch
+line
+
+
+
+
+
+test button click
+index pars int target attr index
+chart toggl layer index
+
+
+script
+
+test
+test test
+multi axi
+epoch
+
+script
+
+
+rang left valu
+rang right valu
+
+
+
+valu push
+valu push math math
+
+
+chart test epoch epoch
+line
+
+axe left right
+rang
+left left
+right right
+
+
+
+script
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+script script
+link stylesheet text href dist epoch
+style
+bodi background color d0d0d0
+link visit color white color white
+
+epoch
+height 220px
+
+
+sparklin height 50px
+
+style
+head
+bodi epoch theme dark
+basic chart model data test
+breadcrumb href index html epoch chart test raquo basic chart model data test
+
+
+button index data button
+button index data button
+button index data button
+
+
+sparklin epoch
+area epoch
+epoch
+
+script
+
+data a
+
+layer
+
+layer push math random
+
+data a push layer
+
+
+data b
+
+layer
+
+layer push math random
+
+data b push layer
+
+
+data c
+
+data c push math random
+
+
+data a data b data c
+
+setup model
+window model epoch model data format
+model set data data a
+
+make chart associ model
+sparklin sparklin epoch
+line
+axe left right
+model model
+
+
+area area epoch
+area
+axe left right bottom
+model model
+
+
+window epoch
+
+axe left right bottom
+model model
+
+
+click listen button
+button click
+index pars int target attr index
+model set data index
+
+
+script
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+link stylesheet text href dist epoch
+style
+test epoch
+width 350px
+height 350px
+
+style
+head
+bodi
+basic chart test
+breadcrumb href index html epoch chart test raquo basic
+
+href test basic test
+href test basic donut test
+href test tranisit
+href test tranisit
+href test color overrid
+href test categor color
+href test chart layer without label
+href test margin chang
+href test inner chang
+href test show hide layer
+
+
+test
+test test
+basic test
+
+correctli render chart three categori
+
+
+
+
+
+
+epoch
+
+
+script
+
+test epoch epoch
+
+
+label valu
+label valu
+label valu
+
+
+
+script
+
+test
+test test
+basic donut test
+
+correctli render donut chart three categori
+
+
+
+
+
+
+epoch
+
+
+script
+
+test epoch epoch
+
+inner
+
+label valu
+label valu
+label valu
+
+
+
+script
+
+test
+test test
+tranisit
+
+correctli transit
+
+
+
+
+
+
+
+
+
+
+button chart initi transit
+
+epoch
+
+button index button
+button index button
+
+
+
+script
+
+data1
+label valu
+label valu
+
+data2
+label valu
+label valu
+label valu
+
+data1 data2
+chart test epoch epoch data1
+
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test
+test test
+tranisit
+
+correctli transit
+
+
+
+
+
+
+
+
+
+button chart initi transit
+
+epoch
+
+button index button
+button index button
+
+
+
+script
+
+data1
+label valu
+label valu
+
+data2
+label valu
+label valu
+
+data1 data2
+chart test epoch epoch data1
+
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test
+test test
+color overrid
+
+overrid color
+
+pink
+green
+blue
+
+
+epoch
+
+
+style
+test path fill pink
+test path fill green
+test path fill blue
+style
+
+script
+
+test epoch epoch
+
+
+label valu
+label valu
+label valu
+
+
+
+script
+
+test
+test test
+categor color
+
+correctli transit differ categor color set
+
+epoch category10
+
+button category10 category10 button
+button category20 category20 button
+button category20b category20b button
+button category20c category20c button
+
+
+
+
+script
+
+
+class name category10
+
+
+push label string from char code valu
+
+
+test epoch epoch
+
+inner
+
+
+
+test button click
+test epoch remov class class name
+class name target attr
+test epoch add class class name
+
+
+script
+
+
+test
+test test
+chart layer without label
+
+correctli render chart three categori
+
+
+
+
+
+layer provid label
+
+epoch
+
+
+script
+
+test epoch epoch
+
+valu valu valu
+
+
+script
+
+test
+test test
+margin chang
+epoch
+
+button index small button
+button index button
+
+
+script
+
+margin
+chart test epoch epoch
+
+valu valu valu
+
+test button click
+margin margin pars int target attr index
+chart option margin margin
+
+
+script
+
+test
+test test
+inner chang
+epoch
+
+button index inner button
+button index small inner button
+button index inner button
+
+
+script
+
+inner margin
+chart test epoch epoch
+
+valu valu valu
+
+test button click
+inner inner margin pars int target attr index
+chart option inner inner
+
+
+script
+
+test
+test test
+show hide layer
+epoch
+
+button index toggl button
+button index toggl button
+button index toggl button
+
+
+script
+
+chart test epoch epoch
+
+
+label valu
+label valu
+label valu
+
+
+test button click
+index pars int target attr index
+chart toggl layer index
+
+
+script
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+script script
+link stylesheet text href dist epoch
+head
+bodi
+basic area chart test
+breadcrumb href index html epoch chart test raquo basic area
+
+
+href test singl seri
+href test singl seri
+href test multi seri
+href test multi seri
+href test singl seri transit
+href test multi seri transit
+href test singl seri multi seri transit
+href test layer color overrid
+href test categor color switch
+href test multi seri without label
+href test hide show layer
+href test data format
+
+
+
+test
+test test
+singl seri
+display plot code code rang code code
+epoch
+
+
+script
+
+label valu
+length
+
+length
+math length
+math
+valu push
+
+
+test epoch epoch area
+
+script
+
+
+test
+test test
+singl seri
+display plot code code rang code code
+epoch
+
+
+script
+
+label valu
+length
+
+length
+math length
+math
+valu push
+
+
+test epoch epoch area
+
+script
+
+
+test
+test test
+multi seri plot
+
+display plot follow function stack atop anoth
+
+code code
+code code
+code code
+
+rang code code
+
+epoch
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+length
+valu push
+valu push
+valu push
+
+
+test epoch epoch area
+
+script
+
+
+test
+test test
+multi seri plot
+
+display plot follow function stack atop anoth
+
+code code
+code code
+code code
+
+rang
+
+epoch
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+length length
+valu push math
+valu push math
+valu push math math
+
+
+test epoch epoch area
+
+script
+
+
+test
+test test
+singl seri transit
+
+correctli transit plot code code rang code code rang transit initi press button plot
+
+epoch
+
+button index button
+button index button
+
+
+
+script
+
+data1 label valu
+data2 label valu
+data1 data2
+length
+
+length
+length length
+math
+length length
+math
+data1 valu push
+data2 valu push
+
+
+chart test epoch epoch
+area
+data1
+
+
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test
+test test
+multi seri transit
+
+correctli render transit
+
+code code
+code code
+code code
+
+rang
+
+code code
+code code
+code code
+
+rang transit initi press button plot
+epoch
+
+button index button
+button index button
+
+
+
+script
+
+data1
+label valu
+label valu
+label valu
+
+
+data2
+label valu
+label valu
+label valu
+
+
+data1 data2
+length
+
+length
+length
+
+data1 valu push
+data1 valu push
+data1 valu push
+
+data2 valu push math
+data2 valu push math
+data2 valu push math
+
+
+chart test epoch epoch area data1
+
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+
+test
+test test
+singl seri multi seri transit
+
+correctli transit singl seri plot function
+
+code code
+
+multi seri plot function
+
+code code
+code code
+code code
+
+rang plot transit initi press button plot
+
+epoch
+
+button index singl button
+button index multi button
+
+
+
+script
+
+data1 label valu
+data2
+label valu
+label valu
+label valu
+
+data1 data2
+length
+
+length
+length
+data1 valu push
+data2 valu push math
+data2 valu push
+data2 valu push math
+
+
+chart test epoch epoch area data1
+
+test button click
+index pars int target attr index
+chart updat index
+
+
+script
+
+test
+test test
+layer color overrid
+
+display first layer plot pink second layer green third layer blue
+
+epoch
+
+
+style
+test epoch area fill pink
+test epoch area fill green
+test epoch area fill blue
+style
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+length
+math
+length
+valu push
+
+
+
+test epoch epoch area
+
+script
+
+test
+test test
+categor color switch
+
+chang layer color automat switch follow categor color class contain element
+
+code category10 code
+code category20 code
+code category20b code
+code category20c code
+
+color chang press button categor chart
+
+
+epoch category10
+
+
+button category10 category10 button
+button category20 category20 button
+button category20b category20b button
+button category20c category20c button
+
+
+script
+
+
+label valu
+label valu
+label valu
+label valu
+label valu
+label valu
+label valu
+
+length
+class name category10
+
+length
+length
+length
+valu push math
+
+
+
+test epoch epoch area
+
+test button click
+test epoch remov class class name
+class name target attr
+test epoch add class class name
+
+
+script
+
+test
+test test
+multi seri without label
+
+correctli render multi seri plot
+
+code code
+code code
+
+layer given without label
+
+epoch
+
+script
+
+valu valu
+length
+
+length
+math length
+valu push math
+valu push math
+
+
+test epoch epoch area
+
+script
+
+test
+test test
+hide show layer
+correctli hide show multipl layer
+epoch
+
+button index toggl button
+button index toggl button
+button index toggl button
+
+
+script
+
+chart test epoch epoch
+area
+
+
+
+
+
+test button click
+index pars int target attr index
+chart toggl layer index
+
+
+script
+
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+script script
+link stylesheet text href dist epoch
+style
+bodi background color d0d0d0
+link visit color white color white
+style
+head
+bodi epoch theme dark
+basic chart option event
+breadcrumb href index html epoch chart test raquo basic chart option event
+
+href test axe
+href test margin
+href test tick tick format
+href test resiz
+href test domain
+href test rang
+
+
+test
+test test
+axe
+
+correctli remov axe option
+
+epoch
+control
+button index button
+button index left right button
+button index bottom button
+button index left bottom button
+button index right button
+button index button
+
+
+script
+
+axe
+left bottom right
+left right
+bottom
+left bottom
+right
+
+
+
+chart test epoch epoch
+line
+math math math
+
+
+test button click
+chart option axe axe pars int target attr index
+
+
+script
+
+
+test
+test test
+margin
+
+correctli resiz margin option
+
+epoch
+control
+button index margin button
+button index margin button
+button index small margin button
+
+
+script
+
+size
+margin left bottom right
+margin left bottom right
+margin left bottom right
+
+
+chart test epoch epoch
+line
+math
+math
+math math
+axe
+
+
+test button click
+margin size pars int target attr index
+consol margin
+chart option margin
+
+
+script
+
+test
+test test
+tick tick format
+
+correctli resiz margin option
+
+epoch
+control
+button tick toggl tick button
+button tick format toggl tick format button
+
+
+script
+
+tick index tick
+
+tick
+
+bottom
+left
+right
+
+
+
+tick
+
+left
+bottom
+right
+
+
+
+
+tick format index tick format
+
+tick format
+epoch format regular
+bottom epoch format regular
+left epoch format
+right epoch format
+
+
+
+tick format
+pars int
+bottom pars int
+left pars int
+right pars int
+
+
+
+
+chart test epoch epoch
+area
+math
+math
+math math
+axe left right bottom
+
+
+test button tick click
+tick index tick index tick length
+chart option tick tick index
+
+
+test button tick format click
+tick format index tick format index tick format length
+chart option tick format tick format index
+
+
+script
+
+test
+test test
+resiz
+
+correctli resiz chart width height option
+
+epoch style width 600px height 200px
+control
+button index origin button
+button index bigger button
+
+
+script
+
+size
+
+
+
+
+chart test epoch epoch
+line
+math math math
+
+
+test button click
+index pars int target attr index
+chart option width size index
+chart option height size index
+
+
+script
+
+test
+test test
+option domain
+epoch
+
+button index domain from data extent button
+button index button
+
+
+script
+
+domain
+
+math
+
+
+chart test epoch epoch
+line
+math math math
+
+
+test button click
+index pars int target attr index
+chart option domain domain index
+
+
+script
+
+
+test
+test test
+option rang
+epoch
+
+button index rang from data extent button
+button index button
+
+
+script
+
+rang
+
+
+
+
+chart test epoch epoch
+area
+math math math
+
+
+test button click
+index pars int target attr index
+consol rang index
+chart option rang rang index
+
+
+
+script
+
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+link stylesheet text href dist epoch
+
+script
+next time
+current time pars int date get time 1000
+current time
+
+script
+head
+bodi
+real time test
+breadcrumb href index html epoch chart test raquo real time
+
+href test singl seri
+href test singl seri singl transit
+href test singl seir stream
+href test multi seri
+href test multi seri singl transit
+href test multi seir stream
+href test color overrid
+href test categor color
+href test show hide layer
+
+
+test
+test test
+singl seri
+
+correctli render singl seri plot code code rang code code
+
+epoch
+
+
+script
+
+label valu
+length
+
+length
+math length
+math
+time next time
+valu push time time
+
+
+test epoch epoch time
+
+script
+
+test
+test test
+singl seri singl transit
+
+correctli render singl seri plot code code when button press push point chart correctli anim render transiton
+
+epoch
+button next button
+
+
+script
+
+label valu
+length
+next index length
+
+length
+math length
+math
+time next time
+valu push time time
+
+
+chart test epoch epoch
+time
+
+
+
+test button click
+next index math length
+math
+time next time
+next index
+chart push time time
+
+
+script
+
+
+test
+test test
+singl seir stream
+correctli play paus singl seri stream valu plot code code
+epoch
+button play button
+
+
+script
+
+label valu
+length
+next index length
+play
+interv
+
+length
+math length
+math
+time next time
+valu push time time
+
+
+chart test epoch epoch
+time
+
+
+
+push point
+next index math length
+math
+time next time
+chart push time time
+next index
+
+
+test button click
+play
+target text play
+clear interv interv
+
+
+target text paus
+push point
+interv set interv push point 1000
+
+play play
+
+
+script
+
+test
+test test
+multi seri
+correctli render multi seri plot follow function
+
+code code
+code code
+code code
+
+epoch
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+
+time next time
+length
+valu push time time math
+
+
+
+test epoch epoch
+time
+
+axe left right bottom
+
+
+script
+
+
+test
+test test
+multi seri singl transit
+
+correctli render multi seri plot follow function
+
+code code
+code code
+code code
+
+correctli render anim transiton press next button
+
+epoch
+
+button next button
+
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+scale
+next index length
+
+length
+scale
+time next time
+valu push time time
+valu push time time math
+valu push time time math
+
+
+chart test epoch epoch
+time
+
+axe left right bottom
+
+
+test button click
+next index scale
+time next time
+next index
+chart push
+time time
+time time math
+time time math
+
+
+
+script
+
+test
+test test
+multi seir stream
+
+correctli play paus multi seri stream valu follow plot
+
+code code
+code code
+code code
+
+
+epoch
+button play button
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+next index length
+scale
+play
+interv
+
+length
+scale
+time next time
+valu push time time
+valu push time time math
+valu push time time math math
+
+
+chart test epoch epoch
+time
+
+axe right bottom
+
+
+push point
+next index scale
+time next time
+chart push
+time time
+time time math
+time time math math
+
+next index
+
+
+test button click
+play
+target text play
+clear interv interv
+
+
+target text paus
+interv set interv push point 1000
+push point
+
+play play
+
+
+script
+
+test
+test test
+color overrid
+first layer pink second green third blue
+test plot epoch
+
+
+style
+test plot fill pink
+test plot fill green
+test plot fill blue
+style
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+
+time next time
+length
+valu push time time math
+
+
+
+test epoch epoch
+time
+
+
+
+script
+
+test
+test test
+categor color
+correctli render differ categor color unlik basic chart occur switch name contain element queri engin must purg plot must manual redrawn like code
+epoch queri css purg
+chart draw
+code
+
+
+epoch category10
+
+
+button category10 category10 button
+button category20 category20 button
+button category20b category20b button
+button category20c category20c button
+
+
+
+script
+
+
+length
+class name category10
+layer
+time next time
+
+layer
+layer label string from char code valu
+length
+
+math math math math
+layer valu push time time
+
+push layer
+
+
+chart test epoch epoch time
+
+test button click
+test epoch remov class class name
+class name target attr
+test epoch add class class name
+epoch queri css purg
+chart draw
+
+
+script
+
+test
+test test
+show hide layer
+epoch
+
+button toggl index toggl button
+button toggl index toggl button
+button toggl index toggl button
+button playback play button
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+time next time
+
+interv
+
+length
+
+valu push time time
+
+
+
+next point
+entri
+length
+entri push time time
+
+chart push entri
+
+
+
+chart test epoch epoch time
+
+test toggl click
+index pars int target attr index
+chart toggl layer index
+
+
+test playback click
+interv
+interv set interv next point 1000
+next point
+target text paus
+
+
+clear interv interv
+interv
+target text play
+
+
+
+script
+
+test
+test test
+fix rang
+
+render singl seri plot code code instead automat set rang code code rang manual code code
+
+epoch
+
+
+script
+
+label valu
+length
+
+length
+math length
+math
+time next time
+valu push time time
+
+
+test epoch epoch
+time
+axe right bottom
+
+rang
+
+
+script
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+link stylesheet text href dist epoch
+
+script
+next time
+current time pars int date get time 1000
+current time
+
+script
+head
+bodi
+real time gaug test
+breadcrumb href index html epoch chart test raquo real time gaug
+
+href test singl valu display
+href test singl transit
+href test stream transit
+href test gaug size
+href test color overrid
+href test option domain
+href test option tick
+href test option tick size
+href test option tick offset
+href test option format
+
+
+test
+test test
+singl valu display
+display singl valu
+epoch gaug small
+
+script
+
+test epoch epoch time gaug valu
+
+script
+
+
+test
+test test
+singl transit
+display valu transit random valu button press
+epoch gaug small
+button transit button
+
+script
+
+chart test epoch epoch
+time gaug
+valu
+
+
+test button click
+chart updat math random
+
+
+script
+
+
+test
+test test
+stream transit
+display valu transit random valu everi second button press
+epoch gaug small
+button play button
+
+script
+
+chart test epoch epoch
+time gaug
+valu
+
+play
+interv
+
+test button click
+interv
+interv set interv
+chart updat math random
+1000
+chart updat math random
+target text paus
+
+
+clear interv interv
+interv
+target text play
+
+
+
+script
+
+test
+test test
+gaug size
+display four built gaug size order tini small medium larg
+epoch gaug tini
+epoch gaug small
+epoch gaug medium
+epoch gaug larg
+
+script
+
+test gaug tini epoch time gaug valu
+test gaug small epoch time gaug valu
+test gaug medium epoch time gaug valu
+test gaug larg epoch time gaug valu
+
+script
+
+test
+test test
+color overrid
+
+overrid basic gaug style follow
+
+outer thick color green
+inner thick color orang
+tick width
+needl color blue
+needl color black
+
+
+test plot epoch gaug medium
+
+
+style
+test plot epoch gaug outer
+stroke width
+stroke green
+
+
+test plot epoch gaug inner
+stroke width
+stroke orang
+
+
+test plot epoch gaug tick
+stroke width
+stroke
+
+
+test plot epoch gaug needl
+fill blue
+
+
+test plot epoch gaug needl
+fill black
+
+style
+
+script
+
+test epoch epoch time gaug valu
+
+script
+
+
+common option event listen event
+
+script
+window make option test test number chart option option name
+chart option chart option chart option
+
+chart option
+chart option time gaug
+chart option valu
+chart option valu
+chart option domain
+chart option domain
+
+domain chart option domain
+test test number
+chart epoch epoch chart option
+interv
+chart push math random domain domain domain
+
+playback click
+interv
+interv set interv 1500
+
+target text paus
+
+
+clear interv interv
+interv
+target text play
+
+
+
+format
+epoch format percent
+to fix
+
+
+option click
+valu pars int target attr valu
+
+consol option name valu
+
+option name domain
+valu domain target attr valu split pars int
+option name format
+valu format valu
+chart option option name valu
+
+
+script
+
+
+test
+test test
+option domain
+epoch gaug small
+
+button playback play button
+button option valu button
+button option valu button
+
+
+script make option test domain script
+
+test
+test test
+option tick
+epoch gaug small
+
+button playback play button
+button option valu tick button
+button option valu tick button
+button option valu tick button
+button option valu tick button
+
+
+script make option test tick script
+
+test
+test test
+option tick size
+epoch gaug small
+
+button playback play button
+button option valu button
+button option valu button
+button option valu 10px button
+button option valu 20px button
+
+
+script make option test tick size script
+
+test
+test test
+option tick offset
+epoch gaug small
+
+button playback play button
+button option valu button
+button option valu 10px button
+button option valu 20px button
+
+
+script make option test tick offset script
+
+test
+test test
+option format
+epoch gaug small
+
+button playback play button
+button option valu percent button
+button option valu normal button
+
+
+script make option test format script
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+script script
+link stylesheet text href dist epoch
+head
+bodi
+real time heatmap plot test
+breadcrumb href index html epoch chart test raquo real time heatmap
+
+href test singl seri normal
+href test singl seri beta
+href test singl seri normal singl updat
+href test singl seri beta stream updat
+href test singl seri color overrid
+href test multi seri normal beta
+href test multi seri color overrid
+href test rang independ bucket
+href test option bucket
+href test option bucket rang
+href test option bucket pad
+href test option cut outlier
+href test option opac
+href test show hide layer
+
+
+test
+test test
+singl seri normal
+select random valu normal distribut display heatmap
+epoch
+
+script
+
+normal data
+test epoch epoch
+time heatmap
+histori
+window size
+bucket
+
+
+script
+
+test
+test test
+singl seri beta
+select random valu beta distribut display heatmap
+epoch
+
+script
+
+beta data
+test epoch epoch
+time heatmap
+histori
+window size
+bucket
+
+
+script
+
+test
+test test
+singl sier normal singl updat
+
+plot normal distribut transit element button press
+
+epoch
+button next button
+
+script
+
+normal data
+chart test epoch epoch
+time heatmap
+histori
+window size
+bucket
+
+test button click
+chart push
+
+
+script
+
+test
+test test
+singl seri beta stream updat
+
+plot beta distribut stream element second
+button press
+
+epoch
+button play button
+
+
+script
+
+beta data
+interv
+chart test epoch epoch
+time heatmap
+histori
+window size
+bucket
+
+test button click
+interv
+chart push
+interv set interv
+chart push
+1000
+target text paus
+
+
+clear interv interv
+interv
+target text play
+
+
+
+script
+
+test
+test test
+singl seri color overrid
+chang bucket color orang plot beta distribut
+test plot epoch
+
+
+style
+test plot rect bucket fill darkorang
+style
+
+script
+
+beta data
+test epoch epoch
+time heatmap
+histori
+window size
+bucket
+
+
+script
+
+test
+test test
+multi seri normal beta
+
+plot beta normal distribut layer singl heatmap stream element plot
+press button normal distribut layer blue beta green
+
+epoch
+button play button
+
+script
+
+normal normal data
+normal data normal histori
+beta beta data
+beta data beta histori
+normal data beta data
+interv
+
+chart test epoch epoch
+time heatmap
+
+window size
+bucket
+
+
+push next
+chart push normal beta
+
+
+test button click
+interv
+push next
+interv set interv push next 1000
+target text paus
+
+
+clear interv interv
+interv
+target text play
+
+
+
+script
+
+test
+test test
+multi seri color overrid
+
+plot normal distribut beta distribut overrd normal beta
+purpl
+
+test plot epoch
+
+
+style
+test plot rect bucket fill
+test plot rect bucket fill purpl
+style
+
+script
+
+normal normal data
+normal data normal histori
+beta beta data
+beta data beta histori
+interv
+
+normal data label
+beta data label
+
+chart test epoch epoch
+time heatmap
+normal data beta data
+window size
+bucket
+
+
+script
+
+test
+test test
+rang independ bucket href http github fastli epoch issu issu
+
+discret bucket spars histogram valu produc similar look graph regardless
+numer relat rang plot bucket
+
+rang bucket
+chart1 epoch
+
+rang bucket
+chart2 epoch
+
+script
+
+normal normal data
+normal histori
+
+consol
+
+test chart1 epoch
+time heatmap
+
+window size
+bucket
+
+test chart2 epoch
+time heatmap
+
+window size
+bucket
+
+
+script
+
+test
+test test
+option bucket
+epoch
+
+button playback play button
+button bucket bucket bucket button
+button bucket bucket bucket button
+button bucket bucket bucket button
+
+
+script
+
+beta beta data
+beta histori
+
+chart test epoch epoch
+time heatmap
+
+bucket
+
+
+interv
+push point chart push beta
+
+test playback click
+interv
+target text paus
+push point
+interv set interv push point 1000
+
+
+target text play
+clear interv interv
+interv
+
+
+
+test bucket click
+bucket pars int target attr bucket
+chart option bucket bucket
+
+
+script
+
+test
+test test
+option bucket rang
+epoch
+
+button playback play button
+button bucket rang bucket rang button
+button bucket rang bucket rang button
+button bucket rang bucket rang button
+button bucket rang bucket rang button
+button bucket rang bucket rang button
+
+
+script
+
+beta window beta beta data
+beta histori
+
+chart test epoch epoch
+time heatmap
+
+axe left right
+bucket
+window size
+cut outlier
+
+
+interv
+push point chart push beta
+
+test playback click
+interv
+target text paus
+push point
+interv set interv push point 1000
+
+
+target text play
+clear interv interv
+interv
+
+
+
+test bucket rang click
+bucket rang target attr bucket rang
+split pars int
+chart option bucket rang bucket rang
+
+
+script
+
+test
+test test
+option bucket pad
+epoch
+
+button playback play button
+button bucket pad bucket pad pad button
+button bucket pad bucket pad pad button
+button bucket pad bucket pad pad button
+button bucket pad bucket pad pad button
+
+
+script
+
+beta window beta beta data
+beta histori
+
+chart test epoch epoch
+time heatmap
+
+axe
+bucket
+window size
+
+
+interv
+push point chart push beta
+
+test playback click
+interv
+target text paus
+push point
+interv set interv push point 1000
+
+
+target text play
+clear interv interv
+interv
+
+
+
+test bucket pad click
+bucket pad pars int target attr bucket pad
+consol bucket pad
+chart option bucket pad bucket pad
+
+
+script
+
+test
+test test
+option cut outlier
+epoch
+
+button playback play button
+button cut outlier valu keep outlier button
+button cut outlier valu outlier button
+
+
+script
+
+beta window beta beta data
+beta histori
+
+chart test epoch epoch
+time heatmap
+
+axe left right
+bucket rang
+bucket
+window size
+
+
+interv
+push point chart push beta
+
+test playback click
+interv
+target text paus
+push point
+interv set interv push point 1000
+
+
+target text play
+clear interv interv
+interv
+
+
+
+test cut outlier click
+cut outlier target attr valu
+chart option cut outlier cut outlier
+
+
+script
+
+test test
+option opac
+epoch
+
+button playback play button
+select opac
+option valu root radic option
+option valu linear select option
+option valu quadrat option
+option valu cubic option
+option valu quartic option
+option valu quintic option
+select
+
+
+script
+
+beta window beta beta data
+beta histori
+
+chart test epoch epoch
+time heatmap
+
+axe
+bucket
+window size
+
+
+interv
+push point chart push beta
+
+test playback click
+interv
+target text paus
+push point
+interv set interv push point 1000
+
+
+target text play
+clear interv interv
+interv
+
+
+
+test select opac chang
+opac test select opac
+chart option opac opac
+
+
+script
+
+test test
+show hide layer
+epoch
+
+button toggl index toggl button
+button toggl index toggl button
+button playback play button
+
+
+script
+
+normal normal data
+normal data normal histori
+beta beta data
+beta data beta histori
+normal data beta data
+interv
+
+chart test epoch epoch
+time heatmap
+
+window size
+bucket
+
+
+test toggl click
+index pars int target attr index
+chart toggl layer index
+
+
+push next
+chart push normal beta
+
+
+test playback click
+interv
+push next
+interv set interv push next 1000
+target text paus
+
+
+clear interv interv
+interv
+target text play
+
+
+
+script
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+link stylesheet text href dist epoch
+
+script
+next time
+current time pars int date get time 1000
+current time
+
+script
+head
+bodi
+real time line plot test
+breadcrumb href index html epoch chart test raquo real time line
+
+href test singl seri
+href test singl seri singl transit
+href test singl seir stream
+href test multi seri
+href test multi seri singl transit
+href test multi seir stream
+href test color overrid
+href test categor color
+href test show hide layer
+href test show hide layer
+href test multiax
+
+
+test
+test test
+singl seri
+
+correctli render singl seri plot code code rang code code
+
+epoch
+
+
+script
+
+label valu
+length
+
+length
+math length
+math
+time next time
+valu push time time
+
+
+test epoch epoch time line
+
+script
+
+test
+test test
+singl seri singl transit
+
+correctli render singl seri plot code code when button press push point chart correctli anim render transiton
+
+epoch
+button next button
+
+
+script
+
+label valu
+length
+next index length
+
+length
+math length
+math
+time next time
+valu push time time
+
+
+chart test epoch epoch
+time line
+
+
+
+test button click
+next index math length
+math
+time next time
+next index
+chart push time time
+
+
+script
+
+
+test
+test test
+singl seir stream
+correctli play paus singl seri stream valu plot code code
+epoch
+button play button
+
+
+script
+
+label valu
+length
+next index length
+play
+interv
+
+length
+math length
+math
+time next time
+valu push time time
+
+
+chart test epoch epoch
+time line
+
+
+
+push point
+next index math length
+math
+time next time
+chart push time time
+next index
+
+
+test button click
+play
+target text play
+clear interv interv
+
+
+target text paus
+push point
+interv set interv push point 1000
+
+play play
+
+
+script
+
+test
+test test
+multi seri
+correctli render multi seri plot follow function
+
+code code
+code code
+code code
+
+epoch
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+
+time next time
+length
+valu push time time math
+
+
+
+test epoch epoch
+time line
+
+axe left right bottom
+
+
+script
+
+
+test
+test test
+multi seri singl transit
+
+correctli render multi seri plot follow function
+
+code code
+code code
+code code
+
+correctli render anim transiton press next button
+
+epoch
+
+button next button
+
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+scale
+next index length
+
+length
+scale
+time next time
+valu push time time
+valu push time time math
+valu push time time math
+
+
+chart test epoch epoch
+time line
+
+axe left right bottom
+
+
+test button click
+next index scale
+time next time
+next index
+chart push
+time time
+time time math
+time time math
+
+
+
+script
+
+test
+test test
+multi seir stream
+
+correctli play paus multi seri stream valu follow plot
+
+code code
+code code
+code code
+
+
+epoch
+button play button
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+next index length
+scale
+play
+interv
+
+length
+scale
+time next time
+valu push time time
+valu push time time math
+valu push time time math math
+
+
+chart test epoch epoch
+time line
+
+axe right bottom
+
+
+push point
+next index scale
+time next time
+chart push
+time time
+time time math
+time time math math
+
+next index
+
+
+test button click
+play
+target text play
+clear interv interv
+
+
+target text paus
+interv set interv push point 1000
+push point
+
+play play
+
+
+script
+
+test
+test test
+color overrid
+first layer pink second green third blue
+test plot epoch
+
+
+style
+test plot line stroke pink
+test plot line stroke green
+test plot line stroke blue
+style
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+
+time next time
+length
+valu push time time math
+
+
+
+test epoch epoch
+time line
+
+
+
+script
+
+test
+test test
+categor color
+correctli render differ categor color unlik basic chart occur switch name contain element queri engin must purg plot must manual redrawn like code
+epoch queri css purg
+chart draw
+code
+
+
+epoch category10
+
+
+button category10 category10 button
+button category20 category20 button
+button category20b category20b button
+button category20c category20c button
+
+
+
+script
+
+
+length
+class name category10
+layer
+time next time
+
+layer
+layer label string from char code valu
+length
+
+math
+layer valu push time time
+
+push layer
+
+
+chart test epoch epoch time line
+
+test button click
+test epoch remov class class name
+class name target attr
+test epoch add class class name
+epoch queri css purg
+chart draw
+
+
+script
+
+test
+test test
+show hide layer
+epoch
+
+button toggl index toggl button
+button toggl index toggl button
+button toggl index toggl button
+button playback play button
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+next index length
+scale
+play
+interv
+
+length
+scale
+time next time
+valu push time time
+valu push time time math
+valu push time time math math
+
+
+chart test epoch epoch
+time line
+
+axe right bottom
+
+
+test toggl click
+index pars int target attr index
+chart toggl layer index
+
+
+push point
+next index scale
+time next time
+chart push
+time time
+time time math
+time time math math
+
+next index
+
+
+test playback click
+play
+target text play
+clear interv interv
+
+
+target text paus
+interv set interv push point 1000
+push point
+
+play play
+
+
+script
+
+test
+test test
+fix rang
+
+render singl seri plot code code instead automat set rang code code rang manual code code
+
+epoch
+
+
+script
+
+label valu
+length
+
+length
+math length
+math
+time next time
+valu push time time
+
+
+test epoch epoch
+time line
+axe right bottom
+
+rang
+
+
+script
+
+test
+test test
+multi axe
+
+render plot use independ axe rang left
+right side
+
+epoch
+
+
+script
+
+
+
+label
+valu
+rang
+
+
+label
+valu
+rang
+
+
+length
+
+length
+math length
+math
+
+time next time
+valu push time time
+valu push time time
+
+
+test epoch epoch
+time line
+axe left right
+
+rang
+right
+left
+
+
+
+script
+
+test
+test test
+multi axe label rang
+
+render plot use independ axe rang left
+right side associ label chart
+
+epoch
+
+
+script
+
+
+
+label
+valu
+rang rang
+
+
+label
+valu
+rang rang
+
+
+label
+valu
+rang rang
+
+
+length
+
+length
+math random
+math random
+math random
+time next time
+valu push time time
+valu push time time
+valu push time time
+
+
+test epoch epoch
+time line
+axe left right
+
+rang
+right rang
+left rang
+
+
+
+script
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+script script
+link stylesheet text href dist epoch
+style
+bodi background color d0d0d0
+link visit color white color white
+
+epoch
+height 220px
+
+
+sparklin height 50px
+
+style
+head
+bodi epoch theme dark
+real time chart model data test
+breadcrumb href index html epoch chart test raquo real time chart model data test
+
+button next button
+
+gaug epoch gaug small
+sparklin epoch
+area epoch
+epoch
+
+script
+
+math random
+
+
+
+layer
+
+layer push
+
+push layer
+
+
+setup model
+window model epoch model
+data format
+name
+option start time date get time 1000
+
+
+model set data
+
+make chart associ model
+window sparklin sparklin epoch
+time line
+axe left right
+model model
+
+
+window area area epoch
+time area
+axe left right bottom
+model model
+
+
+window epoch
+time
+axe left right bottom
+model model
+
+
+window gaug gaug epoch
+time gaug
+model model
+
+
+button click
+model push
+
+
+script
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+link stylesheet text href dist epoch
+
+script
+next time
+current time pars int date get time 1000
+current time
+
+script
+head
+bodi
+real time area plot test
+breadcrumb href index html epoch chart test raquo real time area
+
+href test singl seri
+href test singl seri singl transit
+href test singl seir stream
+href test multi seri
+href test multi seri singl transit
+href test multi seir stream
+href test color overrid
+href test categor color
+href test show hide layer
+
+
+test
+test test
+singl seri
+
+correctli render singl seri plot code code rang code code
+
+epoch
+
+
+script
+
+label valu
+length
+
+length
+math length
+math
+time next time
+valu push time time
+
+
+test epoch epoch time area
+
+script
+
+test
+test test
+singl seri singl transit
+
+correctli render singl seri plot code code when button press push point chart correctli anim render transiton
+
+epoch
+button next button
+
+
+script
+
+label valu
+length
+next index length
+
+length
+math length
+math
+time next time
+valu push time time
+
+
+chart test epoch epoch
+time area
+
+
+
+test button click
+next index math length
+math
+time next time
+next index
+chart push time time
+
+
+script
+
+
+test
+test test
+singl seir stream
+correctli play paus singl seri stream valu plot code code
+epoch
+button play button
+
+
+script
+
+label valu
+length
+next index length
+play
+interv
+
+length
+math length
+math
+time next time
+valu push time time
+
+
+chart test epoch epoch
+time area
+
+
+
+push point
+next index math length
+math
+time next time
+chart push time time
+next index
+
+
+test button click
+play
+target text play
+clear interv interv
+
+
+target text paus
+push point
+interv set interv push point 1000
+
+play play
+
+
+script
+
+test
+test test
+multi seri
+correctli render multi seri plot follow function
+
+code code
+code code
+code code
+
+epoch
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+
+time next time
+length
+valu push time time math
+
+
+
+test epoch epoch
+time area
+
+axe left right bottom
+
+
+script
+
+
+test
+test test
+multi seri singl transit
+
+correctli render multi seri plot follow function
+
+code code
+code code
+code code
+
+correctli render anim transiton press next button
+
+epoch
+
+button next button
+
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+scale
+next index length
+
+length
+scale
+time next time
+valu push time time
+valu push time time math
+valu push time time math
+
+
+chart test epoch epoch
+time area
+
+axe left right bottom
+
+
+test button click
+next index scale
+time next time
+next index
+chart push
+time time
+time time math
+time time math
+
+
+
+script
+
+test
+test test
+multi seir stream
+
+correctli play paus multi seri stream valu follow plot
+
+code code
+code code
+code code
+
+
+epoch
+button play button
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+next index length
+scale
+play
+interv
+
+length
+scale
+time next time
+valu push time time
+valu push time time math
+valu push time time math math
+
+
+chart test epoch epoch
+time area
+
+axe right bottom
+
+
+push point
+next index scale
+time next time
+chart push
+time time
+time time math
+time time math math
+
+next index
+
+
+test button click
+play
+target text play
+clear interv interv
+
+
+target text paus
+interv set interv push point 1000
+push point
+
+play play
+
+
+script
+
+test
+test test
+color overrid
+first layer pink second green third blue
+test plot epoch
+
+
+style
+test plot area fill pink
+test plot area fill green
+test plot area fill blue
+style
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+
+time next time
+length
+valu push time time math
+
+
+
+test epoch epoch
+time area
+
+
+
+script
+
+test
+test test
+categor color
+correctli render differ categor color unlik basic chart occur switch name contain element queri engin must purg plot must manual redrawn like code
+epoch queri css purg
+chart draw
+code
+
+
+epoch category10
+
+
+button category10 category10 button
+button category20 category20 button
+button category20b category20b button
+button category20c category20c button
+
+
+
+script
+
+
+length
+class name category10
+layer
+time next time
+
+layer
+layer label string from char code valu
+length
+
+math math math math
+layer valu push time time
+
+push layer
+
+
+chart test epoch epoch time area
+
+test button click
+test epoch remov class class name
+class name target attr
+test epoch add class class name
+epoch queri css purg
+chart draw
+
+
+script
+
+test
+test test
+show hide layer
+epoch
+
+button toggl index toggl button
+button toggl index toggl button
+button toggl index toggl button
+button playback play button
+
+
+script
+
+
+label valu
+label valu
+label valu
+
+length
+next index length
+scale
+play
+interv
+
+length
+scale
+time next time
+valu push time time
+valu push time time
+valu push time time
+
+
+chart test epoch epoch
+time area
+
+axe right bottom
+
+
+push point
+next index scale
+time next time
+chart push
+time time
+time time
+time time
+
+next index
+
+
+test button toggl click
+index pars int target attr index
+chart toggl layer index
+
+
+test button playback click
+play
+target text play
+clear interv interv
+
+
+target text paus
+interv set interv push point 1000
+push point
+
+play play
+
+
+script
+
+test
+test test
+fix rang
+
+render singl seri plot code code instead automat set rang code code rang manual code code
+
+epoch
+
+
+script
+
+label valu
+length
+
+length
+math length
+math
+time next time
+valu push time time
+
+
+test epoch epoch
+time area
+axe right bottom
+
+rang
+
+
+script
+bodi
+html
+doctyp html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+script script
+link stylesheet text href dist epoch
+style
+bodi background color d0d0d0
+link visit color white color white
+style
+head
+bodi epoch theme dark
+real time chart option event
+breadcrumb href index html epoch chart test raquo real time option event
+
+href test resiz
+href test axe
+href test tick
+href test tick format
+href test margin
+
+
+test
+test test
+resiz
+correctli resiz real time chart
+epoch
+
+button playback play button
+button size index size small button
+button size index size medium button
+button size index size larg button
+
+
+script
+
+step math
+time math
+interv
+
+size
+width height
+width height
+width test epoch width height test epoch height
+
+
+chart test epoch epoch
+time line
+math step
+
+
+push point
+chart push step
+
+
+test playback click
+interv
+interv set interv push point 1000
+push point
+test playback text paus
+
+
+clear interv interv
+interv
+test playback text play
+
+
+
+test size click
+size size pars int target attr index
+chart option width size width
+chart option height size height
+
+
+script
+
+test
+test test
+axe
+epoch
+control
+button playback play button
+button axe index button
+button axe index left right button
+button axe index bottom button
+button axe index left bottom button
+button axe index right button
+button axe index button
+
+
+script
+
+step math
+time math
+interv
+
+axe
+left bottom right
+left right
+bottom
+left bottom
+right
+
+
+
+chart test epoch epoch
+time line
+math step
+
+
+push point
+chart push step
+
+
+test playback click
+interv
+interv set interv push point 1000
+push point
+test playback text paus
+
+
+clear interv interv
+interv
+test playback text play
+
+
+
+test button axe click
+chart option axe axe pars int target attr index
+
+
+script
+
+test
+test test
+tick
+epoch
+
+button playback play button
+button tick index normal button
+button tick index mani button
+
+
+script
+
+step math
+time math sqrt math
+interv
+
+tick
+time left right
+time left right
+
+
+chart test epoch epoch
+time line
+math step
+axe left bottom right
+
+
+push point
+chart push step
+
+
+test playback click
+interv
+interv set interv push point 1000
+push point
+test playback text paus
+
+
+clear interv interv
+interv
+test playback text play
+
+
+
+test tick click
+chart option tick tick pars int target attr index
+
+
+script
+
+test
+test test
+tick format
+epoch
+
+button playback play button
+button tick format index normal button
+button tick format index differ button
+
+
+script
+
+step math
+time math math
+interv
+
+tick format
+
+epoch format second
+bottom epoch format second
+left epoch format
+right epoch format
+
+
+epoch format
+bottom epoch format
+left epoch format percent
+right epoch format percent
+
+
+
+chart test epoch epoch
+time area
+math step
+axe left bottom right
+
+
+push point
+chart push step
+
+
+test playback click
+interv
+interv set interv push point 1000
+push point
+test playback text paus
+
+
+clear interv interv
+interv
+test playback text play
+
+
+
+test tick format click
+chart option tick format tick format pars int target attr index
+
+
+script
+
+test
+test test
+margin
+epoch
+
+button playback play button
+button margin index button
+button margin index small button
+button margin index button
+
+
+script
+
+step math
+time math math
+interv
+
+margin
+bottom left right
+bottom left right
+bottom left right
+
+
+chart test epoch epoch
+time area
+math step
+axe
+
+
+push point
+chart push step
+
+
+test playback click
+interv
+interv set interv push point 1000
+push point
+test playback text paus
+
+
+clear interv interv
+interv
+test playback text play
+
+
+
+test margin click
+chart option margin margin pars int target attr index
+
+
+script
+bodi
+html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+link stylesheet text href dist epoch
+style
+
+epoch
+content
+display tabl
+clear
+
+
+
+width 120px
+height 120px
+left
+margin
+color white
+text align center
+line height 120px
+font size 31px
+
+style
+
+script
+
+ref rang
+rang attr ref rang split
+pars int rang pars int rang
+append categori
+
+
+
+script
+
+head
+bodi
+default theme
+
+categori
+epoch category10 ref rang
+epoch category10 ref rang
+
+categori
+epoch category20 ref rang
+epoch category20 ref rang
+epoch category20 ref rang
+epoch category20 ref rang
+epoch category20 ref rang
+
+categori
+epoch category20b ref rang
+epoch category20b ref rang
+epoch category20b ref rang
+epoch category20b ref rang
+epoch category20b ref rang
+
+categori
+epoch category20c ref rang
+epoch category20c ref rang
+epoch category20c ref rang
+epoch category20c ref rang
+epoch category20c ref rang
+
+
+bodi
+html
+html
+head
+link stylesheet text href test
+script http code jqueri jqueri script
+script http d3j charset script
+script dist epoch script
+link stylesheet text href dist epoch
+style
+bodi
+background 303030
+color d0d0d0
+
+
+epoch
+content
+display tabl
+clear
+
+
+
+width 120px
+height 120px
+left
+margin
+color 303030
+text align center
+line height 120px
+font size 31px
+
+style
+
+script
+
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+valu
+
+
+length
+valu push time
+
+
+script
+head
+bodi epoch theme dark
+dark theme
+
+categori
+epoch category10 ref rang
+epoch category10 ref rang
+
+
+
+epoch category10 style height 300px
+script
+
+epoch time axe left right slice
+
+script
+
+
+
+categori
+epoch category20 ref rang
+epoch category20 ref rang
+epoch category20 ref rang
+epoch category20 ref rang
+epoch category20 ref rang
+
+
+
+epoch category20 style height 300px
+script
+
+epoch time axe left right
+
+script
+
+
+categori
+epoch category20b ref rang
+epoch category20b ref rang
+epoch category20b ref rang
+epoch category20b ref rang
+epoch category20b ref rang
+
+
+
+epoch category20b style height 300px
+script
+
+epoch time axe left right
+
+script
+
+
+categori
+epoch category20c ref rang
+epoch category20c ref rang
+epoch category20c ref rang
+epoch category20c ref rang
+epoch category20c ref rang
+
+
+
+epoch category20c style height 300px
+script
+
+epoch time axe left right
+
+script
+
+chart exampl
+
+epoch gaug medium
+script
+
+gaug medium epoch time gaug valu
+
+script
+
+epoch style width 300px height 300px
+script
+
+
+class name category10
+
+
+push label string from char code valu
+
+
+epoch
+
+inner
+
+
+
+script
+
+
+epoch style height 220px
+script
+
+
+label valu
+label valu
+label valu
+
+length
+
+length
+length
+valu push
+valu push
+valu push
+
+
+epoch
+
+
+
+
+script
+
+line epoch style height 220px
+script
+
+
+label valu
+label valu
+
+length
+length
+math length
+valu push math
+valu push math
+
+line epoch line
+
+script
+
+
+script
+
+ref rang
+rang attr ref rang split
+pars int rang pars int rang
+append categori
+
+
+
+script
+bodi
+html

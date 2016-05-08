@@ -1,0 +1,514 @@
+python
+
+copyright 2012 note technolog http erpnext
+
+licens
+
+permiss herebi grant free charg person obtain
+copi softwar associ document file softwar
+deal softwar without restrict includ without limit
+right copi modifi merg publish distribut sublicens
+sell copi softwar permit person
+softwar furnish subject follow condit
+
+copyright notic permiss notic shall includ
+copi substanti portion softwar
+
+softwar provid without warranti kind express impli
+includ limit warranti merchant fit
+particular purpos noninfring event shall author copyright
+holder liabl claim damag other liabil whether action
+contract tort otherwis aris from connect with softwar
+other deal softwar
+
+
+
+
+replac code start txt1 txt2 extn search
+replac txt1 txt2 file extens extn
+webnot util
+
+webnot util make
+search search txt1
+walk start followlink
+
+split extn
+fpath path join
+fpath erpnext erpnext patch 2012 renam temporari
+open fpath
+content read
+
+search search content
+search replac prompt fpath txt1 txt2
+skip
+skip
+
+
+
+search replac prompt fpath txt1 txt2
+search replac txt1 txt2 file confirm
+
+termcolor color
+open fpath
+content readlin
+
+
+content
+find txt1
+fpath
+color txt1 join split txt1
+
+lower skip
+input want chang skip
+lower
+replac txt1 txt2
+lower skip
+skip
+append
+
+open fpath
+write join
+color updat green
+
+
+setup option
+optpars option parser
+parser option parser
+
+parser option
+dest name
+help appli patch given
+parser option password
+help password given narg
+
+build
+parser option build action store
+help minifi concat file
+parser option action store
+help take dump websit page
+
+
+parser option statu action store
+help statu
+parser option pull narg
+metavar remot branch
+help pull repo
+parser option push narg
+metavar remot branch comment
+help commit push repo remot branch comment
+parser option checkout narg
+metavar branch
+help checkout branch
+
+parser option latest
+action store dest latest
+help appli latest patch
+
+patch
+parser option patch narg dest patch metavar patch
+action append
+help appli patch
+parser option forc
+action store dest forc
+help forc appli patch specifi use option patch
+parser option reload narg metavar doctyp docnam
+help reload
+parser option export narg metavar doctyp docnam
+help export
+
+instal
+parser option instal narg metavar rootpassword dbname sourc
+help instal fresh
+
+diff
+parser option diff file narg
+help miss databas record mismatch properti file refer
+parser option diff narg
+help miss file mismatch properti databas refer
+
+schedul
+parser option schedul action store
+help trigger schedul
+parser option schedul event narg metavar daili weekli monthli
+help schedul event
+
+misc
+parser option replac narg
+metavar search replac extens
+help file search replac
+
+parser option sync help synchron doc type use file
+narg
+
+parser option sync help synchron given doc type use file
+narg metavar doctyp folder name
+
+parser pars arg
+
+
+path append
+path append
+webnot
+conf
+path append conf modul path
+
+option arg setup option
+
+
+webnot databas
+webnot modul patch handler
+
+connect
+option name
+option password
+webnot connect option name option password
+
+webnot connect option name
+option instal option pull
+webnot connect conf name
+
+build
+option build
+build project
+build project build
+
+option
+webnot model code
+
+rewrit page
+websit set
+rewrit page
+style set
+valid
+save
+updat
+
+creat login page html doesnt exist copi index html
+path exist login page html path exist index html
+system index html login page html
+
+chang owner file
+system chown apach apach
+
+code replac
+option replac
+replac code option replac option replac option replac
+
+
+option statu
+system statu
+chdir
+system statu
+
+option pull
+system pull option pull option pull
+chdir
+system pull option pull option pull
+
+option push
+system commit option push
+system push option push option push
+chdir
+system commit option push
+system push option push option push
+
+option checkout
+system checkout option checkout
+chdir
+system checkout option checkout
+
+patch
+option patch
+clear
+webnot modul patch handler
+
+individu patch
+patch option patch
+webnot modul patch handler singl
+patchmodul patch forc option forc
+
+join webnot modul patch handler
+
+reload
+option reload
+webnot modul patch handler reload
+option reload option reload option reload
+join webnot modul patch handler
+
+option export
+webnot modul export
+export option export option export
+
+pend
+option latest
+webnot modul patch handler
+join webnot modul patch handler
+
+option instal
+webnot instal instal instal
+inst instal root option instal
+inst option instal sourc path option instal
+password admin verbos
+
+option diff file
+webnot modul diff
+webnot modul diff diff file
+
+option diff
+webnot modul diff
+webnot modul diff diff
+
+option schedul
+webnot util schedul
+webnot util schedul execut
+
+option schedul event
+webnot util schedul
+webnot util schedul trigger execut option schedul event
+
+option sync
+webnot model sync
+webnot model sync sync option forc
+
+option sync
+webnot model sync
+webnot model sync sync option sync option sync option forc
+
+messag
+webnot messag
+join webnot messag
+
+name main
+
+setuptool setup find packag
+
+
+version
+
+open requir
+instal requir readlin
+
+setup
+name frapp
+version version
+descript metadata driven full stack framework
+author note technolog
+author email info frapp
+packag find packag
+safe
+data
+instal requir instal requir
+entri point
+consol script
+frapp frapp main
+
+
+
+configur
+
+databas config
+name yourdbnam
+password yourdbpassword
+
+user attach store
+file path user file
+
+file attach size
+file size 1000000
+
+user modul path
+modul path
+
+gener schema file
+develop mode
+
+clear cach refresh
+auto cach clear
+
+email log admin beta
+admin email notif
+
+user timezon
+user timezon asia calcutta
+
+dump backup
+backup path backup
+
+outgo mail set
+mail server
+mail login
+mail password
+mail port
+
+
+log set
+file name log error
+debug
+level log info
+file size 5000
+file backup count
+
+python2
+
+copyright 2013 note technolog contributor
+licens licens
+
+futur unicod liter
+
+
+webnot
+webnot connect site environ site
+futur unicod liter
+webnot
+memc
+
+user
+
+user valu user
+valu user webnot session user
+
+user valu user
+valu user webnot session user
+
+user user
+default user webnot session user
+isinst
+
+user user
+default user webnot session user
+isinst
+
+default user
+user webnot session
+user webnot session user
+
+user
+userd default user
+userd updat user user owner user
+
+userd
+
+globald default
+globald updat userd
+
+globald
+
+clear user user
+clear parent user webnot session user
+
+global
+
+valu
+valu control panel
+
+valu
+valu control panel
+
+
+default
+isinst
+
+common
+
+valu parent
+webnot conn select defkey tab default valu
+defkey parent parent
+updat
+webnot conn updat tab default valu defvalu
+parent defkey valu parent
+clear cach parent
+
+valu parent
+
+valu parent
+webnot
+doctyp default valu
+parent parent
+parenttyp control panel
+parentfield system default
+defkey
+defvalu valu
+
+insert
+clear cach parent
+
+clear valu parent name
+condit
+valu
+
+
+condit append defkey
+valu append
+
+valu
+condit append defvalu
+valu append valu
+
+name
+condit append name
+valu append name
+
+parent
+condit append parent
+valu append parent
+
+condit
+except clear specifi
+
+webnot conn delet tab default valu join condit valu
+clear cach
+
+default parent control panel
+default
+default webnot cach valu default parent
+default
+webnot conn select defkey defvalu tab default valu
+parent order creation parent dict
+
+default webnot dict
+
+defkey default
+listifi
+isinst default defkey default defkey defvalu
+default defkey default defkey
+
+defvalu default defkey
+default defkey append defvalu
+defvalu
+default defkey defvalu
+
+webnot session parent webnot session user
+default updat default match default
+
+webnot cach valu default parent default
+
+default
+
+default match userd
+profil base match condit exist user role
+user properti specifi match
+valu user profil match
+user role webnot role
+
+
+role match webnot conn select distinct role match
+tab doc perm ifnul permlevel read
+match like user
+role user role match split userd
+match split webnot session user
+
+
+
+clear cach parent
+profil
+webnot conn select name tab profil control panel
+
+parent control panel parent
+parent profil
+isinst parent basestr
+parent parent
+
+parent
+webnot cach delet valu default
+
+webnot clear cach

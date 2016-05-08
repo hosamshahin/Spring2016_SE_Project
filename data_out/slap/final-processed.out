@@ -1,0 +1,1350 @@
+node
+
+export done
+lodash
+path path
+
+
+util slap util
+tti tti
+
+base dir path join dirnam
+config file path join base dir name
+opt util pars opt name config file
+opt merg opt opt slap
+
+info consol error consol error
+
+special invoc mode
+opt opt help
+command process argv
+process path split path delimit bin path
+new command path rel bin path command
+path dirnam new command
+command new command
+
+
+
+command path rel process command
+path dirnam command command path command
+
+
+info
+usag command option file1 file2
+
+descript
+
+option avail command config file
+exampl command logger level debug file
+join
+
+process
+
+
+opt opt version
+sort order slap node revers
+version process version
+version name version
+info object key version
+sort sort order index of sort order index of
+name name version name
+join
+process
+
+
+opt perf profil process exec argv index of prof
+child process fork process argv process argv slice
+stdio inherit
+exec argv prof concat process exec argv
+
+code process code
+error process
+
+
+
+promis bluebird
+promis promisifi all
+
+bless widget bless
+slap slap
+editor pane editor pane
+
+read async stream
+promis resolv reject
+chunk
+stream
+error reject
+chunk push bind chunk
+resolv buffer concat chunk
+
+
+
+export option
+opt merg opt option
+promis
+slap get user dir promis resolv
+process stdin is tti promis resolv read async process stdin read pipe stdin file
+spread user dir stdin
+user dir opt merg logger file path resolv user dir name opt
+opt merg editor logger opt logger opt
+opt screen opt input tti stdin use tti read
+util logger opt logger
+util logger info load
+util logger verbos configur opt
+
+opt config user config exist make copi
+creat read stream path join dirnam config
+pipe creat write stream path join user dir config
+
+opt screen opt screen bless screen opt screen opt
+opt screen logger opt logger
+slap slap opt
+
+promis opt path
+slap open path to string
+done
+
+stdin opt length file pass
+pane editor pane parent slap
+set stdin pipe exist
+stdin pane editor text buf set text stdin to string
+pane set current
+
+
+updat notifi notifi
+
+slap readi dispos slap slap quit
+
+
+lodash
+
+base widget widget
+
+slap slap
+save as form save as form
+button button
+
+save as close form opt
+
+
+save as close form save as close form opt
+
+save as form call merg slap option save as close form opt
+
+discard chang button button merg
+parent
+content discard chang
+
+right
+slap option button warn option discard chang button
+
+path field right base widget prototyp shrink width call discard chang button
+
+save as close form prototyp proto save as form prototyp
+
+save as close form prototyp init handler
+
+show screen slap header messag unsav chang pleas save discard warn
+save pane close
+discard chang
+pane editor text buf reload
+pane close
+
+discard chang button press emit discard chang
+save as form prototyp init handler appli
+
+
+export save as close form
+lodash
+
+util slap util
+
+base widget widget
+
+pane prototyp proto base widget prototyp
+pane opt
+
+
+pane pane opt
+
+base widget call merg
+slap header option header posit
+bottom slap header option header posit bottom
+left
+right
+slap option pane opt
+left slap file browser visibl slap file browser width
+
+parent pane parent pane
+parent pane push
+
+
+pane prototyp get titl
+untitl pane
+
+
+pane prototyp set current
+
+slap screen slap
+pane slap pane
+pane index pane index of
+pane index pane index pane length pane push
+slap prev pane slap current pane
+slap current pane pane index
+focu
+
+
+pane prototyp close
+
+
+slap screen slap
+pane index slap pane index of
+pane index slap pane splice pane index
+
+emit close pane index
+detach
+
+
+
+
+pane prototyp init handler
+
+
+close screen slap header messag
+
+base widget prototyp init handler appli
+
+
+export pane
+
+slap slap
+bless bless
+lodash
+
+util slap util
+
+base widget widget
+slap slap
+
+button opt
+
+
+button button opt
+
+opt merg
+mous
+focus
+shrink
+pad left right
+slap option button opt
+opt style focu opt style hover
+base widget bless button call opt
+base widget call opt
+
+button prototyp proto base widget bless button prototyp
+button prototyp init handler
+
+keypress
+name enter screen slap stop key propag done fixm hack
+
+base widget prototyp init handler appli
+
+
+export button
+lodash
+
+util slap util
+
+base widget widget
+slap slap
+
+base form opt
+
+
+base form base form opt
+
+base widget call merg
+hidden
+height
+left
+right
+bottom
+slap option form opt
+parent pane
+pane parent
+pane form push
+
+
+base form prototyp proto base widget prototyp
+
+base form prototyp cancel emit cancel
+base form prototyp submit emit submit
+base form prototyp init handler
+
+element keypress
+resolv bind
+cancel cancel
+
+
+show focu
+hide
+screen slap stop key propag done
+screen focus ha ancestor pane screen slap focus visibl pane focu
+
+element blur visibl ha focu cancel
+element submit submit
+element cancel cancel
+cancel hide
+
+base widget prototyp init handler appli
+
+
+export base form
+
+pane pane circular
+lodash
+bless bless
+path path
+
+util slap util
+
+base widget widget
+slap slap
+button button
+
+header opt
+
+
+header header opt
+
+base widget call merg opt header posit bottom
+
+bottom
+left
+right
+height
+slap option header opt
+
+left content base widget merg
+parent
+tag
+left
+shrink
+style option style
+option left content
+
+help bind slap option bind help
+help bind array is array help bind help bind help bind
+help button button merg
+parent
+content help help bind help bind
+option help button
+
+right content base widget merg
+parent
+tag
+shrink
+style option style
+option right content
+
+messag content base widget merg
+parent
+tag
+shrink
+style option style
+option messag content
+
+blink
+
+header prototyp proto base widget prototyp
+
+header prototyp blink util getter setter blink blink
+
+clear timeout blink timer
+option blink rate
+blink timer set timeout
+blink blink
+option blink rate
+
+blink
+
+header prototyp messag util getter setter messag messag style name
+
+
+clear timeout messag timer
+messag
+messag timer set timeout
+messag
+option messag durat
+
+
+blink
+messag util markup messag option style style name info
+
+
+header prototyp init handler
+
+messag blink for each
+screen render
+
+help button press screen slap help
+base widget prototyp init handler appli
+
+
+header prototyp render
+
+
+left u270b
+right
+
+style option style
+slap screen slap
+pane slap get current pane
+pane
+titl pane get titl
+titl left push titl
+editor pane editor
+editor
+cursor editor select get head posit
+origin encod editor text buf get encod
+right
+cursor cursor column join
+editor text buf get line count
+
+origin encod right push bless escap origin encod
+editor read onli right push util markup read style warn
+editor insert mode right unshift util markup style overwrit
+
+
+
+left content set content left join
+right content set content right join
+
+messag messag
+blink messag util markup messag style blink style
+messag content set content messag to string
+
+right basic
+help button right content messag content reduc right
+right right
+right base widget prototyp shrink width call
+
+
+base widget prototyp render appli
+
+
+export header
+lodash
+
+util slap util
+base widget widget
+
+pane pane
+slap slap
+
+pane list prototyp proto pane prototyp
+pane list opt
+
+
+pane list pane list opt
+
+pane call merg slap option pane list opt
+
+top content base widget merg
+parent
+tag
+shrink
+
+left center
+style option style
+option top content
+
+list opt merg
+parent
+mous
+key
+focus
+tag
+
+style option style
+option
+base widget bless list list opt
+base widget call list opt
+
+
+pane list prototyp close
+actual close anyth close mayb set front anoth pane
+
+slap screen slap
+slap get current pane
+prev pane slap get prev pane
+prev pane prev pane set current
+
+
+
+
+pane list prototyp get titl
+util markup pane list style pane list to string
+
+
+pane list prototyp init handler
+
+slap screen slap
+
+element mousedown focu
+
+slap element keypress
+ha ancestor
+resolv bind
+cancel
+prev pane slap get prev pane
+prev pane prev pane set current
+
+
+
+
+focu screen program hide cursor
+
+updat
+adopt remov for each
+slap element parent child
+child pane set immedi updat
+
+
+
+select
+slap stop key propag
+slap pane set current
+
+
+
+pane prototyp init handler appli
+
+pane list prototyp updat
+
+slap screen slap
+
+
+item slap pane reduc item pane
+titl pane get titl
+titl item push titl
+item
+
+set item item
+
+top content top content
+top content set content item length pane item length open
+
+
+
+
+export pane list
+lodash
+
+base widget widget
+field editor widget field
+slap slap
+base form base form
+
+save as form label save
+save as form opt
+
+
+save as form save as form opt
+
+base form call merg
+field left save as form label length
+slap option form save as opt
+
+save as label base widget merg
+parent
+tag
+content save as form label
+
+height
+left
+width save as form label length
+style option style
+option save as label
+
+path field field merg
+parent
+
+left save as form label length
+right
+slap option editor slap option field option path field
+
+save as form prototyp proto base form prototyp
+
+save as form prototyp init handler
+
+show
+path field text buf set text pane editor text buf get path
+path field select set head posit infin
+path field focu
+
+submit
+path path field text buf get text
+path
+screen slap header messag save filenam pass error
+
+
+pane save path done new path
+new path
+hide
+emit save new path
+
+
+
+base form prototyp init handler appli
+
+
+export save as form
+bless bless
+lodash
+
+util slap util
+
+base widget widget
+slap slap
+
+file browser opt
+
+
+file browser file browser opt
+
+opt merg
+key
+mous
+focus
+slap option file browser opt
+base widget bless file manag call opt
+base widget call opt
+
+refresh
+select style style select
+item style style item
+
+file browser prototyp proto base widget bless file manag prototyp
+
+file browser prototyp init handler
+
+slap screen slap
+element mousedown focu
+file path slap open path done
+cancel
+current pane slap get current pane
+current pane current pane focu
+
+
+focu
+style select select style
+screen program hide cursor
+
+blur
+style select item style
+
+
+base widget prototyp init handler appli
+
+
+export file browser
+lodash
+lodash lodash
+
+util slap util
+
+base widget widget
+slap slap
+base find form base find form
+
+find form label find regex
+find form reg exp reg exp
+find form invalid reg exp messag reg exp invalid regular express invalid flag suppli reg exp
+find form opt
+
+
+find form find form opt
+
+base find form call merg
+find field left find form label length
+slap option form find opt
+
+find label base widget merg
+parent
+tag
+content find form label
+
+height
+left
+width find form label length
+style option style
+option find label
+
+find form prototyp proto base find form prototyp
+
+find form prototyp select rang rang
+
+editor pane editor
+select editor select
+select set rang rang
+visibl rang editor visibl po rang
+editor clip scroll visibl rang start visibl rang
+
+
+find form prototyp init handler
+
+header screen slap header
+editor pane editor
+select editor select
+
+hide
+editor destroy marker find match
+editor updat content
+
+find lodash throttl pattern direct
+direct direct
+editor destroy marker find match
+
+reg exp match pattern match find form reg exp reg exp
+pattern reg exp reg exp match reg exp match replac
+
+messag match find form invalid reg exp messag reg exp
+header messag messag error
+reset editor
+
+
+pattern reg exp escap reg exp pattern
+
+
+select rang select get rang
+match
+editor text buf direct
+backward scan
+scan pattern match
+match push match
+editor text buf mark rang match rang find match
+
+
+match length
+header messag match warn
+reset editor
+
+
+match match
+match rang match rang
+match rang start compar select rang start
+direct
+select rang match rang
+
+match length
+header messag occurr info
+
+
+
+header messag search wrap info
+select rang match rang
+
+editor updat content
+option perf find throttl
+base find form prototyp init handler appli
+
+
+export find form
+lodash
+
+slap slap
+base form base form
+base widget widget
+field editor widget field
+
+util slap util
+
+base find form opt
+
+
+base find form base find form opt
+
+base form call merg
+prev editor state
+slap option form base find opt
+
+find field field merg
+parent
+
+left
+right
+slap option editor slap option field option find field
+
+base find form prototyp proto base form prototyp
+
+base find form prototyp find text direct
+
+screen slap header messag
+text emit find text direct
+reset editor
+
+
+base find form prototyp reset editor
+
+prev editor state option prev editor state
+editor pane editor
+prev editor state select editor select set rang prev editor state select
+prev editor state scroll editor scroll prev editor state scroll editor updat content
+
+
+base find form prototyp init handler
+
+text buf find field text buf
+prev editor state option prev editor state
+show
+editor pane editor
+prev editor state select prev editor state select editor select get rang
+prev editor state scroll prev editor state scroll editor scroll
+find field focu
+find text buf get text
+
+hide
+pane form visibl
+prev editor state select
+prev editor state scroll
+
+
+
+text buf on did chang find text buf get text
+find field keypress
+text text buf get text
+resolv bind
+find text
+prev find text
+
+
+
+base form prototyp init handler appli
+
+
+export base find form
+lodash
+
+base widget widget
+
+slap slap
+base find form base find form
+
+go line form label line
+go line form opt
+
+
+go line form go line form opt
+
+base find form call merg
+find field left go line form label length
+slap option form go line opt
+
+go line label base widget merg
+parent
+tag
+content go line form label
+
+height
+left
+width go line form label length
+style option style
+option go line label
+
+go line form prototyp proto base find form prototyp
+
+go line form prototyp init handler
+
+cancel reset editor
+show find field text buf set text
+find line number direct
+line number number line number
+line number line number is na n line number
+select pane editor select
+select set head posit line number
+select clear tail
+direct hide
+
+
+base find form prototyp init handler appli
+
+
+export go line form
+bless bless
+path path
+lodash
+
+util slap util
+
+editor editor widget
+
+pane pane
+
+editor pane prototyp proto pane prototyp
+editor pane opt
+
+
+editor pane editor pane opt
+
+pane call merg slap option editor pane opt
+
+form form
+
+editor editor merg
+parent
+
+left
+right
+bottom
+slap option editor option editor
+
+find form find form parent
+go line form go line form parent
+save as form save as form parent
+save as close form save as close form parent
+
+
+editor pane prototyp get titl
+
+text buf editor text buf
+editor path text buf get path
+titl editor path
+bless escap path rel screen slap file browser editor path
+file
+text buf is modifi
+titl util markup titl style chang
+
+titl to string
+
+
+editor pane prototyp close
+
+editor text buf is modifi
+current pane save as close form screen slap get current pane save as close form
+current pane save as close form visibl
+current pane save as close form hide close bind
+
+set current
+save as close form show
+
+
+
+
+pane prototyp close appli
+
+
+editor pane prototyp save path
+
+slap screen slap
+header slap header
+editor editor
+editor save path slap file browser
+header messag save editor text buf get path success
+
+caus code
+eacc eisdir
+header messag messag error
+
+
+
+
+
+
+editor pane prototyp init handler
+
+editor editor
+slap screen slap
+
+element keypress
+resolv bind
+save editor read onli editor text buf get path save done save as form show
+save as editor read onli save as form show
+close close
+find find form show
+go line go line form show
+
+
+
+focu
+form ha focu
+visibl form form filter form
+form ha focu form ha focu form ha focu
+form visibl
+
+form ha focu visibl form length visibl form focu
+
+
+editor insert mode screen render
+on did chang on did chang path for each prop
+editor text buf prop
+slap header render
+slap pane list updat
+
+
+
+pane prototyp init handler appli
+
+
+export editor pane
+
+slap slap
+save as form save as form
+save as close form save as close form
+find form find form
+go line form go line form
+lodash
+lodash lodash
+bless bless
+promis bluebird
+path path
+clap node clap
+mkdirp promis promisifi mkdirp
+
+util slap util
+
+base widget widget
+editor editor widget
+
+
+
+slap opt
+
+
+slap slap opt
+
+slap slap
+opt screen opt screen slap opt screen slap
+base widget call opt
+
+pane
+
+header header parent
+
+file browser file browser
+parent
+header option header posit
+bottom header option header posit bottom
+left
+
+file browser focu
+
+pane list pane list parent
+
+slap
+slap prototyp proto base widget prototyp
+
+slap prototyp pane for path pane path
+
+pane
+pane path util resolv path pane path
+pane open pane
+open pane editor pane open pane editor text buf get path pane path
+pane open pane
+
+
+
+pane
+
+slap prototyp get current pane
+pane current pane
+
+slap prototyp get prev pane
+pane prev pane
+
+slap prototyp open promis method file path current
+
+
+pane pane for path file path
+promis resolv pane
+
+pane
+lstat sync file path is directori merg error eisdir illeg oper directori read caus code eisdir
+pane editor pane parent
+pane editor open file path
+
+
+current pane set current
+pane
+
+
+pane pane close
+caus code
+eacc
+header messag messag error
+
+eisdir
+file browser refresh file path noop
+file browser focu
+
+
+
+
+
+
+slap prototyp quit
+
+input screen program input
+input unref input unref
+invok pane detach
+
+logic process forc quit
+set timeout process unref
+
+
+
+slap prototyp help
+
+open path join dirnam readm
+pane
+editor pane editor
+editor read onli
+editor text buf scan usag match
+start match rang start
+editor select set rang start start
+editor scroll start translat editor buffer option cursor pad
+editor updat content
+match stop
+
+
+
+
+slap prototyp stop key propag
+fixm ugli hack stop enter last keypress propag
+
+lock key
+promis delay lock key
+
+
+slap prototyp init handler
+
+pane pane
+
+element keypress
+bind resolv bind
+
+log line keypress full
+full sequenc log line json stringifi sequenc
+focus parent screen focus focus bind
+focus focus parent focus bind base widget prototyp resolv bind call focus
+focus bind log line bound focus bind util type of focus
+util logger silli log line
+
+bind
+editor pane parent set current
+open
+file browser visibl
+file browser show
+pane for each pane
+pane left file browser width
+pane editor updat content
+
+
+file browser focu
+
+next pane pane util current pane pane length set current
+prev pane pane util current pane pane length set current
+toggl pane list
+pane list get current pane pane list set current
+pane list close
+
+toggl file browser
+file browser toggl
+pane for each pane
+pane left file browser visibl file browser width
+pane editor updat content
+
+
+quit
+pane block quit
+current pane get current pane
+current pane current pane close ensur pane steal focu
+pane block quit pane slice filter pane
+pane close
+pane close
+pane block quit
+pane block quit splice pane block quit index of pane
+pane block quit length
+get current pane save as close form show
+
+quit
+
+
+
+pane save as close form cancel
+pane block quit for each block pane block pane save as close form hide
+pane block quit
+
+
+
+
+num pane block quit pane block quit length
+num pane block quit
+header messag num pane block quit unsav file num pane block quit pleas save discard warn
+num pane block quit
+quit
+
+
+
+help help
+
+
+
+mous mous data util logger silli mous mous data
+
+element focu set front screen render
+
+element blur element focu for each
+
+updat cursor updat cursor
+
+
+
+element show pane header render
+
+resiz element focu for each
+screen render
+
+
+element close debounc
+pane
+
+next pane pane math pane length
+next pane next pane is attach next pane set current
+
+
+readi call init plugin done
+
+base widget prototyp init handler appli
+
+
+slap prototyp init plugin
+
+
+slap get user dir user dir
+clap
+
+main
+keyword slap plugin
+path path join user dir plugin
+
+
+
+promis
+util logger info load plugin plugin
+util logger error fail load plugin plugin stack
+
+
+
+slap get user dir
+user dir util resolv path name
+mkdirp user dir user dir
+
+
+export slap
+
+circular import
+header header
+file browser file browser
+pane pane
+editor pane editor pane
+pane list pane list
+node
+
+
+test tape
+promis bluebird
+util widget spec util
+promis promis fixm pathwatch
+
+
+slap slap
+
+test
+promis screen util screen factori slap
+test creat slap
+plan
+
+slap slap
+
+
+promis resolv resolv
+done
+
+node
+
+
+
+find form
+node
+
+
+test tape
+
+find form find form
+
+test find form reg exp reg exp
+test reg exp reg exp
+regex find form reg exp reg exp
+
+test match plain string
+plan
+equal match regex
+
+
+test match regex
+plan
+equal match regex
+
+
+test support basic regex
+plan
+match regex
+
+not equal
+equal length
+equal
+equal
+
+
+test support insensit modifi
+plan
+match regex
+
+not equal
+equal length
+equal
+equal
+
+
+test support modifi
+plan
+match regex
+
+not equal
+equal length
+equal
+equal
+
+
+test support multilin modifi
+plan
+match regex
+
+not equal
+equal length
+equal
+equal
+
+
+test support multipl modifi
+plan
+match regex
+
+not equal
+equal length
+equal
+equal
+
+
+

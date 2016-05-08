@@ -1,0 +1,1147 @@
+
+spawn child process spawn
+exec child process exec
+rimraf rimraf
+path path
+semver semver
+knox knox
+crypto crypto
+async async
+set set sharelatex
+
+
+servic
+name
+repo http github sharelatex sharelatex
+version master
+
+name real time
+repo http github sharelatex real time sharelatex
+version master
+
+name document updat
+repo http github sharelatex document updat sharelatex
+version master
+
+name clsi
+repo http github sharelatex clsi sharelatex
+version master
+
+name filestor
+repo http github sharelatex filestor sharelatex
+version master
+
+name track chang
+repo http github sharelatex track chang sharelatex
+version master
+
+name docstor
+repo http github sharelatex docstor sharelatex
+version master
+
+name chat
+repo http github sharelatex chat sharelatex
+version master
+
+name tag
+repo http github sharelatex tag sharelatex
+version master
+
+name spell
+repo http github sharelatex spell sharelatex
+version master
+
+
+export grunt
+grunt load npm task grunt bunyan
+grunt load npm task grunt execut
+grunt load npm task grunt avail task
+grunt load npm task grunt concurr
+grunt load npm task grunt contrib coffe
+grunt load npm task grunt shell
+
+
+execut
+servic servic
+execut servic name
+servic name
+
+grunt init config
+execut execut
+
+concurr
+
+task servic name servic servic
+option
+limit servic length
+log concurr output
+coffe
+migrat
+expand
+flatten
+
+migrat coffe
+dest
+
+option
+bare
+
+shell
+migrat
+command node modul east east migrat adapt east mongo set mongo
+
+availabletask
+task
+option
+filter exclud
+task
+concurr
+execut
+bunyan
+availabletask
+
+group
+task
+
+
+
+concat servic name servic servic
+misc
+help
+
+instal task instal servic name servic servic concat instal instal instal dir instal config
+updat task updat servic name servic servic concat updat updat
+config task instal config
+check check check redi check latexmk check check make
+
+servic servic
+servic
+grunt regist task instal servic name download servic name servic
+done async
+helper instal servic servic done
+grunt regist task updat servic name checkout updat servic name servic
+done async
+helper updat servic servic done
+grunt regist task servic name share la te x servic name servic bunyan execut servic name
+grunt regist task releas servic name creat releas version servic name specifi releas option
+done async
+helper creat new releas servic grunt option releas done
+
+grunt regist task instal config copi exampl config real config
+helper instal config async
+grunt regist task instal dir copi exampl config real config
+helper creat data dir async
+grunt regist task instal download share la te x servic
+check make concat
+instal servic name servic servic
+concat instal config instal dir
+grunt regist task instal instal
+grunt regist task updat checkout updat share la te x servic
+check make concat
+updat servic name servic servic
+
+grunt regist task updat updat
+grunt regist task sharelatex process concurr
+grunt regist task
+
+grunt regist task help display help availabletask
+grunt regist task
+
+grunt regist task check redi check redi instal run
+helper check redi async
+grunt regist task check latexmk check latexmk instal
+helper check latexmk async
+grunt regist task check check amazon credenti configur
+helper check s3 async
+grunt regist task check check local filesystem option configur
+helper check fs async
+grunt regist task check aspel check aspel instal
+helper check aspel async
+grunt regist task check make check make instal
+helper check make async
+grunt regist task check check requir depend instal check redi check latexmk check check check aspel
+
+grunt regist task build upstart script creat upstart script servic
+helper build upstart script
+
+
+grunt regist task migrat compil migrat coffe migrat shell migrat
+
+
+helper
+instal servic servic callback error
+helper clone git repo servic error
+callback error error
+helper instal npm modul servic error
+callback error error
+helper rebuild npm modul servic error
+callback error error
+helper run grunt instal servic error
+callback error error
+callback
+
+updat servic servic callback error
+helper updat git repo servic error
+callback error error
+helper instal npm modul servic error
+callback error error
+helper rebuild npm modul servic error
+callback error error
+helper run grunt instal servic error
+callback error error
+callback
+
+clone git repo servic callback error
+repo servic repo
+servic name
+exist sync
+proc spawn
+
+servic version
+repo
+
+stdio inherit
+proc close
+callback
+
+consol alreadi instal skip
+callback
+
+updat git repo servic callback error
+servic name
+proc spawn checkout servic version stdio inherit
+proc close
+proc spawn pull stdio inherit
+proc close
+callback
+
+creat new releas servic version callback error
+servic name
+proc spawn
+
+version version version
+json
+stdio inherit
+proc close
+proc spawn commit releas version version stdio inherit
+proc close
+proc spawn version stdio inherit
+proc close
+proc spawn push stdio inherit
+proc close
+proc spawn push tag stdio inherit
+proc close
+callback
+
+instal npm modul servic callback error
+servic name
+proc spawn instal stdio inherit
+proc close
+callback
+
+work around http github issu 5400
+binari modul built
+rebuild npm modul servic callback error
+servic name
+proc spawn rebuild stdio inherit
+proc close
+callback
+
+creat data dir callback error
+dir
+dump folder
+upload
+user file
+compil
+cach
+
+job
+dir
+
+job push callback
+path path join dirnam
+grunt writeln ensur path exist
+exec mkdir path callback
+async seri job callback
+
+instal config callback error
+config set develop coffe exampl
+dest config set develop coffe
+exist sync dest
+grunt writeln creat config dest
+config read file sync to string
+config config replac crypto random
+crypto random byte to string
+write file sync dest config
+callback
+
+grunt writeln config file alreadi exist skip
+callback
+
+run grunt instal servic callback error
+servic name
+proc spawn grunt instal stdio inherit
+proc close
+callback
+
+check redi callback error
+grunt write check redi run
+exec redi info error stdout stderr
+error error messag match could connect
+grunt error fail redi run
+callback error
+error
+callback error
+
+stdout match redi version
+
+grunt error fail
+grunt error unknown redi version
+error error unknown redi version
+
+version
+semver version
+grunt writeln
+grunt writeln run redi version version
+
+grunt error fail
+grunt error redi version version must greater
+error error redi version version must greater
+callback error
+
+check latexmk callback error
+grunt write check latexmk instal
+exec latexmk version error stdout stderr
+error error messag match found
+grunt error fail
+grunt errorln
+either latexmk instal path
+
+latexmk come tex live 2013 must version 2013 later
+alreadi te x live instal make sure
+includ path exampl linux
+
+path path local texliv 2014 linux
+
+thi fatal error compil work without latexmk
+
+callback error
+error
+callback error
+
+stdout match version
+
+grunt error fail
+grunt error unknown latexmk version
+error error unknown latexmk version
+
+version
+semver version
+grunt writeln
+grunt writeln run latexmk version version
+
+grunt error fail
+grunt errorln
+latexmk version version must greater
+thi fatal error compil work without latexmk
+
+error error latexmk
+callback error
+
+check aspel callback error
+grunt write check aspel instal
+exec aspel dump dict error stdout stderr
+error error messag match found
+grunt error fail
+grunt errorln
+either aspel instal path
+
+ubuntu instal aspel
+
+sudo instal aspel
+
+
+
+brew instal aspel
+
+thi fatal error spell checker work without aspel
+
+callback error
+error
+callback error
+
+grunt writeln
+grunt writeln follow spell check dictionari avail
+grunt write stdout
+callback
+callback error
+
+check s3 callback error
+set set sharelatex
+set filestor backend
+grunt writeln backend specifi assum amazon
+set filestor backend
+set filestor backend
+grunt write check credenti
+
+client knox creat client
+set filestor
+secret set filestor secret
+bucket set filestor store user file
+
+
+grunt error fail
+grunt errorln
+pleas configur amazon credenti config set develop coffe
+
+amazon simpl storag servic cloud storag servic provid
+amazon share la te x use store binari file like imag
+sign account find
+
+http amazon
+
+
+callback
+client get file exist error respons
+respons respons statu code
+grunt error fail
+grunt errorln
+could connect amazon pleas check credenti
+
+
+grunt writeln
+callback
+
+grunt writeln filestor configur check
+callback
+
+check fs callback error
+set set sharelatex
+set filestor backend
+grunt write check configur
+
+exist set filestor store user file exist
+exist
+grunt writeln
+
+grunt error fail
+grunt errorln
+could find directori set filestor store user file
+pleas check configur
+
+callback
+
+grunt writeln filestor configur check
+callback
+
+check make callback error
+grunt write check make instal
+exec make version error stdout stderr
+error error messag match found
+grunt error fail
+grunt errorln
+either make instal path
+
+ubuntu instal make
+
+sudo instal build essenti
+
+
+callback error
+error
+callback error
+
+grunt write
+callback
+
+build upstart script
+read file sync upstart sharelatex conf to string
+servic servic
+write file sync upstart sharelatex servic name conf replac servic servic name
+
+set set sharelatex
+
+mongoj mongoj
+object id mongoj object id
+consol set mongo
+mongoj set mongo project doc
+lodash
+async async
+exec child process exec
+
+finish project path finish project
+project path project
+project larg path larg project
+
+
+print progress
+exec finish project path error result
+set timeout print progress 1000
+
+check if file ha been proccess project callback
+exec grep project finish project path error result
+ha been process result project
+callback error ha been process
+
+load project id callback
+consol load project project path
+read file project path
+split
+consol load length project project path
+callback
+
+get and write projectid callback
+consol find project date to string
+project find
+consol total found project mongo length date to string
+pluck
+filter
+file data join
+write file project path file data
+callback
+
+mark project as to larg and finish project callback
+consol project larg
+mark project as process project
+append file project larg path project callback
+
+get project id callback
+exist exist sync project path
+exist
+load project id callback
+
+get and write projectid callback
+
+mark project as process project callback
+append file finish project path project callback
+
+get all doc project callback error doc
+project find one object id project error project
+callback error error
+project
+consol project project
+callback
+size node modul mongoj node modul mongodb node modul bson bson pure bson calcul object size project
+size 12000000 12mb
+mark project as to larg and finish project callback
+find all doc in project project error doc
+callback error error
+callback doc
+
+find all doc in project project callback error doc
+callback find all doc in folder project root folder
+
+find doc in folder folder current path
+folder doc
+to string to string
+
+
+mongo path current path doc
+
+
+child folder folder folder
+result find doc in folder child folder current path folder
+result result
+
+
+
+find all doc in folder folder
+doc folder doc
+child folder folder folder
+doc doc concat find all doc in folder child folder
+doc
+
+insert doc into doc collect project line old rev callback
+project
+callback project
+
+callback
+line
+line
+updat
+updat object id to string
+updat line line
+updat project object id project
+updat old rev
+doc insert updat callback
+
+save doc into mongo project doc callback
+job doc
+
+
+consol error project project skip deal
+
+insert doc into doc collect project line
+code 11000 duplic alreadi problem
+
+
+consol error insert collect
+
+
+
+async seri job callback
+
+
+process next project callback
+check if file ha been proccess project ha been process
+ha been process
+consol project alreadi procss skip
+callback
+consol project process
+get all doc project doc
+
+consol error project could doc
+callback
+
+save doc into mongo project doc
+
+consol error project could save doc mongo
+callback
+mark project as process project
+set timeout
+callback
+
+
+
+
+export migrat client done
+get project id
+print progress
+job
+
+process next
+async seri job
+
+consol error job
+
+consol finish
+done
+
+
+export rollback
+
+set set sharelatex
+
+mongoj mongoj
+object id mongoj object id
+mongoj set mongo project doc
+lodash
+async async
+exec child process exec
+
+finish project path finish project
+project path project
+unmigr doc path unmigr
+
+
+print progress
+exec finish project path error result
+set timeout print progress 1000
+
+check if file ha been proccess project callback
+exec grep project finish project path error result
+ha been process result project
+callback error ha been process
+
+load project id callback
+consol load project project path
+read file project path
+split
+consol load length project project path
+callback
+
+get and write projectid callback
+consol find project date to string
+project find
+consol total found project mongo length date to string
+pluck
+filter
+file data join
+write file project path file data
+callback
+
+mark doc as unmigr project callback
+consol project unmigr
+mark project as process project
+append file unmigr doc path project callback
+
+mark unmigr doc project doc callback
+consol doc length project unmigr
+job doc
+
+mark doc as unmigr project
+async seri job callback
+
+get project id callback
+exist exist sync project path
+exist
+load project id callback
+
+get and write projectid callback
+
+mark project as process project callback
+append file finish project path project callback
+
+get all doc project callback error doc
+exclud
+
+exclud root folder array join folder doc line
+project find one object id project to string exclud error project
+callback error error
+project
+consol project project
+callback
+find all doc in project project error doc
+callback error error
+callback doc project
+
+find all doc in project project callback error doc
+callback find all doc in folder project root folder
+
+find doc in project project callback error mongo path
+result find doc in folder project root folder root folder
+result
+callback result result mongo path
+
+callback
+
+find doc in folder folder current path
+folder doc
+to string to string
+
+
+mongo path current path doc
+
+child folder folder folder
+result find doc in folder child folder current path folder
+result result
+
+
+
+find all doc in folder folder
+doc folder doc
+child folder folder folder
+doc doc concat find all doc in folder child folder
+doc
+
+is doc in doc collect callback
+length
+callback
+doc find object id limit found doc
+exist found doc length
+callback exist
+
+get which doc can be delet doc callback doc to be delet unmigr doc
+doc to be delet
+unmigr doc
+
+job doc
+
+is doc in doc collect exist
+exist
+doc to be delet push
+
+unmigr doc push
+
+async seri job
+callback doc to be delet unmigr doc
+
+whipe doc line project mongo path callback
+updat
+
+updat mongo path line
+updat mongo path
+project updat object id project updat callback
+
+
+remov doc line from project doc project callback
+job doc
+
+find doc in project project mongo path
+whipe doc line project mongo path
+async parallel limit job callback
+
+process next project callback
+project project length
+callback
+check if file ha been proccess project ha been process
+ha been process
+consol project alreadi procss skip
+callback
+consol project process
+get all doc project doc project
+
+consol error project could doc
+callback
+
+get which doc can be delet doc doc to be delet unmigr doc
+
+consol error project could save doc mongo
+callback
+mark unmigr doc project unmigr doc
+remov doc line from project doc to be delet project
+
+callback
+mark project as process project
+set timeout
+callback
+
+
+export migrat client done
+get project id
+print progress
+job
+
+process next
+async seri job
+
+consol error job
+
+consol finish
+done
+
+
+export rollback
+
+
+set set sharelatex
+
+mongoj mongoj
+object id mongoj object id
+mongoj set mongo doc doc histori doc histori stat
+underscor
+async async
+exec child process exec
+bson bson bson
+
+logger
+
+
+
+
+need to exit
+handl exit
+need to exit
+consol signal shut
+
+process sigint handl exit
+process sighup handl exit
+
+finish doc path finish doc
+doc path doc
+unmigr doc path unmigr doc
+
+finish doc
+exist sync finish doc path
+read file sync finish doc path split
+finish doc
+
+get and write docid callback
+consol find date to string
+doc find
+consol total found doc mongo length date to string
+pluck
+filter
+file data join
+write file sync doc path file data
+renam sync doc path doc path
+callback
+
+load doc id callback
+consol load doc path
+read file sync doc path
+split
+consol load length doc path
+callback
+
+get doc id callback
+exist exist sync doc path
+exist
+load doc id callback
+
+get and write docid callback
+
+mark doc as process callback
+finish doc
+append file finish doc path callback
+
+mark doc as unmigr callback
+consol unmigr
+mark doc as process
+append file unmigr doc path callback
+
+check if doc ha been proccess callback
+callback finish doc
+
+process next callback
+length
+callback
+need to exit
+callback error grace shutdown
+check if doc ha been proccess ha been process
+ha been process
+consol alreadi process skip
+callback
+pack manag pack doc histori
+
+consol error process
+mark doc as unmigr callback
+
+mark doc as process callback
+
+updat index callback
+async seri
+
+consol creat index
+doc histori ensur index project meta meta start background
+
+consol drop index
+doc histori drop index project meta
+
+consol drop index
+doc histori drop index project pack meta meta
+result
+consol done
+callback
+
+export migrat client done
+get doc id
+total doc count length
+alreadi finish count object key finish doc length
+date
+print progress
+count object key finish doc length
+process fraction count alreadi finish count total doc count
+remain fraction total doc count count total doc count
+date
+remain fraction process fraction
+est finish time date
+consol complet count total doc count process process fraction to fix remain remain fraction to fix elaps 1000 finish est finish time
+interv set interv print progress 1000
+
+next id
+
+test fn
+need to exit
+shift
+finish doc skip finish
+shift
+next id
+next id
+
+execut fn
+process next next id
+
+async whilst test fn execut fn
+
+consol error job
+
+consol finish date
+clear interv interv
+done
+
+export rollback client done
+done
+
+process next tick
+export migrat
+consol done
+
+day 3600 1000 millisecond
+
+copi track chang coffe pack manag coffe
+
+pack manag
+size 1024 1024 make configur paramet
+count
+
+convert doc to pack doc callback
+pack
+
+doc for each
+skip exist pack
+pack
+
+
+bson calcul object size
+decid ad current pack
+valid length pack length pack manag count
+valid size pack manag size
+both perman expir at expir at
+both temporari expir at expir at
+within1 day both temporari meta start meta start 3600 1000
+valid length valid size both perman both temporari within1 day
+pack pack concat meta meta
+
+
+
+meta meta
+expir at expir at expir at
+
+
+creat pack
+
+pack meta meta
+meta start meta start meta
+
+
+
+
+
+pack push
+
+callback pack
+
+check histori doc callback
+error
+prev
+error arg
+error push arg
+doc for each
+pack
+pack length
+last pack
+error pack last
+error pack start meta start pack meta start
+error pack meta last meta
+pack for each
+prev
+
+error version prev
+error expir pack expir at
+
+prev
+
+error version prev
+error length
+callback error
+
+callback
+
+insert pack pack obj callback
+bulk doc histori initi order bulk op
+pack obj
+expect n insert
+expect n remov pack obj pack length
+logger ad pack remov expect n remov
+bulk insert pack obj
+pack obj pack
+bulk find remov
+bulk execut result
+
+logger error error ad pack
+callback result
+result n insert expect n insert result n remov expect n remov
+logger error result unexpect result ad pack
+callback error
+unexpect result
+expect expect n insert expect n remov
+result
+
+doc histori stat updat
+updat count expect n remov
+current date last pack
+upsert
+callback result
+
+retriev document pack check
+get doc histori callback
+doc histori find object id sort doc
+callback
+safeti consist check histori
+logger check histori document
+pack manag check histori doc
+callback
+callback doc
+pack manag delet expir pack op doc
+callback
+callback doc
+
+pack doc histori option callback
+callback option
+callback option
+option
+lock manag run with lock
+histori lock
+releas lock
+pack manag pack doc histori option releas lock
+callback
+
+
+pack doc histori option callback
+logger start pack oper document histori
+
+pack manag get doc histori doc
+callback
+orig doc
+orig pack
+doc
+pack orig pack orig doc
+pack manag convert doc to pack doc pack
+callback
+total
+pack
+total total pack length
+logger orig doc orig pack new pack pack length total op total document stat
+pack length
+option
+logger skip write pack
+callback
+pack manag save pack pack
+callback
+check histori
+pack manag get doc histori callback
+
+logger pack write
+keep record avoid recheck
+doc histori stat updat
+current date last
+upsert
+callback
+
+write delay
+
+save pack pack callback
+async each seri pack pack manag safe insert result
+
+logger result error write pack
+callback result
+
+callback
+
+safe insert pack obj callback
+pack manag insert pack pack obj result
+set timeout
+callback result
+pack manag write delay
+
+delet expir pack op doc callback
+date
+to remov
+to updat
+doc for each
+pack
+new pack pack filter
+expir at expir at
+new pack length
+to remov push
+new pack length pack length
+adjust pack properti
+pack new pack
+first pack
+last pack pack length
+last
+meta start first meta start
+meta last meta
+to updat push
+to remov length to updat length
+bulk doc histori initi order bulk op
+to remov for each pack
+consol would remov pack
+bulk find pack remov one
+to updat for each pack
+consol would updat pack
+bulk find pack updat one pack
+bulk execut callback
+
+callback

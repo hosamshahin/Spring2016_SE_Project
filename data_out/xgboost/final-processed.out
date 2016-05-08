@@ -1,0 +1,9528 @@
+
+copyright 2015 contributor
+file log
+brief implement logger
+author tianqi chen
+
+xgboost log
+iostream
+common sync
+
+xgboost
+
+xgboost custom logger
+consol logger consol logger
+cout stream endl
+
+
+tracker logger tracker logger
+stream
+rabit tracker print stream
+
+
+xgboost
+
+copyright 2014 contributor
+file learner
+brief implement learn algorithm
+author tianqi chen
+
+xgboost log
+xgboost learner
+dmlc
+algorithm
+vector
+util
+
+sstream
+limit
+iomanip
+common
+common common
+common random
+
+xgboost
+implement learner
+learner allow lazi check point
+allow lazi check point
+
+
+vector
+learner dump2 text featur map fmap option
+dump2 text fmap option
+
+
+
+brief train paramet regress
+learner model param
+dmlc paramet learner model param
+brief bia
+score
+brief featur
+featur
+brief class multi classif
+
+brief model contain addit properti
+contain extra attr
+brief reserv field
+reserv
+brief
+learner model param
+memset learner model param
+score
+
+paramet
+dmlc declar paramet learner model param
+dmlc declar field score
+describ global bia model
+dmlc declar field featur
+describ number featur train
+paramet automat detect learner
+dmlc declar field lower bound
+describ number option multi classifi
+equal correspond binari classifi
+
+
+
+
+learner train param
+dmlc paramet learner train param
+store random seed
+seed
+whether seed prng iter
+seed iter
+split mode none
+dsplit
+tree construct method
+tree method
+test flag
+test flag
+maximum buffer valu
+prob buffer
+maximum batch
+size perbatch
+paramet
+dmlc declar paramet learner train param
+dmlc declar field seed
+describ random seed train
+dmlc declar field seed iter
+describ seed prng determnisticli iter
+option switch automat distribut mode
+dmlc declar field dsplit
+
+
+
+describ data split mode distribut trainig
+dmlc declar field tree method
+
+approx
+exact
+describ choic tree construct method
+dmlc declar field test flag
+describ intern test flag
+dmlc declar field prob buffer rang
+describ maximum buffer portion
+dmlc declar field perbatch numer limit size
+describ maximum batch
+
+
+
+dmlc regist paramet learner model param
+dmlc regist paramet learner train param
+
+
+brief learner perform gradient boost specif object
+train predict
+
+learner impl learner
+
+learner impl vector d matrix cach mat
+noexcept
+setup cach set
+check cach size
+size buffer size
+cach mat cach mat
+avoid duplic
+find cach mat
+d matrix pmat
+pmat cach learner
+cach push back cach entri pmat buffer size pmat info
+buffer size pmat info
+
+pred buffer size buffer size
+boost tree
+name linear
+name gbtree
+
+
+configur vector pair arg
+configur
+tparam init allow unknown arg
+clear
+arg
+first metric
+check duplic
+check uniqu metric
+name second
+
+metric metric check
+metric emplac back metric creat second
+
+
+first second
+
+
+addit paramet
+these cosntraint need satisfi
+tparam dsplit rabit is distribut
+tparam dsplit
+
+
+count
+output group
+atoi count object
+object multi softmax
+
+
+
+count delta step
+count object
+object count poisson
+delta step
+
+
+count updat
+tparam dsplit
+updat distcol
+tparam dsplit
+updat grow histmak prune
+
+tparam prob buffer
+updat grow histmak refresh prune
+
+
+count object
+object linear
+
+count booster
+booster gbtree
+
+
+model initi
+mparam init allow unknown arg
+name object
+name booster
+
+
+common global random seed tparam seed
+
+featur correctli
+featur common to string mparam featur
+common to string mparam
+
+nullptr
+configur
+
+nullptr
+configur
+
+
+
+init model
+lazi init model
+
+
+load dmlc stream
+todo tqchen mark deprec format
+common peekabl in stream
+backward compat header check
+header
+header resiz
+peek read header
+check header bs64
+base64 format longer support brick
+header binf
+check read header
+
+
+peekabl reader
+
+read paramet
+check read mparam mparam mparam
+boost learner wrong model format
+
+backward compat code compat model
+model read name suffic
+uint64
+check read
+numer limit
+
+check read
+boost learner wrong model format
+cast uint64 32 ul
+
+
+name resiz
+check read name
+boost learner wrong model format
+
+
+check read name
+boost learner wrong model format
+duplic code lazi init model
+reset obj function creat name
+reset gradient booster creat name
+load
+mparam contain extra attr
+vector pair attr
+read attr
+attribut
+attr attr
+
+metric size
+metric emplac back metric creat default eval metric
+
+score mparam score
+reset pred buffer pred buffer size
+common to string mparam
+featur common to string mparam featur
+configur
+
+
+rabit save model rabit checkpoint
+save dmlc stream
+write mparam learner model param
+write name
+write name
+save
+mparam contain extra attr
+vector pair attr
+attribut attribut
+write attr
+
+
+
+updat one iter iter d matrix train
+check model initi
+alway call init model load model updat
+tparam seed iter rabit is distribut
+common global random seed tparam seed k rand seed magic iter
+
+lazi init d matrix train
+predict raw train pred
+get gradient pred train info iter gpair
+do boost train find buffer offset train gpair
+
+
+boost one iter iter
+d matrix train
+vector gpair gpair
+tparam seed iter rabit is distribut
+common global random seed tparam seed k rand seed magic iter
+
+lazi init d matrix train
+do boost train find buffer offset train gpair
+
+
+eval one iter iter
+vector d matrix set
+vector name
+ostringstream
+iter
+setiosflag
+size set size
+predict raw set pred
+eval transform pred
+metric
+name name
+eval pred set info tparam dsplit
+
+
+
+
+
+set attr valu
+attribut valu
+mparam contain extra attr
+
+
+get attr
+attribut find
+attribut
+second
+
+
+
+pair evalu d matrix metric
+metric metric default eval metric
+uniqu metric metric creat metric
+predict raw pred
+eval transform pred
+make pair metric eval pred info tparam dsplit
+
+
+predict d matrix
+output margin
+vector pred
+ntree limit
+pred leaf
+pred leaf
+predict leaf pred ntree limit
+
+predict raw pred ntree limit
+output margin
+pred transform pred
+
+
+
+
+
+check train readi use train
+initi column access
+lazi init d matrix d matrix train
+train have col access
+ncol cast train info
+vector enabl ncol
+batch limit valu
+distribut mode choic otherwis
+size perbatch tparam perbatch
+size cast size 32 ul 10 ul
+
+tparam tree method
+train info 20 ul
+consol tree method automat select approx
+faster speed
+behavior exact greedi algorithm singl machin
+tree method exact
+perbatch perbatch
+
+
+tparam tree method
+consol tree method select approx
+perbatch perbatch
+
+
+tparam test flag block tparam dsplit
+perbatch perbatch
+
+initi column access
+train init col access enabl
+tparam prob buffer
+perbatch
+
+
+train singl col block count updat
+tparam tree method
+consol tree method exact
+current abl proceed approxim algorithm
+
+updat grow histmak prune
+nullptr
+configur
+
+
+
+
+whether model alreadi initi
+model initi
+nullptr
+
+lazili initi model initi
+lazi init model
+model initi
+estim featur bound
+featur
+size cach size
+featur featur
+cast cach info
+
+allreduc featur find maximum valu
+rabit allreduc rabit featur
+featur mparam featur
+mparam featur featur
+
+
+setup
+featur common to string mparam featur
+check nullptr nullptr
+reset obj function creat name
+reset gradient booster creat name
+configur
+configur
+
+reset score
+mparam score prob to margin mparam score
+metric size
+metric emplac back metric creat default eval metric
+
+
+score mparam score
+reset pred buffer pred buffer size
+
+
+brief transform predict
+param train matrix
+param pred output vector store predict
+param ntree limit limit tree use boost tree
+predictor equal mean tree
+
+predict raw d matrix
+vector pred
+ntree limit
+check nullptr
+predict must happen load init model
+predict
+find buffer offset
+pred
+ntree limit
+margin
+vector pred pred
+ndata cast pred size
+vector margin info margin
+margin size
+check pred size margin size
+margin size match predict size
+pragma parallel schedul
+ndata
+pred margin
+
+
+pragma parallel schedul
+ndata
+pred score
+
+
+
+cach size predict buffer
+size pred buffer size
+model paramet
+learner model param mparam
+train paramet
+learner train param tparam
+configur
+
+attribut
+attribut
+name
+name
+name object functon
+name
+tempor storag predict
+vector pred
+gradient pair
+vector gpair gpair
+
+
+brief random transform seed
+k rand seed magic
+cach entri help handl featur cach
+cach entri
+d matrix
+size buffer offset
+size
+cach entri d matrix size buffer offset size
+buffer offset buffer offset
+
+
+find buffer offset certain matrix exist
+int64 find buffer offset d matrix
+size cach size
+cach cach learner
+cach info
+cast int64 cach buffer offset
+
+
+
+
+
+brief entri indic predict cach
+vector cach entri cach
+
+
+learner learner creat vector d matrix cach
+learner impl cach
+
+xgboost
+
+copyright 2014 contributor
+file main
+brief command line program xgboost
+thi file includ dynam librari
+
+copyright 2014 contributor
+defin secur warn
+defin secur deprec
+defin nominmax
+
+xgboost learner
+xgboost
+xgboost log
+dmlc timer
+iomanip
+ctime
+
+cstdio
+cstring
+vector
+common sync
+common config
+
+
+xgboost
+
+cli task
+k train
+k dump2 text
+k predict
+
+
+cli param dmlc paramet cli param
+brief task name
+task
+brief whether silent
+silent
+brief whether evalu train statist
+train
+brief boost iter
+round
+brief period save model mean save round model
+save period
+brief path train
+train path
+brief path test dataset
+test path
+brief path test model file file restart train
+model
+brief path model file save
+model
+brief path directori contain save model
+model
+brief name predict file
+name pred
+brief split mode
+dsplit
+brief limit tree predict
+ntree limit
+brief whether directli output margin valu
+pred margin
+brief whether dump statist along model
+dump stat
+brief name featur
+name fmap
+brief name dump file
+name dump
+brief path valid set
+vector path
+brief name evalu use output
+vector name
+brief configur
+vector pair
+
+paramet
+dmlc declar paramet cli param
+note everyth path
+dmlc declar field task k train
+train k train
+dump k dump2 text
+pred k predict
+describ task perform program
+dmlc declar field silent rang
+describ silent level task
+dmlc declar field train
+describ whether evalu train train
+dmlc declar field round lower bound
+describ number boost iter
+dmlc declar field save period lower bound
+describ period save model mean save model
+dmlc declar field train path
+describ train path
+dmlc declar field test path
+describ test path
+dmlc declar field model
+describ input model path
+dmlc declar field model
+describ output model path
+dmlc declar field model
+describ output directori period checkpoint
+dmlc declar field name pred pred
+describ name predict file
+dmlc declar field dsplit
+
+
+
+describ data split mode
+dmlc declar field ntree limit lower bound
+describ number tree use predict mean tree
+dmlc declar field pred margin
+describ whether predict margin valu instead probabl
+dmlc declar field dump stat
+describ whether dump model statist
+dmlc declar field name fmap
+describ name featur file
+dmlc declar field name dump dump
+describ name output dump text file
+
+dmlc declar alia train path
+dmlc declar alia test path test
+dmlc declar alia name fmap fmap
+
+custom configur cli param
+configur vector pair
+
+init allow unknown
+
+strncmp first
+evnam
+check sscanf first evnam
+must specifi evalu name display
+name push back evnam
+path push back second
+
+
+constraint
+name pred stdout
+save period
+silent
+
+dsplit rabit is distribut
+dsplit
+
+rabit get rank
+silent
+
+
+
+
+dmlc regist paramet cli param
+
+cli train cli param param
+rabit is distribut
+pname rabit get processor name
+consol start pname rabit get rank
+
+load
+uniqu d matrix dtrain
+d matrix load param train path param silent param dsplit
+vector uniqu d matrix deval
+vector d matrix cach mat dataset
+cach mat push back dtrain
+size param name size
+deval emplac back
+d matrix load param path param silent param dsplit
+dataset push back deval back
+cach mat push back deval back
+
+vector name param name
+param train
+dataset push back dtrain
+name push back train
+
+initi learner
+uniqu learner learner learner creat cach mat
+version rabit load check point learner
+version
+initializ model need
+param model
+uniqu dmlc stream
+dmlc stream creat param model
+learner load
+learner configur param
+
+learner configur param
+learner init model
+
+
+start train
+start dmlc get time
+version param round
+elaps dmlc get time start
+version
+param silent
+consol boost round elaps elaps
+
+learner updat one iter dtrain
+learner allow lazi check point
+rabit lazi check point learner
+
+rabit check point learner
+
+version
+
+check version rabit version number
+learner eval one iter dataset name
+rabit is distribut
+rabit get rank
+tracker
+
+
+param silent
+consol
+
+
+param save period
+param save period
+rabit get rank
+ostringstream
+param model
+setfil setw
+model
+uniqu dmlc stream
+dmlc stream creat
+learner save
+
+
+learner allow lazi check point
+rabit lazi check point learner
+
+rabit check point learner
+
+version
+check version rabit version number
+
+alway save round
+param save period param round param save period
+param model none
+rabit get rank
+ostringstream
+param model
+param model
+setfil setw
+param round model
+
+param model
+
+uniqu dmlc stream
+dmlc stream creat
+learner save
+
+
+param silent
+elaps dmlc get time start
+consol updat elaps
+
+
+
+cli dump2 text cli param param
+featur map fmap
+param name fmap
+uniqu dmlc stream
+dmlc stream creat param name fmap
+dmlc istream
+fmap load text
+
+load model
+check param model
+must specifiy model dump
+uniqu learner learner learner creat
+uniqu dmlc stream
+dmlc stream creat param model
+learner load
+dump
+vector dump learner dump2 text fmap param dump stat
+uniqu dmlc stream
+dmlc stream creat param name dump
+dmlc ostream
+size dump size
+booster
+dump
+
+forc flush destruct
+stream nullptr
+
+
+cli predict cli param param
+check param test path
+test dataset paramet test must specifi
+load
+uniqu d matrix dtest
+d matrix load param test path param silent param dsplit
+load model
+check param model
+must specifiy model dump
+uniqu learner learner learner creat
+uniqu dmlc stream
+dmlc stream creat param model
+learner load
+
+param silent
+consol start predict
+
+vector pred
+learner predict dtest param pred margin pred param ntree limit
+param silent
+consol write predict param name pred
+
+uniqu dmlc stream
+dmlc stream creat param name pred
+dmlc ostream
+pred
+
+
+forc flush destruct
+stream nullptr
+
+
+cli run task argc argv
+argc
+printf usag config
+
+
+rabit init argc argv
+
+vector pair
+push back make pair seed
+
+common config iter argv
+next
+push back make pair name
+
+
+argc
+name
+sscanf argv name
+push back make pair name
+
+
+cli param param
+param configur
+
+param task
+k train cli train param
+k dump2 text cli dump2 text param
+k predict cli predict param
+
+rabit final
+
+
+xgboost
+
+main argc argv
+xgboost cli run task argc argv
+
+
+copyright 2014 contributor
+file updat colmak
+brief columnwis updat construct tree
+author tianqi chen
+
+xgboost tree updat
+vector
+cmath
+algorithm
+param
+common random
+common bitmap
+common sync
+
+xgboost
+tree
+
+dmlc registri file updat colmak
+
+brief column wise updat construct tree
+t stat
+col maker tree updat
+
+init vector pair arg
+param init allow unknown arg
+
+
+updat vector gpair gpair
+d matrix dmat
+vector reg tree tree
+t stat check info dmat info
+rescal learn rate accord size tree
+param learn rate
+param learn rate tree size
+build tree
+size tree size
+builder builder param
+builder updat gpair dmat tree
+
+param learn rate
+
+
+
+train paramet
+train param param
+structur
+brief thread node entri store
+thread entri
+brief statist
+t stat stat
+brief extra statist
+t stat stat extra
+brief last featur valu scan
+last fvalu
+brief first featur valu scan
+first fvalu
+brief current best solut
+split entri best
+
+thread entri train param param
+stat param stat extra param
+
+
+node entri
+brief static node entri
+t stat stat
+brief loss node without split
+root gain
+brief weight calcul relat current
+weight
+brief current best solut
+split entri best
+
+node entri train param param
+stat param root gain weight
+
+
+actual builder run algorithm
+builder
+
+
+builder train param param param param
+updat tree grow
+updat vector gpair gpair
+d matrix fmat
+reg tree tree
+init data gpair fmat tree
+init new node qexpand gpair fmat tree
+depth depth param depth depth
+find split depth qexpand gpair fmat tree
+reset posit qexpand fmat tree
+updat queue expand tree qexpand
+init new node qexpand gpair fmat tree
+noth left expand
+qexpand size
+
+rest expand node leaf
+size qexpand size
+qexpand
+tree leaf snode weight param learn rate
+
+rememb auxiliari statist tree node
+tree param node
+tree stat loss snode best loss
+tree stat weight snode weight
+tree stat hess cast snode stat hess
+snode stat set leaf vec param tree leafvec
+
+
+
+
+initi temp structur
+init data vector gpair gpair
+d matrix fmat
+reg tree tree
+check tree param node tree param root
+col maker grow tree
+vector root index fmat info root index
+row set rowset fmat buffer rowset
+
+setup posit
+posit resiz gpair size
+root index size
+size rowset size
+posit rowset
+
+
+size rowset size
+ridx rowset
+posit ridx root index ridx
+check root index ridx tree param root
+
+
+mark delet data
+size rowset size
+ridx rowset
+gpair ridx hess posit ridx posit ridx
+
+mark subsampl
+param subsampl
+bernoulli distribut coin flip param subsampl
+common global random
+size rowset size
+ridx rowset
+gpair ridx hess
+coin flip posit ridx posit ridx
+
+
+
+
+initi featur index
+ncol cast fmat info
+ncol
+fmat get col size
+feat index push back
+
+
+cast param colsampl bytre feat index size
+shuffl feat index feat index common global random
+check
+colsampl bytre param colsampl bytre
+small featur includ
+feat index resiz
+
+
+setup temp space thread
+pragma parallel
+
+nthread thread
+
+reserv small space
+stemp clear
+stemp resiz nthread vector thread entri
+size stemp size
+stemp clear stemp reserv
+
+snode reserv
+
+
+expand queri
+qexpand reserv qexpand clear
+tree param root
+qexpand push back
+
+
+
+
+brief initi weight root gain
+node entri node qexpand
+
+init new node vector qexpand
+vector gpair gpair
+d matrix fmat
+reg tree tree
+
+setup statist space tree node
+size stemp size
+stemp resiz tree param node thread entri param
+
+snode resiz tree param node node entri param
+
+row set rowset fmat buffer rowset
+meta info info fmat info
+setup posit
+ndata cast rowset size
+pragma parallel schedul
+ndata
+ridx rowset
+thread
+posit ridx
+stemp posit ridx stat gpair info ridx
+
+thread statist togeth
+size qexpand size
+qexpand
+t stat stat param
+size stemp size
+stat stemp stat
+
+updat node statist
+snode stat stat
+snode root gain cast stat calc gain param
+snode weight cast stat calc weight param
+
+
+brief updat queue expand leav
+updat queue expand reg tree tree vector qexpand
+vector qexpand qexpand
+vector newnod
+size qexpand size
+qexpand
+tree leaf
+newnod push back tree cleft
+newnod push back tree cright
+
+
+node qexpand
+qexpand newnod
+
+parallel find best split current
+support nest function
+parallel find split col batch inst
+
+d matrix fmat
+vector gpair gpair
+meta info info fmat info
+length fvalu length fvalu
+need forward param need forward search fmat get col densiti
+need backward param need backward search fmat get col densiti
+vector qexpand qexpand
+pragma parallel
+
+thread
+vector thread entri temp stemp
+cleanup temp statist
+size qexpand size
+temp qexpand stat clear
+
+nthread thread
+step length nthread nthread
+length step
+step
+ridx index
+posit ridx
+
+fvalu fvalu
+temp stat empti
+temp first fvalu fvalu
+
+temp stat gpair info ridx
+temp last fvalu fvalu
+
+
+start collect partial statist
+nnode cast qexpand size
+pragma parallel schedul
+nnode
+qexpand
+t stat param param param
+nthread
+stemp stat
+stemp stat
+
+
+swap stemp last fvalu stemp first fvalu
+
+
+nthread
+stemp stat extra
+thread entri stemp
+fsplit
+
+stemp last fvalu first fvalu
+fsplit stemp last fvalu first fvalu
+
+
+
+
+fsplit first fvalu
+
+need forward
+set substract snode stat stat
+hess param child weight
+stat hess param child weight
+loss cast stat calc gain param
+calc gain param snode root gain
+best updat loss fsplit
+
+
+need backward
+set substract stat
+set substract snode stat
+hess param child weight
+hess param child weight
+loss cast calc gain param
+calc gain param snode root gain
+best updat loss fsplit
+
+
+
+need backward
+
+thread entri stemp nthread
+set substract snode stat
+hess param child weight
+hess param child weight
+loss cast calc gain param
+calc gain param snode root gain
+best updat loss last fvalu
+
+
+
+rescan gener candid split
+pragma parallel
+
+t stat param cright param
+thread
+vector thread entri temp stemp
+nthread cast thread
+step length nthread nthread
+length step
+step
+ridx index
+posit ridx
+
+fvalu fvalu
+statist
+thread entri temp
+stat empti
+stat gpair info ridx
+first fvalu fvalu
+
+forward right
+fvalu first fvalu
+need forward
+set substract snode stat stat
+hess param child weight
+stat hess param child weight
+loss cast stat calc gain param
+calc gain param
+snode root gain
+best updat loss fvalu first fvalu
+
+
+need backward
+cright set substract stat extra stat
+set substract snode stat cright
+hess param child weight
+cright hess param child weight
+loss cast cright calc gain param
+calc gain param
+snode root gain
+best updat loss fvalu first fvalu
+
+
+
+stat gpair info ridx
+first fvalu fvalu
+
+
+
+
+updat enumer solut
+updat enumer gpair gstat
+fvalu step
+t stat vector thread entri temp nolint
+statist
+thread entri temp
+test first fine init
+stat empti
+stat gstat
+last fvalu fvalu
+
+find split
+fvalu last fvalu
+stat hess param child weight
+set substract snode stat stat
+hess param child weight
+loss cast stat calc gain param
+calc gain param snode root gain
+best updat loss fvalu last fvalu step
+
+
+updat statist
+stat gstat
+last fvalu fvalu
+
+
+enumer split cachelin prefetch optim
+enumer split cach opt col batch entri
+col batch entri
+step
+
+vector gpair gpair
+vector thread entri temp nolint
+vector qexpand qexpand
+clear temp statist
+size qexpand size
+temp qexpand stat clear
+
+left statist
+t stat param
+local cach buffer posit gradient pair
+k buffer
+posit k buffer
+gpair gpair k buffer
+align end posit
+col batch entri align
+step
+align k buffer k buffer
+
+align k buffer k buffer
+
+
+col batch entri
+align step step k buffer
+cach
+align align step
+col batch entri
+k buffer step
+posit posit index
+gpair gpair index
+
+k buffer step
+posit
+
+updat enumer gpair
+fvalu step
+temp
+
+
+finish end piec
+align step
+posit posit index
+gpair gpair index
+
+align step
+posit
+
+updat enumer gpair
+fvalu step
+temp
+
+finish updat statist check possibl statist
+size qexpand size
+qexpand
+thread entri temp
+set substract snode stat stat
+stat hess param child weight hess param child weight
+loss cast stat calc gain param
+calc gain param snode root gain
+last fvalu
+delta step
+best updat loss last fvalu delta step
+
+
+
+
+enumer split valu specif featur
+enumer split col batch entri
+col batch entri
+step
+
+vector gpair gpair
+meta info info
+vector thread entri temp nolint
+cachelin awar optim
+t stat k simpl stat param cach
+enumer split cach opt step gpair temp
+
+
+vector qexpand qexpand
+clear temp statist
+size qexpand size
+temp qexpand stat clear
+
+left statist
+t stat param
+col batch entri step
+ridx index
+posit ridx
+
+start work
+fvalu fvalu
+statist
+thread entri temp
+test first fine init
+stat empti
+stat gpair info ridx
+last fvalu fvalu
+
+find split
+fvalu last fvalu
+stat hess param child weight
+set substract snode stat stat
+hess param child weight
+loss cast stat calc gain param
+calc gain param snode root gain
+best updat loss fvalu last fvalu step
+
+
+updat statist
+stat gpair info ridx
+last fvalu fvalu
+
+
+finish updat statist check possibl statist
+size qexpand size
+qexpand
+thread entri temp
+set substract snode stat stat
+stat hess param child weight hess param child weight
+loss cast stat calc gain param
+calc gain param snode root gain
+last fvalu
+delta step
+best updat loss last fvalu delta step
+
+
+
+
+updat solut candid
+updat solut col batch batch
+vector gpair gpair
+d matrix fmat
+meta info info fmat info
+start enumer
+nsize cast batch size
+defin openmp
+batch size cast nsize nthread
+
+poption param parallel option
+poption
+poption cast nsize nthread
+
+poption
+pragma parallel schedul dynam batch size
+nsize
+batch index
+thread
+col batch inst batch
+length fvalu length fvalu
+param need forward search fmat get col densiti
+enumer split length
+gpair info stemp
+
+param need backward search fmat get col densiti
+enumer split length
+gpair info stemp
+
+
+
+nsize
+parallel find split batch batch index
+fmat gpair
+
+
+
+find split current level split level
+find split depth
+vector qexpand
+vector gpair gpair
+d matrix fmat
+reg tree tree
+vector feat feat index
+param colsampl bylevel
+shuffl feat feat common global random
+cast param colsampl bylevel feat index size
+check
+colsampl bylevel small featur includ
+feat resiz
+
+dmlc data iter col batch iter fmat col iter feat
+iter next
+updat solut iter valu gpair fmat
+
+thread stemp best candid aggreg result
+sync best solut qexpand
+best result synchron solut
+size qexpand size
+qexpand
+node entri snode
+know solut snode split
+best loss
+tree add child
+tree split best split index best split valu best left
+mark right child indic fresh leaf
+tree tree cleft leaf
+tree tree cright leaf
+
+tree leaf weight param learn rate
+
+
+
+reset posit point split creat tree
+reset posit vector qexpand
+d matrix fmat
+reg tree tree
+posit nondefault
+set non default posit qexpand fmat tree
+rest instanc posit
+row set rowset fmat buffer rowset
+direct node
+leaf node fresh mark
+ignor futur statist collect
+ndata cast rowset size
+
+pragma parallel schedul
+ndata
+ridx rowset
+ridx posit size
+info ridx exceed bound
+
+decod posit ridx
+tree leaf
+mark finish fresh leaf
+tree cright
+posit ridx
+
+
+push branch
+tree left
+set encod posit ridx tree cleft
+
+set encod posit ridx tree cright
+
+
+
+
+custom part
+synchron best solut node
+sync best solut vector qexpand
+size qexpand size
+qexpand
+node entri snode
+nthread
+best updat stemp best
+
+
+
+set non default posit vector qexpand
+d matrix fmat
+reg tree tree
+step classifi right place
+vector fsplit
+size qexpand size
+qexpand
+tree leaf
+fsplit push back tree split index
+
+
+sort fsplit fsplit
+fsplit resiz uniqu fsplit fsplit fsplit
+dmlc data iter col batch iter fmat col iter fsplit
+iter next
+col batch batch iter valu
+size batch size
+col batch inst batch
+batch index
+ndata cast length
+pragma parallel schedul
+ndata
+ridx index
+decod posit ridx
+fvalu fvalu
+back parent correct
+tree leaf tree split index
+fvalu tree split cond
+set encod posit ridx tree cleft
+
+set encod posit ridx tree cright
+
+
+
+
+
+
+util posit encod format
+decod posit
+decod posit ridx
+posit ridx
+
+
+encod encod posit valu ridx
+set encod posit ridx
+posit ridx
+posit ridx
+
+posit ridx
+
+
+field
+train param param
+thread use train
+nthread
+featur shuffl index featur index
+vector feat index
+instanc data current node posit tree
+vector posit
+per thread per tree node statist thread construct
+vector vector thread entri stemp
+brief tree node data statist construct node
+vector node entri snode
+brief queue node expand
+vector qexpand
+
+
+
+distribut column maker
+t stat
+dist col maker col maker t stat
+
+dist col maker builder param
+pruner reset tree updat creat prune
+
+init vector pair arg
+param init allow unknown arg
+pruner init arg
+
+updat vector gpair gpair
+d matrix dmat
+vector reg tree tree
+t stat check info dmat info
+check tree size dist col maker support tree time
+build tree
+builder updat gpair dmat tree
+prune tree note pruner sync tree
+pruner updat gpair dmat tree
+updat posit tree prune
+builder updat posit dmat tree
+
+get leaf posit
+builder get leaf posit
+
+
+
+builder col maker t stat builder
+
+builder train param param
+col maker t stat builder param
+
+updat posit d matrix fmat reg tree tree
+row set rowset fmat buffer rowset
+ndata cast rowset size
+pragma parallel schedul
+ndata
+ridx rowset
+decod posit ridx
+tree delet
+tree parent
+check
+
+posit ridx
+
+
+get leaf posit
+dmlc begin ptr posit
+
+
+
+set non default posit vector qexpand
+d matrix fmat
+reg tree tree
+step classifi right place
+vector fsplit
+size qexpand size
+qexpand
+tree leaf
+fsplit push back tree split index
+
+
+candid split index
+sort fsplit fsplit
+fsplit resiz uniqu fsplit fsplit fsplit
+fsplit size fsplit back fmat info
+fsplit back
+
+bitmap word concurr first
+
+ndata cast posit size
+boolmap resiz ndata
+pragma parallel schedul
+ndata
+boolmap
+
+
+dmlc data iter col batch iter fmat col iter fsplit
+iter next
+col batch batch iter valu
+size batch size
+col batch inst batch
+batch index
+ndata cast length
+pragma parallel schedul
+ndata
+ridx index
+fvalu fvalu
+decod posit ridx
+tree leaf tree split index
+fvalu tree split cond
+tree left boolmap ridx
+
+tree left boolmap ridx
+
+
+
+
+
+
+bitmap init from bool boolmap
+commun bitmap
+rabit allreduc rabit bit or dmlc begin ptr bitmap bitmap size
+row set rowset fmat buffer rowset
+posit
+ndata cast rowset size
+pragma parallel schedul
+ndata
+ridx rowset
+decod posit ridx
+bitmap ridx
+check tree leaf inconsist reduc inform
+tree left
+set encod posit ridx tree cright
+
+set encod posit ridx tree cleft
+
+
+
+
+synchron best solut node
+sync best solut vector qexpand
+vector split entri
+size qexpand size
+qexpand
+nthread
+snode best updat stemp best
+
+push back snode best
+
+todo tqchen lazi version
+commun best solut
+reduc allreduc dmlc begin ptr size
+assign solut back
+size qexpand size
+qexpand
+snode best
+
+
+
+
+common bit map bitmap
+vector boolmap
+rabit reduc split entri split entri reduc reduc
+
+directli introduc pruner
+uniqu tree updat pruner
+train paramet
+train param param
+pointer builder
+builder builder
+
+
+xgboost regist tree updat col maker grow colmak
+describ grow tree parallel column
+bodi
+col maker grad stat
+
+
+xgboost regist tree updat dist col maker distcol
+describ distribut column split version tree maker
+bodi
+dist col maker grad stat
+
+tree
+xgboost
+
+copyright 2015 contributor
+file tree model
+brief model structur tree
+
+xgboost tree model
+sstream
+param
+
+xgboost
+tree paramet
+dmlc regist paramet tree param
+
+tree
+dmlc regist paramet train param
+
+dump regress tree text
+dump reg tree2 text stringstream nolint
+reg tree tree
+featur map fmap
+depth stat
+depth
+
+
+tree leaf
+leaf tree leaf valu
+stat
+cover tree stat hess
+
+
+
+right left
+cond tree split cond
+split index tree split index
+split index fmap size
+fmap split index
+featur map k indic
+nye tree left
+tree cright tree cleft
+fmap name split index nye
+tree cdefault
+
+
+featur map k integ
+fmap name split index
+cond
+tree cleft
+tree cright
+miss tree cdefault
+
+
+featur map k float
+featur map k quantit
+fmap name split index cond
+tree cleft
+tree cright
+miss tree cdefault
+
+
+fatal unknown fmap
+
+
+split index cond
+tree cleft
+tree cright
+miss tree cdefault
+
+stat
+gain tree stat loss cover tree stat hess
+
+
+dump reg tree2 text tree fmap tree cleft depth stat
+dump reg tree2 text tree fmap tree cright depth stat
+
+
+
+reg tree dump2 text featur map fmap stat
+stringstream
+param root
+dump reg tree2 text fmap stat
+
+
+
+xgboost
+
+copyright 2014 contributor
+file updat sync
+brief synchron tree distribut node
+
+xgboost tree updat
+vector
+
+limit
+common sync
+common
+
+xgboost
+tree
+
+dmlc registri file updat sync
+
+
+brief syncher synchron tree distribut node
+implement variou strategi alway node tree
+
+tree syncher tree updat
+
+init vector pair arg
+
+updat vector gpair gpair
+d matrix dmat
+vector reg tree tree
+rabit get world size
+model
+common memori buffer stream model
+rank rabit get rank
+rank
+size tree size
+tree save
+
+
+seek
+rabit broadcast model
+size tree size
+tree load
+
+
+
+
+xgboost regist tree updat tree syncher sync
+describ syncher synchron tree distribut node
+bodi
+tree syncher
+
+tree
+xgboost
+
+copyright 2014 contributor
+file updat refresh
+brief refresh statist leaf valu tree dataset
+author tianqi chen
+
+
+xgboost tree updat
+vector
+limit
+param
+common sync
+common
+
+xgboost
+tree
+
+dmlc registri file updat refresh
+
+brief pruner prune tree grow finish
+t stat
+tree refresh tree updat
+
+init vector pair arg
+param init allow unknown arg
+
+updat tree prune
+updat vector gpair gpair
+d matrix fmat
+vector reg tree tree
+tree size
+thread
+thread tempor space
+vector vector t stat stemp
+vector reg tree f vec fvec temp
+setup temp space thread
+nthread
+pragma parallel
+
+nthread thread
+
+fvec temp resiz nthread reg tree f vec
+stemp resiz nthread vector t stat
+pragma parallel
+
+thread
+node
+size tree size
+node tree param node
+
+stemp resiz node t stat param
+fill stemp stemp t stat param
+fvec temp init tree param featur
+
+lazi evalu allreduc
+gain speedup recoveri
+cplusplu 201103 l
+lazi stat
+
+
+meta info info fmat info
+start accumul statist
+dmlc data iter row batch iter fmat row iter
+iter befor first
+iter next
+row batch batch iter valu
+check batch size numer limit
+nbatch cast batch size
+pragma parallel schedul
+nbatch
+row batch inst inst batch
+thread
+ridx cast batch rowid
+reg tree f vec feat fvec temp
+feat fill inst
+offset
+size tree size
+add stat tree feat gpair info ridx
+dmlc begin ptr stemp offset
+offset tree param node
+
+feat drop inst
+
+
+aggreg statist
+node cast stemp size
+pragma parallel schedul
+node
+nthread
+stemp stemp
+
+
+
+cplusplu 201103 l
+reduc allreduc dmlc begin ptr stemp stemp size lazi stat
+
+reduc allreduc dmlc begin ptr stemp stemp size
+
+rescal learn rate accord size tree
+param learn rate
+param learn rate tree size
+offset
+size tree size
+tree param root
+refresh dmlc begin ptr stemp offset tree
+
+offset tree param node
+
+learn rate back
+param learn rate
+
+
+
+add stat reg tree tree
+reg tree f vec feat
+vector gpair gpair
+meta info info
+ridx
+t stat gstat
+start group belong current
+cast info get root ridx
+gstat gpair info ridx
+tranvers tree
+tree leaf
+split index tree split index
+tree get next feat fvalu split index feat miss split index
+gstat gpair info ridx
+
+
+refresh t stat gstat
+reg tree tree
+reg tree tree tree
+tree stat weight cast gstat calc weight param
+tree stat hess cast gstat hess
+gstat set leaf vec param tree leafvec
+tree leaf
+tree leaf tree stat weight param learn rate
+
+tree stat loss cast
+gstat tree cleft calc gain param
+gstat tree cright calc gain param
+gstat calc gain param
+refresh gstat tree cleft tree
+refresh gstat tree cright tree
+
+
+train paramet
+train param param
+reduc
+rabit reduc t stat t stat reduc reduc
+
+
+xgboost regist tree updat tree refresh refresh
+describ refresh refresh weight statist accord
+bodi
+tree refresh grad stat
+
+tree
+xgboost
+
+copyright 2014 contributor
+file updat skmaker
+brief approxim sketch construct tree
+refresh need make statist exactli correct
+author tianqi chen
+
+
+xgboost
+xgboost tree updat
+vector
+algorithm
+common sync
+common quantil
+common group
+updat basemak
+
+xgboost
+tree
+
+dmlc registri file updat skmaker
+
+sketch maker base maker
+
+updat vector gpair gpair
+d matrix fmat
+vector reg tree tree
+rescal learn rate accord size tree
+param learn rate
+param learn rate tree size
+build tree
+size tree size
+updat gpair fmat tree
+
+param learn rate
+
+
+
+updat vector gpair gpair
+d matrix fmat
+reg tree tree
+init data gpair fmat tree
+depth depth param depth depth
+get node stat gpair fmat tree
+thread stat node stat
+build sketch gpair fmat tree
+sync node stat
+find split depth gpair fmat tree
+reset posit col qexpand fmat tree
+updat queue expand tree
+noth left expand
+qexpand size
+
+qexpand size
+get node stat gpair fmat tree
+thread stat node stat
+sync node stat
+
+statist correctli
+tree param node
+set stat node stat tree
+tree leaf
+tree stat loss cast
+node stat tree cleft calc gain param
+node stat tree cright calc gain param
+node stat calc gain param
+
+
+left leav
+size qexpand size
+qexpand
+tree leaf tree stat weight param learn rate
+
+
+defin sketch want
+common wx quantil sketch wxq sketch
+
+
+statist need gradient calcul
+sk stat
+brief posit gradient
+grad
+brief neg gradient
+grad
+brief hessian statist
+hess
+sk stat
+
+sk stat train param param
+clear
+
+brief clear statist
+clear
+grad grad hess
+
+accumul statist
+vector gpair gpair
+meta info info
+ridx
+gpair gpair ridx
+grad
+grad grad
+
+grad grad
+
+hess hess
+
+brief calcul gain solut
+calc gain train param param
+param calc gain grad grad hess
+
+brief current valu
+set substract sk stat sk stat
+grad grad grad
+grad grad grad
+hess hess hess
+
+calcul leaf weight
+calc weight train param param
+param calc weight grad grad hess
+
+brief statist
+sk stat
+grad grad
+grad grad
+hess hess
+
+brief reduc use reduc
+reduc sk stat sk stat nolint
+
+
+brief leaf vector valu base statist
+set leaf vec train param param
+
+
+build sketch vector gpair gpair
+d matrix fmat
+reg tree tree
+meta info info fmat info
+sketch resiz qexpand size tree param featur
+size sketch size
+sketch init info param sketch
+
+thread sketch resiz nthread
+row
+size nrow fmat buffer rowset size
+start accumul statist
+dmlc data iter col batch iter fmat col iter
+iter befor first
+iter next
+col batch batch iter valu
+start enumer
+nsize cast batch size
+pragma parallel schedul dynam
+nsize
+updat sketch col gpair batch tree
+node stat
+batch index
+batch length nrow
+thread sketch thread
+
+
+setup maximum size
+size param sketch size
+synchron sketch
+summari resiz sketch size
+size sketch size
+common wx quantil sketch summari contain
+sketch get summari
+summari reserv size
+summari set prune size
+
+size nbyte wxq sketch summari contain calc mem cost size
+sketch reduc allreduc dmlc begin ptr summari nbyte summari size
+
+updat sketch inform column
+updat sketch col vector gpair gpair
+col batch inst
+reg tree tree
+vector sk stat nstat
+
+full
+vector sketch entri temp
+length
+initi sbuilder
+vector sketch entri sbuilder temp
+sbuilder resiz tree param node
+size qexpand size
+qexpand
+node2workindex
+
+sbuilder total
+sbuilder sketch sketch tree param featur
+
+
+full
+length
+ridx index
+posit ridx
+
+gpair gpair ridx
+grad
+sbuilder total grad
+
+sbuilder total grad
+
+sbuilder total hess
+
+
+
+size qexpand size
+qexpand
+sbuilder total cast nstat grad
+sbuilder total cast nstat grad
+sbuilder total cast nstat hess
+
+
+valu need second
+fvalu length fvalu
+size qexpand size
+qexpand
+
+sbuilder sketch push fvalu
+cast
+sbuilder total
+
+
+
+
+scan
+size param sketch size
+size qexpand size
+qexpand
+
+sbuilder init size
+
+
+second build sketch
+length
+ridx index
+posit ridx
+
+gpair gpair ridx
+grad
+sbuilder push fvalu grad size
+
+sbuilder push fvalu grad size
+
+sbuilder push fvalu hess size
+
+
+size qexpand size
+qexpand
+
+sbuilder final size
+
+
+
+sync node stat
+check qexpand size
+vector sk stat qexpand size
+size qexpand size
+node stat qexpand
+
+stat reduc allreduc dmlc begin ptr size
+size qexpand size
+node stat qexpand
+
+
+find split depth
+vector gpair gpair
+d matrix fmat
+reg tree tree
+featur tree param featur
+best split condit node
+vector split entri qexpand size
+nexpand cast qexpand size
+pragma parallel schedul dynam
+nexpand
+qexpand
+check node2workindex cast
+split entri best
+featur
+tree param featur
+enumer split summari
+summari
+summari
+node stat best
+
+
+best result synchron solut
+nexpand
+qexpand
+split entri best
+valu
+tree stat loss best loss
+set stat node stat tree
+know solut snode split
+best loss
+tree add child
+tree split best split index
+best split valu best left
+mark right child indic fresh leaf
+tree tree cleft leaf
+tree tree cright leaf
+
+tree leaf tree stat weight param learn rate
+
+
+
+statist ptree
+set stat sk stat node reg tree tree
+tree stat weight cast node calc weight param
+tree stat hess cast node hess
+node set leaf vec param tree leafvec
+
+enumer split wxq sketch summari grad
+wxq sketch summari grad
+wxq sketch summari hess
+sk stat node
+
+split entri best
+hess size
+root gain node calc gain param
+vector fsplit
+size grad size
+fsplit push back grad valu
+
+size grad size
+fsplit push back grad valu
+
+size hess size
+fsplit push back hess valu
+
+sort fsplit fsplit
+fsplit resiz uniqu fsplit fsplit fsplit
+featur
+sk stat feat
+feat grad grad grad size rmax
+feat grad grad grad size rmax
+feat hess hess hess size rmax
+size ipo ineg ihess
+size fsplit size
+wxq sketch entri grad queri fsplit ipo
+wxq sketch entri grad queri fsplit ineg
+wxq sketch entri hess hess queri fsplit ihess
+sk stat
+grad rmin rmax wmin
+grad rmin rmax wmin
+hess hess rmin hess rmax hess wmin
+set substract node
+forward
+hess param child weight
+hess param child weight
+loss calc gain param calc gain param root gain
+best updat cast loss fsplit
+
+backward
+set substract feat
+set substract node
+hess param child weight
+hess param child weight
+loss calc gain param calc gain param root gain
+best updat cast loss fsplit
+
+
+
+includ
+sk stat feat
+set substract node
+hess param child weight
+hess param child weight
+fsplit back
+loss calc gain param calc gain param root gain
+best updat cast loss fabsf
+
+
+
+
+thread temp
+use hold tempor sketch
+vector vector sketch entri thread sketch
+use hold statist
+vector vector sk stat thread stat
+node statist
+vector sk stat node stat
+summari
+vector wxq sketch summari contain summari
+reduc summari
+rabit reduc sk stat sk stat reduc stat reduc
+reduc summari
+rabit serial reduc wxq sketch summari contain sketch reduc
+node featur sketch
+vector common wx quantil sketch sketch
+
+
+xgboost regist tree updat sketch maker grow skmaker
+describ approxim sketch maker
+bodi
+sketch maker
+
+tree
+xgboost
+
+copyright 2015 contributor
+file tree updat
+brief registri tree updat
+
+xgboost tree updat
+dmlc registri
+
+dmlc
+dmlc registri enabl xgboost tree updat reg
+dmlc
+
+xgboost
+
+tree updat tree updat creat name
+dmlc registri xgboost tree updat reg find name
+nullptr
+fatal unknown tree updat name
+
+bodi
+
+
+xgboost
+
+xgboost
+tree
+list file forc link link
+dmlc registri link updat colmak
+dmlc registri link updat skmaker
+dmlc registri link updat refresh
+dmlc registri link updat prune
+dmlc registri link updat histmak
+dmlc registri link updat sync
+tree
+xgboost
+
+copyright 2014 contributor
+file updat histmak
+brief histogram count construct tree
+author tianqi chen
+
+xgboost
+xgboost tree updat
+vector
+algorithm
+common sync
+common quantil
+common group
+updat basemak
+
+xgboost
+tree
+
+dmlc registri file updat histmak
+
+t stat
+hist maker base maker
+
+updat vector gpair gpair
+d matrix fmat
+vector reg tree tree
+t stat check info fmat info
+rescal learn rate accord size tree
+param learn rate
+param learn rate tree size
+build tree
+size tree size
+updat gpair fmat tree
+
+param learn rate
+
+
+
+brief singl histogram
+hist unit
+brief cut point histogram contain maximum point
+
+brief content statist
+t stat
+brief size histogram
+size
+
+hist unit
+
+hist unit t stat size
+size size
+brief histogram
+
+vector gpair gpair
+meta info info
+ridx
+upper bound size
+check size insert size
+check size
+gpair info ridx
+
+
+brief histogram differ index
+hist set
+brief index pointer histunit
+rptr
+brief cut point histunit
+
+brief differ hist unit
+vector t stat
+brief
+hist unit size
+hist unit rptr
+rptr
+rptr rptr
+
+
+thread workspac
+thread w space
+brief actual unit pointer
+vector rptr
+brief field
+vector
+thread histset
+vector hist set hset
+initi hist
+init train param param nthread
+hset resiz nthread
+cleanup statist
+nthread
+size hset size
+hset clear
+
+hset rptr dmlc begin ptr rptr
+hset dmlc begin ptr
+hset resiz size t stat param
+
+
+aggreg statist hset
+aggreg
+nsize cast size
+pragma parallel schedul
+nsize
+size hset size
+hset hset
+
+
+
+brief clear workspac
+clear
+clear rptr resiz rptr
+
+brief total size
+size size
+rptr size
+
+
+workspac thread
+thread w space wspace
+reduc histogram
+rabit reduc t stat t stat reduc histr
+work featur
+vector fwork
+updat implement
+updat vector gpair gpair
+d matrix fmat
+reg tree tree
+init data gpair fmat tree
+init work set fmat tree fwork
+mark root node fresh
+tree param root
+tree leaf
+
+
+depth depth param depth depth
+reset propos candid split
+reset po and propos gpair fmat fwork tree
+creat histogram
+creat hist gpair fmat fwork tree
+find split base histogram statist
+find split depth gpair fmat fwork tree
+reset posit split
+reset posit after split fmat tree
+updat queue expand tree
+noth left expand
+qexpand size
+
+size qexpand size
+qexpand
+tree leaf tree stat weight param learn rate
+
+
+job
+reset posit posit latest leaf
+propos candid cut wspace rptr wspace correctli
+reset po and propos vector gpair gpair
+d matrix fmat
+vector fset
+reg tree tree
+initi current work featur round
+init work set d matrix fmat
+reg tree tree
+vector fset
+fset resiz tree param featur
+size fset size
+fset cast
+
+
+reset posit split must depend implement
+reset posit after split d matrix fmat
+reg tree tree
+
+creat hist vector gpair gpair
+d matrix fmat
+vector fset
+reg tree tree
+
+
+enumer split hist unit hist
+t stat node
+
+split entri best
+t stat left
+hist size
+
+root gain node calc gain param
+t stat param param
+hist size
+hist
+hess param child weight
+set substract node
+hess param child weight
+loss calc gain param calc gain param root gain
+best updat cast loss hist
+left
+
+
+
+
+clear
+hist size
+hist
+hess param child weight
+set substract node
+hess param child weight
+loss calc gain param calc gain param root gain
+best updat cast loss hist
+left
+
+
+
+
+
+find split depth
+vector gpair gpair
+d matrix fmat
+vector fset
+reg tree tree
+size featur fset size
+best split condit node
+vector split entri qexpand size
+vector t stat left qexpand size
+nexpand cast qexpand size
+pragma parallel schedul dynam
+nexpand
+qexpand
+check node2workindex cast
+split entri best
+t stat node wspace hset featur featur
+size fset size
+enumer split wspace hset featur
+node fset best left
+
+
+best result synchron solut
+nexpand
+qexpand
+split entri best
+t stat node wspace hset featur featur
+set stat tree node
+valu
+tree stat loss best loss
+know solut snode split
+best loss
+tree add child
+tree split best split index
+best split valu best left
+mark right child indic fresh leaf
+tree tree cleft leaf
+tree tree cright leaf
+right side
+t stat right
+right set substract node left
+set stat tree tree cleft left
+set stat tree tree cright right
+
+tree leaf tree stat weight param learn rate
+
+
+
+
+set stat reg tree tree t stat node
+tree stat weight cast node calc weight param
+tree stat hess cast node hess
+node set leaf vec param tree leafvec
+
+
+
+t stat
+cq hist maker hist maker t stat
+
+cq hist maker cach dmatrix nullptr
+
+
+
+hist entri
+hist maker t stat hist unit hist
+istart
+
+brief histogram
+linear scan start istart
+
+
+vector gpair gpair
+meta info info
+ridx
+istart hist size hist istart istart
+check istart hist size
+hist istart gpair info ridx
+
+
+brief histogram
+linear scan start istart
+
+
+gpair gstat
+hist istart
+hist istart gstat
+
+istart hist size hist istart istart
+check istart hist size
+hist istart gstat
+
+
+
+sketch use
+common wx quantil sketch wxq sketch
+initi work tree
+init work set d matrix fmat
+reg tree tree
+vector fset
+fmat cach dmatrix
+feat helper init by col fmat tree
+cach dmatrix fmat
+
+feat helper sync info
+feat helper sampl col param colsampl bytre fset
+
+code creat histogram
+creat hist vector gpair gpair
+d matrix fmat
+vector fset
+reg tree tree
+meta info info fmat info
+fill revers
+feat2workindex resiz tree param featur
+fill feat2workindex feat2workindex
+size fset size
+feat2workindex fset cast
+
+start work
+wspace init param
+lazi evalu allreduc
+gain speedup recoveri
+cplusplu 201103 l
+lazi hist
+
+
+thread hist resiz nthread
+start accumul statist
+dmlc data iter col batch iter fmat col iter fset
+iter befor first
+iter next
+col batch batch iter valu
+start enumer
+nsize cast batch size
+pragma parallel schedul dynam
+nsize
+offset feat2workindex batch index
+offset
+updat hist col gpair batch info tree
+fset offset
+thread hist thread
+
+
+
+updat node statist
+get node stat gpair fmat tree
+thread stat node stat
+size qexpand size
+qexpand
+node2workindex
+wspace hset fset size fset size
+node stat
+
+
+sync histogram
+lazi evalu allreduc
+cplusplu 201103 l
+histr allreduc dmlc begin ptr wspace hset
+wspace hset size lazi hist
+
+histr allreduc dmlc begin ptr wspace hset
+wspace hset size
+
+
+reset posit after split d matrix fmat
+reg tree tree
+get split set qexpand tree fsplit
+
+reset po and propos vector gpair gpair
+d matrix fmat
+vector fset
+reg tree tree
+meta info info fmat info
+fill revers
+feat2workindex resiz tree param featur
+fill feat2workindex feat2workindex
+work clear
+size fset size
+feat helper type fset
+feat2workindex fset cast work size
+work push back fset
+
+feat2workindex fset
+
+
+size work size work size
+
+sketch resiz qexpand size work size
+size sketch size
+sketch init info param sketch
+
+intiti summari
+summari resiz sketch size
+setup maximum size
+size param sketch size
+size sketch size
+summari reserv size
+
+
+smmari
+thread sketch resiz nthread
+
+twopass real split column iter
+set default postion fmat tree
+work insert work fsplit fsplit
+sort work work
+work resiz uniqu work work work
+
+start accumul statist
+dmlc data iter col batch iter fmat col iter work
+iter befor first
+iter next
+col batch batch iter valu
+twopass real split column iter
+correct non default posit by batch batch fsplit tree
+
+start enumer
+nsize cast batch size
+pragma parallel schedul dynam
+nsize
+offset feat2workindex batch index
+offset
+updat sketch col gpair batch tree
+work size offset
+thread sketch thread
+
+
+
+size sketch size
+common wx quantil sketch summari contain
+sketch get summari
+summari set prune size
+
+check summari size sketch size
+
+summari size
+size nbyte wxq sketch summari contain calc mem cost size
+sreduc allreduc dmlc begin ptr summari nbyte summari size
+
+result sketch setup
+wspace clear
+wspace rptr clear
+wspace rptr push back
+size qexpand size
+size fset size
+offset feat2workindex fset
+offset
+wxq sketch summari summari work size offset
+size size
+valu
+wspace back
+wspace push back
+
+
+push valu greater anyth
+size
+size valu
+must bigger last valu scale
+last fab
+wspace push back last
+
+wspace rptr push back cast wspace size
+
+check offset
+feat helper max valu fset
+wspace push back fab
+wspace rptr push back cast wspace size
+
+
+reserv last valu statist
+wspace push back
+wspace rptr push back cast wspace size
+
+check wspace rptr size
+fset size qexpand size
+
+
+updat hist col vector gpair gpair
+col batch inst
+meta info info
+reg tree tree
+vector fset
+offset
+vector hist entri temp
+length
+initi sbuilder
+vector hist entri hbuilder temp
+hbuilder resiz tree param node
+size qexpand size
+qexpand
+node2workindex
+hbuilder istart
+hbuilder hist wspace hset offset fset size
+
+t stat k simpl stat param cach
+k buffer
+align length length k buffer k buffer
+posit k buffer
+gpair gpair k buffer
+align length k buffer
+k buffer
+ridx index
+posit posit ridx
+gpair gpair ridx
+
+k buffer
+posit
+
+hbuilder fvalu gpair
+
+
+
+align length length
+ridx index
+posit ridx
+
+hbuilder fvalu gpair ridx
+
+
+
+length
+ridx index
+posit ridx
+
+hbuilder fvalu gpair info ridx
+
+
+
+
+updat sketch col vector gpair gpair
+col batch inst
+reg tree tree
+size work size
+offset
+vector base maker sketch entri temp
+length
+initi sbuilder
+vector base maker sketch entri sbuilder temp
+sbuilder resiz tree param node
+size qexpand size
+qexpand
+node2workindex
+sbuilder total
+sbuilder sketch sketch work size offset
+
+
+first weight todo optim skip first
+length
+ridx index
+posit ridx
+
+sbuilder total gpair ridx hess
+
+
+valu need second
+fvalu length fvalu
+size qexpand size
+qexpand
+sbuilder sketch push fvalu cast sbuilder total
+
+
+
+scan
+size param sketch size
+size qexpand size
+qexpand
+sbuilder init size
+
+second build sketch
+t stat k simpl stat param cach
+k buffer
+align length length k buffer k buffer
+posit k buffer
+hess k buffer
+align length k buffer
+k buffer
+ridx index
+posit posit ridx
+hess gpair ridx hess
+
+k buffer
+posit
+
+sbuilder push fvalu hess size
+
+
+
+align length length
+ridx index
+posit ridx
+
+sbuilder push fvalu gpair ridx hess size
+
+
+
+length
+ridx index
+posit ridx
+
+sbuilder push fvalu gpair ridx hess size
+
+
+
+size qexpand size
+qexpand
+sbuilder final size
+
+
+cach dmatrix initi featur
+d matrix cach dmatrix
+featur helper
+base maker f meta helper feat helper
+temp space featur work index
+vector feat2workindex
+index fset current work
+vector work
+index split candid
+vector fsplit
+thread temp
+vector vector base maker sketch entri thread sketch
+use hold statist
+vector vector t stat thread stat
+use hold start pointer
+vector vector hist entri thread hist
+node statist
+vector t stat node stat
+summari
+vector wxq sketch summari contain summari
+reduc summari
+rabit serial reduc wxq sketch summari contain sreduc
+node featur sketch
+vector common wx quantil sketch sketch
+
+
+propos
+t stat
+global propos hist maker cq hist maker t stat
+
+reset po and propos vector gpair gpair
+d matrix fmat
+vector fset
+reg tree tree
+qexpand size
+cach rptr clear
+cach clear
+
+cach rptr size
+check qexpand size
+cq hist maker t stat reset po and propos gpair fmat fset tree
+cach rptr wspace rptr
+cach wspace
+
+wspace clear
+wspace rptr clear
+wspace rptr push back
+size qexpand size
+size cach rptr size
+wspace rptr push back
+wspace rptr back cach rptr cach rptr
+
+wspace insert wspace cach cach
+
+check wspace rptr size
+fset size qexpand size
+check wspace rptr back wspace size
+
+
+
+code creat histogram
+creat hist vector gpair gpair
+d matrix fmat
+vector fset
+reg tree tree
+meta info info fmat info
+fill revers
+feat2workindex resiz tree param featur
+work fset
+fill feat2workindex feat2workindex
+size fset size
+feat2workindex fset cast
+
+start work
+wspace init param
+gain speedup recoveri
+
+thread hist resiz nthread
+
+twopass real split column iter
+set default postion fmat tree
+work insert work fsplit fsplit
+sort work work
+work resiz
+uniqu work work work
+
+start accumul statist
+dmlc data iter col batch iter fmat col iter work
+iter befor first
+iter next
+col batch batch iter valu
+twopass real split column iter
+correct non default posit by batch batch fsplit tree
+
+start enumer
+nsize cast batch size
+pragma parallel schedul dynam
+nsize
+offset feat2workindex batch index
+offset
+updat hist col gpair batch info tree
+fset offset
+thread hist thread
+
+
+
+
+updat node statist
+get node stat gpair fmat tree
+thread stat node stat
+size qexpand size
+qexpand
+node2workindex
+wspace hset fset size fset size
+node stat
+
+
+histr allreduc dmlc begin ptr wspace hset
+wspace hset size
+
+
+cach unit pointer
+vector cach rptr
+cach valu
+vector cach
+
+
+
+t stat
+quantil hist maker hist maker t stat
+
+common wx quantil sketch wxq sketch
+reset po and propos vector gpair gpair
+d matrix fmat
+vector fset
+reg tree tree
+meta info info fmat info
+initi structur
+nthread base maker nthread
+sketch resiz qexpand size tree param featur
+size sketch size
+sketch init info param sketch
+
+start accumul statist
+dmlc data iter row batch iter fmat row iter
+iter befor first
+iter next
+row batch batch iter valu
+parallel convert column major format
+common parallel group builder spars batch entri
+builder thread
+builder init budget tree param featur nthread
+
+nbatch cast batch size
+pragma parallel schedul
+nbatch
+row batch inst inst batch
+ridx cast batch rowid
+posit ridx
+
+tree leaf
+posit ridx hist maker t stat next level inst tree
+
+node2workindex
+posit ridx
+
+inst length
+builder add budget inst index thread
+
+
+
+
+builder init storag
+pragma parallel schedul
+nbatch
+row batch inst inst batch
+ridx cast batch rowid
+posit ridx
+
+inst length
+builder push inst index
+spars batch entri inst fvalu
+thread
+
+
+
+start put thing sketch
+nfeat size
+pragma parallel schedul dynam
+nfeat
+size
+spars batch entri
+node2workindex index
+sketch tree param featur push fvalu gpair index hess
+
+
+
+setup maximum size
+size param sketch size
+synchron sketch
+summari resiz sketch size
+size sketch size
+common w quantil sketch summari contain
+sketch get summari
+summari reserv size
+summari set prune size
+
+
+size nbyte wxq sketch summari contain calc mem cost size
+sreduc allreduc dmlc begin ptr summari nbyte summari size
+result sketch setup
+wspace clear
+wspace rptr clear
+wspace rptr push back
+size qexpand size
+tree param featur
+wxq sketch summari summari tree param featur
+size size
+valu
+wspace back
+wspace push back
+
+
+push valu greater anyth
+size
+size valu
+must bigger last valu scale
+last fab
+wspace push back last
+
+wspace rptr push back wspace size
+
+reserv last valu statist
+wspace push back
+wspace rptr push back wspace size
+
+check wspace rptr size
+tree param featur qexpand size
+
+
+
+summari
+vector wxq sketch summari contain summari
+reduc summari
+rabit serial reduc wxq sketch summari contain sreduc
+local temp column structur
+vector size
+local storag column
+vector spars batch entri
+vector vector size thread
+node featur sketch
+vector common w quantil sketch sketch
+
+
+xgboost regist tree updat local hist maker grow local histmak
+describ tree use approxim histogram construct
+bodi
+cq hist maker grad stat
+
+
+xgboost regist tree updat global hist maker grow histmak
+describ tree use approxim propos histogram construct
+bodi
+global propos hist maker grad stat
+
+
+xgboost regist tree updat hist maker grow histmak
+describ tree use approxim histogram construct
+bodi
+global propos hist maker grad stat
+
+tree
+xgboost
+
+copyright 2014 contributor
+file updat prune
+brief prune tree given statist
+author tianqi chen
+
+
+xgboost tree updat
+
+memori
+param
+common sync
+common
+
+xgboost
+tree
+
+dmlc registri file updat prune
+
+brief pruner prune tree grow finish
+tree pruner tree updat
+
+tree pruner
+syncher reset tree updat creat sync
+
+train paramet
+init vector pair arg
+param init allow unknown arg
+syncher init arg
+
+updat tree prune
+updat vector gpair gpair
+d matrix fmat
+vector reg tree tree
+rescal learn rate accord size tree
+param learn rate
+param learn rate tree size
+size tree size
+do prune tree
+
+param learn rate
+syncher updat gpair fmat tree
+
+
+
+prune current leaf
+tri prune leaf reg tree tree depth nprune nolint
+tree root nprune
+tree parent
+reg tree node stat tree stat
+leaf child
+leaf child param need prune loss depth
+need prune
+tree chang to leaf param learn rate weight
+tail recurs
+tri prune leaf tree depth nprune
+
+nprune
+
+
+brief prune tree
+do prune reg tree tree nolint
+nprune
+initi auxiliari statist
+tree param node
+tree stat leaf child
+
+tree param node
+tree leaf
+nprune tri prune leaf tree tree get depth nprune
+
+
+param silent
+info tree prune tree param root root
+tree extra node extra node nprune
+prune node depth tree max depth
+
+
+
+
+synchron
+uniqu tree updat syncher
+train paramet
+train param param
+
+
+xgboost regist tree updat tree pruner prune
+describ pruner prune tree accord statist
+bodi
+tree pruner
+
+tree
+xgboost
+
+copyright 2015 contributor
+file
+
+xgboost
+xgboost log
+dmlc registri
+cstring
+spars batch page
+simpl dmatrix
+simpl sourc
+common common
+common
+
+dmlc enabl thread
+spars page sourc
+spars page dmatrix
+
+
+dmlc
+dmlc registri enabl xgboost spars page format reg
+dmlc
+
+xgboost
+implement function
+meta info clear
+nonzero
+label clear
+root index clear
+group clear
+weight clear
+margin clear
+
+
+meta info save binari dmlc stream
+version k version
+write version version
+write
+write
+write nonzero nonzero
+write label
+write group
+write weight
+write root index
+write margin
+
+
+meta info load binari dmlc stream
+version
+check read version version version meta info invalid version
+check version k version meta info invalid format
+check read meta info invalid format
+check read meta info invalid format
+check read nonzero nonzero nonzero
+meta info invalid format
+check read label meta info invalid format
+check read group meta info invalid format
+check read weight meta info invalid format
+check read root index meta info invalid format
+check read margin meta info invalid format
+
+
+load group inform file exist
+meta tri load group fname
+vector group
+uniqu dmlc stream dmlc stream creat fname
+nullptr
+dmlc istream
+group clear
+group push back
+nline
+nline
+group push back group back nline
+
+
+
+
+load weight inform file exist
+meta tri load float info fname
+vector
+uniqu dmlc stream dmlc stream creat fname
+nullptr
+dmlc istream
+clear
+valu
+valu
+push back valu
+
+
+
+
+macro dispatch accord specifi pointer type
+defin dispatch const dtype cast proc
+dtype
+k float32
+cast reinterpret cast proc
+
+k doubl
+cast reinterpret cast proc
+
+k u int32
+uint32 cast reinterpret cast uint32 proc
+
+k u int64
+uint64 cast reinterpret cast uint64 proc
+
+fatal unknown dtype
+
+
+
+meta info set info dptr data type dtype size
+strcmp root index
+root index resiz
+dispatch const dtype dptr cast dptr
+copi cast dptr cast dptr root index
+strcmp label
+label resiz
+dispatch const dtype dptr cast dptr
+copi cast dptr cast dptr label
+strcmp weight
+weight resiz
+dispatch const dtype dptr cast dptr
+copi cast dptr cast dptr weight
+strcmp margin
+margin resiz
+dispatch const dtype dptr cast dptr
+copi cast dptr cast dptr margin
+strcmp group
+group resiz
+dispatch const dtype dptr cast dptr
+copi cast dptr cast dptr group
+group
+size group size
+group group group
+
+
+
+
+
+d matrix d matrix load
+silent
+load split
+file format
+fname cach file
+size find
+npo
+cach file substr length
+fname substr
+check cach file find npo
+onli allow file path cach file specif
+load split
+ostringstream
+vector cach shard common split cach file
+size cach shard size
+size cach shard rfind
+npo
+cach shard
+rabit get rank
+rabit get world size
+
+cach shard substr
+rabit get rank
+rabit get world size
+cach shard substr cach shard length
+
+cach shard size
+
+cach file
+
+
+fname
+
+partid npart
+load split
+partid rabit get rank
+npart rabit get world size
+
+test option load part
+npart dmlc get env xgboost test npart
+
+
+npart
+consol load part partid
+npart part
+
+legaci handl binari load
+file format npart
+magic
+uniqu dmlc stream dmlc stream creat fname
+nullptr
+common peekabl in stream
+peek read magic magic magic
+magic simpl csr sourc k magic
+uniqu simpl csr sourc sourc simpl csr sourc
+sourc load binari
+d matrix dmat d matrix creat move sourc cach file
+silent
+consol dmat info dmat info matrix
+dmat info nonzero entri load
+
+dmat
+
+
+
+
+ftype file format
+file format ftype libsvm
+uniqu dmlc parser uint32 parser
+dmlc parser uint32 creat fname partid npart file format
+d matrix dmat d matrix creat parser cach file
+silent
+consol dmat info dmat info matrix
+dmat info nonzero entri load
+
+backward compatibl code
+load split
+meta info info dmat info
+meta tri load group fname group info group silent
+consol info group size
+group load fname group
+
+meta tri load float info fname margin info margin silent
+consol info margin size
+margin load fname margin
+
+
+dmat
+
+
+d matrix d matrix creat dmlc parser uint32 parser
+cach prefix
+cach prefix length
+uniqu simpl csr sourc sourc simpl csr sourc
+sourc copi from parser
+d matrix creat move sourc cach prefix
+
+dmlc enabl thread
+spars page sourc cach exist cach prefix
+spars page sourc creat parser cach prefix
+
+uniqu spars page sourc sourc spars page sourc cach prefix
+d matrix creat move sourc cach prefix
+
+fatal extern memori enabl mingw
+nullptr
+
+
+
+
+d matrix save to local file fname
+simpl csr sourc sourc
+sourc copi from
+uniqu dmlc stream dmlc stream creat fname
+sourc save binari
+
+
+d matrix d matrix creat uniqu data sourc sourc
+cach prefix
+cach prefix length
+simpl d matrix move sourc
+
+dmlc enabl thread
+spars page d matrix move sourc cach prefix
+
+fatal extern memori enabl mingw
+nullptr
+
+
+
+xgboost
+
+xgboost
+
+spars page format spars page format creat name
+dmlc registri xgboost spars page format reg find name
+nullptr
+fatal unknown format name
+
+bodi
+
+
+pair
+spars page format decid format cach prefix
+size cach prefix rfind
+
+npo
+cach prefix substr cach prefix length
+size cpo rfind
+cpo npo
+make pair substr cpo substr cpo length
+
+make pair
+
+
+
+make pair
+
+
+
+list file forc link link
+dmlc registri link spars page format
+
+xgboost
+
+copyright 2015 contributor
+file spars page format
+binari format spars page
+
+xgboost
+dmlc registri
+spars batch page
+
+xgboost
+
+
+dmlc registri file spars page format
+
+spars page raw format spars page format
+
+read spars page page dmlc seek stream
+read page offset
+check page offset size invalid spars page file
+page resiz page offset back
+page size
+check read dmlc begin ptr page
+page size spars batch entri
+page size spars batch entri
+invalid spars page file
+
+
+
+
+read spars page page
+dmlc seek stream
+vector sort index
+read disk offset
+setup offset
+page offset clear
+page offset push back
+size sort index size
+sort index
+check disk offset size
+size size disk offset disk offset
+page offset push back page offset back size
+
+page resiz page offset back
+read
+size tell
+size curr offset
+size sort index size
+sort index
+disk offset curr offset
+check disk offset curr offset
+seek disk offset spars batch entri
+curr offset disk offset
+
+size size read
+sort index size
+disk offset sort index disk offset size read
+size read page offset page offset
+
+
+
+
+
+size read
+check read dmlc begin ptr page page offset
+size read spars batch entri
+size read spars batch entri
+invalid spars page file
+curr offset size read
+
+
+
+seek record
+curr offset disk offset back
+seek disk offset back spars batch entri
+
+
+
+
+write spars page page dmlc stream
+check page offset size page offset
+check page offset back page size
+write page offset
+page size
+write dmlc begin ptr page page size spars batch entri
+
+
+
+
+brief extern memori column offset
+vector size disk offset
+
+
+xgboost regist spars page format
+describ binari format
+bodi
+spars page raw format
+
+
+xgboost
+
+copyright 2015 contributor
+file simpl sourc
+
+dmlc
+xgboost log
+simpl sourc
+
+xgboost
+
+
+simpl csr sourc clear
+clear
+resiz
+
+info clear
+
+
+simpl csr sourc copi from d matrix
+clear
+info info
+dmlc data iter row batch iter row iter
+iter befor first
+iter next
+row batch batch iter valu
+size batch size
+row batch inst inst batch
+insert inst inst inst length
+push back back inst length
+
+
+
+
+simpl csr sourc copi from dmlc parser uint32 parser
+clear
+parser next
+dmlc row block uint32 batch parser valu
+batch label nullptr
+info label insert info label batch label batch label batch size
+
+batch weight nullptr
+info weight insert info weight batch weight batch weight batch size
+
+check batch index nullptr
+updat inform
+info batch size
+copi
+size batch offset batch offset batch size
+uint32 index batch index
+fvalu batch valu nullptr batch valu
+push back spars batch entri index fvalu
+info info
+cast uint64 index
+
+size size
+size batch size
+push back batch offset batch offset
+
+
+info nonzero cast uint64 size
+
+
+simpl csr sourc load binari dmlc stream
+tmagic
+check read tmagic tmagic tmagic invalid input file format
+check tmagic k magic invalid format magic mismatch
+info load binari
+read
+read
+
+
+simpl csr sourc save binari dmlc stream
+tmagic k magic
+write tmagic tmagic
+info save binari
+write
+write
+
+
+simpl csr sourc befor first
+first
+
+
+simpl csr sourc next
+first
+first
+batch size size
+batch rowid
+batch dmlc begin ptr
+batch dmlc begin ptr
+
+
+
+row batch simpl csr sourc valu
+batch
+
+
+
+xgboost
+
+copyright 2015 contributor
+file spars batch writer
+param writer spars page
+
+xgboost
+xgboost log
+spars batch page
+
+dmlc enabl thread
+xgboost
+
+
+spars page writer writer
+vector name shard
+vector format shard
+size extra buffer capac
+free buffer extra buffer capac name shard size
+clock
+worker name shard size
+qworker name shard size
+check name shard size format shard size
+start writer thread
+size name shard size
+name shard name shard
+format shard format shard
+wqueue qworker
+worker reset thread
+name shard format shard wqueue
+uniqu dmlc stream
+dmlc stream creat name shard
+uniqu spars page format
+spars page format creat format shard
+write format shard
+uniqu spars page page
+wqueue page
+write page
+qrecycl push move page
+
+reset nullptr
+consol spars page writer finish write name shard
+
+
+
+
+spars page writer writer
+queue qworker
+queue signal for kill
+
+thread worker
+thread join
+
+
+
+spars page writer push write uniqu spars page page
+qworker clock push move page
+clock clock worker size
+
+
+spars page writer alloc uniqu spars page page
+check page nullptr
+free buffer
+page reset spars page
+free buffer
+
+check qrecycl page
+
+
+
+xgboost
+
+dmlc enabl thread
+
+copyright 2014 contributor
+file simpl dmatrix
+brief input structur gradient boost
+author tianqi chen
+
+xgboost
+limit
+algorithm
+vector
+simpl dmatrix
+common random
+common group
+
+xgboost
+
+
+simpl d matrix col batch iter next
+cpage size
+
+spars page pcol cpage
+batch size index size
+resiz index size spars batch inst
+size size
+ridx index
+spars batch inst
+dmlc begin ptr pcol pcol offset ridx
+cast pcol offset ridx pcol offset ridx
+
+batch index dmlc begin ptr index
+batch dmlc begin ptr
+
+
+
+dmlc data iter col batch simpl d matrix col iter
+size ncol info
+iter index resiz ncol
+size ncol
+iter index cast
+
+iter befor first
+iter
+
+
+dmlc data iter col batch simpl d matrix col iter vector fset
+size ncol info
+iter index resiz
+size fset size
+fset ncol iter index push back fset
+
+iter befor first
+iter
+
+
+simpl d matrix init col access vector enabl
+pkeep
+size perbatch
+have col access
+
+iter cpage clear
+info perbatch
+uniqu spars page page spars page
+make one batch enabl pkeep page
+iter cpage push back move page
+
+make mani batch enabl pkeep perbatch
+
+setup size
+size resiz info
+fill size size
+size iter cpage size
+spars page pcol iter cpage
+size pcol size
+size pcol offset pcol offset
+
+
+
+
+make batch iter
+simpl d matrix make one batch vector enabl
+pkeep
+spars page pcol
+clear rowset
+buffer rowset clear
+
+nthread
+vector bmap
+pragma parallel
+
+nthread thread
+
+
+pcol clear
+common parallel group builder spars batch entri
+builder pcol offset pcol
+builder init budget info nthread
+start work
+dmlc data iter row batch iter row iter
+iter befor first
+iter next
+row batch batch iter valu
+bmap resiz bmap size batch size
+bernoulli distribut coin flip pkeep
+common global random
+
+batch size cast batch size nolint
+batch size nolint
+ridx cast batch rowid
+pkeep coin flip
+buffer rowset push back ridx
+
+bmap
+
+
+pragma parallel schedul
+batch size nolint
+thread
+ridx cast batch rowid
+bmap ridx
+row batch inst inst batch
+inst length
+enabl inst index
+builder add budget inst index
+
+
+
+
+
+builder init storag
+
+iter befor first
+iter next
+row batch batch iter valu
+pragma parallel schedul
+cast batch size nolint
+thread
+ridx cast batch rowid
+bmap ridx
+row batch inst inst batch
+inst length
+enabl inst index
+builder push inst index
+spars batch entri batch rowid
+inst fvalu
+
+
+
+
+
+
+check pcol size info
+sort column
+ncol cast pcol size
+pragma parallel schedul dynam thread nthread
+ncol
+pcol offset pcol offset
+sort dmlc begin ptr pcol pcol offset
+dmlc begin ptr pcol pcol offset
+spars batch entri cmp valu
+
+
+
+
+simpl d matrix make mani batch vector enabl
+pkeep
+size perbatch
+size btop
+bernoulli distribut coin flip pkeep
+common global random
+buffer rowset clear
+temp cach
+spars page clear
+start work
+dmlc data iter row batch iter row iter
+iter befor first
+
+iter next
+row batch batch iter valu
+size batch size
+ridx cast batch rowid
+pkeep coin flip
+buffer rowset push back ridx
+push batch
+
+size perbatch
+uniqu spars page page spars page
+make col page get row batch btop enabl page
+iter cpage push back move page
+btop buffer rowset size
+clear
+
+
+
+
+size
+uniqu spars page page spars page
+make col page get row batch btop enabl page
+iter cpage push back move page
+
+
+
+make column page subset rowbatch
+simpl d matrix make col page row batch batch
+size buffer
+vector enabl
+spars page pcol
+nthread
+pragma parallel
+
+nthread thread
+nthread proc
+nthread nthread
+nthread nthread
+
+
+pcol clear
+common parallel group builder spars batch entri
+builder pcol offset pcol
+builder init budget info nthread
+ndata cast batch size
+pragma parallel schedul thread nthread
+ndata
+thread
+row batch inst inst batch
+inst length
+spars batch entri inst
+enabl index
+builder add budget index
+
+
+
+builder init storag
+pragma parallel schedul thread nthread
+ndata
+thread
+row batch inst inst batch
+inst length
+spars batch entri inst
+builder push
+index
+spars batch entri buffer rowset buffer fvalu
+
+
+
+check pcol size info
+sort column
+ncol cast pcol size
+pragma parallel schedul dynam thread nthread
+ncol
+pcol offset pcol offset
+sort dmlc begin ptr pcol pcol offset
+dmlc begin ptr pcol pcol offset
+spars batch entri cmp valu
+
+
+
+
+simpl d matrix singl col block
+iter cpage size
+
+
+xgboost
+
+copyright 2015 contributor
+file spars page sourc
+
+dmlc
+dmlc timer
+xgboost log
+memori
+
+dmlc enabl thread
+spars page sourc
+common common
+
+xgboost
+
+
+spars page sourc spars page sourc cach info
+rowid page nullptr clock
+read info file
+vector cach shard common split cach info
+check cach shard size
+
+name info cach shard
+uniqu dmlc stream finfo dmlc stream creat name info
+tmagic
+check finfo read tmagic tmagic tmagic
+info load binari finfo
+
+file resiz cach shard size
+format resiz cach shard size
+prefetch resiz cach shard size
+
+read cach file
+size cach shard size
+name cach shard page
+file reset dmlc seek stream creat for read name
+dmlc seek stream file
+format
+check read format invalid page format
+format reset spars page format creat format
+spars page format format
+size fbegin tell
+prefetch reset dmlc thread iter spars page
+prefetch init spars page dptr
+dptr nullptr
+dptr spars page
+
+read dptr
+fbegin seek fbegin
+
+
+
+spars page sourc spars page sourc
+page
+
+
+spars page sourc next
+clock rotat shard
+page nullptr
+size prefetch size
+prefetch clock recycl page
+
+prefetch clock next page
+batch page get row batch rowid
+rowid batch size
+advanc clock
+clock clock prefetch size
+
+
+
+
+
+
+spars page sourc befor first
+rowid
+clock
+prefetch
+befor first
+
+
+
+row batch spars page sourc valu
+batch
+
+
+spars page sourc cach exist cach info
+vector cach shard common split cach info
+check cach shard size
+
+name info cach shard
+uniqu dmlc stream finfo dmlc stream creat name info
+finfo nullptr
+
+prefix cach shard
+name prefix page
+uniqu dmlc stream frow dmlc stream creat name
+frow nullptr
+
+
+
+
+spars page sourc creat dmlc parser uint32
+cach info
+vector cach shard common split cach info
+check cach shard size
+read info file
+name info cach shard
+vector name shard format shard
+prefix cach shard
+name shard push back prefix page
+format shard push back spars page format decid format prefix first
+
+spars page writer writer name shard format shard
+uniqu spars page page
+writer alloc page page clear
+
+meta info info
+size byte write
+tstart dmlc get time
+everi
+k step
+size tick expect k step
+
+next
+dmlc row block uint32 batch valu
+batch label nullptr
+info label insert info label batch label batch label batch size
+
+batch weight nullptr
+info weight insert info weight batch weight batch weight batch size
+
+info batch size
+info nonzero batch offset batch size batch offset
+size batch offset batch offset batch size
+uint32 index batch index
+info info
+cast uint64 index
+
+page push batch
+page mem cost byte k page size
+byte write page mem cost byte
+writer push write move page
+writer alloc page
+page clear
+
+tdiff dmlc get time tstart
+tdiff tick expect
+consol write page cach info
+byte write 20 ul tdiff
+byte write 20 ul written
+tick expect k step
+
+
+
+
+page size
+writer push write move page
+
+
+uniqu dmlc stream
+dmlc stream creat name info
+tmagic k magic
+write tmagic tmagic
+info save binari
+consol spars page sourc finish write name info
+
+
+spars page sourc creat d matrix
+cach info
+vector cach shard common split cach info
+check cach shard size
+read info file
+name info cach shard
+vector name shard format shard
+prefix cach shard
+name shard push back prefix page
+format shard push back spars page format decid format prefix first
+
+spars page writer writer name shard format shard
+uniqu spars page page
+writer alloc page page clear
+
+meta info info
+size byte write
+tstart dmlc get time
+dmlc data iter row batch iter row iter
+
+iter next
+page push iter valu
+page mem cost byte k page size
+byte write page mem cost byte
+writer push write move page
+writer alloc page
+page clear
+tdiff dmlc get time tstart
+consol write cach info
+byte write 20 ul tdiff
+byte write 20 ul written
+
+
+
+page size
+writer push write move page
+
+
+uniqu dmlc stream
+dmlc stream creat name info
+tmagic k magic
+write tmagic tmagic
+info save binari
+consol spars page sourc finish write name info
+
+
+
+xgboost
+
+
+copyright 2014 contributor
+file spars page dmatrix
+brief extern memori version page iter
+author tianqi chen
+
+dmlc
+dmlc timer
+xgboost log
+memori
+
+dmlc enabl thread
+spars page dmatrix
+common random
+common common
+common group
+
+xgboost
+
+
+spars page d matrix col page iter col page iter
+vector uniqu dmlc seek stream file
+page nullptr clock file move file
+load
+format resiz file size
+prefetch resiz file size
+
+size file size
+dmlc seek stream file
+format
+check read format invalid page format
+format reset spars page format creat format
+spars page format format
+size fbegin tell
+prefetch reset dmlc thread iter spars page
+prefetch init spars page dptr
+dptr nullptr
+dptr spars page
+
+load
+read dptr
+
+read dptr index
+
+fbegin
+seek fbegin
+index index
+load load
+
+
+
+
+spars page d matrix col page iter col page iter
+page
+
+
+spars page d matrix col page iter next
+clock rotat shard
+page nullptr
+size prefetch size
+prefetch clock recycl page
+
+prefetch clock next page
+index dmlc begin ptr index
+resiz page offset size spars batch inst nullptr
+size size
+spars batch inst
+dmlc begin ptr page page offset
+cast page offset page offset
+
+dmlc begin ptr
+size size
+advanc clock
+clock clock prefetch size
+
+
+
+
+
+
+spars page d matrix col page iter befor first
+clock
+prefetch
+befor first
+
+
+
+spars page d matrix col page iter init vector index
+load
+index index
+load load
+sort index index
+befor first
+
+
+dmlc data iter col batch spars page d matrix col iter
+check iter nullptr
+vector index
+size ncol info
+size ncol
+index push back cast
+
+iter init index
+iter
+
+
+dmlc data iter col batch spars page d matrix
+col iter vector fset
+check iter nullptr
+vector index
+size ncol info
+size fset size
+fset ncol
+index push back fset
+
+
+iter init index
+iter
+
+
+
+spars page d matrix tri init col data
+load meta
+vector cach shard common split cach info
+
+meta name cach shard meta
+uniqu dmlc stream fmeta
+dmlc stream creat meta name
+fmeta nullptr
+check fmeta read buffer rowset invalid meta file
+check fmeta read size invalid meta file
+
+load real
+vector uniqu dmlc seek stream file
+prefix cach shard
+name prefix page
+uniqu dmlc seek stream fdata
+dmlc seek stream creat for read name
+fdata nullptr
+file push back move fdata
+
+iter reset col page iter move file
+
+
+
+spars page d matrix init col access vector enabl
+pkeep
+size perbatch
+have col access
+tri init col data
+
+meta info info info
+perbatch numer limit size
+perbatch k max row per batch
+
+buffer rowset clear
+size resiz info
+fill size size
+dmlc data iter row batch iter row iter
+bernoulli distribut coin flip pkeep
+size batch batch
+spars page
+common global random
+
+creat page
+make batch
+spars page prow
+size
+spars page pcol
+pcol clear
+pcol index buffer rowset
+nthread
+pragma parallel
+
+nthread thread
+nthread nthread proc
+
+common parallel group builder spars batch entri
+builder pcol offset pcol
+builder init budget info nthread
+ndata cast prow size
+pragma parallel schedul thread nthread
+ndata
+thread
+size prow offset prow offset
+spars batch entri prow
+enabl index
+builder add budget index
+
+
+
+builder init storag
+pragma parallel schedul thread nthread
+ndata
+thread
+size prow offset prow offset
+spars batch entri prow
+builder push index
+spars batch entri buffer rowset fvalu
+
+
+
+check pcol size info
+sort column
+ncol cast pcol size
+pragma parallel schedul dynam thread nthread
+ncol
+pcol offset pcol offset
+sort dmlc begin ptr pcol pcol offset
+dmlc begin ptr pcol pcol offset
+spars batch entri cmp valu
+
+
+
+
+make spars page dptr
+clear
+size btop buffer rowset size
+
+
+batch batch
+row batch batch iter valu
+check batch batch size
+size batch batch
+ridx cast batch rowid
+pkeep coin flip
+buffer rowset push back ridx
+push batch
+
+
+size perbatch
+mem cost byte k page size
+make batch btop dptr
+batch
+
+
+
+batch batch
+
+iter next
+batch
+batch iter valu size
+
+
+size
+make batch btop dptr
+
+
+
+
+
+
+vector cach shard common split cach info
+vector name shard format shard
+prefix cach shard
+name shard push back prefix page
+format shard push back spars page format decid format prefix second
+
+spars page writer writer name shard format shard
+uniqu spars page page
+writer alloc page page clear
+
+tstart dmlc get time
+size byte write
+everi
+k step
+size tick expect k step
+
+make page
+size page size
+size page offset page offset
+
+
+byte write page mem cost byte
+writer push write move page
+writer alloc page
+page clear
+
+tdiff dmlc get time tstart
+tdiff tick expect
+consol write page file cach info
+byte write 20 ul tdiff
+byte write 20 ul writen
+tick expect k step
+
+
+save meta
+meta name cach shard meta
+uniqu dmlc stream
+dmlc stream creat meta name
+write buffer rowset
+write size
+reset nullptr
+initi column
+check tri init col data
+
+
+
+xgboost
+
+
+copyright 2015 contributor
+file rank
+brief definit rank loss
+author tianqi chen kailong chen
+
+dmlc
+xgboost log
+xgboost object
+vector
+algorithm
+util
+common math
+common random
+
+xgboost
+
+
+dmlc registri file rank
+
+lambda rank param dmlc paramet lambda rank param
+pairsampl
+weight
+paramet
+dmlc declar paramet lambda rank param
+dmlc declar field pairsampl lower bound
+describ number pair gener
+dmlc declar field weight lower bound
+describ normal weight valu
+equal effect happen
+
+
+
+object rank
+lambda rank obj obj function
+
+configur vector pair arg
+param init allow unknown arg
+
+get gradient vector pred
+meta info info
+iter
+vector gpair gpair
+check pred size info label size label size predict size match
+vector gpair gpair gpair
+gpair resiz pred size
+quick consist group avail
+vector tgptr tgptr cast info label size
+vector gptr info group size tgptr info group
+check gptr size gptr back info label size
+group structur consist row
+ngroup cast gptr size
+pragma parallel
+
+paral construct random gener
+thread random gener seed thread current iter
+common random engin iter 1111 thread
+
+vector lambda pair pair
+vector list entri
+vector pair
+pragma schedul
+ngroup
+clear pair clear
+gptr gptr
+push back list entri pred info label
+gpair gpair
+
+sort list entri cmp pred
+resiz size
+size
+make pair label
+
+sort common cmp first
+enumer bucket label item grab anoth sampl randomli
+size
+
+size first first
+bucket sampl outsid bucket
+nleft nright cast size
+nleft nright
+nsampl param pairsampl
+nsampl
+
+ridx uniform distribut nleft nright
+ridx nleft
+pair push back lambda pair ridx second second
+
+pair push back lambda pair second ridx second
+
+
+
+
+
+
+weight pair
+get lambda weight pair
+rescal gradient hessian constant weight
+scale param pairsampl
+param weight
+scale param weight gptr gptr
+
+size pair size
+list entri pair index
+list entri pair index
+pair weight scale
+
+common sigmoid pred pred
+
+
+accumul gradient hessian
+gpair rindex grad
+gpair rindex hess
+gpair rindex grad
+gpair rindex hess
+
+
+
+
+default eval metric
+
+
+
+
+brief helper inform
+list entri
+brief predict score
+pred
+brief actual label entri
+label
+brief index matrix
+rindex
+
+list entri pred label rindex
+pred pred label label rindex rindex
+compar predict
+cmp pred list entri list entri
+pred pred
+
+compar label
+cmp label list entri list entri
+label label
+
+
+brief pair rank
+lambda pair
+brief posit index posit
+index
+brief neg index posit
+index
+brief weight fill
+weight
+
+lambda pair index index
+index index index index weight
+
+
+brief weight exist pair
+param sort pred score
+param pair record pair contain pair fill weight
+
+get lambda weight vector list entri sort
+vector lambda pair pair
+
+
+lambda rank param param
+
+
+pairwis rank obj lambda rank obj
+
+get lambda weight vector list entri sort
+vector lambda pair pair
+
+
+beta version ndcg rank
+lambda rank obj ndcg lambda rank obj
+
+get lambda weight vector list entri sort
+vector lambda pair pair
+vector lambda pair pair pair
+idcg
+
+vector label sort size
+size sort size
+label sort label
+
+sort label label greater
+idcg calc dcg label
+
+idcg
+size pair size
+pair weight
+
+
+idcg idcg
+size pair size
+pair index
+pair index
+loginv
+loginv
+label cast sort label
+label cast sort label
+origin
+label loginv label loginv
+chang
+label loginv label loginv
+delta origin chang idcg
+delta delta delta
+pair weight delta
+
+
+
+calc dcg vector label
+sumdcg
+size label size
+cast label
+
+sumdcg cast
+
+
+cast sumdcg
+
+
+
+lambda rank obj map lambda rank obj
+
+map stat
+brief accumul precis
+
+
+brief accumul precis
+assum posit miss
+
+miss
+
+brief accumul precis
+assum posit insert ahead
+
+
+brief accumul posit count
+hit
+map stat
+map stat miss hit
+miss miss hit hit
+
+
+brief obtain delta tri posit instanc index1 index2
+sort tripl
+param sort contain entri inform
+param index1 index2 instanc switch
+param stat vector contain accumul precis posit
+
+get lambda map vector list entri sort
+index1 index2
+vector map stat stat
+vector map stat stat stat
+index1 index2 stat stat size hit
+
+
+index1 index2 swap index1 index2
+origin stat index2
+index1 origin stat index1
+chang
+label1 sort index1 label
+label2 sort index2 label
+label1 label2
+
+label1 label2
+chang stat index2 stat index1
+chang stat index1 hit index1
+
+chang stat index2 miss stat index1 miss
+chang stat index2 hit index2
+
+chang origin stat stat size hit
+
+
+
+
+brief obtain preprocess result calcul delta
+param sort contain entri inform
+param stat vector contain accumul precis posit
+
+get map stat vector list entri sort
+vector map stat
+vector map stat
+resiz sort size
+acc1 acc2 acc3
+size sort size
+sort label
+
+acc1
+acc2
+acc3
+
+map stat acc1 acc2 acc3
+
+
+get lambda weight vector list entri sort
+vector lambda pair pair
+vector lambda pair pair pair
+vector map stat stat
+get map stat sort stat
+size pair size
+pair weight
+get lambda map sort pair index
+pair index stat
+
+
+
+
+oject function
+dmlc regist paramet lambda rank param
+
+xgboost regist object pairwi rank obj rank pairwis
+describ pairwis rank object
+bodi pairwis rank obj
+
+xgboost regist object lambda rank ndcg rank ndcg
+describ lambda rank ndcg object
+bodi lambda rank obj ndcg
+
+xgboost regist object lambda rank obj map rank
+describ lambda rank object
+bodi lambda rank obj map
+
+
+xgboost
+
+copyright 2015 contributor
+file multi
+brief definit multi classif object
+author tianqi chen
+
+dmlc
+dmlc paramet
+xgboost log
+xgboost object
+vector
+algorithm
+util
+common math
+
+xgboost
+
+
+dmlc registri file multiclass
+
+softmax multi class param dmlc paramet softmax multi class param
+
+paramet
+dmlc declar paramet softmax multi class param
+dmlc declar field lower bound
+describ number output multi classif
+
+
+
+softmax multi class obj obj function
+
+softmax multi class obj output prob
+output prob output prob
+
+configur vector pair arg
+param init allow unknown arg
+
+get gradient vector pred
+meta info info
+iter
+vector gpair gpair
+check info label size label cannot
+check pred size cast size param info label size
+softmax multi class obj label size pred size match
+gpair resiz pred size
+nclass param
+ndata cast pred size nclass
+
+label error
+pragma parallel
+
+vector nclass
+pragma schedul
+ndata
+nclass
+pred nclass
+
+common softmax
+label cast info label
+label label nclass
+label error label label
+
+info get weight
+nclass
+
+
+label
+gpair nclass gpair
+
+gpair nclass gpair
+
+
+
+
+check label error label error nclass
+softmax multi class obj label must
+nclass
+found label error label
+
+pred transform vector pred
+transform pred output prob
+
+eval transform vector pred
+transform pred
+
+default eval metric
+merror
+
+
+
+transform vector pred prob
+vector pred pred
+vector
+nclass param
+ndata cast pred size nclass
+prob resiz ndata
+
+pragma parallel
+
+vector nclass
+pragma schedul
+ndata
+nclass
+pred nclass
+
+prob
+cast
+common find max index
+
+common softmax
+nclass
+pred nclass
+
+
+
+
+prob pred
+
+output probabl
+output prob
+paramet
+softmax multi class param param
+
+
+oject function
+dmlc regist paramet softmax multi class param
+
+xgboost regist object softmax multi class multi softmax
+describ softmax multi classif output index
+bodi softmax multi class obj
+
+xgboost regist object softprob multi class multi softprob
+describ softmax multi classif output probabl distribut
+bodi softmax multi class obj
+
+
+xgboost
+
+copyright 2015 contributor
+file regress
+brief definit singl valu regress classif object
+author tianqi chen kailong chen
+
+dmlc
+xgboost log
+xgboost object
+vector
+algorithm
+util
+common math
+
+xgboost
+
+
+dmlc registri file regress
+
+common regress
+linear regress
+linear squar loss
+pred transform
+check label
+first order gradient predt label predt label
+second order gradient predt label
+prob to margin score score
+label error msg
+default eval metric rmse
+
+logist loss probabl regress task
+logist regress
+pred transform common sigmoid
+check label
+first order gradient predt label predt label
+second order gradient predt label
+
+predt predt
+
+prob to margin score
+check score score
+score must logist loss
+score
+
+label error msg
+label must logist regress
+
+default eval metric rmse
+
+logist loss binari classif task
+logist classif logist regress
+default eval metric error
+
+logist loss predict transform margin
+logist raw logist regress
+pred transform
+first order gradient predt label
+predt common sigmoid predt
+predt label
+
+second order gradient predt label
+
+predt common sigmoid predt
+predt predt
+
+default eval metric
+
+
+reg loss param dmlc paramet reg loss param
+scale weight
+paramet
+dmlc declar paramet reg loss param
+dmlc declar field scale weight lower bound
+describ scale weight posit exampl factor
+
+
+
+regress
+loss
+reg loss obj obj function
+
+configur vector pair arg
+param init allow unknown arg
+
+get gradient vector pred
+meta info info
+iter
+vector gpair gpair
+check info label size label cannot
+check pred size info label size
+label correctli provid
+pred size pred size label size info label size
+gpair resiz pred size
+check label rang
+label correct
+start calcul gradient
+ndata cast pred size
+pragma parallel schedul
+ndata
+loss pred transform pred
+info get weight
+info label param scale weight
+loss check label info label label correct
+gpair gpair loss first order gradient info label
+loss second order gradient info label
+
+label correct
+fatal loss label error msg
+
+
+default eval metric
+loss default eval metric
+
+pred transform vector pred
+vector pred pred
+ndata cast pred size
+pragma parallel schedul
+ndata
+pred loss pred transform pred
+
+
+prob to margin score
+loss prob to margin score
+
+
+
+reg loss param param
+
+
+oject function
+dmlc regist paramet reg loss param
+
+xgboost regist object linear regress linear
+describ linear regress
+bodi reg loss obj linear squar loss
+
+xgboost regist object logist regress logist
+describ logist regress probabl regress task
+bodi reg loss obj logist regress
+
+xgboost regist object logist classif binari logist
+describ logist regress binari classif task
+bodi reg loss obj logist classif
+
+xgboost regist object logist raw binari logitraw
+describ logist regress classif output score logist transform
+bodi reg loss obj logist raw
+
+paramet
+poisson regress param dmlc paramet poisson regress param
+delta step
+dmlc declar paramet poisson regress param
+dmlc declar field delta step lower bound
+describ maximum delta step allow weight estim
+thi paramet requir possion regress
+
+
+
+poisson regress count
+poisson regress obj function
+
+function
+configur vector pair arg
+param init allow unknown arg
+
+
+get gradient vector pred
+meta info info
+iter
+vector gpair gpair
+check info label size label cannot
+check pred size info label size label correctli provid
+gpair resiz pred size
+check label rang
+label correct
+start calcul gradient
+ndata cast pred size nolint
+pragma parallel schedul
+ndata nolint
+pred
+info get weight
+info label
+
+gpair gpair
+param delta step
+
+label correct
+
+
+check label correct poisson regress label must nonneg
+
+pred transform vector pred
+vector pred pred
+ndata cast pred size nolint
+pragma parallel schedul
+ndata nolint
+pred pred
+
+
+eval transform vector pred
+pred transform pred
+
+prob to margin score
+score
+
+default eval metric
+poisson nloglik
+
+
+
+poisson regress param param
+
+
+oject function
+dmlc regist paramet poisson regress param
+
+xgboost regist object poisson regress count poisson
+describ possion regress count
+bodi poisson regress
+
+xgboost
+
+copyright 2015 contributor
+file object
+brief registri object function
+
+xgboost object
+dmlc registri
+
+dmlc
+dmlc registri enabl xgboost obj function reg
+dmlc
+
+xgboost
+implement factori function
+obj function obj function creat name
+dmlc registri xgboost obj function reg find name
+nullptr
+entri dmlc registri xgboost obj function reg list
+info object candid entri name
+
+fatal unknown object name
+
+bodi
+
+xgboost
+
+xgboost
+
+list file forc link link
+dmlc registri link regress
+dmlc registri link multiclass
+dmlc registri link rank
+
+xgboost
+
+copyright 2015 contributor
+file common
+brief enabl kind variabl common
+
+random
+thread local
+
+xgboost
+common
+brief thread local entri random
+random thread local entri
+brief random engin
+global random engin engin
+
+
+thread local store random thread local entri random thread local store
+
+global random engin global random
+random thread local store engin
+
+common
+xgboost
+
+copyright 2015 contributor
+file
+brief registri gradient booster
+
+xgboost
+dmlc registri
+
+dmlc
+dmlc registri enabl xgboost gradient booster reg
+dmlc
+
+xgboost
+gradient booster gradient booster creat name
+dmlc registri xgboost gradient booster reg find name
+nullptr
+fatal unknown name
+
+bodi
+
+xgboost
+
+xgboost
+
+list file forc link link
+dmlc registri link gblinear
+dmlc registri link gbtree
+
+xgboost
+
+copyright 2014 contributor
+file gblinear
+brief implement linear booster regular elast
+updat rule parallel coordin descent shotgun
+author tianqi chen
+
+dmlc
+dmlc paramet
+xgboost
+xgboost log
+vector
+
+sstream
+cstring
+algorithm
+
+xgboost
+
+
+dmlc registri file gblinear
+
+model paramet
+gb linear model param dmlc paramet gb linear model param
+featur dimens
+featur
+output group
+output group
+reserv field
+reserv
+
+gb linear model param
+memset gb linear model param
+
+dmlc declar paramet gb linear model param
+dmlc declar field featur lower bound
+describ number featur use classif
+dmlc declar field output group lower bound
+describ number output group set
+
+
+
+train paramet
+gb linear train param dmlc paramet gb linear train param
+brief learn rate
+learn rate
+brief regular weight norm
+
+brief regular weight norm
+alpha
+brief regular weight norm bia
+bia
+paramet
+dmlc declar paramet gb linear train param
+dmlc declar field learn rate lower bound
+describ learn rate updat
+dmlc declar field lower bound
+describ regular weight
+dmlc declar field alpha lower bound
+describ regular weight
+dmlc declar field bia lower bound
+describ regular bia
+paramet
+dmlc declar alia learn rate
+dmlc declar alia
+dmlc declar alia alpha alpha
+dmlc declar alia bia bia
+
+given origin weight calcul delta
+calc delta grad hess
+hess
+grad hess
+
+grad alpha hess
+
+grad alpha hess
+
+
+given origin weight calcul delta bia
+calc delta bia grad hess
+grad bia hess bia
+
+
+
+
+brief gradient boost linear model
+
+gb linear gradient booster
+
+configur vector pair
+model weight size
+model param init allow unknown
+
+param init allow unknown
+
+load dmlc stream
+model load
+
+save dmlc stream
+model save
+
+do boost d matrix fmat
+int64 buffer offset
+vector gpair gpair
+lazili initi model readi
+model weight size
+model init model
+
+
+vector gpair gpair gpair
+ngroup model param output group
+row set rowset fmat buffer rowset
+output group
+ngroup
+grad hess
+ndata cast rowset size
+pragma parallel schedul reduct grad hess
+ndata
+gpair gpair rowset ngroup
+hess
+grad grad hess hess
+
+
+remov bia effect
+cast
+param learn rate param calc delta bia grad hess model bia
+model bia
+updat grad valu
+pragma parallel schedul
+ndata
+gpair gpair rowset ngroup
+hess
+grad hess
+
+
+
+dmlc data iter col batch iter fmat col iter
+iter next
+featur
+col batch batch iter valu
+nfeat cast batch size
+pragma parallel schedul
+nfeat
+batch index
+col batch inst batch
+ngroup
+grad hess
+length
+fvalu
+gpair gpair index ngroup
+hess
+grad grad
+hess hess
+
+model
+cast param learn rate
+param calc delta grad hess
+
+updat grad valu
+length
+gpair gpair index ngroup
+hess
+grad hess fvalu
+
+
+
+
+
+
+predict d matrix fmat
+int64 buffer offset
+vector pred
+ntree limit
+model weight size
+model init model
+
+check ntree limit
+gb linear predict ntree valid gbtree predictor
+vector pred pred
+pred resiz
+start collect predict
+dmlc data iter row batch iter fmat row iter
+ngroup model param output group
+iter next
+row batch batch iter valu
+check batch rowid ngroup pred size
+output convent nrow nrow row
+group
+pred resiz pred size batch size ngroup
+parallel local batch
+nsize cast batch size
+pragma parallel schedul
+nsize
+size ridx batch rowid
+output group
+ngroup
+pred batch pred ridx ngroup
+
+
+
+
+predict spars batch inst inst
+vector pred
+ntree limit
+root index
+ngroup model param output group
+ngroup
+pred inst dmlc begin ptr pred
+
+
+predict leaf d matrix fmat
+vector pred
+ntree limit
+fatal gblinear support predict leaf index
+
+
+vector dump2 text featur map fmap option
+stringstream
+bia
+model param output group
+model bia endl
+
+weight
+model param output group
+model param featur
+model endl
+
+
+vector
+push back
+
+
+
+
+pred row batch inst inst pred
+model param output group
+psum model bia
+inst length
+inst index model param featur
+psum inst fvalu model inst index
+
+pred psum
+
+
+model linear booster
+model
+
+paramet
+gb linear model param param
+weight featur bia last
+vector weight
+initi model paramet
+init model
+bia last weight
+weight resiz param featur param output group
+fill weight weight
+
+save model file
+save dmlc stream
+write param param
+write weight
+
+load model file
+load dmlc stream
+check read param param param
+read weight
+
+model bia
+bia
+weight param featur param output group
+
+bia
+weight param featur param output group
+
+weight
+size
+weight param output group
+
+size
+weight param output group
+
+
+model field
+model model
+train paramet
+gb linear train param param
+featur shuffl index featur index
+vector feat index
+
+
+oject function
+dmlc regist paramet gb linear model param
+dmlc regist paramet gb linear train param
+
+xgboost regist gb linear gblinear
+describ linear booster implement gener linear model
+bodi
+gb linear
+
+
+xgboost
+
+copyright 2014 contributor
+file gbtree
+brief gradient boost tree implement
+author tianqi chen
+
+dmlc
+dmlc paramet
+xgboost log
+xgboost
+xgboost tree updat
+
+vector
+memori
+util
+
+limit
+common common
+
+xgboost
+
+
+dmlc registri file gbtree
+
+brief train paramet
+gb tree train param dmlc paramet gb tree train param
+brief thread
+nthread
+
+brief parallel tree construct iter
+option support boost random forest
+
+parallel tree
+brief tree updat sequenc
+updat
+paramet
+dmlc declar paramet gb tree train param
+dmlc declar field nthread lower bound
+describ number thread use train
+dmlc declar field parallel tree lower bound
+describ number parallel tree construct iter
+thi option use support boost random forest
+dmlc declar field updat grow colmak prune
+describ tree updat sequenc
+
+dmlc declar alia updat updat
+
+
+
+brief model paramet
+gb tree model param dmlc paramet gb tree model param
+brief tree
+tree
+brief root
+root
+brief featur use tree
+featur
+brief space backward compatibl reason
+32bit
+brief deprec pad space
+int64 pbuffer deprec
+
+brief mani output group singl produc
+affect behavior output
+suppos group output
+
+output group
+brief size leaf vector need tree
+size leaf vector
+brief reserv paramet
+reserv
+brief
+gb tree model param
+memset gb tree model param
+gb tree model param
+compat issu
+
+paramet need
+dmlc declar paramet gb tree model param
+dmlc declar field output group lower bound
+describ number output group predict
+use multi classif
+dmlc declar field root lower bound
+describ tree updat sequenc
+dmlc declar field featur lower bound
+describ number featur use train predict
+dmlc declar field size leaf vector lower bound
+describ reserv option vector tree
+
+
+
+gradient boost tree
+gb tree gradient booster
+
+gb tree pbuffer
+
+configur vector pair
+
+initi model paramet initi
+tree size
+mparam init allow unknown
+
+initi updat need
+updat tparam updat
+tparam init allow unknown
+updat tparam updat updat clear
+updat
+init
+
+tparam nthread
+thread tparam nthread
+
+
+
+load dmlc stream
+check read mparam mparam mparam
+gb tree invalid model file
+tree clear
+mparam tree
+uniqu reg tree reg tree
+load
+tree push back move
+
+tree info resiz mparam tree
+mparam tree
+check read dmlc begin ptr tree info mparam tree
+mparam tree
+
+clear
+push back make pair featur
+common to string mparam featur
+clear predict buffer
+reset pred buffer pbuffer
+
+
+save dmlc stream
+check mparam tree cast tree size
+write mparam mparam
+size tree size
+tree save
+
+tree info size
+write dmlc begin ptr tree info tree info size
+
+
+
+reset pred buffer size pbuffer
+pbuffer pbuffer
+pred buffer clear
+pred counter clear
+pred buffer resiz pred buffer size
+pred counter resiz pred buffer size
+
+
+allow lazi check point
+mparam output group
+tparam updat find distcol npo
+
+
+do boost d matrix fmat
+int64 buffer offset
+vector gpair gpair
+vector gpair gpair gpair
+vector vector uniqu reg tree tree
+mparam output group
+vector uniqu reg tree
+boost new tree gpair fmat buffer offset
+tree push back move
+
+ngroup mparam output group
+check gpair size ngroup
+must exactli ngroup nrow gpair
+vector gpair gpair size ngroup
+ngroup
+nsize cast size
+pragma parallel schedul
+nsize
+gpair ngroup
+
+vector uniqu reg tree
+boost new tree fmat buffer offset
+tree push back move
+
+
+mparam output group
+commit model move tree
+
+
+
+predict d matrix fmat
+int64 buffer offset
+vector pred
+ntree limit
+meta info info fmat info
+nthread
+pragma parallel
+
+nthread thread
+
+init thread temp nthread
+vector pred pred
+size stride fmat info mparam output group
+pred resiz stride mparam size leaf vector
+start collect predict
+dmlc data iter row batch iter fmat row iter
+
+iter befor first
+iter next
+row batch batch iter valu
+parallel local batch
+nsize cast batch size
+pragma parallel schedul
+nsize
+thread
+reg tree f vec feat thread temp
+int64 ridx cast int64 batch rowid
+check cast size ridx info
+output group
+mparam output group
+pred batch
+buffer offset buffer offset ridx
+info get root ridx feat
+pred ridx mparam output group stride
+ntree limit
+
+
+
+
+
+predict spars batch inst inst
+vector pred
+ntree limit
+root index
+thread temp size
+thread temp resiz reg tree f vec
+thread temp init mparam featur
+
+pred resiz mparam output group mparam size leaf vector
+output group
+mparam output group
+pred inst root index thread temp
+pred mparam output group
+ntree limit
+
+
+
+predict leaf d matrix fmat
+vector pred
+ntree limit
+nthread
+pragma parallel
+
+nthread thread
+
+init thread temp nthread
+pred path fmat pred ntree limit
+
+
+vector dump2 text featur map fmap option
+vector dump
+size tree size
+dump push back tree dump2 text fmap option
+
+dump
+
+
+
+initi updat
+init updat
+updat size
+tval tparam updat
+vector common split tval
+pstr
+uniqu tree updat tree updat creat pstr
+init
+updat push back move
+
+
+group specif group
+
+boost new tree vector gpair gpair
+d matrix fmat
+int64 buffer offset
+group
+vector uniqu reg tree
+init updat
+vector reg tree tree
+clear
+creat tree
+tparam parallel tree
+uniqu reg tree reg tree
+param init allow unknown
+init model
+tree push back
+push back move
+
+updat tree
+updat
+updat gpair fmat tree
+
+optim updat buffer possibl
+distribut column mode
+safeti check lazi checkpoint
+buffer offset
+tree size updat size
+updat back get leaf posit nullptr
+check fmat info fmat buffer rowset size
+updat buffer by posit fmat
+buffer offset
+group
+tree
+updat back get leaf posit
+
+
+commit tree
+commit model vector uniqu reg tree tree
+group
+size tree size
+tree push back move tree
+tree info push back group
+
+mparam tree cast tree size
+
+updat buffer cach posit
+updat buffer by posit d matrix fmat
+int64 buffer offset
+group
+reg tree tree
+leaf posit
+row set rowset fmat buffer rowset
+ndata cast rowset size
+pragma parallel schedul
+ndata
+ridx rowset
+int64 buffer offset buffer offset ridx group
+leaf posit ridx
+check pred counter tree size
+check
+pred buffer tree leaf valu
+mparam size leaf vector
+pred buffer tree leafvec
+
+pred counter tparam parallel tree
+
+
+make predict singl
+pred row batch inst inst
+int64 buffer index
+group
+root index
+reg tree f vec feat
+pred
+size stride
+ntree limit
+size itop
+psum
+leaf vector
+vector psum mparam size leaf vector
+int64 buffer offset buffer index group
+valid tree
+treeleft ntree limit numer limit ntree limit
+load buffer result
+ntree limit
+itop pred counter
+psum pred buffer
+mparam size leaf vector
+psum pred buffer
+
+
+itop tree size
+feat fill inst
+size itop tree size
+tree info group
+tree get leaf index feat root index
+psum tree leaf valu
+mparam size leaf vector
+psum tree leafvec
+
+treeleft
+
+
+feat drop inst
+
+updat buffer result
+ntree limit
+pred counter cast tree size
+pred buffer psum
+mparam size leaf vector
+pred buffer psum
+
+
+pred psum
+mparam size leaf vector
+pred stride psum
+
+
+predict independ leaf index
+pred path d matrix fmat
+vector pred
+ntree limit
+meta info info fmat info
+valid tree
+ntree limit ntree limit tree size
+ntree limit cast tree size
+
+vector pred pred
+pred resiz info ntree limit
+start collect predict
+dmlc data iter row batch iter fmat row iter
+iter befor first
+iter next
+row batch batch iter valu
+parallel local batch
+nsize cast batch size
+pragma parallel schedul
+nsize
+thread
+size ridx cast size batch rowid
+reg tree f vec feat thread temp
+feat fill batch
+ntree limit
+tree get leaf index feat info get root ridx
+pred ridx ntree limit cast
+
+feat drop batch
+
+
+
+init thread buffer
+init thread temp nthread
+prev thread temp size thread temp size
+prev thread temp size nthread
+thread temp resiz nthread reg tree f vec
+prev thread temp size nthread
+thread temp init mparam featur
+
+
+
+size predict buffer actual need
+size pred buffer size
+mparam output group pbuffer mparam size leaf vector
+
+
+brief buffer offset given buffer index group
+calcul buffer offset
+
+int64 buffer offset int64 buffer index group
+buffer index
+size bidx cast size buffer index
+check bidx pbuffer
+bidx pbuffer group mparam size leaf vector
+
+
+structur
+train paramet
+gb tree train param tparam
+model paramet
+gb tree model param mparam
+brief vector tree store model
+vector uniqu reg tree tree
+brief inform indic tree reserv
+vector tree info
+brief predict buffer size
+size pbuffer
+brief predict buffer
+vector pred buffer
+brief predict buffer counter rememb predict
+vector pred counter
+train field
+configur tree
+vector pair
+tempor storag thread
+vector reg tree f vec thread temp
+updat appli tree
+vector uniqu tree updat updat
+
+
+oject function
+dmlc regist paramet gb tree model param
+dmlc regist paramet gb tree train param
+
+xgboost regist gb tree gbtree
+describ tree booster gradient boost tree
+bodi
+gb tree
+
+
+xgboost
+
+copyright 2015 contributor
+file rank metric
+brief predict rank base metric
+author kailong chen tianqi chen
+
+xgboost metric
+dmlc registri
+cmath
+common sync
+common math
+
+xgboost
+metric
+file use forc link later
+dmlc registri file rank metric
+
+brief also record best threshold
+eval am metric
+
+eval am param
+check param nullptr
+must format
+ratio atof param
+ostringstream
+ratio
+name
+
+eval vector pred
+meta info info
+distribut
+check distribut metric support distribut evalu
+nolint
+
+ndata cast info label size
+check info weight size ndata need weight evalu
+vector pair ndata
+
+pragma parallel schedul
+ndata
+make pair pred
+
+sort common cmp first
+ntop cast ratio ndata
+ntop ntop ndata
+
+thresindex
+tam
+cast ndata ntop
+ridx second
+info weight ridx
+info label ridx
+
+
+
+
+first first
+sqrt
+tam
+thresindex
+tam
+
+
+
+ntop ndata
+info best ratio cast thresindex ndata
+cast tam
+
+cast
+sqrt
+
+
+
+name
+name
+
+
+
+name
+ratio
+
+
+brief area under curv classif rank
+eval auc metric
+eval vector pred
+meta info info
+distribut
+check info label size label cannot
+check pred size info label size
+label size predict size match
+vector tgptr
+tgptr cast info label size
+
+vector gptr info group size tgptr info group
+check gptr back info label size
+eval auc group structur must match predict
+ngroup cast gptr size
+statist
+
+pragma parallel reduct
+
+thread take local
+vector pair
+pragma schedul
+ngroup
+clear
+gptr gptr
+push back make pair pred
+
+sort common cmp first
+calcul
+pospair
+npo nneg
+size size
+info get weight second
+info label second
+keep bucket predict bucket
+first first
+pospair npo
+npo
+nneg
+
+
+
+
+
+pospair npo
+npo
+nneg
+check weird condit
+check npo nneg
+dataset contain sampl
+
+pospair npo nneg
+
+
+distribut
+
+cast
+cast ngroup
+approxim estim mean
+rabit allreduc rabit
+
+
+cast ngroup
+
+
+name
+
+
+
+
+brief evalu rank
+eval rank list metric
+
+eval vector pred
+meta info info
+distribut
+check pred size info label size
+label size predict size match
+quick consist group avail
+vector tgptr
+tgptr cast pred size
+vector gptr info group size tgptr info group
+check gptr size must specifi group construct rank file
+check gptr back pred size
+eval ranklist group structur must match predict
+ngroup cast gptr size
+statist
+metric
+pragma parallel reduct metric
+
+thread take local
+vector pair
+pragma schedul
+ngroup
+clear
+gptr gptr
+push back make pair pred cast info label
+
+metric eval metric
+
+
+distribut
+
+cast metric
+cast ngroup
+approxim estim metric mean
+rabit allreduc rabit
+
+
+cast metric ngroup
+
+
+name
+name
+
+
+
+eval rank list name param
+nolint
+minu
+param nullptr
+ostringstream
+name param
+name
+sscanf param topn
+topn numer limit
+
+param strlen param
+minu
+
+
+topn numer limit
+
+
+evalu metric given pair sort record pred label
+eval metric vector pair pair sort nolint
+
+
+topn
+name
+minu
+
+
+brief precis classif rank
+eval precis eval rank list
+
+eval precis name eval rank list name
+
+
+eval metric vector pair
+calcul precis
+sort common cmp first
+nhit
+size size topn
+nhit second
+
+cast nhit topn
+
+
+
+brief ndcg normal discount cumul gain
+eval ndcg eval rank list
+
+eval ndcg name eval rank list ndcg name
+
+
+calc dcg vector pair
+sumdcg
+size size topn
+second
+
+sumdcg
+
+
+cast sumdcg
+
+eval metric vector pair nolint
+stabl sort common cmp first
+calc dcg
+stabl sort common cmp second
+idcg calc dcg
+idcg
+minu
+
+
+
+
+
+idcg
+
+
+
+brief mean averag precis classif rank
+eval map eval rank list
+
+eval map name eval rank list name
+
+
+eval metric vector pair
+sort common cmp first
+nhit
+sumap
+size size
+second
+nhit
+topn
+sumap cast nhit
+
+
+
+nhit
+sumap nhit
+cast sumap
+
+minu
+
+
+
+
+
+
+
+
+xgboost regist metric
+describ metric higg
+bodi param eval am param
+
+xgboost regist metric
+describ area curv classif rank
+bodi param eval auc
+
+xgboost regist metric precis
+describ precis rank
+bodi param eval precis param
+
+xgboost regist metric ndcg ndcg
+describ ndcg rank
+bodi param eval ndcg param
+
+xgboost regist metric
+describ rank
+bodi param eval map param
+metric
+xgboost
+
+copyright 2015 contributor
+file elementwis metric
+brief evalu metric elementwis binari regress
+author kailong chen tianqi chen
+
+xgboost metric
+dmlc registri
+cmath
+common math
+common sync
+
+xgboost
+metric
+file use forc link later
+dmlc registri file elementwis metric
+
+
+brief element wise evalu
+tparam deriv name subclass
+
+deriv
+eval e wise base metric
+eval vector pred
+meta info info
+distribut
+check info label size label cannot
+check pred size info label size
+label predict size match
+hint merror mlogloss multi classif
+ndata cast info label size
+wsum
+pragma parallel reduct wsum schedul
+ndata
+info get weight
+deriv eval row info label pred
+wsum
+
+wsum
+distribut
+rabit allreduc rabit
+
+deriv get final
+
+
+brief implement subclass
+evalu result
+param label label current
+param pred predict valu current
+
+eval row label pred
+
+brief overridden subclass transform
+param esum statist return eval row
+param wsum weight
+
+get final esum wsum
+esum wsum
+
+
+
+eval rmse eval e wise base eval rmse
+name
+rmse
+
+eval row label pred
+diff label pred
+diff diff
+
+get final esum wsum
+sqrt esum wsum
+
+
+
+eval mae eval e wise base eval mae
+name
+
+
+eval row label pred
+label pred
+
+
+
+eval log loss eval e wise base eval log loss
+name
+logloss
+
+eval row
+
+pneg
+
+
+pneg
+
+
+pneg
+
+
+
+
+eval error eval e wise base eval error
+name
+error
+
+eval row label pred
+assum label
+pred label label
+
+
+
+eval poission neg log lik eval e wise base eval poission neg log lik
+name
+poisson nloglik
+
+eval row
+
+
+common log gamma
+
+
+
+xgboost regist metric rmse rmse
+describ root mean squar error
+bodi param eval rmse
+
+xgboost regist metric
+describ mean absolut error
+bodi param eval mae
+
+xgboost regist metric log loss logloss
+describ neg loglikelihood logist regress
+bodi param eval log loss
+
+xgboost regist metric error error
+describ binari classif error
+bodi param eval error
+
+xgboost regist metric possion neg loglik poisson nloglik
+describ neg loglikelihood poisson regress
+bodi param eval poission neg log lik
+
+metric
+xgboost
+
+copyright 2015 contributor
+file metric registri
+brief registri object function
+
+xgboost metric
+dmlc registri
+
+dmlc
+dmlc registri enabl xgboost metric reg
+
+
+xgboost
+metric metric creat name
+name
+prefix name
+find
+npo
+dmlc registri xgboost metric reg find name
+nullptr
+fatal unknown metric name
+
+bodi nullptr
+
+prefix substr
+dmlc registri xgboost metric reg find prefix
+nullptr
+fatal unknown metric name
+
+bodi substr length
+
+
+xgboost
+
+xgboost
+metric
+list file forc link link
+dmlc registri link elementwis metric
+dmlc registri link multiclass metric
+dmlc registri link rank metric
+metric
+xgboost
+
+copyright 2015 contributor
+file multiclass metric
+brief evalu metric multiclass classif
+author kailong chen tianqi chen
+
+xgboost metric
+cmath
+common sync
+common math
+
+xgboost
+metric
+file use forc link later
+dmlc registri file multiclass metric
+
+
+brief multi evalu
+tparam deriv name subclass
+
+deriv
+eval m class base metric
+eval vector pred
+meta info info
+distribut
+check info label size label cannot
+check pred size info label size
+label predict size match
+size nclass pred size info label size
+check nclass
+mlogloss merror use multi classif
+logloss binari classif
+ndata cast info label size
+wsum
+label error
+pragma parallel reduct wsum schedul
+ndata
+info get weight
+label cast info label
+label label cast nclass
+deriv eval row label
+dmlc begin ptr pred nclass
+nclass
+wsum
+
+label error label
+
+
+check label error label error cast nclass
+multi class evalu label must
+nclass found label error label
+
+wsum
+distribut
+rabit allreduc rabit
+
+deriv get final
+
+
+brief implement subclass
+evalu result
+param label label current
+param pred predict valu current
+param nclass predict
+
+eval row label
+pred
+size nclass
+
+brief overridden subclass transform
+param esum statist return eval row
+param wsum weight
+
+get final esum wsum
+esum wsum
+
+use store error messag
+error
+
+
+brief match error
+eval match error eval m class base eval match error
+name
+merror
+
+eval row label
+pred
+size nclass
+common find max index pred pred nclass pred cast label
+
+
+
+brief match error
+eval multi log loss eval m class base eval multi log loss
+name
+mlogloss
+
+eval row label
+pred
+size nclass
+
+size cast size label
+pred
+pred
+
+
+
+
+
+
+xgboost regist metric match error merror
+describ multiclass classif error
+bodi param eval match error
+
+xgboost regist metric multi log loss mlogloss
+describ multiclass neg loglikelihood
+bodi param eval multi log loss
+metric
+xgboost
+copyright 2014 contributor
+
+xgboost
+xgboost learner
+xgboost
+xgboost log
+rabit rabit
+cstdio
+vector
+
+cstring
+memori
+
+error
+simpl sourc
+common thread local
+common math
+common
+common group
+
+xgboost
+booster wrapper backward compat reason
+booster
+
+booster vector d matrix cach mat
+configur
+initi
+learner learner creat cach mat
+
+learner learner
+learner
+
+
+set param name
+push back make pair name
+configur
+learner configur
+
+
+
+lazi init
+configur
+learner configur
+configur
+
+initi
+learner init model
+initi
+
+
+
+load model dmlc stream
+learner load
+initi
+
+
+
+configur
+initi
+uniqu learner learner
+vector pair
+
+
+callback
+extern xg boost nativ data iter set data
+handl xg boost batch csr batch
+
+brief nativ iter take callback
+nativ data iter dmlc parser uint32
+
+nativ data iter data iter handl handl
+xgb callback data iter next callback
+first byte read
+handl handl callback callback
+
+
+function
+befor first
+check first cannot reset nativ data iter
+
+
+next
+callback
+handl
+xg boost nativ data iter set data
+
+first
+
+
+
+
+
+
+dmlc row block uint32 valu
+block
+
+
+size byte read
+byte read
+
+
+callback
+set data xg boost batch csr batch
+offset clear
+label clear
+weight clear
+index clear
+valu clear
+offset insert offset batch offset batch offset batch size
+batch label nullptr
+label insert label batch label batch label batch size
+
+batch weight nullptr
+weight insert weight batch weight batch weight batch size
+
+batch index nullptr
+index insert index batch index offset batch index offset back
+
+batch valu nullptr
+valu insert valu batch valu offset batch valu offset back
+
+offset
+size offset
+size item offset
+item
+
+
+block size batch size
+block offset dmlc begin ptr offset
+block label dmlc begin ptr label
+block weight dmlc begin ptr weight
+block index dmlc begin ptr index
+block valu dmlc begin ptr valu
+byte read offset size size
+label size dmlc real
+weight size dmlc real
+index size uint32
+valu size dmlc real
+
+
+
+bein
+first
+byte read
+size byte read
+handl iter
+data iter handl handl
+call back
+xgb callback data iter next callback
+offset
+vector size offset
+label
+vector dmlc real label
+weight
+vector dmlc real weight
+index
+vector uint32 index
+valu
+vector dmlc real valu
+rowblock
+dmlc row block uint32 block
+
+
+xg boost nativ data iter set data
+handl xg boost batch csr batch
+
+cast xgboost nativ data iter handl set data batch
+
+
+xgboost
+
+xgboost nolint
+
+brief entri easili hold return inform
+xgbapi thread local entri
+brief result holder return
+
+brief result holder return string
+vector
+brief result holder return pointer
+vector charp
+brief return vector
+vector
+brief temp variabl gradient pair
+vector gpair gpair
+
+
+defin threadloc store
+xgboost common thread local store xgbapi thread local entri xgbapi thread local store
+
+xgd matrix creat from file fname
+silent
+d matrix handl
+
+rabit is distribut
+consol xg boost distribut mode detect
+split among worker
+
+d matrix load
+fname
+
+
+
+xgd matrix creat from data iter
+handl
+xgb callback data iter next callback
+cach info
+d matrix handl
+
+
+scach
+cach info nullptr
+scach cach info
+
+nativ data iter parser handl callback
+d matrix creat parser scach
+
+
+
+xgd matrix creat from csr indptr
+indic
+
+nindptr
+nelem
+d matrix handl
+uniqu simpl csr sourc sourc simpl csr sourc
+
+
+simpl csr sourc sourc
+resiz nindptr
+nindptr
+cast size indptr
+
+resiz nelem
+nelem
+row batch entri indic
+info info
+cast uint64 indic
+
+info nindptr
+info nonzero cast uint64 nelem
+d matrix creat move sourc
+
+
+
+xgd matrix creat from csc
+indic
+
+nindptr
+nelem
+d matrix handl
+uniqu simpl csr sourc sourc simpl csr sourc
+
+
+nthread
+pragma parallel
+
+nthread thread
+
+simpl csr sourc sourc
+common parallel group builder row batch entri builder
+builder init budget nthread
+ncol cast nindptr nolint
+pragma parallel schedul
+ncol nolint
+thread
+
+builder add budget indic
+
+
+builder init storag
+pragma parallel schedul
+ncol nolint
+thread
+
+builder push indic
+row batch entri cast
+
+
+
+info size
+info cast uint64 ncol
+info nonzero nelem
+d matrix creat move sourc
+
+
+
+xgd matrix creat from mat
+nrow
+ncol
+miss
+d matrix handl
+uniqu simpl csr sourc sourc simpl csr sourc
+
+
+simpl csr sourc sourc
+miss common check nan miss
+info nrow
+info ncol
+nrow ncol
+nelem
+ncol
+common check nan
+check miss
+there matrix howev miss
+
+miss miss
+push back row batch entri
+nelem
+
+
+
+push back back nelem
+
+info nonzero size
+d matrix creat move sourc
+
+
+
+xgd matrix slice d matrix d matrix handl handl
+idxset
+
+d matrix handl
+uniqu simpl csr sourc sourc simpl csr sourc
+
+
+simpl csr sourc
+copi from cast d matrix handl
+simpl csr sourc sourc
+
+check info group size
+slice support group structur
+
+clear
+info
+info info
+
+dmlc data iter row batch iter
+iter befor first
+check iter next
+
+row batch batch iter valu
+
+ridx idxset
+row batch inst inst batch ridx
+check cast ridx batch size
+resiz size inst length
+memcpi dmlc begin ptr back inst
+row batch entri inst length
+push back back inst length
+info nonzero inst length
+
+info label size
+info label push back info label ridx
+
+info weight size
+info weight push back info weight ridx
+
+info root index size
+info root index push back info root index ridx
+
+
+d matrix creat move sourc
+
+
+
+xgd matrix free d matrix handl handl
+
+cast d matrix handl
+
+
+
+xgd matrix save binari d matrix handl handl
+fname
+silent
+
+cast d matrix handl save to local file fname
+
+
+
+xgd matrix set float info d matrix handl handl
+field
+info
+
+
+cast d matrix handl info set info field info k float32
+
+
+
+xgd matrix set u int info d matrix handl handl
+field
+info
+
+
+cast d matrix handl info set info field info k u int32
+
+
+
+xgd matrix set group d matrix handl handl
+group
+
+
+d matrix pmat cast d matrix handl
+meta info info pmat info
+info group resiz
+info group
+uint64
+info group info group group
+
+
+
+
+xgd matrix get float info d matrix handl handl
+field
+
+dptr
+
+meta info info cast d matrix handl info
+vector nullptr
+strcmp field label
+info label
+strcmp field weight
+info weight
+strcmp field margin
+info margin
+
+fatal unknown field name field
+
+cast size
+dptr dmlc begin ptr
+
+
+
+xgd matrix get u int info d matrix handl handl
+field
+
+dptr
+
+meta info info cast d matrix handl info
+vector nullptr
+strcmp field root index
+info root index
+
+fatal unknown field name field
+
+cast size
+dptr dmlc begin ptr
+
+
+
+xgd matrix num row d matrix handl handl
+
+
+cast cast d matrix handl info
+
+
+
+xgd matrix num col d matrix handl handl
+
+
+cast size cast d matrix handl info
+
+
+
+xgboost implement
+xg booster creat d matrix handl dmat
+
+booster handl
+
+vector d matrix mat
+
+mat push back cast d matrix dmat
+
+booster mat
+
+
+
+xg booster free booster handl handl
+
+cast booster handl
+
+
+
+xg booster set param booster handl handl
+name
+valu
+
+cast booster handl set param name valu
+
+
+
+xg booster updat one iter booster handl handl
+iter
+d matrix handl dtrain
+
+booster cast booster handl
+d matrix cast d matrix dtrain
+
+lazi init
+learner updat one iter iter
+
+
+
+xg booster boost one iter booster handl handl
+d matrix handl dtrain
+grad
+hess
+
+vector gpair gpair xgbapi thread local store gpair
+
+booster cast booster handl
+d matrix cast d matrix dtrain
+gpair resiz
+
+gpair gpair grad hess
+
+
+lazi init
+learner boost one iter gpair
+
+
+
+xg booster eval one iter booster handl handl
+iter
+d matrix handl dmat
+evnam
+
+
+xgbapi thread local store
+
+booster cast booster handl
+vector d matrix set
+vector name
+
+
+set push back cast d matrix dmat
+name push back evnam
+
+
+lazi init
+learner eval one iter iter set name
+
+
+
+
+xg booster predict booster handl handl
+d matrix handl dmat
+option mask
+ntree limit
+
+result
+vector pred xgbapi thread local store
+
+booster cast booster handl
+lazi init
+learner predict
+cast d matrix dmat
+option mask
+pred ntree limit
+option mask
+result dmlc begin ptr pred
+cast pred size
+
+
+
+xg booster load model booster handl handl fname
+
+uniqu dmlc stream dmlc stream creat fname
+cast booster handl load model
+
+
+
+xg booster save model booster handl handl fname
+
+uniqu dmlc stream dmlc stream creat fname
+booster cast booster handl
+lazi init
+learner save
+
+
+
+xg booster load model from buffer booster handl handl
+
+
+
+common memori fix size buffer nolint
+cast booster handl load model
+
+
+
+xg booster get model raw booster handl handl
+
+dptr
+xgbapi thread local store
+resiz
+
+
+common memori buffer stream
+booster cast booster handl
+lazi init
+learner save
+dptr dmlc begin ptr
+cast length
+
+
+
+xg boost dump model impl
+booster handl handl
+featur map fmap
+stat
+
+model
+vector vec xgbapi thread local store
+vector charp vec xgbapi thread local store charp
+booster cast booster handl
+lazi init
+vec learner dump2 text fmap stat
+charp vec resiz vec size
+size vec size
+charp vec vec
+
+model dmlc begin ptr charp vec
+cast charp vec size
+
+xg booster dump model booster handl handl
+fmap
+stat
+
+model
+
+featur map featmap
+strlen fmap
+uniqu dmlc stream
+dmlc stream creat fmap
+dmlc istream
+featmap load text
+
+xg boost dump model impl handl featmap stat model
+
+
+
+xg booster dump model with featur booster handl handl
+fnum
+fname
+ftype
+stat
+
+model
+
+featur map featmap
+fnum
+featmap push back fname ftype
+
+xg boost dump model impl handl featmap stat model
+
+
+
+xg booster get attr booster handl handl
+
+
+success
+booster cast booster handl
+xgbapi thread local store
+
+learner get attr
+
+success
+
+nullptr
+success
+
+
+
+
+xg booster set attr booster handl handl
+
+valu
+booster cast booster handl
+
+learner set attr valu
+
+
+
+xg booster load rabit checkpoint booster handl handl
+version
+
+booster cast booster handl
+version rabit load check point learner
+version
+initi
+
+
+
+
+xg booster save rabit checkpoint booster handl handl
+
+booster cast booster handl
+learner allow lazi check point
+rabit lazi check point learner
+
+rabit check point learner
+
+
+
+
+forc link rabit
+xgboost link rabit rabit link tag
+
+copyright 2015 contributor
+file error
+brief error handl
+
+error
+common thread local
+
+xgbapi error entri
+last error
+
+
+xgboost common thread local store xgbapi error entri xgbapi error store
+
+xgb get last error
+xgbapi error store last error
+
+
+xgbapi set last error
+xgbapi error store last error
+
+
+copyright 2015 contributor
+brief xg boost amalgam
+thi offer altern compil entir librari singl file
+
+exampl usag command
+fopenmp share libxgboost xgboost all0 ldmlc lrabit
+
+author tianqi chen
+
+
+metric
+metric metric
+metric elementwis metric
+metric multiclass metric
+metric rank metric
+
+object
+object object
+object regress
+object multiclass
+object rank
+
+gbm
+
+gbtree
+gblinear
+
+
+
+simpl sourc
+simpl dmatrix
+spars page format
+
+dmlc enabl thread
+spars page sourc
+spars page dmatrix
+
+
+tress
+tree tree model
+tree tree updat
+tree updat colmak
+tree updat prune
+tree updat refresh
+tree updat sync
+tree updat histmak
+tree updat skmaker
+
+
+learner
+log
+common common
+
+
+
+error
+
+copyright 2015 contributor
+brief mininum dmlc librari amalgam use easi plugin dmlc
+normal need
+
+dmlc core line split
+dmlc core recordio split
+dmlc core input split
+dmlc core local filesi
+dmlc core
+dmlc core
+dmlc core recordio
+
+
+copyright 2015 contributor
+thi file contain custom implement
+chang behavior libxgboost
+
+xgboost log
+common random
+xgboost
+
+redirect messag consol
+dmlc
+custom log messag
+rprintf
+
+dmlc
+
+rabit error handl
+
+xg boost assert
+xg boost check
+
+
+rabit
+util
+
+printf rprintf
+assert xg boost assert
+check xg boost check
+error error
+
+
+
+
+xgboost
+consol logger consol logger
+dmlc custom log messag stream
+
+tracker logger tracker logger
+dmlc custom log messag stream
+
+xgboost
+
+xgboost
+common
+
+redirect nath function
+check nan
+isnan
+
+log gamma
+lgammafn
+
+
+custom random engin
+custom global random engin seed custom global random engin result
+ignor seed
+
+
+prng replacd
+custom global random engin result
+custom global random engin
+cast result
+floor unif rand custom global random engin
+
+common
+xgboost
+copyright 2014 contributor
+dmlc log
+dmlc
+xgboost
+vector
+
+util
+cstring
+cstdio
+sstream
+xgboost
+
+
+brief macro annot
+
+defin
+get rn gstate
+
+
+brief macro annot
+
+defin
+dmlc error
+put rn gstate
+error
+
+put rn gstate
+
+
+brief macro check call
+
+defin check call
+
+error xgb get last error
+
+
+
+dmlc
+
+sexp xg check null ptr sexp handl
+scalar logic extern ptr addr handl
+
+
+d matrix final sexp
+
+extern ptr addr
+check call xgd matrix free extern ptr addr
+clear extern ptr
+
+
+
+sexp xgd matrix creat from file sexp fname sexp silent
+sexp
+
+d matrix handl handl
+check call xgd matrix creat from file char as char fname as integ silent handl
+protect make extern ptr handl nil valu nil valu
+regist c final ex d matrix final
+unprotect
+
+
+
+
+sexp xgd matrix creat from mat sexp
+sexp miss
+sexp
+
+sexp get attrib dim symbol
+size nrow cast size integ
+size ncol cast size integ
+real
+vector nrow ncol
+pragma parallel schedul
+nrow
+size ncol
+ncol nrow
+
+
+d matrix handl handl
+check call xgd matrix creat from mat begin ptr nrow ncol as real miss handl
+protect make extern ptr handl nil valu nil valu
+regist c final ex d matrix final
+unprotect
+
+
+
+
+sexp xgd matrix creat from csc sexp indptr
+sexp indic
+sexp
+sexp
+
+indptr integ indptr
+indic integ indic
+real
+nindptr length indptr
+ndata length
+vector nindptr
+vector indic ndata
+vector ndata
+
+nindptr
+cast indptr
+
+pragma parallel schedul
+ndata
+indic cast indic
+cast
+
+d matrix handl handl
+check call xgd matrix creat from csc begin ptr begin ptr indic
+begin ptr nindptr ndata
+handl
+protect make extern ptr handl nil valu nil valu
+regist c final ex d matrix final
+unprotect
+
+
+
+
+sexp xgd matrix slice d matrix sexp handl sexp idxset
+sexp
+
+length idxset
+vector idxvec
+
+idxvec integ idxset
+
+d matrix handl
+check call xgd matrix slice d matrix extern ptr addr handl
+begin ptr idxvec
+
+protect make extern ptr nil valu nil valu
+regist c final ex d matrix final
+unprotect
+
+
+
+
+xgd matrix save binari sexp handl sexp fname sexp silent
+
+check call xgd matrix save binari extern ptr addr handl
+char as char fname
+as integ silent
+
+
+
+xgd matrix set info sexp handl sexp field sexp
+
+length
+name char as char field
+strcmp group name
+vector
+pragma parallel schedul
+
+cast integ
+
+check call xgd matrix set group extern ptr addr handl begin ptr
+
+vector
+pragma parallel schedul
+
+real
+
+check call xgd matrix set float info extern ptr addr handl
+char as char field
+begin ptr
+
+
+
+
+sexp xgd matrix get info sexp handl sexp field
+sexp
+
+olen
+
+check call xgd matrix get float info extern ptr addr handl
+char as char field
+olen
+
+protect alloc vector realsxp olen
+size olen
+real
+
+unprotect
+
+
+
+
+sexp xgd matrix num row sexp handl
+nrow
+
+check call xgd matrix num row extern ptr addr handl nrow
+
+scalar integ cast nrow
+
+
+sexp xgd matrix num col sexp handl
+ncol
+
+check call xgd matrix num col extern ptr addr handl ncol
+
+scalar integ cast ncol
+
+
+function relat booster
+booster final sexp
+extern ptr addr
+check call xg booster free extern ptr addr
+clear extern ptr
+
+
+sexp xg booster creat sexp dmat
+sexp
+
+length dmat
+vector dvec
+
+dvec push back extern ptr addr vector dmat
+
+booster handl handl
+check call xg booster creat begin ptr dvec dvec size handl
+protect make extern ptr handl nil valu nil valu
+regist c final ex booster final
+unprotect
+
+
+
+
+xg booster set param sexp handl sexp name sexp
+
+check call xg booster set param extern ptr addr handl
+char as char name
+char as char
+
+
+
+xg booster updat one iter sexp handl sexp iter sexp dtrain
+
+check call xg booster updat one iter extern ptr addr handl
+as integ iter
+extern ptr addr dtrain
+
+
+
+xg booster boost one iter sexp handl sexp dtrain sexp grad sexp hess
+
+check length grad length hess
+gradient hess must length
+length grad
+vector tgrad thess
+pragma parallel schedul
+
+tgrad real grad
+thess real hess
+
+check call xg booster boost one iter extern ptr addr handl
+extern ptr addr dtrain
+begin ptr tgrad begin ptr thess
+
+
+
+
+sexp xg booster eval one iter sexp handl sexp iter sexp dmat sexp evnam
+
+
+check length dmat length evnam
+dmat evnam must length
+length dmat
+vector dmat
+vector name
+vector sptr
+
+dmat push back extern ptr addr vector dmat
+name push back char as char vector evnam
+
+
+sptr push back name
+
+check call xg booster eval one iter extern ptr addr handl
+as integ iter
+begin ptr dmat
+begin ptr sptr
+
+
+mk string
+
+
+sexp xg booster predict sexp handl sexp dmat sexp option mask sexp ntree limit
+sexp
+
+olen
+
+check call xg booster predict extern ptr addr handl
+extern ptr addr dmat
+as integ option mask
+as integ ntree limit
+olen
+protect alloc vector realsxp olen
+size olen
+real
+
+unprotect
+
+
+
+
+xg booster load model sexp handl sexp fname
+
+check call xg booster load model extern ptr addr handl char as char fname
+
+
+
+xg booster save model sexp handl sexp fname
+
+check call xg booster save model extern ptr addr handl char as char fname
+
+
+
+xg booster load model from raw sexp handl sexp
+
+check call xg booster load model from buffer extern ptr addr handl
+
+length
+
+
+
+sexp xg booster model to raw sexp handl
+sexp
+
+olen
+
+check call xg booster get model raw extern ptr addr handl olen
+protect alloc vector rawsxp olen
+olen
+memcpi olen
+
+unprotect
+
+
+
+
+sexp xg booster dump model sexp handl sexp fmap sexp stat
+sexp
+
+olen
+
+check call xg booster dump model extern ptr addr handl
+char as char fmap
+as integ stat
+olen
+protect alloc vector strsxp olen
+size olen
+stringstream stream
+stream booster
+string mk char stream
+
+unprotect
+
+
+
+
+
+copyright 2015 contributor
+file spars page format
+xg boost plugin enabl compress format extern memori page
+
+xgboost
+xgboost log
+dmlc registri
+dmlc paramet
+
+lz4hc
+spars batch page
+
+xgboost
+
+
+dmlc registri file spars page format
+
+help compress decompress
+d type
+compress array
+
+content
+vector d type
+decompress helper
+chunk
+chunk
+check chunk size
+cast chunk size
+
+byte
+size raw byte
+chunk back d type
+
+encod byte
+size encod byte
+encod chunk back
+encod chunk size chunk size
+
+load file
+read dmlc seek stream
+decod chunk
+decompress chunk
+compress helper
+initi compress chunk
+init compress chunk vector chunk
+initi compress chunk
+init compress chunk size chunk size size nchunk
+decod chunk level mean
+compress chunk
+save output buffer file
+write dmlc stream
+
+
+chunk split element
+vector chunk
+encod chunk byte
+vector encod chunk
+output buffer compress
+vector buffer
+input buffer
+buffer
+
+
+d type
+compress array d type read dmlc seek stream
+check read chunk
+check read encod chunk
+size buffer size encod chunk back
+buffer resiz buffer size
+check read dmlc begin ptr buffer buffer size buffer size
+resiz chunk back
+
+
+d type
+compress array d type decompress chunk
+chunk size cast
+chunk chunk chunk chunk d type
+encod size cast
+encod chunk chunk encod chunk chunk
+decompress
+size decompress fast
+dmlc begin ptr buffer encod chunk chunk
+reinterpret cast dmlc begin ptr chunk chunk
+chunk size
+check encod size size
+
+
+d type
+compress array d type init compress chunk
+vector chunk
+chunk chunk
+check chunk size
+buffer resiz chunk size
+size buffer size
+buffer resiz chunk chunk
+
+
+
+d type
+compress array d type init compress chunk size chunk size size nchunk
+chunk clear
+chunk push back
+size chunk size size nchunk
+chunk size chunk size chunk size
+size nstep size chunk size
+size nstep
+chunk push back chunk back chunk size
+check chunk back size
+
+nstep chunk push back
+chunk back size
+check chunk size
+buffer resiz chunk size
+size buffer size
+buffer resiz chunk chunk
+
+
+
+d type
+compress array d type compress chunk
+check cast size chunk chunk size
+buffer chunk
+size chunk size chunk chunk chunk chunk d type
+bound compress bound chunk size
+check bound
+resiz bound
+encod size
+
+encod size compress
+reinterpret cast dmlc begin ptr chunk chunk
+dmlc begin ptr chunk size length
+
+encod size compress
+reinterpret cast dmlc begin ptr chunk chunk
+dmlc begin ptr chunk size length
+
+check encod size
+check cast size encod size length
+resiz encod size
+
+
+d type
+compress array d type write dmlc stream
+encod chunk clear
+encod chunk push back
+size buffer size
+encod chunk push back encod chunk back buffer length
+
+write chunk
+write encod chunk
+buffer
+write dmlc begin ptr length
+
+
+
+storag index
+spars page lz4 format spars page format
+
+spars page lz4 format
+
+byte byte valu byte index
+encod byte valu encod byte index
+nthread dmlc get env xgboost decod nthread
+nthread write dmlc get env xgboost compress nthread
+
+spars page lz4 format
+size encod byte byte encod byte valu encod byte index
+byte byte valu byte index
+byte
+consol byte byte
+encod byte encod byte
+ratio encod byte byte
+ratio index encod byte index byte index
+ratio valu encod byte valu byte valu
+
+
+
+read spars page page dmlc seek stream
+read page offset
+check page offset size invalid spars page file
+load index valu
+
+page resiz page offset back
+check index size valu size
+check index size page size
+size page size
+page spars batch entri index index valu
+
+
+
+
+read spars page page
+dmlc seek stream
+vector sort index
+read disk offset
+load index valu
+
+page offset clear
+page offset push back
+sort index
+page offset push back
+page offset back disk offset disk offset
+
+page resiz page offset back
+check index size valu size
+check index size disk offset back
+
+size sort index size
+sort index
+size page offset
+size disk offset
+size disk offset disk offset
+size
+page spars batch entri
+index index valu
+
+
+
+
+
+write spars page page dmlc stream
+check page offset size page offset
+check page offset back page size
+write page offset
+index page index
+write index index
+index resiz page size
+valu resiz page size
+
+size page size
+page index index
+check cast numer limit storag index
+storag index chosen limit smaller equal
+numer limit storag index
+index index
+index cast storag index
+valu page fvalu
+
+
+index init compress chunk k chunk size k max chunk
+valu init compress chunk k chunk size k max chunk
+
+nindex index chunk
+nvalu valu chunk
+ntotal nindex nvalu
+pragma parallel schedul dynam thread nthread write
+ntotal
+nindex
+index compress
+
+valu compress nindex
+
+
+index write
+valu write
+statist
+byte index index raw byte storag index
+byte valu valu raw byte
+encod byte index index encod byte
+encod byte valu valu encod byte
+byte page offset size size
+
+
+load index valu dmlc seek stream
+read index index
+index read
+valu read
+
+nindex index chunk
+nvalu valu chunk
+ntotal nindex nvalu
+pragma parallel schedul dynam thread nthread
+ntotal
+nindex
+index decompress
+
+valu decompress nindex
+
+
+
+
+
+chunk size
+size k chunk size 10 ul
+maximum chunk size
+size k max chunk
+whether
+
+thread
+nthread
+write thread
+nthread write
+byte
+size byte byte index byte valu
+encod byte
+size encod byte index encod byte valu
+brief minimum index valu
+uint32 index
+brief extern memori column offset
+vector size disk offset
+index
+compress array storag index index
+valu
+compress array valu
+
+
+xgboost regist spars page format
+describ appli binari compress memori
+bodi
+spars page lz4 format
+
+
+xgboost regist spars page format lz4hc
+describ appli binari compress high compress ratio memori
+bodi
+spars page lz4 format
+
+
+xgboost regist spars page format lz4i16hc
+describ appli binari compress index mode memori
+bodi
+spars page lz4 format uint16
+
+
+
+xgboost
+
+copyright 2015 contributor
+file custom metric
+brief thi exampl defin plugin xgboost
+thi plugin defin addit metric
+
+xgboost
+dmlc paramet
+xgboost object
+
+xgboost
+
+
+thi help structur defin paramet
+
+http dmlc core readthedoc latest paramet html
+introduct
+my logist param dmlc paramet my logist param
+scale weight
+paramet
+dmlc declar paramet my logist param
+dmlc declar field scale weight lower bound
+describ scale weight neg exampl factor
+
+
+
+dmlc regist paramet my logist param
+
+defin custom logist regress object
+implement
+my logist obj function
+
+configur vector pair arg
+param init allow unknown arg
+
+get gradient vector pred
+meta info info
+iter
+vector gpair gpair
+gpair resiz pred size
+size pred size
+info get weight
+scale neg exampl
+info label param scale weight
+logist transoform
+expf pred
+gradient
+grad info label
+second order gradient
+hess
+gpair gpair grad hess
+
+
+default eval metric
+error
+
+pred transform vector pred
+transform margin valu probabl
+vector pred pred
+size pred size
+pred expf pred
+
+
+prob to margin score
+transform probabl margin valu
+score
+
+
+
+my logist param param
+
+
+final object
+after succe xgboost object mylogist
+xgboost regist object my logist mylogist
+describ user defin logist regress plugin
+bodi my logist
+
+
+xgboost
+
+copyright 2015 contributor
+file dens libsvm
+brief plugin load libsvm fill miss entri zero
+thi plugin mainli use benchmark purpos need includ
+
+xgboost
+dmlc
+memori
+
+dmlc
+
+
+index type
+densifi parser dmlc parser index type
+
+densifi parser dmlc parser index type parser uint32
+parser parser
+
+
+befor first
+parser befor first
+
+
+next
+parser next
+row block index type batch parser valu
+info batch size
+dens index resiz batch size
+dens valu resiz batch size
+fill dens valu dens valu
+offset resiz batch size
+offset
+
+size batch size
+offset
+index type batch
+uint32
+dens index
+
+length
+uint32 index index
+check index
+featuer index larger
+dens valu index valu
+
+
+batch
+index dmlc begin ptr dens index
+valu dmlc begin ptr dens valu
+offset dmlc begin ptr offset
+
+
+
+dmlc row block index type valu
+
+
+
+size byte read
+parser byte read
+
+
+
+row block index type
+uniqu parser index type parser
+uint32
+vector size offset
+vector index type dens index
+vector dens valu
+
+
+index type
+parser index type
+creat dens lib svm parser path
+arg
+part index
+part
+check arg count expect dens libsvm
+densifi parser index type
+parser index type creat path part index part libsvm
+uint32 atoi arg
+
+
+
+dmlc regist data parser uint32 dens libsvm creat dens lib svm parser uint32
+dmlc
+
+copyright 2014 contributor
+licens apach licens version licens
+file complianc licens
+obtain copi licens
+
+http apach licens licens
+unless requir applic agre write softwar
+distribut licens distribut basi
+without warranti condit kind either express impli
+licens specif languag govern permiss
+limit licens
+
+
+xgboost
+xgboost
+xgboost log
+xgboost4j
+cstring
+vector
+
+
+helper function
+handl
+set handl jni env jenv jlong array jhandl handl
+handl
+jenv set long array region jhandl
+
+
+
+java vm nullptr
+
+overrid load
+jint on load java vm reserv
+
+version
+
+
+extern xg boost4j callback data iter next
+data iter handl handl
+xgb callback set data
+data holder handl handl
+jobject jiter cast jobject handl
+jni env jenv
+statu get env jenv version
+statu edetach
+attach current thread reinterpret cast jenv nullptr
+
+check statu
+
+
+jclass iter class jenv find class java util iter
+jmethod id ha next jenv get method id iter class
+ha next
+jmethod id jenv get method id iter class
+ljava lang object
+valu
+jenv call boolean method jiter ha next
+valu
+jobject batch jenv call object method jiter
+jclass batch class jenv get object class batch
+jlong array joffset jlong array jenv get object field
+batch jenv get field id batch class row offset
+jfloat array jlabel jfloat array jenv get object field
+batch jenv get field id batch class label
+jfloat array jweight jfloat array jenv get object field
+batch jenv get field id batch class weight
+jint array jindex jint array jenv get object field
+batch jenv get field id batch class featur index
+jfloat array jvalu jfloat array jenv get object field
+batch jenv get field id batch class featur valu
+xg boost batch csr cbatch
+cbatch size jenv get array length joffset
+cbatch offset jenv get long array element joffset
+jlabel nullptr
+cbatch label jenv get float array element jlabel
+check jenv get array length jlabel cast cbatch size
+batch label length must equal batch num row
+
+cbatch label nullptr
+
+jweight nullptr
+cbatch weight jenv get float array element jweight
+check jenv get array length jweight cast cbatch size
+batch weight length must equal batch num row
+
+cbatch weight nullptr
+
+elem cbatch offset cbatch size
+cbatch index jenv get int array element jindex
+cbatch valu jenv get float array element jvalu
+check jenv get array length jindex elem
+batch index length must equal batch offset back
+check jenv get array length jvalu elem
+batch index length must equal batch offset back
+cbatch readi
+check handl cbatch
+xgb get last error
+releas element
+jenv releas long array element joffset cbatch offset
+jenv delet local ref joffset
+jlabel nullptr
+jenv releas float array element jlabel cbatch label
+jenv delet local ref jlabel
+
+jweight nullptr
+jenv releas float array element jweight cbatch weight
+jenv delet local ref jweight
+
+jenv releas int array element jindex cbatch index
+jenv delet local ref jindex
+jenv releas float array element jvalu cbatch valu
+jenv delet local ref jvalu
+jenv delet local ref batch
+jenv delet local ref batch class
+valu
+
+valu
+
+jenv delet local ref iter class
+detach async call
+statu edetach
+detach current thread
+
+valu
+dmlc error
+detach async call
+statu edetach
+detach current thread
+
+fatal
+
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgb get last error
+signatur ljava lang string
+
+jniexport jstring jnical java dmlc xgboost4j java xg boost jni xgb get last error
+jni env jenv jclass jcl
+jstring jresult
+result xgb get last error
+result
+jresult jenv new string utf result
+
+jresult
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix creat from data iter
+signatur ljava util iter ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix creat from data iter
+jni env jenv jclass jcl jobject jiter jstring jcach info jlong array jout
+d matrix handl result
+cach info nullptr
+jcach info nullptr
+cach info jenv get string utf char jcach info
+
+xgd matrix creat from data iter
+jiter xg boost4j callback data iter next cach info result
+cach info
+jenv releas string utf char jcach info cach info
+
+set handl jenv jout result
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix creat from file
+signatur ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix creat from file
+jni env jenv jclass jcl jstring jfname jint jsilent jlong array jout
+d matrix handl result
+fname jenv get string utf char jfname
+xgd matrix creat from file fname jsilent result
+fname
+jenv releas string utf char jfname fname
+
+set handl jenv jout result
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix creat from csr
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix creat from csr
+jni env jenv jclass jcl jlong array jindptr jint array jindic jfloat array jdata jlong array jout
+d matrix handl result
+jlong indptr jenv get long array element jindptr
+jint indic jenv get int array element jindic
+jfloat jenv get float array element jdata
+nindptr jenv get array length jindptr
+nelem jenv get array length jdata
+jint xgd matrix creat from csr indptr indic nindptr nelem result
+set handl jenv jout result
+releas
+jenv releas long array element jindptr indptr
+jenv releas int array element jindic indic
+jenv releas float array element jdata
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix creat from csc
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix creat from csc
+jni env jenv jclass jcl jlong array jindptr jint array jindic jfloat array jdata jlong array jout
+d matrix handl result
+jlong indptr jenv get long array element jindptr
+jint indic jenv get int array element jindic
+jfloat jenv get float array element jdata
+nindptr jenv get array length jindptr
+nelem jenv get array length jdata
+
+jint xgd matrix creat from csc indptr indic nindptr nelem result
+set handl jenv jout result
+releas
+jenv releas long array element jindptr indptr
+jenv releas int array element jindic indic
+jenv releas float array element jdata
+
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix creat from mat
+signatur fiif
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix creat from mat
+jni env jenv jclass jcl jfloat array jdata jint jnrow jint jncol jfloat jmiss jlong array jout
+d matrix handl result
+jfloat jenv get float array element jdata
+nrow jnrow
+ncol jncol
+jint xgd matrix creat from mat nrow ncol jmiss result
+set handl jenv jout result
+releas
+jenv releas float array element jdata
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix slice d matrix
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix slice d matrix
+jni env jenv jclass jcl jlong jhandl jint array jindexset jlong array jout
+d matrix handl result
+d matrix handl handl d matrix handl jhandl
+
+jint indexset jenv get int array element jindexset
+jenv get array length jindexset
+
+xgd matrix slice d matrix handl indexset result
+set handl jenv jout result
+releas
+jenv releas int array element jindexset indexset
+
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix free
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix free
+jni env jenv jclass jcl jlong jhandl
+d matrix handl handl d matrix handl jhandl
+xgd matrix free handl
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix save binari
+signatur j ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix save binari
+jni env jenv jclass jcl jlong jhandl jstring jfname jint jsilent
+d matrix handl handl d matrix handl jhandl
+fname jenv get string utf char jfname
+xgd matrix save binari handl fname jsilent
+fname jenv releas string utf char jfname fname
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix set float info
+signatur j ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix set float info
+jni env jenv jclass jcl jlong jhandl jstring jfield jfloat array jarray
+d matrix handl handl d matrix handl jhandl
+field jenv get string utf char jfield
+
+jfloat jenv get float array element jarray
+jenv get array length jarray
+xgd matrix set float info handl field
+releas
+field jenv releas string utf char jfield field
+jenv releas float array element jarray
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix set u int info
+signatur j ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix set u int info
+jni env jenv jclass jcl jlong jhandl jstring jfield jint array jarray
+d matrix handl handl d matrix handl jhandl
+field jenv get string utf char jfield
+jint jenv get int array element jarray
+jenv get array length jarray
+xgd matrix set u int info handl field
+releas
+field jenv releas string utf char jfield field
+jenv releas int array element jarray
+
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix set group
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix set group
+jni env jenv jclass jcl jlong jhandl jint array jarray
+d matrix handl handl d matrix handl jhandl
+jint jenv get int array element jarray
+jenv get array length jarray
+xgd matrix set group handl
+releas
+jenv releas int array element jarray
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix get float info
+signatur j ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix get float info
+jni env jenv jclass jcl jlong jhandl jstring jfield jobject array jout
+d matrix handl handl d matrix handl jhandl
+field jenv get string utf char jfield
+
+result
+xgd matrix get float info handl field result
+field jenv releas string utf char jfield field
+
+jsize jlen jsize
+jfloat array jarray jenv new float array jlen
+jenv set float array region jarray jlen jfloat result
+jenv set object array element jout jobject jarray
+
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix get u int info
+signatur j ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix get u int info
+jni env jenv jclass jcl jlong jhandl jstring jfield jobject array jout
+d matrix handl handl d matrix handl jhandl
+field jenv get string utf char jfield
+
+result
+jint xgd matrix get u int info handl field result
+field jenv releas string utf char jfield field
+
+jsize jlen jsize
+jint array jarray jenv new int array jlen
+jenv set int array region jarray jlen jint result
+jenv set object array element jout jarray
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xgd matrix num row
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xgd matrix num row
+jni env jenv jclass jcl jlong jhandl jlong array jout
+d matrix handl handl d matrix handl jhandl
+result
+jint xgd matrix num row handl result
+jenv set long array region jout jlong result
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster creat
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster creat
+jni env jenv jclass jcl jlong array jhandl jlong array jout
+vector d matrix handl handl
+jhandl nullptr
+size jenv get array length jhandl
+jlong cjhandl jenv get long array element jhandl
+size
+handl push back d matrix handl cjhandl
+
+jenv releas long array element jhandl cjhandl
+
+booster handl result
+xg booster creat dmlc begin ptr handl handl size result
+set handl jenv jout result
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster free
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster free
+jni env jenv jclass jcl jlong jhandl
+booster handl handl booster handl jhandl
+xg booster free handl
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster set param
+signatur j ljava lang string ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster set param
+jni env jenv jclass jcl jlong jhandl jstring jname jstring jvalu
+booster handl handl booster handl jhandl
+name jenv get string utf char jname
+valu jenv get string utf char jvalu
+xg booster set param handl name valu
+releas
+name jenv releas string utf char jname name
+valu jenv releas string utf char jvalu valu
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster updat one iter
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster updat one iter
+jni env jenv jclass jcl jlong jhandl jint jiter jlong jdtrain
+booster handl handl booster handl jhandl
+d matrix handl dtrain d matrix handl jdtrain
+xg booster updat one iter handl jiter dtrain
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster boost one iter
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster boost one iter
+jni env jenv jclass jcl jlong jhandl jlong jdtrain jfloat array jgrad jfloat array jhess
+booster handl handl booster handl jhandl
+d matrix handl dtrain d matrix handl jdtrain
+jfloat grad jenv get float array element jgrad
+jfloat hess jenv get float array element jhess
+jenv get array length jgrad
+xg booster boost one iter handl dtrain grad hess
+releas
+jenv releas float array element jgrad grad
+jenv releas float array element jhess hess
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster eval one iter
+signatur ljava lang string ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster eval one iter
+jni env jenv jclass jcl jlong jhandl jint jiter jlong array jdmat jobject array jevnam jobject array jout
+booster handl handl booster handl jhandl
+vector d matrix handl dmat
+vector evnam
+vector evchar
+
+size cast size jenv get array length jdmat
+handl jhandl chandl
+jlong cjdmat jenv get long array element jdmat
+size
+dmat push back d matrix handl cjdmat
+jstring jevnam jstring jenv get object array element jevnam
+jenv get string utf char jevnam
+evnam push back jenv get string length jevnam
+nullptr jenv releas string utf char jevnam
+
+jenv releas long array element jdmat cjdmat
+size
+evchar push back evnam
+
+result
+xg booster eval one iter handl jiter
+dmlc begin ptr dmat
+dmlc begin ptr evchar
+result
+jstring jinfo nullptr
+result nullptr
+jinfo jenv new string utf result
+
+jenv set object array element jout jinfo
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster predict
+signatur jjij
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster predict
+jni env jenv jclass jcl jlong jhandl jlong jdmat jint joption mask jint jntree limit jobject array jout
+booster handl handl booster handl jhandl
+d matrix handl dmat d matrix handl jdmat
+
+result
+xg booster predict handl dmat joption mask jntree limit result
+
+jsize jlen jsize
+jfloat array jarray jenv new float array jlen
+jenv set float array region jarray jlen jfloat result
+jenv set object array element jout jarray
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster load model
+signatur j ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster load model
+jni env jenv jclass jcl jlong jhandl jstring jfname
+booster handl handl booster handl jhandl
+fname jenv get string utf char jfname
+
+xg booster load model handl fname
+fname jenv releas string utf char jfname fname
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster save model
+signatur j ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster save model
+jni env jenv jclass jcl jlong jhandl jstring jfname
+booster handl handl booster handl jhandl
+fname jenv get string utf char jfname
+
+xg booster save model handl fname
+fname jenv releas string utf char jfname fname
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster load model from buffer
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster load model from buffer
+jni env jenv jclass jcl jlong jhandl jbyte array jbyte
+booster handl handl booster handl jhandl
+jbyte buffer jenv get byte array element jbyte
+xg booster load model from buffer
+handl buffer jenv get array length jbyte
+jenv releas byte array element jbyte buffer
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster get model raw
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster get model raw
+jni env jenv jclass jcl jlong jhandl jobject array jout
+booster handl handl booster handl jhandl
+
+result
+xg booster get model raw handl result
+
+result
+jbyte array jarray jenv new byte array
+jenv set byte array region jarray jbyte result
+jenv set object array element jout jarray
+
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster dump model
+signatur j ljava lang string ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster dump model
+jni env jenv jclass jcl jlong jhandl jstring jfmap jint jwith stat jobject array jout
+booster handl handl booster handl jhandl
+fmap jenv get string utf char jfmap
+
+result
+
+xg booster dump model handl fmap jwith stat result
+
+jsize jlen jsize
+jobject array jinfo jenv new object array jlen jenv find class java lang string jenv new string utf
+jlen
+jenv set object array element jinfo jenv new string utf result
+
+jenv set object array element jout jinfo
+
+fmap jenv releas string utf char jfmap fmap
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster load rabit checkpoint
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster load rabit checkpoint
+jni env jenv jclass jcl jlong jhandl jint array jout
+booster handl handl booster handl jhandl
+version
+xg booster load rabit checkpoint handl version
+jenv set int array region jout version
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method xg booster save rabit checkpoint
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni xg booster save rabit checkpoint
+jni env jenv jclass jcl jlong jhandl
+booster handl handl booster handl jhandl
+xg booster save rabit checkpoint handl
+
+
+
+class dmlc xgboost4j java xg boost jni
+method rabit init
+signatur ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni rabit init
+jni env jenv jclass jcl jobject array jarg
+vector arg
+vector argv
+jenv get array length jarg
+
+jstring jstring jenv get object array element jarg
+jenv get string utf char
+arg push back jenv get string length
+nullptr jenv releas string utf char
+arg back length arg back
+
+
+size arg size
+argv push back arg
+
+
+rabit init arg size dmlc begin ptr argv
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method rabit final
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni rabit final
+jni env jenv jclass jcl
+rabit final
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method rabit tracker print
+signatur ljava lang string
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni rabit tracker print
+jni env jenv jclass jcl jstring jmsg
+jenv get string utf char jmsg
+jenv get string length jmsg
+rabit tracker print
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method rabit get rank
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni rabit get rank
+jni env jenv jclass jcl jint array jout
+rank rabit get rank
+jenv set int array region jout rank
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method rabit get world size
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni rabit get world size
+jni env jenv jclass jcl jint array jout
+rabit get world size
+jenv set int array region jout
+
+
+
+
+class dmlc xgboost4j java xg boost jni
+method rabit version number
+signatur
+
+jniexport jint jnical java dmlc xgboost4j java xg boost jni rabit version number
+jni env jenv jclass jcl jint array jout
+rabit version number
+jenv set int array region jout
+
+

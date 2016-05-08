@@ -1,0 +1,546 @@
+lotu version
+lotu applic
+
+lotu
+
+hanami version
+hanami applic
+hanami contain
+hanami environ
+hanami server
+
+complet framework rubi
+
+sinc
+
+http hanamirb
+hanami
+default public directori freez
+
+return root project level directori
+
+pathnam root path
+
+sinc
+
+exampl
+hanami root pathnam user luca code bookshelf
+root
+environ root
+
+
+directori
+root join default public directori
+
+
+return current environ
+
+string current environ
+
+sinc
+
+hanami environ environ
+
+exampl
+hanami develop
+
+environ environ
+
+
+check specifi environ match current environ
+
+multipl name given return least
+match current environ
+
+true class fals class result check
+
+sinc
+
+hanami
+
+exampl singl name
+put hanami develop
+
+hanami develop
+hanami develop
+
+hanami product
+
+exampl multipl name
+put hanami develop
+
+hanami develop test
+hanami product stage
+name
+environ environ name
+
+
+return environ
+
+hanami environ environ
+
+
+sinc
+environ
+environ
+
+
+rel lotu
+thread
+pathnam
+dotenv
+lotu util hash
+
+lotu
+defin expos inform lotu environ
+
+sinc
+
+environ
+standard rack
+
+sinc
+
+rack rack freez
+
+standard lotu
+
+sinc
+
+lotu lotu freez
+
+default lotu environ
+
+sinc
+
+default develop freez
+
+default file name
+
+sinc
+
+default dotenv freez
+
+default environ file name
+
+sinc
+
+default dotenv freez
+
+default configur directori applic root
+
+sinc
+
+default config config freez
+
+standard lotu host
+
+sinc
+
+lotu host lotu host freez
+
+default http host
+
+sinc
+
+default host localhost freez
+
+default address listen
+
+sinc
+
+listen host freez
+
+standard lotu port
+
+sinc
+
+lotu port lotu port freez
+
+default lotu http port
+
+sinc
+
+default port 2300
+
+default rack configur file
+
+sinc
+
+default rackup config freez
+
+default environ configur file
+
+sinc
+
+default environ config environ freez
+
+code reload environ
+
+sinc
+
+code reload develop freez
+
+initi lotu environ
+
+accept option configur command
+those set overrid default defin object
+
+when initi set standard variabl rack lotu
+rack lotu
+
+also evalu configur environ
+locat config directori set file
+export variabl
+
+format file compat dotenv foreman
+gem
+
+param option hash overrid option variou environ
+attribut
+
+lotu environ environ
+
+lotu command consol
+lotu command rout
+lotu command server
+lotu environ config
+
+exampl defin variabl
+
+tree config
+config
+
+develop
+environ
+
+config
+
+
+
+config develop
+
+
+lotu environ
+
+lotu environ
+environ develop
+
+framework defin var
+lotu develop
+rack develop
+
+lotu host localhost
+lotu port 2300
+
+user defin var
+
+
+
+lotu environ evalu first master configur
+then evalu develop current environ
+develop set defin last file overrid
+defin parent overwritten
+set left untouch
+initi option
+option util hash option symbol freez
+mutex mutex
+mutex synchron var
+
+
+current environ
+
+order decid valu look follow var
+
+lotu
+rack
+
+miss fall back defalt develop
+
+string current environ
+
+sinc
+
+lotu environ default
+environ
+environ lotu rack default
+
+
+bundler group
+
+array group
+
+sinc
+
+
+http bundler group html
+bundler group
+environ
+
+
+applic root
+
+default current work directori
+lotu assum command execut
+
+pathnam applic root
+
+sinc
+root
+root pathnam
+
+
+applic config directori
+
+applic configur store
+
+order decid valu look follow sourc
+
+option config
+
+miss fall back config
+
+when rel path given option assum locat
+applic root absolut path use
+
+pathnam config directori
+
+sinc
+
+lotu environ default config
+lotu environ root
+config
+config root join option fetch config default config
+
+
+http host name
+
+order decid valu look follow sourc
+
+option host
+lotu host
+
+miss fall back follow default
+
+localhost develop
+environ
+
+string http host name
+
+sinc
+
+lotu environ default host
+lotu environ listen host
+host
+host option fetch host
+lotu host host
+
+
+
+http port
+
+order decid valu look follow sourc
+
+option port
+lotu port
+
+miss fall back 2300
+
+integ port
+
+sinc
+
+lotu environ default port
+port
+port option fetch port lotu port default port
+
+
+path rack configur file
+
+order decid valu look follow sourc
+
+option rackup
+
+miss fall back config
+
+when rel path given option assum locat
+applic root absolut path use
+
+pathnam path rack configur file
+
+sinc
+rackup
+root join option fetch rackup default rackup
+
+
+path environ configur file
+
+order decid valu look follow sourc
+
+option environ
+
+miss fall back
+config environ
+
+when rel path given option assum locat
+applic root absolut path use
+
+pathnam path applic
+
+sinc
+
+lotu environ default environ config
+config
+root join option fetch environ config join default environ config
+
+
+determin activ code reload current environ
+run server
+
+order decid valu look follow sourc
+
+option code reload
+
+miss fall back follow default
+
+develop
+environ
+
+true class fals class result check
+
+sinc
+
+lotu command server
+lotu environ code reload
+code reload
+option fetch code reload code reload environ
+
+
+serial relev set hash
+
+lotu util hash
+
+sinc
+
+option
+option merg
+environ environ
+config config
+rackup rackup
+host host
+port port
+
+
+
+
+
+sinc
+
+var
+lotu var
+applic var
+
+
+sinc
+
+lotu var
+lotu rack environ
+lotu host host
+lotu port port
+
+
+sinc
+
+applic var
+dotenv load config join default dotenv
+dotenv overload config join default dotenv environ
+
+
+sinc
+
+host
+environ default default host listen host
+
+
+
+pathnam
+
+lotu
+configur
+initi
+instanc
+
+
+rout
+block given
+rout
+
+rout
+
+
+
+root valu
+valu
+root pathnam valu realpath
+
+root
+
+
+
+exclud load path valu
+valu
+exclud load path valu
+
+exclud load path featur spec test vendor
+
+
+
+control suffix valu
+valu
+control suffix valu
+
+control suffix control
+
+
+
+control valu
+valu
+control valu
+
+control control suffix control suffix
+
+
+
+view valu
+valu
+view valu
+
+view view
+
+
+
+view suffix valu
+valu
+view suffix valu
+
+view suffix view
+
+
+
+templat prefix valu
+valu
+templat prefix valu
+
+templat prefix view
+
+
+
+templat suffix valu
+valu
+templat suffix valu
+
+templat suffix templat
+
+
+
+

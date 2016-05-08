@@ -1,0 +1,13410 @@
+python
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+
+
+setuptool setup find packag
+setuptool command test test test command
+
+
+py test test command
+final option
+test command final option
+test arg build pygal
+test suit
+
+test
+caus outsid egg load
+pytest
+errno pytest main test arg
+errno
+
+
+root path dirnam file
+
+explicitli specifi encod pygal init
+kwarg
+version info
+kwarg encod
+
+open path join root pygal init kwarg
+version search version read group
+
+setup
+name pygal
+version version
+descript python graph plot librari
+author kozea
+http pygal
+author email florian mounier kozea
+licens lgpl
+platform
+packag find packag
+provid pygal
+script pygal
+keyword
+chart graph diagram plot histogram kiviat
+test pytest pyqueri flask cairosvg
+cmdclass test py test
+pygal graph map
+extra
+lxml lxml
+cairosvg
+
+
+classifi
+develop statu beta
+environ consol
+intend audienc user desktop
+licens approv
+lesser gener public licens later lgp lv3
+oper system independ
+program languag python
+program languag python
+topic multimedia graphic present
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+pygal chart chart name
+pygal test adapt
+pygal etre etre
+random sampl
+
+timeit
+
+
+
+size 1000
+
+rand
+sampl rang 1000 1000
+sampl rang 1000 1000
+
+
+perf chart name length seri
+chart chart name chart name
+rang seri
+chart adapt chart rand length
+chart
+
+bench argv
+bench
+
+
+
+
+
+stdout write
+
+bench
+
+
+stdout write
+stdout flush
+
+
+
+
+profil argv
+c profil
+perf line
+c profil render
+
+
+argv
+
+
+psutil
+linecach
+getpid
+process psutil process
+
+debug
+debug uncollect debug instanc debug object
+
+
+process memori info
+getfram
+line linecach getlin
+code filenam lineno replac
+
+code name lineno line
+
+perf line
+
+render
+
+objgraph
+objgraph show ref filenam sampl graph
+collect
+
+garbag
+
+
+
+
+
+
+
+
+
+chart chart argv line
+
+impl lxml etre
+impl lxml
+etre lxml
+
+etre etre
+
+chart chart
+chart
+t100
+version split
+hasattr subvers
+subvers
+impl
+
+chart
+chart
+
+bench
+diag
+seri size
+seri
+length size
+time
+seri length bench
+time timeit timeit
+render
+setup main perf
+perf
+chart length seri
+
+seri length
+diag append 1000 time
+1000 time
+repr diag
+
+
+python
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+argpars
+pygal
+
+parser argpars argument parser
+descript gener pygal chart command line
+prog pygal
+
+parser argument dest line
+choic name pygal chart
+help kind chart gener
+
+parser argument output dest filenam pygal
+help filenam write
+
+parser argument seri dest seri narg action append
+help seri form titl val1 val2
+
+parser argument version action version
+version pygal pygal version
+
+pygal config config item
+name name
+valu
+opt
+
+opt subtyp
+opt narg
+
+opt
+
+opt
+opt
+opt action store store
+
+name name
+name interpol
+opt choic pygal interpol interpol key
+parser argument
+name dest name opt
+
+config parser pars arg
+
+chart getattr pygal config var config
+
+seri config seri
+chart seri seri
+
+chart render file config filenam
+python
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+cabaret creat
+log
+creat
+
+
+color make color stream handler
+handler make color stream handler
+logger handler
+logger add handler handler
+werkzeug
+werkzeug debug stupid
+log get logger werkzeug handler
+log get logger werkzeug add handler handler
+
+handler set level log debug
+logger set level log debug
+log get logger werkzeug set level log debug
+
+
+
+
+
+wsreload
+import error
+logger debug wsreload found
+
+http cabaret 12221
+
+httpserver
+logger debug ws reload server restart
+wsreload monkey patch http server callback
+logger debug http server monkey patch
+
+
+wdb middlewar builtin
+import error
+
+
+builtin
+wsgi wdb middlewar wsgi start disabl
+
+name main
+debug thread host port 12221
+python
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+moulinroug creat
+log
+creat
+
+
+color make color stream handler
+handler make color stream handler
+logger handler
+logger add handler handler
+werkzeug
+werkzeug debug stupid
+log get logger werkzeug handler
+log get logger werkzeug add handler handler
+
+handler set level log debug
+logger set level log debug
+log get logger werkzeug set level log debug
+
+
+
+
+wdb middlewar builtin
+import error
+
+
+builtin
+wsgi wdb middlewar wsgi start disabl
+
+debug thread host port 21112
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+flask flask render request jsonifi
+pygal chart name
+pygal graph chart name
+pygal config config item
+pygal interpol interpol
+pygal style style
+json load
+time time
+
+
+creat
+creat pygal test
+
+flask name
+
+rout
+index
+render
+index jinja2 chart name chart name config config item
+interpol interpol style name style key
+
+rout method post
+
+valu request valu
+config load valu opt
+config disabl declar
+config style style valu style
+config
+item config item
+valu config item name
+valu
+config item name item coerc valu
+chart chart name valu config
+seri load valu val val
+chart seri seri
+time
+chart render
+time 1000
+jsonifi time
+
+
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+label aursautrauia
+dpvluiqhu enui
+nanan
+3023 98120398
+éàéç€®ð
+seri
+femal
+male
+
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+flask flask render respons request
+pygal
+pygal config config
+pygal util
+pygal etre etre
+pygal style style parametr style
+base64
+urlsaf b64encod b64encod
+urlsaf b64decod b64decod
+
+random
+pickl
+
+
+
+importlib
+join split
+name split
+getattr name
+
+
+random label
+char ascii letter digit àéèçêâäëï
+join
+random choic char
+rang random randrang
+
+
+random valu
+random randrang
+
+
+creat
+creat pygal test
+
+flask name
+
+request
+request
+request arg etre
+etre etre
+request arg lxml
+etre lxml
+
+random order
+order
+random randrang order
+
+seri
+rang random randrang
+valu
+random valu random randrang
+random valu random randrang
+rang
+seri append random label valu
+seri
+
+random seri order
+order
+random randrang order
+secondari random randint
+seri
+rang random randrang
+
+valu random valu
+
+valu
+random valu random randrang
+random valu random randrang
+rang
+
+valu random valu random randrang
+rang
+config
+secondari secondari random randint
+
+seri append random label valu config
+seri
+
+test test rout
+link test rout
+
+rout
+index
+render
+index jinja2 style style parametr style parametr style
+parametr color
+ff5995 b6e354 feed6c 8cedff 9e6ff
+link link chart name pygal chart name
+
+rout seri config
+seri config
+graph
+pickl load b64decod config
+titl valu seri config pickl load
+b64decod seri
+graph titl valu seri config
+graph render respons
+
+rout tabl seri config
+tabl seri config
+graph pickl load b64decod config
+titl valu seri config pickl load
+b64decod seri
+graph titl valu seri config
+graph render tabl
+
+rout sparklin style
+rout sparklin paramer style color
+sparklin style color
+color
+style style style
+
+style parametr style style color
+
+line pygal line style style pretti
+line random randrang rang
+respons
+line render sparklin height mimetyp imag
+
+rout tabl
+tabl
+chart pygal stack bar
+disabl declar
+label rotat
+chart titl
+what linux distro primarili
+server comput desktop
+user server user
+
+seri
+chart debian 1775
+chart ubuntu 1515
+chart cent os
+chart arch linux
+chart enterpris linux
+chart gentoo
+chart fedora
+chart amazon linux
+chart open suse
+chart slackwar
+chart xubuntu
+chart rasbian
+chart suse linux enterpris server
+chart linux mint
+chart scientif linux
+chart other
+
+label
+chart label
+debian ubuntu cent os arch linux
+enterpris linux gentoo fedora amazon linux
+open suse slackwar xubuntu rasbian
+suse linux enterpris server linux mint
+scientif linux other
+chart desktop user
+1775 1515
+
+
+chart server user
+
+
+
+render tabl jinja2 chart chart
+
+rout
+rout style
+rout style color
+rout style color style
+rout interpol interpol
+style color interpol style
+width height
+random randrang
+order random randrang
+color
+style style style
+
+style parametr style style
+color style style style
+
+seri random order
+seri
+titl valu config seri
+seri append
+titl valu config
+seri b64encod pickl dump seri
+seri b64encod pickl dump seri
+config config
+config width width
+config height height
+config fill random randrang
+config interpol interpol
+config style style
+svg
+chart pygal chart
+join chart chart name
+chart dual
+config label
+
+config label random label rang
+svg append
+seri seri chart dual seri
+config b64encod pickl dump config
+
+render svg jinja2
+svg svg
+width width
+height height
+
+rout rotat
+rotat
+width height
+config config
+config width width
+config height height
+config fill
+config style style neon
+random randrang
+order random randrang
+seri b64encod pickl dump random seri order
+label random label rang
+svg
+config show legend random randrang
+angl rang
+config titl rotat angl
+config label label
+config label rotat angl
+config label rotat angl
+svg append pygal
+seri seri
+config b64encod pickl dump config
+
+render svg jinja2
+svg svg
+width width
+height height
+
+rout interpol
+interpol
+width height
+config config
+config width width
+config height height
+config fill
+config style style neon
+random randrang
+order random randrang
+seri b64encod pickl dump random seri order
+svg
+interpol quadrat cubic lagrang trigonometr
+config titl interpol interpol
+config interpol interpol
+svg append pygal stack line
+seri seri
+config b64encod pickl dump config
+
+
+catmul
+finit differ
+cardin
+cardin
+cardin
+cardin
+cardin
+cardin
+kochanek bartel
+kochanek bartel
+kochanek bartel
+kochanek bartel
+kochanek bartel
+kochanek bartel
+kochanek bartel
+
+config titl hermit interpol
+config interpol hermit
+config interpol paramet
+svg append pygal stack line
+seri seri
+config b64encod pickl dump config
+
+render svg jinja2
+svg svg
+width width
+height height
+
+rout svg
+svg
+svg
+color style neon color
+chart pygal style parametr style rotat color
+width height
+chart titl color
+chart disabl declar
+chart size
+chart http 2343 pygal tooltip
+rang
+chart
+svg append chart render
+render svg jinja2 svg svg
+
+
+code
+thi file part pygal
+pygal
+gaug pyramid funnel stack bar stack line
+chart name config line histogram
+treemap time line date line radar horizont bar
+date time line solid gaug
+
+
+pygal map world
+import error
+world
+
+
+pygal map
+import error
+
+
+
+pygal map
+import error
+
+
+flask abort
+pygal style style style rotat style
+pygal color rotat
+pygal stat formatt
+pygal graph horizont horizont graph
+random randint choic
+datetim datetim date
+
+
+test rout
+
+valu
+xlink javascript alert test
+label
+
+rout test unsort
+test unsort
+style style neon valu formatt formatt human readabl
+green blue
+green blue
+blue
+
+blue
+label green blue
+render respons
+
+rout test link
+test link
+stack line style style
+font famili googlefont raleway
+http 2343 pygal tooltip
+titl such chart
+titl mani label
+titl much label
+dynam valu
+
+seri
+valu
+label
+xlink http googl
+valu
+label twenti good yada yada
+yadaaaaaaaaaaaaaaaaaaaaaa
+xlink http googl
+
+valu
+label forti
+xlink http googl
+
+
+blue seri
+valu
+label thirti
+xlink http googl
+
+label yesterday today
+tomorrow someday
+logarithm
+zero
+render respons
+
+rout test link
+test link
+style style neon interpol cubic
+1234
+valu
+label
+xlink http googl
+valu
+tooltip twenti
+xlink http googl
+
+valu
+label forti
+xlink http googl
+
+
+4321
+valu
+label thirti
+xlink http googl
+
+label rang
+label rang
+render respons
+
+rout test titl
+test titl
+
+looooooooooooooooooooooooooooooooooong
+titl
+1234 12345 123456 1234567 12345678 123456789 1234567890
+12345678901 123456789012 1234567890123 12345678901234
+123456789012345 1234567890123456 12345678901234567
+123456789012345678 1234567890123456789 12345678901234567890
+123456789012345 1234567890123456 12345678901234567
+12345678901 123456789012 1234567890123 12345678901234
+1234 12345 123456 1234567 12345678 123456789 1234567890
+render respons
+
+rout test multilin titl
+test multilin titl
+
+looooooooooooooooooooooooooooooooooong
+titl
+first line second line third line
+
+render respons
+
+rout test label
+test label
+
+long
+titl
+1234 12345 123456 1234567 12345678 123456789 1234567890
+label
+label rotat
+render respons
+
+rout test none
+test none
+
+
+label rang
+render respons
+
+rout test valu chart
+test valu chart
+graph chart name chart
+valu label zero
+style style
+valu font famili googlefont raleway
+valu color blue green
+
+graph http 2343 pygal tooltip
+rang
+graph
+valu
+label abcdefghijklmnopqrstuvwxyz
+rang
+graph render respons
+
+rout test treemap
+test treemap
+treemap treemap style rotat style ff5995 opac
+valu font size
+valu color ffffff
+treemap titl binari tree map
+treemap valu
+treemap label
+rang
+treemap label area valu
+treemap
+treemap
+treemap
+treemap
+treemap
+treemap
+
+treemap
+treemap
+treemap
+treemap render respons
+
+rout test gaug
+test gaug
+gaug gaug
+
+gaug rang
+gaug need
+gaug need
+gaug need
+gaug
+gaug label
+label
+valu
+label
+valu
+
+gaug render respons
+
+rout test solidgaug
+test solidgaug
+gaug solid gaug half
+inner radiu
+valu
+human readabl
+gaug titl hello world
+percent formatt format
+dollar formatt format
+gaug valu formatt percent formatt
+
+gaug seri valu 225000 valu 1275000
+formatt dollar formatt
+gaug seri valu valu
+gaug seri valu
+gaug
+seri
+valu valu
+valu valu
+gaug seri valu valu
+gaug seri
+gaug seri valu valu
+gaug render respons
+
+rout test gaug
+test gaug
+gaug gaug logarithm
+
+gaug need
+gaug need 1000
+gaug render respons
+
+rout test pyramid
+test pyramid
+pyramid pyramid
+
+pyramid label
+pyramid singl
+pyramid woman singl
+pyramid mari
+pyramid woman mari
+
+pyramid render respons
+
+rout test funnel
+test funnel
+funnel funnel
+
+funnel
+funnel
+funnel
+funnel
+
+funnel render respons
+
+rout test
+test
+logarithm
+label rang
+
+
+
+babar
+
+render respons
+
+rout test chart
+test chart
+graph chart name chart
+graph
+graph
+graph
+graph
+graph label
+graph label rotat
+graph render respons
+
+rout test chart
+test chart
+graph chart name chart
+graph
+graph label
+graph render respons
+
+rout test xytitl chart
+test titl chart
+graph chart name chart
+graph titl titl
+graph titl titl
+graph titl titl
+graph seri
+graph seri
+graph secondari
+graph label rotat
+graph legend bottom
+graph label
+first point second point third point
+graph render respons
+
+rout test chart
+test chart
+graph chart name chart
+graph empti
+graph empti
+graph label
+graph titl 123456789
+graph render respons
+
+rout test singl
+test singl
+graph interpol cubic
+graph singl
+graph render respons
+
+rout test chart
+test chart
+graph chart name chart
+graph render respons
+
+rout test interpol chart
+test interpol chart
+graph chart name chart interpol lagrang
+interpol paramet
+kochanek bartel
+
+
+
+graph
+graph
+graph render respons
+
+rout test logarithm chart
+test logarithm chart
+graph chart name chart logarithm
+isinst graph chart name
+graph
+1000000 1231
+
+graph 10000
+graph 2379 1231
+graph label
+graph label rotat
+graph render respons
+
+rout test zero chart
+rout test zero zero chart
+test zero chart zero
+graph chart name chart fill zero zero
+graph
+graph
+graph render respons
+
+rout test rang chart
+test rang chart
+graph chart name chart
+graph rang
+graph
+graph render respons
+
+rout test fill none
+test fill none
+graph fill
+graph
+graph
+graph render respons
+
+rout test neg chart
+test neg chart
+graph chart name chart
+graph
+graph render respons
+
+rout test
+test
+dynam valu show minor label
+
+
+label
+label major
+render respons
+
+rout test formatt chart
+test formatt chart
+chart chart name chart
+valu formatt chart seri
+seri titl
+chart valu formatt
+chart formatt
+chart label
+chart label major
+chart render respons
+
+rout test posit
+test valu posit
+stack bar
+valu valu posit zero
+style style
+valu font famili googlefont raleway
+valu font size
+
+
+label
+label major
+render respons
+
+rout test histogram
+test histogram
+hist histogram
+valu
+valu posit
+style style neon
+hist
+
+
+
+
+
+hist
+hist label
+hist render respons
+
+rout test ylabel
+test ylabel
+chart
+chart label blue green
+chart label
+valu 0001
+label
+valu 0003
+label rofl
+valu 0004
+label
+valu 00045
+label lmfao
+valu 0005
+label gmcb
+chart line 0002 0005 00035
+chart render respons
+
+rout test secondari chart
+test secondari chart
+chart chart name chart fill
+chart titl
+chart label
+chart label rotat
+chart label rotat
+chart
+chart secondari
+chart secondari
+chart
+chart
+chart secondari
+chart render respons
+
+rout test secondari
+test secondari
+chart
+chart
+chart secondari
+chart secondari
+chart
+chart valu formatt
+chart render respons
+
+rout test
+test
+chart
+chart http 2343 pygal tooltip
+chart mode 5 iqr
+chart
+chart
+chart three
+chart four
+chart five
+chart label rang
+chart render respons
+
+rout test stack
+test stack
+stack stack line stack logarithm
+stack
+stack
+stack label
+stack render respons
+
+rout test stack revers
+test stack revers
+stack stack bar stack
+stack
+stack
+stack render respons
+
+rout test show dot
+test show dot
+line line show dot
+line
+line
+line render respons
+
+rout test config
+test config
+
+lol config config
+http 2343 pygal tooltip
+
+stack stack bar lol config
+stack
+stack beauti seri 2019
+stack render respons
+
+rout test datelin
+test datelin
+datelin date line label rotat
+datelin label
+date 2013
+date 2013
+date 2014
+date 2014
+date 2015
+date 2015
+
+datelin label major
+date 2013
+date 2015
+
+datelin seri
+date 2013
+date 2013
+date 2013
+date 2014
+date 2014
+date 2015
+
+datelin render respons
+
+rout test timelin
+test timexi
+datetim time
+timelin time line
+timelin
+time
+time
+time
+
+timelin
+time time time
+timelin label rotat
+timelin render respons
+
+rout test worldmap
+test worldmap
+wmap world world valu style choic style valu
+wmap http 2343 pygal tooltip
+wmap
+valu
+node style fill
+
+
+wmap
+wmap
+wmap
+wmap
+valu
+label first label
+xlink http googl
+
+valu
+label second
+xlink http googl
+node style fill blue
+
+valu
+label last
+
+wmap
+wmap
+wmap
+wmap titl world
+wmap valu formatt
+wmap render respons
+
+rout test supran
+test supran
+wmap world supran world style choic style valu
+
+europ
+oceania
+antartica
+south america
+africa
+north america
+asia
+
+wmap seri metadata
+
+valu
+valu label three
+valu xlink http exampl
+valu xlink http exampl label five
+valu xlink
+href http exampl label
+valu xlink
+href http exampl
+target blank label seven
+
+wmap asia asia
+wmap europ europ
+wmap africa africa
+wmap north america north america
+wmap south america south america
+wmap oceania oceania
+wmap antartica antartica
+
+wmap titl supra world
+wmap render respons
+
+rout test frenchmapdepart
+test frenchmapdepart
+
+abort
+fmap depart style choic style valu
+fmap rang
+fmap rang
+fmap
+fmap titl french
+fmap render respons
+
+rout test swissmap
+test swissmap
+smap canton style choic style valu
+rang
+smap
+choic canton key randint
+rang randint
+
+smap link
+valu
+label
+xlink http googl
+
+valu
+label
+
+smap
+smap titl swiss
+smap render respons
+
+rout test frenchmapregion
+test frenchmapregion
+
+abort
+fmap region style choic style valu
+rang
+fmap
+choic region key randint
+rang randint
+
+fmap link
+valu
+label
+xlink http googl
+
+valu
+label
+
+fmap
+fmap titl french
+fmap render respons
+
+rout test label
+test label
+line line
+line test1 rang
+line label rang
+line render respons
+
+rout test 64color
+test color
+
+color rotat ff0000 rang
+style style color color
+rang
+
+render respons
+
+rout test major dot
+test major dot
+line line label major count show major dot
+line test rang
+line label
+lol1 lol2 lol3 lol4 lol5
+lol6 lol7 lol8 lol9 lol10 lol11
+line label major lol3
+line render respons
+
+rout test major label chart
+test major label chart
+chart chart name chart show minor label
+rang
+chart test rang
+chart label rang
+chart label major count
+chart label major
+chart label major
+chart render respons
+
+rout test major label chart
+test major label chart
+chart chart name chart
+chart test rang
+chart test rang rang
+chart label rang
+chart label major count
+chart label major
+chart render respons
+
+rout test stroke config
+test stroke config
+line line stroke style width
+line test line rang stroke
+line test revers rang stroke style width
+line test dot show dot
+stroke style width dasharray
+line test dot
+randint rang dot size
+line test fill
+randint rang fill
+stroke style width dasharray
+
+line label
+lol1 lol2 lol3 lol4 lol5
+lol6 lol7 lol8 lol9 lol10 lol11
+line render respons
+
+rout test radar
+test radar
+radar radar
+rang
+radar rang
+radar label
+
+rofl
+
+lolroflmao
+12345678901234567890
+
+radar label rotat
+radar label rotat
+radar label
+label
+valu
+
+label 1000
+valu
+
+label 5000
+valu
+
+label 10000
+valu
+
+radar render respons
+
+rout test seri radiu
+test seri radiu
+
+http 2343 pygal tooltip
+rang
+inner radiu
+
+render respons
+
+rout test half
+test half
+half
+rang
+inner radiu
+legend bottom
+legend bottom column
+render respons
+
+rout test interpol secondari
+test interpol secondari
+chart line titl some differ point interpol cubic
+chart line 1000 2000 7000
+chart line secondari
+chart rang 10000
+chart secondari rang 1000
+chart render respons
+
+rout test legend bottom chart
+test legend bottom chart
+graph chart name chart
+graph
+graph
+graph
+graph
+graph label
+graph legend bottom
+graph render respons
+
+rout test custom metadata chart
+test custom metadata chart
+chart name chart
+
+style fill valu node
+color blue valu node width
+style fill stroke yellow valu
+
+valu xlink
+href javascript alert target
+
+
+
+color green valu
+
+render respons
+
+rout test sparklin chart
+test sparklin chart
+graph chart name chart dict
+width
+height
+show dot
+show legend
+show label
+show label
+space
+margin
+size
+
+graph
+graph
+graph
+graph
+graph label
+graph legend bottom
+graph render respons
+
+rout test sparklin label chart
+test sparklin label chart
+graph chart name chart dict
+width
+height
+show dot
+show legend
+show label
+show label
+space
+margin
+scale
+scale
+size
+
+graph
+graph
+graph
+graph
+graph label
+graph legend bottom
+graph render respons
+
+rout test normal chart
+test normal chart
+graph chart name chart
+graph
+graph
+graph
+graph
+graph label
+graph legend bottom
+graph render respons
+
+rout test horizont forc chart
+test horizont forc chart
+chart name chart horizont graph
+
+graph
+
+graph
+graph
+graph
+graph
+graph label
+graph legend bottom
+graph render respons
+
+rout test invers axi chart
+test invers axi chart
+graph chart name chart dict invers axi
+graph invers
+graph render respons
+
+rout test zero
+test zero
+line line
+line zero
+line zero
+line render respons
+
+rout test rotat chart
+test rotat chart
+graph chart name chart
+graph label rotat
+graph label rotat
+graph lalalla alallaa
+
+graph lalalla alallaa
+secondari
+graph lalalla alallaa
+
+graph lalalla alallaa
+secondari
+graph label
+graph legend bottom
+graph render respons
+
+rout test datetimelin
+test datetimelin
+line date time line
+datetim timezon timedelta
+timezon timedelta hour
+tzn4 timezon timedelta hour
+
+line
+datetim 2013 tzinfo
+datetim 2013
+datetim 2013 tzinfo tzn4
+
+line label rotat
+line render respons
+
+rout test datetimelin pytz
+test datetimelin pytz
+pytz
+pytz timezon eastern
+
+line date time line
+line
+local datetim 2013
+local datetim 2013
+local datetim 2013
+local datetim 2013
+
+datetim timezon
+line valu formatt
+replac tzinfo timezon astimezon isoformat
+line valu formatt normal
+replac tzinfo pytz isoformat
+line label rotat
+line render respons
+
+rout test order
+test order
+line line order
+line
+line render respons
+
+rout test custom file
+test custom file
+tempfil name temporari file
+custom
+text
+fill green
+font famili monospac
+
+legend legend text
+font size font size legend
+
+axi
+stroke
+
+axi text
+font size font size label
+font famili san
+stroke none
+
+axi text
+text anchor
+
+tooltip text
+font size font size tooltip
+
+
+fill yellow
+
+color
+stroke ff1100
+fill ff1100
+
+color
+stroke ffee00
+fill ffee00
+
+color
+stroke 66bb44
+fill 66bb44
+
+color
+stroke 88bbdd
+fill 88bbdd
+
+color
+stroke 0000ff
+fill 0000ff
+
+
+custom file pygal custom style
+open custom file
+write custom
+config config fill interpol cubic
+config append custom file
+chart stack line config
+chart
+chart
+chart
+chart
+chart
+chart render respons
+
+
+rout test legendlink chart
+test legend link chart
+chart chart name chart
+link chart label
+chart
+titl
+tooltip cramoisi
+xlink href http wikipedia wiki
+
+valu
+label thi
+tooltip loollololo
+xlink href http wikipedia wiki
+
+chart titl yellow xlink
+href http wikipedia wiki yellow
+target blank
+
+chart render respons
+
+rout test gradient chart
+test gradient chart
+
+config config
+config style style dark
+config def append
+linear gradient gradient
+stop offset stop color ff5995
+stop offset stop color feed6c
+linear gradient
+
+config def append
+linear gradient gradient
+stop offset stop color b6e354
+stop offset stop color 8cedff
+linear gradient
+
+config append
+color
+fill gradient import
+stroke gradient import
+
+config append
+color
+fill gradient import
+stroke gradient import
+
+chart chart name chart config
+chart
+chart
+chart label
+chart legend bottom
+chart interpol cubic
+chart render respons
+
+rout test erfinv approx
+test erfinv
+scipi stat sstat
+chart line show dot
+chart scipi
+sstat norm 1000 rang
+chart approx stat 1000 rang
+
+chart approx
+special erfinv 1000 erfinv 1000
+rang 1000
+chart render respons
+
+rout test chart
+test chart
+chart chart name chart
+style style
+valu font famili googlefont raleway
+valu color blue green
+color magenta
+
+chart seri
+valu
+continu sampl size 3534 stddev
+confid
+valu
+continu sampl size 3534 stddev
+valu
+continu sampl size 3534 stddev
+confid
+valu
+continu sampl size 3534 stddev
+confid
+
+chart seri
+valu
+dichotom sampl size 3532
+
+chart seri
+valu high
+valu high
+valu high
+valu high
+
+chart rang
+chart render respons
+
+rout test interrupt
+test interrupt
+chart line allow interrupt
+chart
+interrupt
+allow interrupt
+chart interrupt
+
+
+chart render respons
+
+sort filter
+startswith test endswith local
+sort filter
+startswith test endswith local
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+html tabl maker
+
+thi use render html tabl chart
+
+
+uuid
+lxml html builder tostr
+
+pygal util
+
+
+html
+
+lower adapt lxml builder
+
+getattribut attr
+uppercas builder attribut
+getattr builder attr upper
+
+
+tabl
+
+tabl gener
+
+dual
+
+init chart
+init tabl
+chart chart
+
+render total transpos style
+render htmtl tabl chart
+
+total specifi sum
+transpos make label becom column
+style scope style tabl
+
+
+chart setup
+chart
+html html
+attr
+
+style
+attr tabl uuid uuid4
+
+tabl
+
+
+
+chart label
+label chart label
+label
+label label
+label
+label label
+tabl append label
+
+total
+tabl
+tabl append total
+
+tabl append total
+
+
+seri enumer chart seri
+seri titl
+total
+
+valu enumer seri valu
+total
+valu
+
+
+append chart format seri
+total
+
+append chart seri format seri
+tabl append
+
+width
+total
+width
+tabl append total
+
+tabl append chart seri format seri
+
+align valu
+tabl
+
+enumer tabl
+
+width
+tabl width
+
+transpos
+tabl tabl
+
+thead
+tbodi
+tfoot
+
+transpos chart label
+there alway seri titl alway label
+thead tabl
+tbodi tabl
+
+tbodi tabl
+
+total
+tfoot tbodi
+tbodi tbodi
+
+part
+thead
+part append
+html thead
+html
+html
+thead
+
+
+tbodi
+part append
+html tbodi
+html
+html
+tbodi
+
+
+tfoot
+part append
+html tfoot
+html
+html
+tfoot
+
+
+
+tabl tostr
+html tabl
+part attr
+
+
+style
+style
+
+
+border collaps collaps
+border space
+cell show
+border solid cbcbcb
+
+
+border left solid cbcbcb
+border width
+margin
+pad
+
+first child first child
+border left width
+
+thead tfoot
+color
+text align left
+vertic align bottom
+
+thead
+background e0e0e0
+
+tfoot
+background eded
+
+child
+background color f2f2f2
+
+
+
+style
+tabl tostr html style
+attr
+scope scope tabl
+tabl tabl decod
+chart teardown
+tabl
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+config hold option valu
+
+copi deepcopi
+
+pygal interpol interpol
+pygal style default style style
+pygal formatt
+
+
+config item
+
+
+
+
+
+
+repres config paramet
+
+config paramet name valu
+categori document option longer documentat
+option subtyp style option
+
+most inform use cabaret gener
+form repres option
+
+
+categori
+
+init
+valu categori
+subdoc subtyp
+creat configur
+valu valu
+
+
+categori categori
+subdoc subdoc
+subtyp subtyp
+name unbound
+categori categori
+categori append categori
+
+config item append
+
+repr
+
+make document repr
+thi hack gener inner
+
+
+type
+default
+
+
+name
+subtyp name subtyp
+valu
+
+subdoc subdoc
+
+
+properti
+
+return paramet
+
+
+properti
+numer
+return paramet numer
+
+
+properti
+
+return paramet
+
+
+properti
+dict
+return paramet map
+dict
+
+properti
+
+return paramet
+
+
+coerc valu
+cast
+style
+valu
+
+
+
+subtyp
+strip valu split
+dict
+
+pair valu split
+pair split
+strip
+strip
+
+subtyp
+
+
+
+valu
+
+
+meta config
+
+config metaclass use name valu
+
+classnam base classdict
+name
+classdict item
+isinst
+name
+
+classnam base classdict
+
+
+base config meta config config base
+
+
+thi hold common method config
+
+config instanci keyword
+updat call keyword
+
+
+init kwarg
+instanci config kwarg
+
+getattr
+dict
+startswith
+hasattr call
+isinst
+valu
+valu
+
+valu
+setattr
+updat kwarg
+
+call kwarg
+updat kwarg
+updat kwarg
+
+updat kwarg
+updat config given dictionari
+pygal util merg
+
+merg
+dict dict
+kwarg item
+startswith
+
+dict
+export json serializ dictionari config
+config
+attr
+attr startswith
+valu getattr attr
+hasattr valu dict
+config attr valu dict
+hasattr valu call
+config attr valu
+config
+
+copi
+copi config anoth
+deepcopi
+
+
+common config base config
+
+class hold option use chart seri configur
+
+stroke
+look
+line dot scatter plot
+
+show dot look remov dot
+
+show major dot
+look
+show major dot accord major label
+
+dot size look radiu dot
+
+fill
+look fill area line
+
+stroke style dict look stroke style seri element
+thi dict contain
+width linejoin linecap dasharray
+dashoffset
+
+round bar
+look
+desir radiu like chart
+
+inner radiu
+look piechart inner radiu donut must
+
+allow interrupt
+look break line valu
+
+formatt
+valu
+convert valu string chart seri
+default valu formatt chart depend dual chart
+overriden valu formatt metadata
+
+
+config common config
+
+class hold config valu
+
+style
+default style style style style hold valu inject
+
+
+file style file graph style
+list file
+file style domain style
+
+
+class
+pygal chart
+style class root node
+
+
+def
+
+misc extran def insert
+use ad gradient patterns…
+
+
+look
+titl
+look
+graph titl leav disabl titl
+
+titl
+look
+graph axi titl leav disabl axi titl
+
+titl
+look
+graph axi titl leav disabl axi titl
+
+width
+look graph width
+
+height
+look graph height
+
+show guid look
+alway show guid line
+
+show guid look
+hide guid line
+
+show legend
+look remov legend
+
+legend bottom
+look posit legend bottom
+
+legend bottom column
+look posit legend bottom
+
+legend size
+look size legend box
+
+round bar
+look desir radiu
+
+stack
+look stack zero make stack
+match legend order
+
+space
+look
+space titl legend axe
+
+margin
+look
+margin around chart
+
+margin
+look
+margin around chart
+
+margin right
+look
+margin around right chart
+
+margin bottom
+look
+margin around bottom chart
+
+margin left
+look
+margin around left chart
+
+tooltip border radiu look tooltip border radiu
+
+tooltip fanci mode
+look fanci tooltip
+print legend label tooltip seri color valu
+
+inner radiu
+look piechart inner radiu donut must
+
+half
+look creat half chart
+
+label
+label
+label must
+leav disabl label display
+
+
+label major
+label
+label mark major
+subtyp
+
+label major everi
+label
+mark everi label major
+
+label major count
+label
+mark evenli distribut label major
+
+show label
+label hide label
+
+show minor label
+label hide label mark major
+
+label
+label
+specifi label
+must number
+
+label major
+label
+label mark major default
+subtyp
+
+label major everi
+label
+mark everi label major
+
+label major count
+label
+mark evenli distribut label major
+
+show minor label
+label hide label mark major
+
+show label
+label hide label
+
+label rotat
+label specifi label rotat angl degre
+
+label rotat
+label specifi label rotat angl degre
+
+miss valu fill truncat
+look
+fill seri miss valu seri
+close first valu miss
+either
+
+valu
+valu formatt
+formatt valu
+convert abscissa numer valu string
+use date chart
+
+valu formatt
+formatt valu
+convert ordin numer valu string
+
+logarithm
+valu display valu logarithm scale
+
+interpol
+valu interpol
+join interpol
+
+interpol precis
+valu number interpol point valu
+
+interpol paramet
+dict valu variou paramet parametr interpol
+hermit interpol cardin tension
+cardin
+
+mode
+extrem valu set mode use
+current support plot
+join
+5 iqr extrem tukey stdev pstdev
+
+order
+valu
+minimum order scale default
+
+scale
+valu
+minimum scale graduat scale
+
+scale
+valu
+maximum scale graduat scale
+
+rang
+valu explicitli specifi valu
+
+
+secondari rang
+valu
+explicitli specifi secondari valu
+
+
+xrang
+valu explicitli specifi valu
+use date chart
+
+
+axi
+valu alway axi
+
+zero
+valu
+ordin zero valu
+use fill anoth abscissa
+
+text
+text
+text text display given
+
+valu
+
+text display valu text plot
+
+dynam valu
+
+text show valu hover
+
+valu posit
+center
+text custom posit valu
+bar center bottom
+
+zero
+
+text display zero valu well
+
+label
+
+text display valu label
+
+truncat legend
+text
+legend length truncat threshold
+neg none
+
+truncat label
+text
+label length truncat threshold
+neg none
+
+misc
+
+kozea github pygal pygal tooltip
+misc list file
+file domain
+
+
+disabl declar
+misc
+write declar instead
+use write output directli html
+
+forc protocol
+http misc
+default protocol
+default protocol extern file
+
+
+size
+misc write width height attribut
+
+pretti
+misc pretti
+
+strict
+misc
+adapt filter wrong valu
+
+prefix
+misc
+prefix
+
+invers axi misc invers axi direct
+
+
+seri config common config
+
+class hold seri config valu
+
+secondari
+misc
+seri second axi
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+wrapper seamless lxml etre etre usag
+depend whether lxml instal
+
+
+
+
+
+etre
+
+etre wrapper lxml etre standard etre
+
+init
+creat wrapper
+etre element tree etre
+etre etre
+
+lxml etre lxml etre
+lxml etre lxml etre
+import error
+lxml etre
+
+getenv lxml
+etre etre
+
+etre lxml etre etre
+lxml etre lxml etre
+
+getattribut attr
+retriev attr current activ etre implement
+attr getattribut dict
+attr etre dict
+getattribut etre attr
+getattribut attr
+
+lxml
+forc lxml etre use
+etre lxml etre
+lxml
+
+etre
+forc etre use
+etre etre
+lxml
+
+etre etre
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+helper
+
+futur divis
+pygal compat quot plu
+pygal etre etre
+
+
+json
+datetim date datetim
+number number
+math
+pygal util
+minifi
+coord project coord diff coord format coord dual coord project
+pygal version
+
+nearli 00001
+
+
+
+
+relat method
+
+http 2000
+xlink http 1999 xlink
+
+init graph
+creat helper chart
+graph graph
+graph prefix
+chart graph uuid
+
+
+process instruct
+etre lxml
+attr
+nsmap
+
+xlink xlink
+
+
+
+attr
+xmln
+
+hasattr etre
+etre xlink xlink
+
+etre xlink xlink
+
+root etre element attr
+root attrib lstrip rstrip
+graph class
+root attrib join graph class
+root append
+etre comment
+gener pygal © kozea 2012 2016
+version
+lxml etre lxml etre
+date today isoformat
+root append etre comment http pygal
+root append etre comment http github kozea pygal
+def node def
+titl node titl
+titl text graph titl pygal
+
+graph def
+def append etre fromstr
+
+style
+
+color graph style color graph order
+stroke stroke
+
+file
+
+graph style googl font
+append
+font googleapi famili quot plu
+join graph style googl font
+
+
+graph
+text
+startswith
+text
+startswith file
+path exist
+path join
+path dirnam file file
+
+open encod
+text
+read
+style graph style
+color color
+stroke stroke
+
+
+text
+graph pretti
+text minifi text
+append text
+
+startswith graph forc protocol
+graph forc protocol
+process instruct append
+etre
+stylesheet href
+node
+def style text text join
+
+script
+
+common script node def script text javascript
+
+dict
+dict
+getattr graph state
+graph config
+startswith hasattr graph state
+hasattr getattr graph state call
+
+json
+isinst datetim date
+isoformat
+hasattr dict
+dict
+json json encod
+
+dict
+config add
+legend
+titl isinst dict
+graph legend graph secondari legend
+
+common window pygal window pygal
+common window pygal config window pygal config
+graph prefix
+common window pygal config
+
+common window pygal config graph uuid
+
+common script text common json dump json
+
+graph
+startswith file
+script node def script text javascript
+open file encod
+script text read
+
+startswith graph forc protocol
+graph forc protocol
+node def script text javascript href
+
+node parent attrib extra
+make node
+parent
+parent root
+attrib attrib
+attrib updat extra
+
+attrib
+attrib isinst attrib number
+
+width height
+attrib attrib
+attrib attrib
+attrib
+attrib attrib attrib
+
+valu dict attrib item
+valu
+attrib
+
+attrib valu
+endswith
+attrib rstrip attrib
+attrib
+href
+attrib etre q name
+http 1999 xlink attrib
+attrib
+etre sub element parent attrib
+
+transpos node parent attrib extra
+make node transpos horizont
+graph horizont
+key1 key2 width height
+attr1 extra key1
+attr2 extra key2
+attr2
+extra key1 attr2
+attr1
+extra key1
+attr1
+extra key2 attr1
+attr2
+extra key2
+node parent attrib extra
+
+seri seri
+make seri node
+dict
+plot node
+graph node plot
+seri seri color
+seri index seri index
+overlay node
+graph node overlay
+seri seri color
+seri index seri index
+text overlay node
+graph node text overlay
+seri seri color
+seri index seri index
+
+line node coord close kwarg
+draw line
+line coord
+coord
+
+root close
+origin index
+origin index line coord origin index
+origin index
+origin index line
+
+graph horizont
+coord format
+
+coord format
+
+origin coord format coord origin index
+line join coord format
+coord origin index
+
+node
+node path root origin line kwarg
+
+slice
+seri node node radiu small radiu
+angl start angl center metadata
+draw slice
+angl
+angl nearli
+
+angl
+coord project center radiu start angl
+coord project center radiu start angl angl
+coord project center small radiu start angl angl
+coord project center small radiu start angl
+node
+node path
+
+
+coord dual radiu angl
+
+coord dual small radiu angl
+slice reactiv tooltip trigger
+
+
+coord diff center coord project
+radiu small radiu start angl angl
+
+graph tooltip
+node center
+graph label graph label
+angl radian degre
+graph valu seri node metadata
+
+
+gaug background
+seri node start angl center radiu small radiu
+angl half valu
+
+angl
+angl nearli
+
+shade
+coord project center radiu start angl
+coord project center radiu angl
+coord project center small radiu angl
+coord project center small radiu start angl
+
+node
+seri node plot path
+
+shade
+coord dual radiu
+shade
+shade
+coord dual small radiu
+shade
+gaug background reactiv
+
+half
+
+coord diff
+center
+coord project
+radiu radiu small radiu start angl
+coord diff
+center
+coord project
+radiu radiu small radiu angl
+
+
+node
+seri node plot text
+bound reactiv format
+
+
+attrib text anchor middl
+text format valu
+
+
+middl radiu radiu small radiu
+correct text vertic align
+middl radiu radiu small radiu
+label
+coord project
+center middl radiu
+coord project
+center middl radiu nearli
+
+node
+def path valu path center
+
+label
+coord dual middl radiu
+label
+
+text node
+seri node text overlay text
+node
+text text path valu reactiv
+attrib
+href valu path center
+start offset
+text anchor
+
+text valu
+
+solid gaug
+seri node node radiu small radiu
+angl start angl center metadata half angl
+valu
+draw solid gaug slice background slice
+angl
+angl nearli
+
+angl
+coord project center radiu start angl
+coord project center radiu start angl angl
+coord project center small radiu start angl angl
+coord project center small radiu start angl
+
+node
+node path
+
+
+coord dual radiu
+angl
+
+
+coord dual small radiu
+angl
+
+slice reactiv tooltip trigger
+
+
+
+coord diff center coord project
+radiu small radiu start angl angl
+graph valu seri node metadata middl
+graph tooltip
+node center
+graph label graph label
+
+confid interv node high width
+graph horizont
+
+
+coord format
+
+width
+width
+
+high
+bottom
+
+node node
+
+node
+path tupl
+
+
+bottom bottom bottom bottom
+
+nofil reactiv
+
+
+render
+last thing render
+style
+script
+root
+view box graph width graph height
+graph size
+root width graph width
+root height graph height
+
+draw
+write text
+node graph node text overlay text
+graph view width
+graph view height
+
+text graph text
+
+render unicod pretti
+last thing render
+graph filter
+root root
+arg
+encod
+
+
+
+etre lxml
+arg pretti pretti
+
+graph disabl declar
+version encod
+
+graph disabl declar
+join
+etre tostr
+arg
+process instruct
+
+
+etre tostr
+root arg
+
+graph disabl declar unicod
+decod
+
+
+stroke
+return snippet contain stroke style option
+stroke dict stroke
+return style given option
+seri
+seri
+
+width linejoin linecap
+dasharray dashoffset
+stroke
+append stroke
+stroke
+append
+join
+
+
+graph stroke style
+append stroke dict graph stroke style
+seri graph seri
+seri stroke style
+append stroke dict seri stroke style seri index
+join
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+seri properti holder
+
+pygal util cach properti
+
+
+seri
+
+seri contain titl valu graph seri index
+
+init index titl valu config metadata
+creat seri option
+index index
+titl titl
+valu valu
+config config
+dict updat config dict
+metadata metadata
+
+cach properti
+valu
+properti contain valu
+filter valu
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+futur divis
+variou hack transpar python python support
+
+
+collect iter
+datetim datetim timedelta tzinfo
+
+
+version info
+byte
+coerc
+ellipsi
+
+basestr
+coerc unicod
+
+ellipsi getter
+getitem
+
+
+ellipsi ellipsi getter
+
+
+like valu
+return whether valu iter map
+isinst valu iter isinst valu dict
+
+
+
+return whether valu
+isinst
+
+
+
+cast unicod
+
+coerc
+
+
+
+unicod
+forc python unicod python
+isinst coerc
+decod
+
+
+
+
+emul python noth python
+version info
+decod
+
+
+
+total second
+backport timedelta total second python
+version info
+
+day 86400 second microsecond
+
+total second
+
+
+datetim timezon
+timezon
+import error
+tzinfo
+tzname
+
+
+utcoffset
+timedelta
+
+
+
+
+
+
+timestamp
+timestamp date python python
+tzinfo
+naiv date
+replac tzinfo
+
+hasattr timestamp
+timestamp
+
+total second datetim 1970 tzinfo
+
+
+urllib quot plu
+import error
+urllib pars quot plu
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+project bound helper
+
+futur divis
+
+math log10
+
+
+margin
+
+class reprens margin right left bottom
+
+init right bottom left
+creat margin right left bottom margin
+
+right right
+bottom bottom
+left left
+
+properti
+
+helper total margin
+left right
+
+properti
+
+helper total margin
+bottom
+
+
+
+
+chart bound
+
+margin
+
+init xmin ymin xmax ymax
+
+creat chart bound horizont
+vertic valu
+
+xmin xmin
+ymin ymin
+xmax xmax
+ymax ymax
+
+polar rmin rmax tmin tmax
+helper polar chart
+rmin rmin
+rmax rmax
+tmin tmin
+tmax tmax
+xmin ymin rmin rmax
+xmax ymax rmax rmin
+
+properti
+xmin
+minimum getter
+xmin
+
+xmin setter
+xmin valu
+minimum setter
+valu
+xmin valu
+
+properti
+ymin
+minimum getter
+ymin
+
+ymin setter
+ymin valu
+minimum setter
+valu
+ymin valu
+
+properti
+xmax
+maximum getter
+xmax
+
+xmax setter
+xmax valu
+maximum setter
+valu
+xmax valu
+
+properti
+ymax
+maximum getter
+ymax
+
+ymax setter
+ymax valu
+maximum setter
+valu ymin
+ymax valu
+
+properti
+width
+helper width
+xmax xmin
+
+properti
+height
+helper height
+ymax ymin
+
+swap
+return horizont graph
+xmin ymin ymin xmin
+xmax ymax ymax xmax
+
+margin
+correct valu take margin account
+width
+xmax xmin
+height
+ymin
+ymax ymin
+xmargin margin width
+xmin xmargin
+xmax xmargin
+margin
+ymargin margin height
+ymin ymargin
+ymax ymargin
+
+
+view
+
+project
+
+init width height
+creat view width height bound
+width width
+height height
+
+
+
+
+project
+
+
+width xmin width
+
+
+project
+
+
+height height
+ymin height
+
+call
+project
+
+
+
+
+revers view view
+
+same view revers vertic
+
+
+project revers
+
+
+height ymin height
+
+
+horizont view view
+
+same view transpos
+
+init width height
+creat view width height bound
+forc vertic
+width width
+height height
+
+
+
+swap
+
+
+project
+
+
+forc vertic
+horizont view
+horizont view
+
+
+project
+
+
+forc vertic
+horizont view
+horizont view
+
+
+polar view view
+
+polar project like graph
+
+call rhotheta
+project theta
+rhotheta
+
+theta rhotheta
+polar view call
+theta theta
+
+
+polar log view view
+
+logarithm polar project
+
+init width height
+creat view width height bound
+polar log view init width height
+hasattr rmin hasattr rmax
+except
+must polar polar chart
+
+log10 rmax log10 rmax
+log10 rmin log10 rmin
+log10 rmin log10 rmax
+log10 rmax log10 rmin
+
+call rhotheta
+project theta
+rhotheta
+
+theta rhotheta
+center
+
+polar log view call
+rmax rmin
+log10 log10 rmin
+log10 rmax log10 rmin
+polar log view call
+theta theta
+
+
+polar theta view view
+
+logarithm polar project
+
+init width height apertur
+creat view width height bound
+polar theta view init width height
+apertur apertur
+hasattr tmin hasattr tmax
+except
+must polar polar chart
+
+call rhotheta
+project theta
+rhotheta
+
+theta rhotheta
+start apertur
+theta start apertur
+theta tmin
+tmax tmin
+polar theta view call
+theta theta
+
+
+polar theta log view view
+
+logarithm polar project
+
+init width height apertur
+creat view width height bound
+polar theta log view init width height
+apertur apertur
+hasattr tmin hasattr tmax
+except
+must polar polar chart
+log10 tmax log10 tmax tmax
+log10 tmin log10 tmin tmin
+log10 tmin log10 tmax
+log10 tmax log10 tmin
+
+call rhotheta
+project theta
+rhotheta
+
+theta rhotheta
+center
+theta
+polar theta log view call
+theta tmin tmax tmin
+log10 theta log10 tmin
+log10 tmax log10 tmin
+
+start apertur
+theta start apertur
+theta tmin
+tmax tmin
+
+polar theta log view call
+theta theta
+
+
+log view view
+
+logarithm project
+
+want call parent
+init width height
+creat view width height bound
+width width
+height height
+
+log10 ymax log10 ymax ymax
+log10 ymin log10 ymin ymin
+log10 ymin log10 ymax
+log10 ymax log10 ymin
+
+
+
+project
+log10 ymax log10 ymin
+
+height height
+log10 log10 ymin
+log10 ymax log10 ymin
+
+
+x log view view
+
+logarithm project
+
+want call parent
+init width height
+creat view width height bound
+width width
+height height
+
+log10 xmax log10 xmax xmax
+log10 xmin log10 xmin xmin
+
+
+
+project
+log10 xmax log10 xmin
+
+width
+log10 log10 xmin
+log10 xmax log10 xmin
+
+
+xy log view x log view log view
+
+logarithm project
+
+init width height
+creat view width height bound
+width width
+height height
+
+log10 ymax log10 ymax ymax
+log10 ymin log10 ymin ymin
+log10 xmax log10 xmax xmax
+log10 xmin log10 xmin xmin
+
+
+
+horizont log view x log view
+
+transpos logarithm project
+
+want call parent
+init width height
+creat view width height bound
+forc vertic
+width width
+height height
+
+log10 xmax log10 ymax ymax
+log10 xmin log10 ymin ymin
+log10 xmin log10 xmax
+log10 xmax log10 xmin
+
+swap
+
+
+project
+
+
+forc vertic
+horizont log view
+x log view
+
+
+project
+
+
+forc vertic
+x log view
+horizont log view
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+thi util orient color alter
+thi use pygal style gener
+parametr style
+
+
+futur divis
+
+
+normal
+round error
+round 0000000000001
+round
+
+
+
+
+convert color color
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tupl normal
+
+
+
+convert color color
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+round
+
+
+
+
+
+pars color color
+take color definit give back tupl contain
+valu along rgba rrggbb
+rrggbbaa rgba
+
+
+color startswith
+color color
+color
+
+color color
+color
+rgba
+color join color
+color
+rrggbb
+color color
+color
+rrggbbaa
+
+join color color
+
+color startswith
+
+color color
+color split
+color startswith rgba
+rgba
+color color
+color split
+color split
+
+
+
+unpars color
+
+take color valu give back
+color thi invers pars color
+
+
+lose precis shortcut
+
+
+rrggbb
+
+rgba
+
+
+
+rrggbbaa
+
+rrggbb
+
+
+rrggbbaa
+
+
+
+
+
+rgba
+rgba
+
+
+foreground light color
+
+determin background color need light dark foreground color
+
+pars color color
+
+
+clamp
+
+
+adjust attribut percent
+intern adjust
+
+attribut
+attribut clamp attribut percent
+
+attribut percent
+
+
+
+
+adjust color attribut percent
+adjust attribut color percent
+pars color color
+adjust attribut percent
+unpars color
+
+
+rotat color percent
+rotat color chang valu percent
+adjust color percent
+
+
+satur color percent
+satur color increas satur percent
+adjust color percent
+
+
+desatur color percent
+desatur color decreas satur percent
+adjust color percent
+
+
+lighten color percent
+lighten color increas light percent
+adjust color percent
+
+
+darken color percent
+darken color decreas light percent
+adjust color percent
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+formatt valu formatt valu formatt config
+
+
+futur divis
+
+datetim datetim date time
+math floor
+pygal compat
+pygal util format
+
+
+formatt
+
+
+
+human readabl formatt
+format engin scale
+order yzafpnµm k mgtpezi
+
+init none
+none none
+
+call
+
+none
+order floor 1000
+order order split order
+order order order
+format 1000 order
+
+format 1000 order
+order order order
+
+
+signific formatt
+show precis signific digit
+init precis
+format precis
+
+call
+
+
+format
+
+
+integ formatt
+cast integ
+
+call
+
+
+
+
+
+formatt
+cast everyth
+
+call
+
+
+
+
+
+iso date time formatt
+format datetim
+
+call
+
+
+isoformat
+
+
+default signific iso date time
+guess best format
+
+call
+
+
+isinst
+signific call
+isinst date time datetim
+iso date time call
+call
+
+formatt option
+human readabl human readabl
+signific signific
+integ integ
+
+
+default config formatt
+default
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+class hold state render
+
+pygal util merg
+
+
+state
+
+
+class contain config valu
+overriden chart valu
+overriden keyword arg
+
+
+init graph kwarg
+creat state
+merg dict graph config dict
+merg dict graph config dict
+merg dict graph dict
+merg dict kwarg
+math sqrt
+
+
+erfinv
+approxim invers error
+http wikipedia wiki error
+approxim elementari function
+
+
+part1
+part2
+
+sqrt sqrt part1 part1 part2 part1
+
+
+norm
+
+valu error comput percentag point valu
+sqrt erfinv
+
+
+
+
+scipi stat
+import error
+stat
+
+stat
+
+stat
+stat norm
+
+
+todo implement power seri
+http eprint math tdist
+import error
+must scipi instal student
+sampl size
+norm
+
+accord http sphweb bumc otlt modul
+bs704 confid interv bs704 confid interv html
+
+
+confid interv continu
+point estim stddev sampl size confid kwarg
+continu confid interv sampl size standard error
+alpha confid sampl size
+
+margin stddev sqrt sampl size
+point estim alpha margin point estim alpha margin
+
+
+confid interv dichotom
+point estim sampl size confid bia
+percentag kwarg
+dichotom confid interv sampl size mayb bia
+alpha confid sampl size
+point estim
+percentag
+
+
+margin sqrt sampl size
+bia
+margin sampl size
+percentag
+margin
+
+point estim alpha margin point estim alpha margin
+
+
+confid interv manual point estim high
+high
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+main pygal
+
+thi hold avail chart pygal config
+map extens
+
+
+
+version
+
+resourc
+
+traceback
+warn
+
+pygal graph
+pygal graph
+pygal graph
+pygal graph funnel funnel
+pygal graph gaug gaug
+pygal graph solidgaug solid gaug
+pygal graph histogram histogram
+pygal graph horizontalbar horizont bar
+pygal graph horizontalstackedbar horizont stack bar
+pygal graph line line
+pygal graph horizontallin horizont line
+pygal graph horizontalstackedlin horizont stack line
+pygal graph
+pygal graph pyramid pyramid vertic pyramid
+pygal graph radar radar
+pygal graph stackedbar stack bar
+pygal graph stackedlin stack line
+pygal graph time date line date time line time line time delta line
+pygal graph treemap treemap
+pygal graph
+pygal graph graph graph
+pygal config config
+pygal map
+
+
+chart name dict
+local item
+isinst issubclass graph graph
+
+
+pygal graph base map
+entri resourc iter entri point pygal map
+
+entri load
+except
+warn warn unabl load pygal plugin
+entri traceback format warn
+
+setattr map entri name
+dict item
+isinst issubclass base map base map
+chart name entri name capit
+
+chart name chart name key
+chart chart name valu
+
+
+plugin import fixer
+
+
+allow extern plugin import pygal map
+
+meta path loader
+
+
+find fullnam path
+
+tell load load
+load pygal map
+
+
+fullnam startswith pygal map hasattr
+map fullnam split
+
+
+
+load name
+
+load pygal map name previous
+load plugin
+
+name modul
+modul name getattr map name split
+modul name
+
+meta path plugin import fixer
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+chart style class
+
+futur divis
+
+itertool chain
+
+pygal color
+pygal color darken foreground light lighten
+
+
+style
+
+style contain color gener
+
+plot background rgba
+background rgba
+valu background rgba
+foreground rgba
+foreground strong rgba
+foreground subtl rgba
+
+monospac font highli encourag
+font famili
+consola liber mono menlo courier monospac
+
+label font famili
+major label font famili
+valu font famili
+valu label font famili
+tooltip font famili
+titl font famili
+legend font famili
+font famili
+
+label font size
+major label font size
+valu font size
+valu label font size
+tooltip font size
+titl font size
+legend font size
+font size
+
+guid line dash style
+guid stroke dasharray
+major guid stroke dasharray
+
+opac
+opac hover
+transit 150m
+color
+f44336
+3 f51 b5
+009688
+ffc107
+ff5722
+9 c27 b0
+03 a9 f4
+8 bc34 a
+ff9800
+e91 e63
+2196 f3
+4 caf50
+ffeb3 b
+673 ab7
+00 bcd4
+cddc39
+9 e9 e9 e
+607 d8 b
+
+
+valu color
+color
+
+init kwarg
+creat style
+dict updat kwarg
+googl font
+font famili startswith googlefont
+font famili font famili replac googlefont
+googl font font famili split strip
+
+name
+name endswith font famili
+getattr name
+
+setattr name font famili
+startswith googlefont
+setattr name replac googlefont
+googl font
+getattr name split strip
+
+color prefix
+color
+color tupl
+make color
+
+color color visit
+stroke
+fill
+prefix prefix format tupl
+
+valu color tupl
+make valu color
+
+text overlay color text
+fill
+prefix format tupl
+
+color tupl
+make valu color
+tupl
+
+
+color
+stroke
+prefix format tupl
+
+color
+miss color
+cycl miss color
+color
+rang cycl
+color color
+color append darken color cycl
+color
+
+
+
+
+
+color color
+
+auto comput foreground valu color color miss
+valu color
+rang
+valu color valu color
+valu color append valu color
+
+valu color append white foreground light
+color black
+
+join chain
+color enumer color
+valu color enumer valu color
+color enumer color
+
+dict
+convert serializ map
+config
+attr
+attr startswith
+valu getattr attr
+hasattr valu call
+config attr valu
+config
+
+
+default style style
+
+
+dark style style
+
+dark style
+
+background black
+plot background
+foreground
+foreground strong
+foreground subtl
+opac
+opac hover
+transit 250m
+color
+ff5995 b6e354 feed6c 8cedff 9e6ff
+899ca1 f8f8f2 bf4646 516083 f92672
+82b414 fd971f 56c2d6 808384 8c54fe
+465457
+
+
+light style style
+
+light style
+
+background white
+plot background rgba
+foreground rgba
+foreground strong rgba
+foreground subtl rgba
+color 242424 9f6767 92ac68
+d0d293 9aacc3 bb77a4
+77bbb5 777777
+
+
+neon style dark style
+
+similar dark style opac effect
+
+opac
+opac hover
+transit eas
+
+
+clean style style
+
+rather clean style
+
+background transpar
+plot background rgba
+foreground rgba
+foreground strong rgba
+foreground subtl rgba
+color
+
+
+
+
+dark solar style style
+
+dark solar popular theme
+
+background 073642
+plot background 002b36
+foreground 839496
+foreground strong fdf6e3
+foreground subtl 657b83
+opac
+opac hover
+transit 500m eas
+color
+b58900 cb4b16 dc322f d33682
+6c71c4 268bd2 2aa198 859900
+
+
+light solar style dark solar style
+
+light solar popular theme
+
+background fdf6e3
+plot background eee8d5
+foreground 657b83
+foreground strong 073642
+foreground subtl 073642
+
+
+red blue style style
+
+blue theme
+
+background lighten e6e7e9
+plot background lighten e6e7e9
+foreground rgba
+foreground strong rgba
+foreground subtl rgba
+opac
+opac hover
+color
+d94e4c e5884f 39929a
+lighten d94e4c darken 39929a lighten e5884f
+darken d94e4c 234547
+
+
+light color style style
+
+light color style
+
+background f8f8f8
+plot background lighten f8f8f8
+foreground
+foreground strong
+foreground subtl rgba
+opac
+opac hover
+transit 250m eas
+color
+fe9592 534f4c 3ac2c0 a2a7a1
+darken fe9592 lighten 534f4c lighten 3ac2c0
+lighten a2a7a1 lighten fe9592 darken 3ac2c0
+
+
+dark color style style
+
+dark color style
+
+background darken 3a2d3f
+plot background lighten 3a2d3f
+foreground rgba
+foreground strong rgba
+foreground subtl rgba
+opac
+opac hover
+transit 250m eas
+color
+c900fe 01b8fe 59f500 ff00e4 f9fa00
+darken c900fe darken 01b8fe darken 59f500
+darken ff00e4 lighten f9fa00
+
+
+turquois style style
+
+turquois style
+
+background darken 1b8088
+plot background darken 1b8088
+foreground rgba
+foreground strong rgba
+foreground subtl rgba
+opac
+opac hover
+transit 250m eas
+color
+93d2d9 ef940f 8 c6243
+darken 93d2d9 lighten ef940f
+lighten 8c6243 1b8088
+
+
+light green style style
+
+light green style
+
+background lighten f3f3f3
+plot background
+foreground 333333
+foreground strong
+foreground subtl 222222
+opac
+opac hover
+transit 250m eas
+color
+7dcf30 247fab lighten 7dcf30
+darken 7dcf30 lighten 247fab
+darken 247fab
+
+
+dark green style style
+
+dark green style
+
+background darken 251e01
+plot background darken 251e01
+foreground rgba
+foreground strong rgba
+foreground subtl rgba
+opac
+opac hover
+transit 250m eas
+color
+adde09 6e8c06 4a5e04 fcd202 c1 e34 d
+lighten fcd202
+
+
+dark green blue style style
+
+dark green blue style
+
+background
+plot background lighten
+foreground rgba
+foreground strong rgba
+foreground subtl rgba
+opac
+opac hover
+transit 250m eas
+color lighten 34 b8 f7 7dcf30 247fab
+darken 7dcf30 lighten 247fab
+lighten 7dcf30 darken 247fab
+
+
+blue style style
+
+blue style
+
+background darken f8f8f8
+plot background f8f8f8
+foreground rgba
+foreground strong rgba
+foreground subtl rgba
+opac
+opac hover
+transit 250m eas
+color
+00b2f0 43d9be 0662ab darken 00b2f0
+lighten 43d9be lighten 7dcf30 darken 0662ab
+ffd541 7dcf30 lighten 00b2f0 darken ffd541
+
+
+solid color style style
+
+light style strong color
+
+background ffffff
+plot background ffffff
+foreground 000000
+foreground strong 000000
+foreground subtl 828282
+opac
+opac hover
+transit 400m eas
+color
+ff9900 dc3912 4674 d1 109618 990099
+0099 c6 dd4477 74 b217 b82 e2 e 316395 994499
+
+
+style default style
+dark dark style
+light light style
+neon neon style
+clean clean style
+light blue red blue style
+dark solar dark solar style
+light solar light solar style
+dark color dark color style
+light color light color style
+turquois turquois style
+green light green style
+dark green dark green style
+dark green blue dark green blue style
+blue blue style
+solid color solid color style
+
+
+parametr style base style
+
+parametr style parametr oper
+
+
+
+init color step style kwarg
+
+initi parametr style
+
+thi take sever paramet
+step correspond mani color need
+defin maximum amplitud color effect
+style taken everyth
+color
+keyword set style paramet
+
+
+
+runtim error parametr style instanci
+
+default
+style
+isinst style
+style style
+default updat style dict
+default updat kwarg
+
+parametr style base init default
+
+
+violenc
+darken
+lighten
+satur
+desatur
+rotat
+
+violenc
+
+modifi index
+percent index step
+getattr color color percent
+
+color modifi rang step
+
+
+lighten style parametr style base
+
+creat style lighten given color
+
+lighten
+
+
+darken style parametr style base
+
+creat style darken given color
+
+darken
+
+
+satur style parametr style base
+
+creat style satur given color
+
+satur
+
+
+desatur style parametr style base
+
+creat style desatur given color
+
+desatur
+
+
+rotat style parametr style base
+
+creat style rotat given color
+
+rotat
+
+
+parametr style
+lighten lighten style
+darken darken style
+satur satur style
+desatur desatur style
+rotat rotat style
+
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+valu adapt chart accept valu type
+decim
+pygal compat
+
+
+posit
+return zero valu neg
+
+
+
+
+
+
+
+
+
+zero
+return valu zero
+
+
+
+
+
+none zero
+return valu
+
+
+
+
+
+
+cast decim valu
+isinst decim
+
+
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+interpol function
+
+these function take list point
+return iter interpol point
+precis interpol point
+
+
+futur divis
+
+math
+
+
+quadrat interpol precis kwarg
+
+interpol quadrat algorithm
+http wikipedia wiki spline mathemat
+
+
+delta
+delta
+slope delta delta delta rang
+
+quadrat spline
+
+
+
+
+rang
+slope
+
+slope delta delta rang
+
+rang
+
+delta
+
+rang precis
+delta precis
+
+
+
+
+cubic interpol precis kwarg
+
+interpol cubic algorithm
+http wikipedia wiki spline interpol
+
+
+spline equat
+spline part equat
+
+
+
+
+
+
+
+
+
+rang
+
+rang
+
+
+
+
+
+revers rang
+
+
+
+
+
+
+rang
+
+
+
+rang precis
+precis
+
+
+
+
+
+hermit interpol precis
+cardin
+
+interpol hermit method
+http wikipedia wiki cubic hermit spline
+
+thi interpol configur contain subtyp
+catmul
+finit differ
+cardin
+kochanek bartel
+
+cardin subtyp customiz paramet
+tension
+
+thi last also customiz paramet
+continu
+bia
+tension
+
+
+
+
+
+delta
+catmul
+cardin
+
+finit differ
+rang
+
+
+
+
+
+
+kochanek bartel
+
+
+
+rang
+
+
+
+
+
+cardin
+
+rang
+
+
+
+
+
+delta
+
+
+
+
+
+
+
+
+
+delta
+
+delta
+
+rang
+
+delta
+
+rang precis
+delta precis
+
+
+
+lagrang interpol precis kwarg
+
+interpol lagrang polynomi
+http wikipedia wiki lagrang polynomi
+
+
+delta
+rang
+
+delta
+
+
+rang precis
+delta precis
+
+rang
+
+rang
+
+
+
+
+
+
+
+
+trigonometr interpol precis kwarg
+
+interpol trigonometr
+http wikipedia wiki trigonometr interpol
+
+
+delta
+rang
+
+delta
+
+
+rang precis
+delta precis
+
+rang
+
+rang
+
+
+
+
+
+
+
+interpol
+quadrat quadrat interpol
+cubic cubic interpol
+hermit hermit interpol
+lagrang lagrang interpol
+trigonometr trigonometr interpol
+
+
+
+name main
+pygal
+point
+show dot
+normal point
+quadrat quadrat interpol point
+cubic cubic interpol point
+lagrang lagrang interpol point
+trigonometr trigonometr interpol point
+hermit catmul hermit interpol
+point catmul
+hermit finit differ hermit interpol
+point finit differ
+hermit cardin hermit interpol
+point cardin
+hermit cardin hermit interpol
+point cardin
+hermit kochanek bartel hermit interpol
+point kochanek bartel
+hermit kochanek bartel hermit interpol
+point kochanek bartel
+render browser
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+variou util function
+
+futur divis
+
+
+decim
+
+math ceil floor log10
+
+pygal compat unicod ellipsi
+
+
+format
+format precis without zero dot
+rstrip rstrip
+
+
+major valu
+filter sequenc major consid number
+sort valu sort valu
+valu
+sort valu sort valu sort valu
+sort valu sort valu
+
+valu step sort valu sort valu
+full rang sort valu sort valu
+step log10 full rang
+step valu step
+step
+step factor log10 step
+round step step factor round valu step step factor
+todo find lower common multipl instead
+step valu step
+full rang step
+step
+full rang step
+step
+major valu
+valu valu valu valu step round valu step
+valu valu sort valu valu major valu
+
+
+round precis
+round precis
+precis precis
+round precis precis precis
+round
+
+
+round precis
+round precis
+round decim
+floor precis precis
+decim precis
+round
+
+
+round scale precis
+round precis
+precis
+round precis
+round precis
+
+
+index
+index
+isinst index
+index
+
+getattr index
+
+
+
+degre
+convert degre radiant
+degre
+
+
+radiant
+convert radiant degre
+radiant
+
+
+swap curli
+swap singl curli bracket
+
+replac
+replac
+replac
+replac
+replac
+replac
+replac
+replac
+
+
+kwarg
+format brace
+swap curli format kwarg
+
+
+swap tupl tupl revers tupl
+ident
+
+
+comput logarithm scale scale scale
+comput optim scale logarithm
+
+
+order floor log10
+order ceil log10
+posit
+amplitud order order
+amplitud
+
+detail
+amplitud detail scale
+detail
+amplitud detail scale
+detail
+order rang order order
+rang detail
+tick detail order
+tick round scale tick tick
+tick tick posit
+posit append tick
+posit
+
+
+comput scale
+logarithm order
+scale scale
+comput optim scale
+
+
+
+
+logarithm
+scale comput logarithm scale
+scale scale
+scale
+scale
+fallback normal scall
+
+order round log10
+order order order
+order order
+
+order scale
+order order order
+order
+step order
+step scale
+step
+posit
+posit round scale step
+posit step
+round round scale posit step
+round
+round posit
+posit append round
+posit step
+posit
+
+posit
+
+
+text length
+approxim text width
+length
+
+
+revers text width
+approxim text length
+width
+
+
+text text
+approxim text bound
+text text
+
+
+text text
+approxim multipl text bound
+text
+text
+
+
+decor node metadata
+metedata node
+metadata
+node
+xlink metadata xlink
+xlink
+isinst xlink dict
+xlink href xlink target blank
+node node node xlink
+node node desc xlink text unicod
+xlink href
+
+tooltip metadata
+node node titl text unicod
+metadata tooltip
+
+color metadata
+color metadata color
+node attrib style fill stroke
+color color
+
+style metadata
+node attrib style metadata style
+
+label metadata
+node node desc label text unicod
+metadata label
+node
+
+
+alter node metadata
+overrid node attribut metadata node map
+node metadata node metadata
+node attrib updat
+dict metadata node item
+
+
+truncat index
+truncat index
+index index
+index
+
+
+
+stolen partli browni http packag python browni
+cach properti
+
+memoiz properti
+
+init getter
+initi decor
+getter getter
+getter
+name getter name
+getter
+
+
+
+descriptor call properti replac
+valu state state
+
+
+
+valu getter
+hasattr state
+setattr state name valu
+
+dict name getter
+valu
+
+comment compil multilin dotal
+
+
+minifi
+littl minifi
+inspir slimmer peter bengtsson
+remov comment
+comment comment findal
+comment
+remov comment
+
+remov comment
+replac comment
+
+remov comment
+
+whitespac becom whitespac
+
+whitespac line
+
+remov space certain char
+
+
+
+
+need attribut
+
+
+strip
+
+
+compos
+chain function
+arg kwarg arg kwarg
+name name name
+
+
+
+enumer iter
+enumer valu
+enumer iter
+
+
+
+
+split titl titl width titl
+split specifi width font size
+titl
+titl
+titl
+size revers text width titl
+titl line titl split
+titl line titl line
+titl line size
+titl part titl line size
+titl part rfind
+
+titl part
+titl append titl part
+titl line titl line strip
+titl append titl line
+titl
+
+
+filter kwarg kwarg
+hasattr code
+
+arg code varnam
+dict kwarg item arg
+
+
+coord project alpha
+alpha alpha
+
+
+coord diff
+
+
+
+coord format
+
+
+
+coord dual
+coord format
+
+
+coord project center theta
+coord format coord diff center coord project theta
+
+
+mergextend list1 list2
+list1 ellipsi list1
+list1
+index list1 index ellipsi
+list1 index list2 list1 index
+
+
+merg dict1 dict2
+pygal config config item
+item item name item config item item
+dict2 item
+isinst
+valu
+
+item
+dict1 mergextend dict1
+
+dict1
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+map extens
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+chart relat test
+
+pygal
+pyqueri py queri
+
+
+test tabl
+test render tabl
+chart inner radiu pretti
+chart titl browser usag februari 2012
+chart
+chart firefox
+chart chrome
+chart safari
+chart opera
+chart render tabl
+tabl
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+pytest fixtur
+
+pytest
+pygal
+pygal etre etre
+
+
+
+
+pytest fixtur
+etreefx request
+fixtur allow test builtin etre lxml
+request param etre
+etre etre
+request param lxml
+etre lxml
+
+
+pytest gener test metafunc
+gener test etre lxml
+etre lxml etre version info
+metafunc fixturenam append etreefx
+metafunc parametr etreefx lxml etre indirect
+
+version info hasattr
+pypi version info
+etre lxml etre
+import error lxml requir python
+etre lxml
+
+hasattr pypi version info
+etre etre
+
+chart metafunc funcargnam
+metafunc parametr chart pygal chart
+data metafunc funcargnam
+metafunc parametr
+data
+
+seri rang
+
+
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+chart relat test
+
+pygal graph
+
+
+test quartil
+test point 5 iqr comput method
+test
+outlier point
+mode 5 iqr
+
+
+
+
+
+
+
+even test
+outlier point
+mode 5 iqr
+
+
+
+element
+outlier point
+mode 5 iqr
+
+
+
+
+outlier point
+mode 5 iqr
+
+
+
+
+
+
+
+
+test quartil extrem
+test point extrem comput method
+test
+outlier point
+mode extrem
+
+
+
+
+
+
+
+even test
+outlier point
+mode extrem
+
+
+
+element
+outlier point
+mode extrem
+
+
+
+
+outlier point
+mode extrem
+
+
+
+
+
+
+
+
+test quartil tukey
+test point tukey comput method
+
+outlier point
+mode tukey
+
+outlier
+
+http wikipedia wiki quartil exampl
+
+outlier point
+mode tukey
+
+
+
+
+
+outlier
+
+previou test ad outlier
+
+outlier point
+mode tukey
+
+
+
+
+
+outlier
+
+outlier
+
+outlier point
+mode tukey
+
+
+
+
+
+outlier
+outlier
+
+
+test quartil stdev
+test point stdev comput method
+
+
+
+outlier point
+mode stdev
+
+
+
+
+
+outlier
+
+test posibl zero divis
+outlier point
+mode stdev
+
+outlier
+
+
+test simpl
+simpl test
+
+test1
+test2
+titl test
+render pyqueri
+
+axi
+legend
+plot seri rect
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+color util function test
+
+futur divis
+
+pygal color
+pars color unpars color
+darken lighten satur desatur rotat
+
+
+test pars color
+test color pars
+pars color
+pars color
+pars color a3d7 rgba
+pars color 584b4f rrggbb
+pars color 8cbe22 rrggbb
+pars color 16cbf055 rrggbbaa
+pars color
+pars color
+pars color rgba rgba
+pars color rgba 1223 1223 rgba
+
+
+test unpars color
+test color unpars
+unpars color
+unpars color
+unpars color rgba a3d7
+unpars color rrggbb 584b4f
+unpars color rrggbb 8cbe22
+unpars color rrggbbaa 16cbf055
+unpars color
+unpars color
+unpars color rgba rgba
+unpars color 1223 rgba rgba 1223
+
+
+test darken
+test darken color
+darken
+darken 800e 200e
+darken
+darken ffffff e6e6e6
+darken 000000 000000
+darken f3148a 810747
+darken f3148aab 810747ab
+darken 121212 0f0f0f
+darken 999999 000000
+darken 99999999 00000099
+darken 1479ac 105f87
+darken
+darken rgba rgba
+
+
+test lighten
+test lighten color
+lighten
+lighten
+lighten ffffff ffffff
+lighten 000000 1a1a1a
+lighten f3148a f98dc6
+lighten 121212 151515
+lighten 999999 ffffff
+lighten 1479ac 1893d1
+
+
+test satur
+test color satur
+satur
+satur
+satur
+satur 9e3f3f
+
+
+test desatur
+test color desatur
+desatur
+desatur
+desatur
+desatur 726b6b
+
+
+test rotat
+test color rotat
+rotat
+rotat
+rotat 886a11
+rotat
+rotat
+rotat
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+test part
+test color
+6120
+9660
+99840
+
+104880
+2820
+
+
+test part
+test color
+6120
+9660
+99840
+
+104880
+2820
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+
+
+test part
+test color
+
+
+
+
+
+
+
+
+
+
+
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+test helper
+
+pyqueri py queri
+
+
+text
+helper get text element
+text
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+interpol test
+
+pygal test make
+
+
+test cubic chart data
+test cubic interpol
+chart chart interpol cubic
+chart make chart data
+chart render
+
+
+test cubic prec chart data
+test cubic interpol precis
+chart chart interpol cubic interpol precis
+chart make chart data
+
+chart chart interpol cubic interpol precis
+chart make chart data
+
+chart render chart render
+
+
+test quadrat chart data
+test quadrat interpol
+chart chart interpol quadrat
+chart make chart data
+chart render
+
+
+test lagrang chart data
+test lagrang interpol
+chart chart interpol lagrang
+chart make chart data
+chart render
+
+
+test trigonometr chart data
+test trigonometr interpol
+chart chart interpol trigonometr
+chart make chart data
+chart render
+
+
+test hermit chart data
+test hermit interpol
+chart chart interpol hermit
+chart make chart data
+chart render
+
+
+test hermit finit chart data
+test hermit finit differ interpol
+chart chart interpol hermit
+interpol paramet finit differ
+chart make chart data
+chart render
+
+
+test hermit cardin chart data
+test hermit cardin interpol
+chart chart interpol hermit
+interpol paramet cardin
+chart make chart data
+chart render
+
+
+test hermit catmul chart data
+test hermit catmul interpol
+chart chart interpol hermit
+interpol paramet catmul
+chart make chart data
+chart render
+
+
+test hermit kochanek bartel chart data
+test hermit kochanek bartel interpol
+chart chart interpol hermit
+interpol paramet
+kochanek bartel
+chart make chart data
+chart render
+
+chart chart interpol hermit
+interpol paramet
+kochanek bartel
+chart make chart data
+chart render
+
+chart chart interpol hermit
+interpol paramet
+kochanek bartel
+chart make chart data
+chart render
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+chart relat test
+
+pygal
+
+
+test simpl
+simpl test
+
+
+test1
+test2
+label
+titl test
+render pyqueri
+axi
+axi
+legend
+plot seri rect
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+line chart relat test
+
+futur divis
+pygal line
+pygal test util text
+math
+
+
+test simpl line
+simpl line test
+line line
+rang
+line test1
+line test2
+line test3
+line label
+line titl
+line render pyqueri
+axi
+axi
+plot seri path
+legend
+axi guid
+axi guid
+dot
+axi text text
+
+
+axi text text
+
+
+titl text
+legend text text test1 test2 test3
+
+
+test line
+anoth simpl line test
+line line
+
+line singl seri
+line titl seri
+line render pyqueri
+axi
+axi
+plot seri path
+axi guid
+axi guid
+
+
+test
+line test uniqu valu
+line line
+line
+line label
+line render pyqueri
+axi
+axi
+axi guid
+
+
+test
+line test seri
+line line
+line
+line render pyqueri
+text overlay text text
+
+
+test
+line test valu
+line render pyqueri
+text overlay text text
+
+
+test equal label
+test label
+line line
+line test1 rang
+line truncat label
+line label rang
+line render pyqueri
+dot
+axi
+axi text text
+
+
+
+test label
+test label
+line line
+line test1 rang
+line truncat label
+line label rang
+line render pyqueri
+dot
+axi
+axi text text
+
+
+
+test major dot everi
+test major dot
+line line show major dot label major everi
+line test rang
+line label rang
+line render pyqueri
+dot
+
+
+test major dot label
+test major dot label
+line line show major dot
+line test rang
+line render pyqueri
+dot
+
+
+test major dot count
+test major dot major label count
+line line show major dot
+line test rang
+line label rang
+line label major count
+line render pyqueri
+dot
+
+
+test major dot
+test major dot specifi major label
+line line show major dot
+line test rang
+line label rang
+line label major
+line render pyqueri
+dot
+
+
+test line secondari
+test line secondari seri
+line line
+
+line first seri
+line secondari seri
+
+secondari
+line titl seri
+line render pyqueri
+axi
+axi
+plot seri path
+axi guid
+axi guid
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+histogram chart relat test
+
+
+pygal histogram
+
+
+test histogram
+simpl histogram test
+hist histogram
+hist
+
+
+
+
+
+hist secondari
+hist render pyqueri
+rect
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+gener test differ chart type differ
+
+
+pygal
+uuid
+
+pytest
+
+pygal graph base map
+pygal util
+pygal compat
+pygal test make
+
+
+cairosvg
+import error
+cairosvg
+
+
+test multi render chart data
+check chart alway render
+chart chart
+chart make chart data
+chart render
+rang
+chart render
+
+
+test render file chart data
+test file render
+file name test graph uuid uuid4
+path exist file name
+remov file name
+
+chart chart
+chart make chart data
+chart render file file name
+open file name encod
+pygal read
+remov file name
+
+
+pytest mark skipif cairosvg reason cairo svg instal
+test render chart data
+test file render
+file name test graph uuid uuid4
+path exist file name
+remov file name
+
+chart chart
+chart make chart data
+chart render file name
+chart repr
+
+open file name
+read
+remov file name
+
+
+test metadata chart
+test metadata valu
+chart chart
+rang
+chart pygal
+summari chart cannot display valu metadata
+chart pygal
+
+issubclass chart base map
+enumer chart label
+oecd nafta
+
+chart seri metadata
+
+valu
+valu label three
+valu xlink http exampl
+valu xlink http exampl label five
+valu xlink
+href http exampl label
+valu xlink
+href http exampl
+target blank label seven
+
+chart render pyqueri
+three five seven
+desc text
+
+http exampl http exampl
+attrib xlink href
+
+chart pygal pygal treemap pygal solid gaug
+slice valu render
+tooltip trigger sibl valu
+issubclass chart base map
+
+tooltip work map
+tooltip trigger sibl valu
+
+
+test list chart
+test chart render seri
+chart chart
+chart
+chart
+chart dual
+chart label green blue
+chart render pyqueri
+legend
+
+
+test list none chart
+test chart render fill seri
+chart chart
+chart
+chart
+chart render pyqueri
+legend
+
+
+test valu chart
+test chart render valu
+chart chart
+chart
+chart render pyqueri
+legend
+
+
+test valu chart
+test logarithm chart render valu
+chart chart logarithm
+chart
+chart dual
+chart label singl
+chart render pyqueri
+legend
+
+
+test valu intrp chart
+test interpol chart render valu
+chart chart interpol cubic
+chart
+chart render pyqueri
+legend
+
+
+test iter valu chart
+test seri iter
+chart chart prefix
+chart
+chart
+chart dual
+chart label green blue
+chart1 chart render
+chart chart prefix
+chart
+chart
+chart dual
+chart label green blue
+chart2 chart render
+chart1 chart2
+
+
+test iter type chart
+test seri variou iter
+chart chart prefix
+chart
+chart
+chart dual
+chart label green blue
+chart1 chart render
+
+chart chart prefix
+chart
+chart tupl
+chart dual
+chart label green blue
+chart2 chart render
+chart1 chart2
+
+
+test valu dict chart
+test seri dict
+chart1 chart prefix
+chart2 chart prefix
+
+issubclass chart base map chart dual
+chart1 green blue
+chart1 green
+chart1 blue
+chart1
+chart1 blue
+chart1 label green blue
+
+chart2
+chart2
+chart2
+chart2
+chart2
+chart2 label green blue
+chart dual
+chart1
+chart1
+chart1
+
+chart2
+chart2
+chart2
+
+chart1 render chart2 render
+
+
+test valu chart
+test
+chart chart
+chart render pyqueri
+text overlay text text
+
+
+test valu axi chart
+test axi
+chart chart axi
+chart render pyqueri
+text overlay text text
+
+
+test seri chart
+test seri
+chart chart
+chart seri
+chart render pyqueri
+text overlay text text
+
+
+test seri chart
+test seri
+chart chart
+chart serie1
+chart serie2
+chart render pyqueri
+text overlay text text
+
+
+test none chart
+test contain seri
+chart chart
+chart seri
+chart render pyqueri
+text overlay text text
+
+
+test none chart
+test contain seri
+chart chart
+chart seri
+chart render pyqueri
+text overlay text text
+
+
+test list none chart
+test sever contain seri
+chart chart
+chart serie1
+chart serie2
+chart render pyqueri
+text overlay text text
+
+
+test unicod label decod chart
+test unicod label
+chart chart
+chart série1
+valu
+xlink http
+label â°ĳæð© —×€¿
+
+valu
+xlink
+href http exampl
+
+label æâ°€≠ €æâ°€əæ
+
+valu
+label unicod
+
+chart dual
+chart label †††††††† unicod
+chart render pyqueri
+
+
+test unicod label python2 chart
+test unicod label python
+version info
+
+chart chart
+chart série1
+valu
+xlink http
+label â°ĳæð© —×€¿
+
+valu
+xlink
+href http exampl
+
+label æâ°€≠ €æâ°€əæ
+
+valu
+label unicod
+
+chart dual
+chart label †††††††† unicod
+chart render pyqueri
+
+
+test unicod label python3 chart
+test unicod label python
+version info
+
+chart chart
+chart série1
+valu
+xlink http
+label â°ĳæð© —×€¿
+
+valu
+xlink
+href http exampl
+
+label æâ°€≠ €æâ°€əæ
+
+valu
+label unicod
+
+chart dual
+chart label †††††††† unicod
+chart render pyqueri
+
+
+test label link chart
+test valu link
+chart chart
+link chart label
+chart
+titl xlink href http wikipedia wiki
+
+valu
+label thi
+xlink href http wikipedia wiki
+
+link chart
+chart green
+valu
+label thi green
+xlink
+href http wikipedia wiki green
+target
+
+link label open
+chart titl yellow xlink
+href http wikipedia wiki yellow
+target blank
+
+link chart
+chart blue
+valu
+xlink
+href http wikipedia wiki blue
+target blank
+
+link label chart diffrent behaviour
+chart
+titl violet
+xlink http wikipedia wiki violet color
+
+valu
+label thi violet
+xlink
+href http wikipedia wiki violet color
+target
+
+chart render pyqueri
+link
+
+link isinst chart base map link
+
+
+test sparklin chart data
+test sparklin
+chart chart
+chart make chart data
+chart render sparklin
+
+
+test secondari chart
+test secondari chart
+chart chart
+
+chart first seri
+chart secondari seri
+
+secondari
+chart render pyqueri
+
+
+test ipython notebook chart data
+test ipython notebook
+chart chart
+chart make chart data
+chart repr
+
+
+test titl chart data
+test chart render titl
+chart chart
+titl chart graphic represent
+repres symbol bar chart
+line line chart slice chart chart
+repres tabular numer function kind
+qualit structur provid differ info
+chart make chart data
+chart render pyqueri
+titl text
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+donut chart relat test
+
+pygal
+
+
+test donut
+test donut chart
+chart inner radiu pretti
+chart titl browser usag februari 2012
+chart
+chart firefox
+chart chrome
+chart safari
+chart opera
+chart render
+
+
+test multiseri donut
+test donut chart multiseri
+demo multiseri respect
+inner radiu
+chart inner radiu pretti
+chart titl browser usag version februari 2012
+chart
+chart firefox
+chart chrome
+chart safari
+chart opera
+chart render
+
+
+test half
+test half chart
+
+
+firefox
+chrome
+safari
+opera
+
+half half
+half
+half firefox
+half chrome
+half safari
+half opera
+render half render
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+test seri configur
+
+pygal line
+
+
+
+
+
+
+test seri config
+test seri configur
+chart line
+chart
+chart
+chart render pyqueri
+seri line
+seri line
+seri
+seri
+
+
+test config
+test configur
+chart line stroke
+chart
+chart
+chart render pyqueri
+seri line
+seri line
+seri
+seri
+
+
+test seri config
+test seri configur
+chart line
+chart stroke
+chart
+chart render pyqueri
+seri line
+seri line
+seri
+seri
+
+
+test seri preced config
+test seri configur overid configur
+chart line stroke
+chart stroke
+chart
+chart render pyqueri
+seri line
+seri line
+seri
+seri
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+plugin test import
+
+resourc
+
+
+load plugin test
+entri resourc iter entri point pygal test test map
+entri load
+dict item
+startswith test
+global test map entri name
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+date relat chart test
+
+pygal date line time line date time line time delta line
+pygal compat timestamp
+pygal test util text
+datetim datetim date time timedelta
+
+
+test date
+test simpl datelin
+date chart date line truncat label 1000
+date chart date
+date 2013
+date 2013
+date 2013
+date 2013
+
+
+date chart render pyqueri
+
+
+split
+axi text text
+2013
+2013
+2013
+2013
+
+
+test time
+test simpl timelin
+time chart time line truncat label 1000
+time chart time
+time
+time
+time
+
+
+time chart render pyqueri
+
+
+split
+axi text text
+
+
+
+
+
+
+
+
+
+test datetim
+test simpl datetimelin
+datetim chart date time line truncat label 1000
+datetim chart datetim
+datetim 2013
+datetim 2013
+datetim 2013
+datetim 2013
+
+
+datetim chart render pyqueri
+
+
+split
+axi text text
+2013 12 t14
+2013 24 t04
+2013 04 t17
+2013 16 t07
+
+
+test timedelta
+test simpl timedeltalin
+timedelta chart time delta line truncat label 1000
+timedelta chart timedelta
+timedelta second
+timedelta week
+timedelta hour second
+timedelta microsecond 12112
+
+
+timedelta chart render pyqueri
+
+axi text text
+
+
+day
+day
+day
+day
+day
+
+
+test date xrang
+test datelin xrang
+datey date line truncat label 1000
+datey date
+date 2013
+date 2013
+date 2013
+date 2013
+
+
+datey xrang date 2013 date 2013
+
+datey render pyqueri
+
+split
+axi text text
+2013
+2013
+2013
+2013
+2013
+2013
+
+
+test date label
+test datelin xrang
+datey date line truncat label 1000
+datey date
+date 2013
+date 2013
+date 2013
+date 2013
+
+
+datey label
+date 2013
+date 2013
+date 2013
+
+
+datey render pyqueri
+
+split
+axi text text
+2013
+2013
+2013
+
+
+test timestamp
+timestamp
+datetim 2017 replac tzinfo
+1500000000
+
+
+datetim
+datetim utcnow
+datetim 1999
+datetim 2000
+
+datetim utcfromtimestamp
+timestamp timedelta microsecond
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+test formatt
+
+pygal formatt
+pygal compat
+
+
+test human readabl
+test human readabl formatt
+formatt human readabl
+
+
+
+
+
+1000
+5000
+100000 100k
+1253 253k
+1250
+
+100m
+
+
+
+0025
+0001 100µ
+000123 123µ
+00001
+000001
+0000001 100n
+0000000001 100p
+
+
+
+1337 337k
+000000042
+
+
+test human readabl custom
+test human readabl formatt option
+formatt human readabl
+
+formatt human readabl none
+
+
+
+test signific
+test signific formatt
+formatt signific
+
+
+
+
+10000000000
+100000000000
+120000000000
+
+
+
+0000000001
+0000000001
+0000000001002 002e
+
+0000000001002 002e
+
+12345678912345 1234567891
+012345678912345 01234567891
+
+12345678912345 234567891e
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+test sparktext render
+
+pygal line
+pygal compat
+
+
+test basic sparktext
+test basic sparktext
+chart line
+chart
+chart render sparktext ▁▁▃▂█
+
+
+test sparktext
+test charact sparktext
+chart line
+chart rang
+chart render sparktext ▁▂▃▄▅▆▇█
+
+
+test shift sparktext
+test rel option sparktext
+chart line
+chart 10000 rang
+chart render sparktext ▁▂▃▄▅▆▇█
+chart render sparktext rel ▇▇▇▇▇▇▇█
+
+
+test anoth sparktext
+test produc sparktext
+chart line
+chart
+chart render sparktext ▁▂▃▄▂█
+chart render sparktext chart render sparktext
+chart2
+chart2
+chart2 render sparktext chart render sparktext
+
+
+test neg sparktext
+test neg valu
+test neg valu
+chart line
+chart
+chart render sparktext ▁▂█▁
+
+
+test sparktext
+test sparktext
+chart2 line
+chart2
+chart2 render sparktext
+
+chart3 line
+chart3 render sparktext
+
+
+test rel valu sparktext
+test flat sparktext
+chart line
+chart
+chart render sparktext ▁▁▁▁▁
+
+chart2 line
+chart2
+chart2 render sparktext rel ▁▁▁▁▁
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+pygal test
+
+pygal
+pygal util
+pygal graph base map
+decim
+
+
+
+return sampl test index
+
+
+
+
+decim
+
+
+
+adapt chart
+adapt chart
+isinst chart pygal
+
+
+
+isinst chart base map
+
+chart label
+chart label
+
+
+
+
+make chart data
+sampl test chart
+enumer data
+chart
+adapt chart
+secondari
+chart
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+filter test
+
+pygal
+
+
+chang bar xml filter
+
+filter insert subplot
+
+init
+gener
+rang
+
+call
+appli filter tree
+subplot legend bottom size
+width height
+subplot differ
+subplot subplot render tree
+subplot subplot findal
+insert subplot
+findal transform translat scale
+
+
+
+test filter round trip
+ensur noth noth
+plot
+plot
+plot
+plot render
+plot filter
+plot render
+
+
+
+test filter chang bar
+test filter
+plot legend bottom size
+width height
+
+
+plot
+plot
+plot filter chang bar xml filter
+plot render tree
+findal
+findal attrib
+transform translat scale
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+view relat test
+
+todo
+
+
+test logarithm chart
+test logarithm view render
+chart chart logarithm
+chart
+chart
+chart render
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+util function test
+
+pygal compat ellipsi
+pygal util
+round round swap curli
+truncat minifi major mergextend
+pytest rais
+
+
+
+test round
+test round
+round 154231 1000 154000
+round 154231 154230
+round 154231 100000 200000
+round 154231 50000 150000
+round 154231 154000
+round 154231 154200
+round 154361 154400
+
+
+test round
+test round
+round 01934
+round 01134
+round 1934
+round 1134
+round 1134
+round 1134 00001 1134
+round 1934
+round 2934
+
+
+test swap curli
+test swap curli
+
+
+
+ĳə˘©þß®
+ĳə˘©þß®
+swap curli
+swap curli
+swap curli
+swap curli
+swap curli
+swap curli
+swap curli
+swap curli
+swap curli
+swap curli
+swap curli
+
+
+test format
+test format
+
+rais key error
+
+
+object
+
+object
+
+
+
+
+
+
+
+
+test truncat
+test truncat
+truncat 1234567890 1234567890
+truncat 1234567890 1234…
+truncat 1234567890
+truncat 1234567890 12345678…
+truncat 1234567890 1234567890
+truncat 1234567890 1234567890
+truncat 1234567890 1234567890
+
+
+test minifi
+test minifi
+
+
+font size config care
+
+
+titl
+font famili san
+
+font size
+
+
+legend legend text
+font famili monospac
+font size
+
+minifi
+titl font famili san font size
+legend legend text font famili monospac font size
+
+
+test major
+test major
+major
+major
+major
+major
+major
+major
+major
+major
+major
+
+major
+major
+major
+
+major
+
+
+major
+major
+major
+major
+major
+major
+major
+major
+major
+major 1000 10000 100000
+major rang
+major rang
+major rang
+todo handl crazi case
+major rang
+
+
+test mergextend
+test mergextend
+mergextend
+mergextend
+mergextend
+
+mergextend ellipsi
+mergextend ellipsi
+mergextend ellipsi
+mergextend ellipsi
+
+
+version info
+sake 2016
+mergextend
+
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+style relat test
+
+pygal line
+pygal style
+light style
+lighten style darken style satur style desatur style rotat style
+
+
+style lighten style darken style satur style desatur style rotat style
+
+
+test parametr style
+test parametr produc result
+chart
+style style
+line line style style f4e83a
+line
+line label
+chart line render
+chart chart
+chart chart
+
+
+test parametr style paramet
+test parametr style paramet
+line line style rotat style
+de3804 step style light style
+line
+line label
+line render
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+stack chart relat test
+
+pygal stack line
+
+
+test stack line
+test stack line
+stack stack line
+stack
+stack twelv
+stack render pyqueri
+text desc valu
+
+
+
+test stack line revers
+test stack stack line
+stack stack line stack
+stack
+stack twelv
+stack render pyqueri
+text desc valu
+
+
+
+test stack line
+test logarithm stack line
+stack stack line logarithm
+stack
+stack twelv
+stack render pyqueri
+text desc valu
+
+
+
+test stack line interpol
+test interpol stack line
+stack stack line interpol cubic
+stack
+stack twelv
+stack render pyqueri
+text desc valu
+
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+variou config option test chart
+
+pygal
+line treemap radar config funnel
+histogram gaug
+pyramid horizont bar horizont stack bar
+horizont stack line horizont line
+date time line time line date line time delta line
+solid gaug
+
+pygal graph base map
+pygal graph horizont horizont graph
+pygal graph dual dual
+pygal formatt
+pygal compat ellipsi
+pygal test util text
+tempfil name temporari file
+
+
+test config behaviour
+test differ config produc result
+line1 line
+line1 show legend
+line1 fill
+line1 pretti
+line1 prefix
+line1 label
+line1
+line1 render
+
+line1 render pyqueri
+axi
+axi
+plot seri path
+legend
+axi guid
+axi guid
+dot
+axi text text
+
+line2 line
+show legend
+fill
+pretti
+prefix
+label
+line2
+line2 render
+
+
+line config config
+show legend
+fill
+pretti
+prefix
+label
+
+line3 line line config
+line3
+line3 render
+
+
+line4 line line config
+line4
+line4 render
+
+
+line config config
+line config show legend
+line config fill
+line config pretti
+line config prefix
+line config label
+
+line5 line line config
+line5
+line5 render
+
+
+
+test config alter
+assert config chang config
+line config config
+prefix
+show legend
+fill
+pretti
+label
+
+line1 line line config
+line1
+line1 render
+
+line config stroke
+line2 line line config
+line2
+line2 render
+
+
+l1bi line1 render
+l1bi
+
+
+test config alter
+assert config chang
+line config config
+prefix
+show legend
+fill
+pretti
+label
+
+config line config
+line1 line config
+line1
+line1 render
+
+config stroke
+line2 line config
+line2
+line2 render
+
+
+l1bi line1 render
+l1bi
+
+
+test config alter kwarg
+assert config chang keyword arg
+line config config
+prefix
+show legend
+fill
+pretti
+label
+
+config line config
+
+line1 line config
+line1
+line1 render
+
+line1 stroke
+l1bi line1 render
+l1bi
+
+line2 line config
+line2
+line2 render
+
+l1bi
+
+line3 line config titl titl
+line3
+line3 render
+
+
+l2bi line2 render
+l2bi
+
+
+test logarithm
+test logarithm option
+line line logarithm
+line
+line render pyqueri
+axi
+axi
+plot seri path
+legend
+axi guid
+axi guid
+dot
+
+
+test interpol chart
+test interpol option
+chart chart interpol cubic
+chart
+chart
+chart render pyqueri
+legend
+
+
+test interpol chart
+test interpol option
+chart chart interpol cubic
+chart render pyqueri
+text overlay text text
+
+
+test seri interpol chart
+test interpol option seri
+chart chart interpol cubic
+chart seri
+chart render pyqueri
+text overlay text text
+
+
+test logarithm interpol
+test interpol option logarithm chart
+line line logarithm interpol cubic
+line 00000001
+line render pyqueri
+axi guid
+
+
+test logarithm scale
+test logarithm option larg rang valu
+line line logarithm
+line
+line render pyqueri
+axi guid
+
+
+test valu formatt
+test valu formatt option
+line line valu formatt
+line
+line render pyqueri
+axi guid
+axi text text
+rang 20000 240000 20000
+
+
+test logarithm small scale
+test logarithm small rang valu
+line line logarithm
+line
+line render pyqueri
+axi guid
+
+
+test human readabl
+test human readabl option
+line line
+line
+line render pyqueri
+axi text text
+rang 20000 240000 20000
+
+line valu formatt formatt human readabl
+
+line render pyqueri
+axi text text
+rang
+
+
+test show legend
+test show legend option
+line line
+line
+line render pyqueri
+legend
+line show legend
+line render pyqueri
+legend
+
+
+test show dot
+test show dot option
+line line
+line
+line render pyqueri
+dot
+line show dot
+line render pyqueri
+dot
+
+
+test
+test text option
+line line
+line render pyqueri
+text overlay text text
+line text þæ®þæ€€ ĳ¿’€
+line render pyqueri
+text overlay text text þæ®þæ€€ ĳ¿’€
+
+
+test axi chart
+test axi inclus option
+chart chart
+chart
+treemap radar funnel gaug histogram solid gaug
+issubclass chart base map
+
+chart dual
+
+
+
+chart
+chart render pyqueri
+ghost thing
+yaxi axi guid text
+getattr chart horizont
+isinst chart
+yaxi text
+
+yaxi text
+chart axi
+chart render pyqueri
+yaxi text
+
+
+test chart
+test file option
+text fill bedead
+name temporari file
+write
+flush
+
+config config
+config append file name
+
+chart chart config
+chart
+chart render decod
+bedead
+
+chart chart ellipsi file name
+chart
+chart render decod
+bedead
+
+
+test chart
+test option
+text fill bedead
+
+config config
+config append
+chart chart config
+chart
+chart render decod
+bedead
+
+
+test meta config
+test config metaclass
+pygal config config item
+name unbound config item
+
+
+test label rotat chart
+test label rotat option
+chart chart label rotat label rotat
+chart
+chart
+chart dual
+chart label twoooooooooooooooooooooo three
+chart render pyqueri
+chart line
+axi text transform rotat
+axi text transform rotat
+
+
+test legend bottom chart
+test legend bottom option
+chart chart legend bottom
+chart
+chart
+chart render
+chart legend bottom
+chart render
+
+
+test titl chart
+test titl titl option
+chart chart titl titl
+titl titl
+titl titl
+chart
+chart
+chart render pyqueri
+titl titl
+
+
+test rang chart
+test label major option
+chart
+treemap solid gaug
+issubclass chart base map
+
+chart chart
+chart rang
+chart
+chart render pyqueri
+axi rang
+chart radar
+axi rang
+getattr chart horizont chart gaug
+text axi guid text axi
+
+
+test label major chart
+test label major option
+chart
+treemap funnel gaug histogram solid gaug
+pyramid date time line time line date line
+time delta line
+issubclass chart base map dual horizont graph
+
+chart chart
+chart test rang
+chart label rang
+
+chart render pyqueri
+axi text major
+
+chart label major
+chart render pyqueri
+axi text major
+axi text
+
+chart show minor label
+chart render pyqueri
+axi text major
+axi text
+
+chart show minor label
+chart label major
+chart label major everi
+chart render pyqueri
+axi text major
+axi text
+
+chart label major everi
+chart label major count
+chart render pyqueri
+axi text major
+axi text
+
+chart label major everi
+chart label major count
+chart render pyqueri
+axi text major
+axi text
+
+
+test label major chart
+test label major option
+chart
+treemap funnel gaug histogram solid gaug
+horizont bar horizont stack bar
+horizont stack line horizont line
+pyramid date time line time line date line
+time delta line
+issubclass chart base map
+
+chart chart
+rang
+chart
+rang rang
+chart test
+chart label rang
+
+chart render pyqueri
+axi text major
+
+chart label major
+chart render pyqueri
+axi text major
+axi text
+
+chart show minor label
+chart render pyqueri
+axi text major
+axi text
+
+chart show minor label
+chart label major
+chart label major everi
+chart render pyqueri
+axi text major
+axi text
+
+chart label major everi
+chart label major count
+chart render pyqueri
+axi text major
+axi text
+
+chart label major everi
+chart label major count
+chart render pyqueri
+axi text major
+axi text
+
+
+test label chart
+test label chart
+chart chart
+chart label
+chart
+chart
+chart render pyqueri
+
+
+test fill chart
+test fill option
+chart chart fill
+chart
+chart
+chart render pyqueri
+
+
+test render chart
+test render
+chart chart fill
+chart
+chart
+chart render startswith
+imag charset base64
+
+
+test formatt chart
+test custom formatt
+chart dual chart
+
+chart chart formatt chart seri
+seri titl
+chart valu formatt
+chart formatt
+chart label
+chart label major
+chart render pyqueri
+text valu
+
+chart solid gaug
+
+
+test class chart
+test class option
+chart chart
+chart render pyqueri attr pygal chart
+
+chart chart class
+chart render pyqueri attr
+
+chart chart class ellipsi
+chart render pyqueri attr pygal chart
+
+chart chart class graph
+chart render pyqueri attr graph
+
+chart chart class pygal chart graph
+chart render pyqueri attr pygal chart graph
+
+chart chart class ellipsi graph
+chart render pyqueri attr pygal chart graph
+
+chart chart class graph ellipsi
+chart render pyqueri attr graph pygal chart
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+base pygal chart
+
+futur divis
+
+
+functool reduc
+uuid uuid4
+
+pygal compat like
+pygal adapt zero posit
+pygal config config seri config
+pygal seri seri
+pygal state state
+pygal
+pygal util compos ident
+pygal view margin
+
+
+base graph
+
+chart behaviour relat function
+
+adapt
+
+init config kwarg
+config prepar variou initi
+config
+isinst config
+config config
+
+config config copi
+
+config config
+
+config kwarg
+config config
+state
+uuid uuid4
+seri
+series2
+filter
+
+setattr name valu
+attribut state
+name startswith getattr state
+base graph setattr name valu
+
+setattr state name valu
+
+getattribut name
+attribut state
+name startswith name state getattr
+state
+name state dict
+base graph getattribut name
+getattr state name
+
+prepar valu offset
+prepar valu start sane valu
+pygal graph base map
+pygal histogram
+
+zero isinst base map
+zero
+
+label rotat
+label rotat
+
+label rotat
+label rotat
+
+label label
+getattr
+setattr getattr
+
+
+
+adapt adapt
+logarithm
+zero posit
+adapt
+adapt remov
+adapt adapt posit zero
+adapt adapt
+
+adapt reduc compos adapt strict ident
+adapt reduc
+compos adapt strict getattr
+adapt ident
+
+seri
+
+
+titl
+valu isinst
+valu dict valu
+seri config kwarg
+titl valu seri config kwarg
+
+width valu valu
+label
+
+titl valu seri config kwarg
+metadata
+valu
+isinst valu dict
+isinst base map
+valu valu item
+
+valu width
+valu item
+label
+valu label index
+valu valu
+
+index valu enumer
+valu
+width valu align valu
+valu width
+isinst valu dict
+valu dict valu
+valu valu valu
+metadata index valu
+
+valu valu
+
+chart method
+isinst histogram
+valu
+valu
+like valu
+valu valu zero zero
+valu
+valu valu valu
+valu adapt valu
+dual
+valu
+valu
+like valu
+valu valu zero
+adapt
+valu
+adapt valu
+adapt valu
+isinst base map
+valu adapt valu valu
+
+valu adapt valu
+
+valu adapt valu
+
+valu append valu
+seri config seri config
+seri config dict state dict item
+seri config
+seri config seri config kwarg
+seri append
+seri offset seri
+titl valu seri config metadata
+seri
+
+setup kwarg
+state prior render
+keep label
+getattr label
+label label
+getattr label
+label label
+state state kwarg
+isinst style
+style style
+seri prepar valu
+seri
+secondari seri prepar valu
+series2 seri
+horizont getattr horizont
+
+label
+label
+label
+label
+node
+margin margin
+margin margin
+margin right margin
+margin bottom margin
+margin left margin
+
+view
+logarithm zero
+explicit avoid interpol depend
+posit valu filter
+
+dual
+seri seri seri valu
+
+zero posit valu
+
+interpol
+draw
+render
+
+teardown
+remov state render
+getenv pygal keep state
+
+
+state
+state
+
+repr
+display i python notebook
+render disabl declar
+
+repr
+display i python notebook
+render
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+pygal contain creat extens
+pygal map world exempl
+http github kozea pygal map world
+
+
+futur divis
+
+pygal etre etre
+pygal graph graph graph
+pygal util alter cach properti decor
+
+
+base map graph
+
+base map
+
+dual
+
+cach properti
+valu
+getter seri valu flatten
+
+seri seri
+seri valu
+
+
+enumer valu seri
+hook replac enumer valu
+enumer seri valu
+
+adapt code area code
+hook chang area code
+area code
+
+valu format valu
+
+format valu valu display
+
+
+area name adapt code valu
+format valu
+
+plot
+insert chart appli
+etre fromstr
+width view width
+height view height
+
+seri enumer seri
+val filter
+seri valu
+val
+
+val
+val
+area code valu enumer valu seri
+area code adapt code area code
+valu
+
+
+ratio
+
+ratio valu
+
+
+area findal
+element
+area prefix area code
+kind
+syntax error
+python better instal lxml
+import error lxml requir python
+
+area
+
+
+area area
+area split
+append color
+append seri
+append seri
+area join
+area style fill opac ratio
+
+metadata seri metadata
+
+metadata
+node decor area metadata
+node area
+area remov node
+
+area
+
+index index area
+remov area
+node append area
+insert index node
+
+node area
+node split
+append reactiv
+append tooltip trigger
+append area
+node join
+alter node metadata
+
+format seri
+tooltip area
+
+node plot append
+
+comput label
+
+
+comput label
+
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+stack chart like chart seri stack
+other instead display side side
+
+
+futur divis
+
+pygal adapt none zero
+pygal graph
+
+
+stack bar
+
+stack graph
+
+adapt none zero
+
+separ valu secondari
+separ valu posit neg stack
+seri secondari seri secondari seri
+transpos seri valu seri seri
+posit val
+val
+zero
+val transpos
+neg val
+
+val
+zero
+val transpos
+posit val neg val
+
+comput posit val neg val
+comput
+rang rang
+ymin rang
+
+ymin neg val
+neg val zero zero
+rang rang
+ymax rang
+
+ymax posit val
+posit val zero zero
+
+comput
+comput scale label
+posit val neg val separ valu
+
+logarithm
+posit val filter
+zero posit val
+neg val filter
+zero neg val
+
+comput posit val neg val
+posit val posit val zero
+neg val neg val zero
+
+
+rang
+center valu
+
+point
+
+neg cumul
+posit cumul
+
+secondari seri
+posit val neg val separ valu
+posit val posit val zero
+neg val neg val zero
+secondari neg cumul
+secondari posit cumul
+comput secondari posit val neg val
+
+rang
+
+comput secondari posit val neg val
+comput secondari
+secondari neg val
+neg val zero zero
+secondari posit val
+posit val zero zero
+
+seri parent zero secondari
+intern stack draw
+secondari
+cumul secondari neg cumul
+zero
+secondari posit cumul
+
+cumul neg cumul
+zero
+posit cumul
+zero cumul
+cumul zero
+zero
+zero zero
+zero
+zero
+
+width view view
+view
+
+seri margin width seri margin
+seri margin
+width seri margin
+secondari seri
+width
+secondari width
+seri margin width seri margin
+seri margin
+width seri margin
+height view zero
+seri round bar seri round bar
+transpos node
+parent rect
+width width height height
+rect reactiv tooltip trigger
+width height
+
+plot
+draw bar seri secondari seri
+seri seri stack
+seri
+seri secondari seri stack
+seri
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+horizont graph mixin
+
+pygal graph graph graph
+pygal view horizont log view horizont view
+
+
+horizont graph graph
+
+horizont graph mixin
+
+init arg kwarg
+horizont flag
+horizont
+horizont graph init arg kwarg
+
+post comput
+after comput transpos label
+label label label label
+label major label major
+label major label major
+label label
+label label
+
+axe
+forc vertic flag render axe
+view forc vertic
+horizont graph axe
+view forc vertic
+
+view
+assign horizont view current graph
+logarithm
+view horizont log view
+
+view horizont view
+
+view view
+width margin
+height margin
+
+
+label
+conveni label valu index
+label label label
+
+label
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+horizont line graph
+
+pygal graph line line
+pygal graph horizont horizont graph
+
+
+horizont line horizont graph line
+
+horizont line graph
+
+plot
+draw line revers order
+seri seri
+line seri
+seri secondari seri
+line seri
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+chart present group rectangular bar length
+proport valu repres
+
+
+futur divis
+
+pygal graph graph graph
+pygal util alter decor ident swap
+
+
+graph
+
+graph
+
+seri margin
+seri margin
+
+seri parent zero secondari
+intern draw
+width view view
+view
+seri margin width seri margin
+seri margin
+width seri margin
+width order
+horizont
+seri index order seri index
+
+seri index seri index
+seri index width
+
+seri margin width seri margin
+seri margin
+width seri margin
+height view zero
+seri round bar seri round bar
+alter transpos node
+parent rect
+width width height height
+rect reactiv tooltip trigger seri metadata
+width height
+
+tooltip valu
+seri node seri parent metadata
+width height
+transpos swap horizont ident
+center center transpos width height
+transpos width height
+bottom bottom transpos
+dual
+seri valu
+
+seri valu
+sign zero
+tooltip
+parent center center center
+label
+
+valu posit
+horizont
+bottom sign style valu font size
+center
+
+center
+bottom sign style valu font size
+valu posit bottom
+horizont
+sign style valu font size
+center
+
+center
+sign style valu font size
+
+center
+center
+valu
+seri node metadata center
+
+seri rescal
+draw graph seri
+seri node seri seri
+bar node seri node plot bar
+rescal secondari seri
+point rescal seri point
+
+point seri point
+
+enumer point
+logarithm
+
+metadata seri metadata
+format seri
+
+decor
+
+node bar
+metadata
+
+width height
+seri zero secondari rescal
+
+confid interv
+seri node overlay width seri valu
+metadata
+
+tooltip valu
+seri node seri metadata
+width height
+
+comput
+comput scale label
+
+ymin zero
+
+ymax zero
+
+rang
+center valu
+
+point
+
+rang
+
+plot
+draw bar seri secondari seri
+seri seri
+seri
+seri secondari seri
+seri
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+treemap chart visual nest recangl
+
+futur divis
+
+pygal adapt none zero posit
+pygal graph graph graph
+pygal util alter decor
+
+
+treemap graph
+
+treemap graph
+
+adapt posit none zero
+
+rect seri seri node rect
+view
+view
+
+
+
+metadata seri metadata
+
+format seri
+
+rect decor
+
+node rect rect
+metadata
+
+alter
+node
+rect rect
+
+
+width
+height
+rect reactiv tooltip trigger
+metadata
+
+tooltip
+rect
+
+
+center
+label
+valu
+seri node
+
+
+metadata
+
+binari tree total parent
+total
+
+
+parent
+datum
+seri seri node rect parent
+rect seri seri node rect datum
+
+datum
+seri node seri datum
+binari tree
+enumer datum valu
+total
+datum seri node
+node seri node plot rect
+
+
+midpoint total
+pivot index
+run
+enumer
+run midpoint
+pivot index
+
+
+run parent valu
+
+half1 pivot index
+half2 pivot index
+
+parent
+half1 half1
+half2 half2
+
+half1 valu half1
+half2 valu half2
+pivot half1 total
+
+
+pivot pivot
+binari tree
+half1 half1 pivot parent
+binari tree
+half2 half2 pivot pivot parent
+
+pivot pivot
+binari tree
+half1 half1 pivot parent
+binari tree
+half2 half2 pivot pivot parent
+
+comput label
+
+
+comput label
+
+
+plot
+total valu seri
+total
+
+
+width margin
+height margin
+
+view xmin view ymin
+view xmax total
+view ymax total
+view
+
+binari tree seri total
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+stack line chart like line chart line stack
+other use along fill option
+
+
+futur divis
+
+pygal adapt none zero
+pygal graph line line
+
+
+stack line line
+
+stack line graph
+
+adapt none zero
+
+init arg kwarg
+custom variabl initi
+previou line
+stack line init arg kwarg
+
+valu format valu seri index
+
+display valu cumul
+
+seri point index
+seri seri
+stack
+seri index seri order
+stack
+seri index seri
+stack line valu format valu
+
+format
+format valu
+
+
+fill valu
+extra valu fill line
+previou line
+previou line valu
+stack line fill valu
+valu valu revers previou line
+previou line valu
+valu
+
+point
+
+convert given valu drawabl point
+interpol point interpol option specifi
+
+seri group seri secondari seri
+accumul
+seri seri group stack
+accumul accumul seri valu
+seri point
+
+enumer accumul
+seri point interpol
+seri interpol interpol accumul
+
+seri interpol
+
+plot
+plot stack seri line stack secondari line
+seri seri stack
+line seri
+seri secondari seri stack
+line seri
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+line graph plot coupl point connect
+straight segment
+
+
+futur divis
+
+functool reduc
+
+pygal graph dual dual
+pygal graph line line
+pygal util cach properti compos ident
+
+
+line dual
+
+line graph
+
+adapt
+
+cach properti
+xval
+valu
+
+seri seri
+seri valu
+
+
+cach properti
+yval
+valu
+
+seri seri
+seri valu
+
+
+cach properti
+
+getter minimum seri valu
+rang rang rang
+yval yval
+
+cach properti
+
+getter maximum seri valu
+rang rang rang
+yval yval
+
+comput
+comput scale label
+xval
+xrang
+adapt reduc
+compos adapt getattr
+adapt ident
+
+xmin adapt xrang
+xmax adapt xrang
+
+
+xmin xval
+xmax xval
+xrng xmax xmin
+
+xrng
+
+yval
+ymin
+ymax
+
+axi
+ymin ymin
+ymax ymax
+
+yrng ymax ymin
+
+yrng
+
+seri seri
+seri point seri valu
+interpol
+val sort
+filter
+seri point
+seri interpol interpol val val
+
+interpol
+xval
+seri seri
+seri interpol
+yval
+seri seri
+seri interpol
+xval
+xmin xval
+xmax xval
+xrng xmax xmin
+
+xrng
+
+valu also zero test explicitli
+xrng
+xmin xmax xmin xmax
+
+yrng
+ymin ymax ymin ymax
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+dual chart dual mean chart scale axi like
+
+pygal compat
+pygal graph graph graph
+pygal util comput scale
+
+
+dual graph
+dual
+
+valu format valu
+
+format valu dual valu display
+
+
+format valu
+format valu
+
+comput label
+comput scale
+xmin xmax logarithm
+order scale scale
+
+label
+label
+label enumer label
+isinst label dict
+adapt label valu
+titl label label format
+label
+adapt
+titl label
+
+adapt label
+titl format
+
+label append titl
+xmin xmin label
+xmax xmax label
+
+
+label format
+
+comput label major
+dual label must adapt major
+label major label major
+adapt label major
+dual comput label major
+
+label
+conveni label valu index
+
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+chart display valu grid dot bigger valu
+bigger
+
+
+futur divis
+
+math log10
+
+pygal compat
+pygal graph graph graph
+pygal util alter cach properti decor enumer
+pygal view revers view view
+
+
+graph
+
+graph
+
+seri
+draw line
+seri node seri seri
+view valu view seri point
+valu enumer seri valu
+view valu
+
+logarithm
+log10min log10
+log10max log10
+
+valu
+size
+log10 valu log10min
+log10max log10min
+
+
+size
+
+size valu
+
+metadata seri metadata
+dot decor
+
+node seri node plot dot
+metadata
+alter node
+dot circl
+size
+reactiv tooltip trigger
+neg valu metadata
+
+format seri
+tooltip
+dot center
+label
+valu seri node metadata
+
+comput
+comput scale label
+
+order
+xmax
+ymax
+
+rang
+revers rang
+
+seri enumer seri
+seri point
+
+rang
+
+comput label
+label
+label label
+seri titl titl
+isinst seri titl dict
+seri titl seri seri
+
+
+view
+assign view current graph
+view revers view invers axi view
+
+view view
+width margin
+height margin
+
+
+cach properti
+valu
+getter seri valu flatten
+valu
+
+cach properti
+
+getter maximum seri valu
+rang rang rang
+valu valu
+
+plot
+plot dot seri
+
+view view
+view view
+
+seri seri
+seri
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+chart properti draw
+
+futur divis
+
+itertool chain
+
+math ceil sqrt
+
+pygal compat like
+pygal graph public api
+pygal interpol interpol
+pygal stat
+pygal util
+cach properti comput scale decor
+text text major revers text
+split titl truncat filter kwarg
+pygal view log view revers view view xy log view
+
+
+graph public api
+
+graph contain gener common function
+
+dual
+
+decor
+draw decor
+view
+make graph
+axe
+legend
+make titl
+make titl
+make titl
+
+axe
+draw axe
+axi
+axi
+
+view
+assign view current graph
+logarithm
+dual
+view xy log view
+
+view log view
+
+view revers view invers axi view
+
+view view
+width margin
+height margin
+
+
+make graph
+init common graph structur
+node graph node
+graph graph
+name lower
+horizont horizont vertic
+node node graph rect
+background
+
+width width
+height height
+node plot node
+node graph plot
+transform translat
+margin left margin
+node node plot rect
+background
+
+width view width
+height view height
+node titl node
+node graph
+titl
+node overlay node
+node graph plot overlay
+transform translat
+margin left margin
+node text overlay node
+node graph plot text overlay
+transform translat
+margin left margin
+node tooltip overlay node
+node graph plot tooltip overlay
+transform translat
+margin left margin
+node tooltip node
+node tooltip overlay
+transform translat
+style opac
+tooltip
+
+node node tooltip rect
+tooltip border radiu
+tooltip border radiu
+width height
+tooltip
+node node tooltip text
+
+axi
+make axi label guid
+label show label
+
+axi node node plot axi
+alway show show guid
+
+truncat truncat label
+truncat
+label rotat label
+truncat
+
+first label posit view label
+last label posit view label
+avail space
+last label posit first label posit
+label
+truncat revers text
+avail space style label font size
+truncat truncat
+
+lastlabel label
+label label label
+node axi path
+view height
+line
+lastlabel
+
+label posit label
+horizont
+major posit label major
+
+major label label major
+show minor label major
+
+guid node axi guid
+view posit
+
+
+view height
+last guid label label lastlabel
+node
+guid path
+view height
+sline
+axi label
+major major
+guid posit last guid
+style label font size
+text node
+guid text
+
+
+major major
+
+
+text text truncat label truncat
+text text label
+node guid titl text label
+dual
+node
+guid titl
+text format posit
+
+label rotat
+text attrib transform rotat
+label rotat
+label rotat
+text attrib join
+text attrib text attrib split
+backward
+
+label
+label label label
+node axi path
+
+view width view height
+line
+
+label
+secondari node
+node plot axi
+alway show show guid
+
+label posit label
+major label label major
+show minor label major
+
+need structur primari axi
+guid node secondari guid
+view posit
+
+text node
+guid text
+
+
+major major
+
+text text label
+label rotat
+text attrib transform rotat
+label rotat
+label rotat
+text attrib join
+text attrib
+text attrib split
+backward
+
+axi
+make axi label guid
+label show label
+
+
+axi node node plot axi
+
+label label label
+show guid
+node
+axi path
+
+invers axi view height
+view width
+line
+
+
+label posit label
+horizont
+major label label major
+
+major posit label major
+
+show minor label major
+
+guid node axi sguid
+logarithm logarithm
+
+
+view posit
+
+
+show guid
+node
+guid path
+view width
+sline
+axi label
+major major
+guid posit
+text node
+guid text
+
+style label font size
+major major
+
+
+text text label
+
+label rotat
+text attrib transform rotat
+label rotat
+label rotat
+text attrib join
+text attrib text attrib split
+backward
+node
+guid titl
+text format posit
+
+label
+secondari node
+node plot axi
+label posit label
+major posit label major
+show minor label major
+
+need structur primari axi
+guid node secondari guid
+view width
+view posit
+text node
+guid text
+
+style label font size
+major major
+
+text text label
+label rotat
+text attrib transform rotat
+label rotat
+label rotat
+text attrib join
+text attrib
+text attrib split
+backward
+
+legend
+make legend
+show legend
+
+truncat truncat legend
+legend bottom
+margin left space
+margin view height
+titl height
+label height space
+col legend bottom column ceil
+sqrt order
+
+truncat
+avail space view width col
+legend size
+truncat revers text
+avail space style legend font size
+
+space
+margin space
+col
+truncat
+truncat
+
+legend node
+node graph legend
+transform translat
+
+legend size style legend font size
+step view width col
+legend bottom
+legend bottom dont split window
+structur
+seri use color identif
+posit within current legend
+label
+whether secondari label
+enumer enumer chain
+legend
+secondari legend
+secondari legend legend node
+
+enumer chain
+enumer legend
+enumer secondari legend
+
+draw secondari axi right
+margin left view width space
+label
+text
+label style label font size
+space
+label rotat
+
+margin space
+
+secondari legend node
+node graph legend
+transform translat
+
+seri titl secondari
+
+col
+col
+
+legend node
+secondari legend secondari legend
+legend reactiv activ seri
+activ seri seri
+node
+legend rect
+step
+
+style legend font size legend size
+style legend font size legend size
+
+
+width legend size
+height legend size
+color reactiv
+seri style color
+
+
+isinst titl dict
+node decor legend titl
+titl titl titl
+
+node legend
+
+truncat truncat titl truncat
+node
+node text
+step legend size
+style legend font size
+text truncat
+
+truncat titl
+node legend titl text titl
+
+make titl
+make titl
+titl
+titl line enumer titl
+node
+node titl text titl plot titl
+width
+style titl font size space
+text titl line
+
+make titl
+make axi titl
+height margin bottom
+label height
+titl
+titl line enumer titl
+text node
+node titl text titl
+margin left view width
+style titl font size space
+
+text text titl line
+
+make titl
+make axi titl
+titl
+margin view height
+titl line enumer titl
+text node
+node titl text titl
+legend left width
+style titl font size space
+
+text attrib transform rotat
+legend left width
+text text titl line
+
+interpol
+make interpol
+
+
+rang
+
+append
+append
+
+interpol interpol interpol
+
+interpol
+interpol precis
+interpol paramet
+
+rescal point
+scale secondari
+
+scale diff scale scale
+
+point
+
+tooltip node valu class xlabel
+insert desc tag inform javascript tooltip
+node node desc valu text valu
+class
+class
+view width
+class append left
+view height
+class append
+class join class
+
+node node desc
+class text
+node node desc
+class text
+xlabel
+node node desc
+label text xlabel
+
+valu seri node valu metadata
+align text left class
+write valu
+label metadata metadata label
+class class class
+
+label label
+label class label
+valu
+style valu font size
+node
+seri node text overlay text
+join label
+
+style valu font size
+text label
+style valu font size
+
+valu dynam valu
+class valu
+dynam valu
+append showabl
+
+node
+seri node text overlay text
+join
+
+style valu font size
+attrib text anchor align text
+text valu zero valu
+
+point
+
+convert given valu drawabl point
+interpol point interpol option specifi
+
+seri seri
+seri point
+
+enumer seri valu
+seri point interpol
+seri interpol interpol seri valu
+
+seri interpol
+
+comput secondari
+comput secondari axi label posit
+secondari axi support
+secondari seri label
+label
+axi
+ymin secondari
+ymax secondari
+
+ymin secondari
+ymax secondari
+step
+left rang
+right rang ymax ymin
+scale right rang step
+label format ymin scale
+enumer
+
+scale left rang right rang
+scale diff
+scale ymin
+
+post comput
+hook call comput margin comput plot
+
+
+label
+conveni label valu index
+label label label
+
+label
+
+properti
+seri
+getter seri nomal secondari
+seri secondari seri
+
+properti
+format
+return abscissa valu formatt alway unari
+valu formatt
+
+properti
+formatt
+
+
+properti
+format
+return ordin valu formatt alway unari
+valu formatt
+
+valu format valu
+
+format valu valu display
+vari chart type
+
+
+format valu
+
+format seri
+format valu seri
+valu seri valu
+metadata seri metadata
+
+kwarg
+chart
+seri seri
+index
+
+formatt
+metadata metadata formatt
+seri formatt
+formatt
+valu format
+
+kwarg filter kwarg formatt kwarg
+formatt valu kwarg
+
+seri format seri valu
+format independ valu seri
+
+kwarg
+chart
+seri seri
+index
+
+formatt
+seri formatt
+formatt
+valu format
+
+kwarg filter kwarg formatt kwarg
+formatt valu kwarg
+
+comput
+initi comput draw graph
+
+comput margin
+comput graph margin text
+legend left width
+seri group seri secondari seri
+show legend seri group
+text
+truncat truncat legend
+seri titl titl
+isinst seri titl dict
+seri titl seri seri group
+style legend font size
+legend bottom
+legend size
+col order legend bottom column
+legend bottom column
+ceil sqrt order
+margin bottom space round
+col
+
+seri group seri
+legend width space legend size
+margin left legend width
+legend left width legend width
+
+margin right
+space legend size
+
+label height
+label label show label
+xlabel label label
+xlabel
+text
+truncat truncat label
+xlabel
+style label font size
+label height space
+label rotat
+xlabel label
+margin bottom label height
+
+margin label height
+label rotat
+label rotat
+margin right
+label rotat
+margin right
+
+margin left
+label rotat
+margin left
+
+show label
+ylabel label label
+ylabel
+text
+ylabel style label font size
+ylabel label
+margin left space
+label rotat
+
+margin right space
+label rotat
+
+titl split titl
+titl width style titl font size
+
+titl
+text titl style titl font size
+margin titl space
+
+titl split titl
+titl width margin
+style titl font size
+
+titl height
+titl
+text titl style titl font size
+height titl space
+margin bottom height
+titl height height space
+
+titl split titl
+titl height margin
+style titl font size
+
+titl height
+titl
+text titl style titl font size
+height titl space
+margin left height
+titl height height space
+
+inner margin
+valu posit
+height margin
+alpha style valu font size height
+
+ymax alpha
+
+ymin alpha
+
+confid interv node valu metadata
+metadata metadata
+
+metadata
+point estim valu
+
+high getattr
+stat
+confid interv manual
+
+
+confid interv
+node
+respect chart modif pyramid stackbar
+view view valu
+view high view valu
+
+cach properti
+legend
+getter seri titl
+seri titl seri seri
+
+cach properti
+secondari legend
+getter seri titl secondari axi
+seri titl seri secondari seri
+
+cach properti
+valu
+getter seri valu flatten
+
+seri seri
+seri valu
+
+
+cach properti
+secondari valu
+getter secondari seri valu flatten
+
+seri secondari seri
+seri valu
+
+
+cach properti
+
+getter maximum seri size
+
+seri valu
+seri seri
+
+cach properti
+secondari
+getter minimum seri valu
+secondari rang
+secondari rang secondari rang
+secondari valu
+secondari valu
+
+cach properti
+
+getter minimum seri valu
+rang rang rang
+valu
+valu
+
+cach properti
+
+getter maximum seri valu
+rang rang rang
+valu valu
+
+cach properti
+secondari
+getter maximum seri valu
+secondari rang
+secondari rang secondari rang
+secondari valu
+secondari valu
+
+cach properti
+order
+getter seri
+seri
+
+label format valu label
+label
+format label
+label
+
+comput label
+label label
+label format valu label
+
+
+comput label major
+label major everi
+label major label rang
+label label major everi
+
+label major count
+label count label
+major count label major count
+major count label count
+label major label label label
+
+
+label major label
+label count major count
+rang major count
+
+label major label major
+label format valu label major
+
+comput label
+comput scale
+ymin ymax logarithm
+order scale scale
+
+label
+label
+label enumer label
+isinst label dict
+adapt label valu
+titl label label format
+label
+adapt
+titl label
+
+adapt label
+titl format
+label append titl
+ymin ymin label
+ymax ymax label
+
+label format
+
+comput label major
+label major everi
+label major label rang
+label label major everi
+
+label major count
+label count label
+major count label major count
+major count label count
+label major label label label
+
+label major label
+label count major count
+rang major count
+
+label major
+label major adapt label major
+label
+label major major label
+
+label major
+
+squar squar
+line squar
+line squar
+
+current
+current
+
+line rang line
+current width margin squar
+node
+node plot path
+line
+
+current current height margin
+
+line rang line
+current height margin squar
+node
+node plot path
+line
+
+current width margin current
+width margin squar
+height margin squar
+
+draw
+draw thing
+comput
+comput label
+comput label major
+comput label
+comput label major
+comput secondari
+post comput
+comput margin
+decor
+seri valu
+plot
+
+draw
+
+
+check
+
+
+like
+like
+
+seri
+
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+plot conveni display seri whisker outlier
+differ type avail throught mode option
+
+
+futur divis
+
+bisect bisect left bisect right
+
+pygal graph graph graph
+pygal util alter decor
+
+
+graph
+
+
+plot
+seri show median valu 25th 75th percentil
+valu within
+time interquartil rang 25th 75th percentil
+
+http wikipedia wiki plot
+
+
+seri margin
+
+valu format valu seri
+
+format valu dual valu display
+
+mode extrem
+
+n max
+tupl format seri point
+mode tukey stdev pstdev
+
+n lower whisker
+upper whisker n max tupl
+format seri point
+mode 5 iqr
+5 iqr mode
+tupl
+format seri point
+
+format seri point
+
+comput
+
+comput paramet necessari later step
+within render process
+
+seri seri
+seri point seri outlier
+point seri valu mode
+
+
+order rang order
+
+
+ymin zero
+
+ymax zero
+
+plot
+plot seri
+seri seri
+boxf seri
+
+properti
+
+alway
+
+
+boxf seri
+specif seri draw plot
+seri node seri seri
+note liter mean zero quartil
+fourth quartil rather distanc time
+inter quartil rang respect
+box node seri node plot box
+
+metadata seri metadata
+
+decor
+
+node box
+metadata
+
+format seri
+
+center center draw
+seri point seri outlier seri index metadata
+tooltip center center center
+label seri index
+valu seri node center center metadata
+
+draw parent node quartil outlier index metadata
+
+return center bound defin plot
+draw plot
+
+width view view order
+seri margin width seri margin
+left edg view width index seri margin
+width seri margin
+
+draw line whisker bottom median
+whisker enumer
+quartil quartil quartil
+whisker width width width
+shift width whisker width
+left edg shift
+left edg width shift
+alter line
+parent node
+coord view whisker
+view whisker
+reactiv tooltip trigger
+attrib stroke width metadata
+
+draw line connect whisker
+alter line
+parent node
+coord left edg width view quartil
+left edg width view quartil
+reactiv tooltip trigger
+attrib stroke width metadata
+alter line
+parent node
+coord left edg width view quartil
+left edg width view quartil
+reactiv tooltip trigger
+attrib stroke width metadata
+
+bound
+alter node
+parent node
+rect
+left edg
+view quartil
+height view quartil view quartil
+width width
+subtl fill reactiv tooltip trigger metadata
+
+draw outlier
+outlier
+alter node
+parent node
+circl
+left edg width
+view
+
+subtl fill reactiv tooltip trigger metadata
+
+left edg width view
+quartil quartil
+
+staticmethod
+point valu mode extrem
+
+default mode mode extrem
+return tupl minimum median
+maximum numer valu
+5 iqr mode mode 5 iqr
+return tupl median
+numer valu
+tukey mode mode tukey
+return tupl outlier
+outlier consid valu
+mode mode stdev
+return tupl outlier
+outlier consid valu
+mode mode pstdev
+return tupl outlier
+outlier consid valu
+
+iter valu valu
+
+use quartil definit mendenhal
+sincich statist engin
+scienc prentic hall 1995
+
+median
+
+even length
+
+length
+
+
+mean
+
+
+stdev
+mean
+
+varianc
+sqrt
+
+pstdev
+mean
+
+varianc
+sqrt
+
+outlier
+sort copi origin must stay origin order
+sort valu
+
+
+
+
+
+
+median
+method http wikipedia wiki quartil
+even
+median
+median
+
+special
+
+
+form
+
+
+
+form
+
+
+
+
+
+
+
+mode extrem
+
+
+mode tukey
+lowest datum still within lower quartil
+highest datum still within upper
+quartil tukey plot wikipedia
+bisect left
+bisect right
+
+
+outlier
+mode stdev
+standard deviat mean
+stdev
+bisect left
+bisect right
+
+
+outlier
+mode pstdev
+popul standard deviat
+mean
+pstdev
+bisect left
+bisect right
+
+
+outlier
+mode 5 iqr
+5 iqr mode
+
+
+outlier
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+gaug chart repres valu needl polar scale
+
+futur divis
+
+pygal compat
+pygal graph graph graph
+pygal util alter comput scale decor
+pygal view polar theta log view polar theta view
+
+
+gaug graph
+
+gaug graph
+
+needl width
+
+view
+assign view current graph
+logarithm
+view polar theta log view
+
+view polar theta view
+
+view view
+width margin
+height margin
+
+
+needl seri
+draw needl valu
+seri node seri seri
+theta enumer seri valu
+theta
+
+
+point
+view
+
+format seri
+metadata seri metadata
+gaug decor
+
+node seri node plot dot
+metadata
+
+toler
+
+theta
+theta toler
+
+theta
+theta toler
+
+tmax tmin view apertur
+
+logarithm
+
+
+alter
+node
+gaug path
+point theta
+point needl width theta
+needl width needl width
+point needl width theta
+
+line reactiv tooltip trigger
+metadata
+
+view theta
+tooltip
+gaug
+xlabel label
+valu seri node metadata
+
+axi draw axe
+overrid axi plot polar axi
+axi node node plot axi gaug
+
+label theta enumer label
+guid node axi guid
+
+line
+guid view theta view theta
+close
+line
+
+line
+guid view theta view theta
+close
+guid line
+major label
+
+
+view theta
+node
+guid text
+
+
+text label
+
+node
+guid titl
+text format theta
+
+axi draw axe
+overrid axi center circl center
+axi node node plot axi gaug
+view
+node axi circl
+
+comput
+comput scale label
+
+
+
+
+
+
+polar
+
+
+
+
+comput label
+
+
+comput label
+comput scale
+logarithm
+order scale scale
+
+label
+label
+label enumer label
+isinst label dict
+adapt label valu
+titl label label format
+label
+adapt
+titl label
+
+adapt label
+titl format
+label append titl
+label
+label
+polar
+
+
+
+
+label format
+
+plot
+plot needl
+seri seri
+needl seri
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+histogram chart like chart plot along axi
+bar vari width
+
+
+futur divis
+
+pygal graph dual dual
+pygal graph
+pygal util alter cach properti decor
+
+
+histogram dual
+
+histogram chart
+seri margin
+
+cach properti
+valu
+getter secondari seri valu flatten
+yval
+
+cach properti
+secondari valu
+getter secondari seri valu flatten
+
+seri secondari seri
+seri valu
+
+
+cach properti
+xval
+valu
+
+seri seri
+dval seri valu
+dval
+
+
+cach properti
+yval
+valu
+
+seri seri
+seri valu
+
+
+seri parent zero secondari
+intern draw
+view
+view
+width
+height view zero
+seri margin width seri margin
+seri margin
+width seri margin
+
+seri round bar seri round bar
+alter transpos node
+parent rect
+width width height height
+rect reactiv tooltip trigger seri metadata
+width height
+
+seri rescal
+draw graph seri
+seri node seri seri
+bar node seri node plot histbar
+point seri point
+
+enumer point
+logarithm
+
+metadata seri metadata
+
+decor
+
+node bar histbar
+metadata
+format seri
+
+bound
+seri zero secondari rescal
+tooltip valu
+seri node seri metadata bound
+
+comput
+comput scale label
+xval
+xmin xval
+xmax xval
+xrng xmax xmin
+
+xrng
+
+yval
+ymin yval zero
+ymax yval zero
+yrng ymax ymin
+
+yrng
+
+seri seri
+seri point seri valu
+
+xrng
+xmin xmax xmin xmax
+yrng
+ymin ymax ymin ymax
+
+rang rang
+ymin rang
+
+rang rang
+ymax rang
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+chart circular chart divid slice illustr proport
+made donut half
+
+
+futur divis
+
+math
+
+pygal adapt none zero posit
+pygal graph graph graph
+pygal util alter decor
+
+
+graph
+
+graph
+
+adapt posit none zero
+
+slice seri start angl total
+make seri slice
+seri node seri seri
+dual order
+
+slice node seri node plot slice
+seri angl
+origin start angl start angl
+half
+center width margin
+height margin
+
+center width margin
+height margin
+
+radiu center
+enumer seri valu
+perc total
+half
+angl perc
+
+angl perc
+seri angl angl
+format seri
+metadata seri metadata
+slice decor
+
+node slice slice
+metadata
+dual
+small radiu radiu
+radiu radiu
+
+radiu radiu
+small radiu radiu seri inner radiu
+
+alter slice
+seri node slice radiu small radiu
+angl start angl center metadata metadata
+start angl angl
+
+dual
+seri format seri seri valu
+slice seri node
+node slice slice
+radiu seri angl
+origin start angl center metadata
+seri angl
+
+comput label
+
+
+comput label
+
+
+plot
+draw seri slice
+total valu seri
+total
+
+half
+current angl
+
+current angl
+
+index seri enumer seri
+angl slice seri current angl total
+current angl angl
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+graph contain builtin chart
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+
+solid guag
+seri solid guag shown plot area
+
+futur divis
+
+
+math sqrt
+
+pygal graph graph graph
+pygal util alter decor
+
+
+solid gaug graph
+
+gaugifi seri squar dimens current squar
+seri node seri seri
+half
+start angl
+center
+current squar dimens dimens
+current squar dimens dimens
+angl
+
+start angl
+center
+current squar dimens dimens
+current squar dimens dimens
+angl
+
+valu seri metadata valu
+radiu dimens dimens
+small radiu radiu seri inner radiu
+
+gaug background
+seri node start angl center radiu small radiu angl
+half seri format seri valu
+
+
+valu enumer seri valu
+valu
+
+ratio valu valu valu
+half
+angl ratio
+
+angl ratio
+
+format seri
+metadata seri metadata
+
+gaug decor
+
+node seri node plot gaug
+metadata
+
+alter
+solid gaug
+seri node gaug radiu small radiu
+angl start angl center metadata
+half angl
+seri format seri valu
+metadata
+start angl angl
+valu
+
+center
+node
+seri node text overlay text
+valu gaug
+
+style valu font size
+attrib text anchor middl
+text seri format seri
+
+comput label
+
+
+comput label
+
+
+plot
+draw seri slice
+squar squar
+dimens squar squar
+
+index seri enumer seri
+current squar current squar squar index
+gaugifi
+seri squar dimens current squar
+
+squar
+
+seri seri
+
+
+sqrt seri integ
+sqrt seri
+sqrt seri
+
+seri
+seri
+seri seri
+
+seri
+seri seri
+seri
+
+
+
+seri
+
+
+
+
+current squar squar index
+current squar
+step index
+step taken
+rang squar squar
+step taken
+step taken step step taken squar
+current squar
+step taken step step taken squar
+current squar
+current squar
+
+tupl current squar
+except
+someth went wrong current squar assign
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+time extens handl convert date time datetim timedelta
+plot back display
+
+
+datetim date datetim time timedelta
+
+pygal compat timestamp total second
+pygal adapt posit
+pygal graph
+
+
+datetim timestamp
+convert datetim timestamp
+isinst datetim
+timestamp
+
+
+
+datetim time
+convert datetim time
+isinst datetim
+time
+
+
+
+date datetim
+convert date datetim
+isinst datetim isinst date
+datetim combin time
+
+
+
+time datetim
+convert time datetim
+isinst time
+datetim combin date 1970
+
+
+
+timedelta second
+convert timedelta amount second
+isinst timedelta
+total second
+
+
+
+time second
+convert time second
+isinst time
+
+hour minut second
+microsecond
+
+
+
+clamp valid time
+3600
+
+
+second time
+convert second time
+
+
+
+
+
+
+
+
+time
+
+
+date time line
+
+date time abscissa graph
+
+adapt datetim timestamp date datetim
+
+properti
+format
+return valu formatt graph
+datetim
+datetim utcfromtimestamp
+valu formatt
+datetim
+
+
+date line date time line
+
+date abscissa graph
+
+properti
+format
+return valu formatt graph
+date
+date fromtimestamp
+valu formatt
+date
+
+
+time line date time line
+
+time abscissa graph
+
+adapt posit time second datetim time
+
+properti
+format
+return valu formatt graph
+date
+second time
+valu formatt
+date
+
+
+time delta line
+
+time delta abscissa graph
+
+adapt timedelta second
+
+properti
+format
+return valu formatt graph
+timedelta
+timedelta second
+valu formatt
+
+timedelta
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+line chart display seri marker dot
+connect straight segment
+
+
+futur divis
+
+pygal graph graph graph
+pygal util alter cach properti decor
+
+
+line graph
+
+line graph
+
+init arg kwarg
+close radar like line
+close
+line init arg kwarg
+
+cach properti
+valu
+getter seri valu flatten
+
+
+seri seri
+seri interpol
+interpol seri point
+logarithm
+
+cach properti
+secondari valu
+getter secondari seri valu flatten
+
+
+seri secondari seri
+seri interpol
+interpol seri point
+logarithm
+
+fill valu
+extra valu fill line
+zero view zero ymin ymax
+
+check pad none
+fill work correctli otherwis
+valu
+
+valu
+miss valu fill truncat either
+
+
+miss valu fill truncat
+
+
+miss valu fill truncat
+
+
+
+valu error
+invalid valu config
+miss valu fill truncat
+either format
+miss valu fill truncat
+
+
+valu zero
+valu
+valu zero
+
+line seri rescal
+draw line seri
+seri node seri seri
+rescal secondari seri
+point rescal seri point
+
+point seri point
+view valu view point
+seri show dot
+enumer view valu
+
+
+seri show major dot
+label label
+label label major
+
+
+metadata seri metadata
+class
+view width
+class append left
+view height
+class append
+class join class
+
+confid interv
+seri node overlay seri valu metadata
+
+dot decor
+
+node seri node overlay dot
+metadata
+
+format seri
+alter transpos node
+dot circl seri dot size
+reactiv tooltip trigger metadata
+tooltip
+dot
+xlabel label
+valu
+seri node
+style valu font size
+style valu font size
+metadata
+
+seri stroke
+interpol
+point seri interpol
+rescal secondari seri
+point rescal point
+view valu view point
+seri fill
+view valu fill view valu
+
+seri allow interrupt
+view valu form
+need split multipl sequenc
+present
+
+sequenc
+sequenc
+view valu
+sequenc
+emit current subsequ
+sequenc append sequenc
+sequenc
+discard
+
+
+sequenc append append element
+
+sequenc emit last possibl sequenc
+sequenc append sequenc
+
+plain vanilla render
+sequenc view valu
+
+sequenc
+line
+seri node plot close close
+line reactiv
+nofil seri fill
+
+comput
+comput scale label
+label
+horizont
+
+rang
+center valu
+
+
+rang
+center valu
+
+point
+
+axi
+label
+ymin
+ymax
+
+ymin
+ymax
+
+plot
+plot seri line secondari seri line
+seri seri
+line seri
+
+seri secondari seri
+line seri
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+radar chart known kiviat chart spider chart polar line chart
+use multivari observ
+
+
+futur divis
+
+math
+
+pygal compat
+pygal adapt none zero posit
+pygal graph line line
+pygal util
+cach properti comput scale truncat
+pygal view polar log view polar view
+
+
+radar line
+
+rada graph
+
+adapt posit none zero
+
+init arg kwarg
+init custom var
+rmax
+radar init arg kwarg
+
+fill valu
+extra valu fill line
+valu
+
+cach properti
+valu
+getter seri valu flatten
+interpol
+seri seri
+seri interpol
+
+line valu
+
+view
+assign view current graph
+logarithm
+view polar log view
+
+view polar view
+
+view view
+width margin
+height margin
+
+
+axi draw axe
+overrid axi make polar
+label show label
+
+
+axi node node plot axi
+alway show show guid
+
+format
+center view
+rmax
+
+simpli determin truncat
+truncat truncat label
+
+label theta label
+major label label major
+show minor label major
+
+guid node axi guid
+view theta
+
+node
+guid path
+format center format
+sline
+axi label
+major major
+
+margin ymax
+text view theta
+text node
+guid text
+text
+text
+major major
+text text truncat label truncat
+text text label
+node guid titl text label
+
+node
+guid titl
+text format theta
+
+angl theta
+angl
+angl
+text attrib transform rotat
+label rotat angl format text
+
+axi draw axe
+overrid axi make polar
+label show label
+
+
+axi node node plot axi
+
+label revers label
+major label major
+show minor label major
+
+guid node axi sguid
+logarithm logarithm
+
+show guid
+line
+guid view theta theta
+close
+sguid line
+major major
+view
+
+text node
+guid text
+
+
+major major
+
+text text label
+
+label rotat
+text attrib transform rotat
+label rotat
+
+node
+guid titl
+text format
+
+comput
+comput label posit
+delta
+delta rang
+seri seri
+seri point
+
+enumer seri valu
+interpol
+extend
+delta
+extend val seri valu
+seri valu
+seri interpol
+tupl
+revers
+interpol
+extend extend val
+
+label space
+margin
+rmin zero
+rmax
+polar rmin rmax
+close
+
+comput label
+comput scale
+rmin rmax logarithm order
+scale scale
+
+label
+label
+label enumer label
+isinst label dict
+adapt label valu
+titl label label format
+label
+adapt
+titl label
+
+adapt label
+titl format
+label append titl
+rmin rmin label
+rmax rmax label
+polar rmin rmax
+
+
+label format
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+horizont stack line graph
+
+pygal graph stackedlin stack line
+pygal graph horizont horizont graph
+
+
+horizont stack line horizont graph stack line
+
+horizont stack line graph
+
+plot
+draw line revers order
+seri seri
+line seri
+seri secondari seri
+line seri
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+horizont graph
+
+pygal graph
+pygal graph horizont horizont graph
+
+
+horizont bar horizont graph
+
+horizont graph
+
+plot
+draw bar revers order
+seri seri
+seri
+seri secondari seri
+seri
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+pyramid chart stack chart contain posit valu divid
+axe gener gender pyramid
+
+
+futur divis
+
+pygal adapt posit
+pygal graph horizont horizont graph
+pygal graph stackedbar stack bar
+
+
+vertic pyramid stack bar
+
+vertic pyramid graph
+
+adapt posit
+
+valu format valu
+format valu dual valu display
+vertic pyramid valu format valu valu
+
+separ valu secondari
+separ valu even seri stack
+seri secondari seri secondari seri
+posit val
+seri valu
+index seri enumer seri
+index
+neg val
+seri valu
+index seri enumer seri
+index
+posit val neg val
+
+comput posit val neg val
+comput
+
+posit val zero
+neg val zero
+
+rang rang
+ymin rang
+
+ymin
+
+rang rang
+ymax rang
+
+ymax
+
+comput secondari posit val neg val
+comput secondari
+secondari posit val neg val
+secondari secondari
+
+seri parent zero secondari
+intern stack draw
+seri index
+
+vertic pyramid
+seri parent zero secondari
+
+
+pyramid horizont graph vertic pyramid
+
+horizont pyramid graph like use pyramid
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+pygal function
+
+base64
+
+
+pygal compat like ellipsi
+pygal graph base graph
+
+
+public api base graph
+
+chart function
+
+titl valu kwarg
+seri graph
+like valu isinst valu dict
+valu valu
+kwarg secondari
+series2 append titl valu kwarg
+
+seri append titl valu kwarg
+
+
+filter callback
+filter tree post process
+filter append callback
+
+
+render unicod kwarg
+render graph
+setup kwarg
+render
+unicod unicod pretti pretti
+teardown
+
+
+render tree kwarg
+render graph etre
+setup kwarg
+root
+filter
+
+teardown
+
+
+render tabl kwarg
+render html tabl
+import avoid lxml
+
+pygal tabl tabl
+import error
+import error must instal lxml render tabl
+tabl render kwarg
+
+render pyqueri kwarg
+render graph pyqueri wrap tree
+pyqueri py queri
+render kwarg parser html
+
+render browser kwarg
+render graph open browser black magic
+
+lxml html open browser
+import error
+import error must instal lxml render browser
+kwarg setdefault forc protocol http
+open browser render tree kwarg encod
+
+render respons kwarg
+render graph flask respons
+flask respons
+respons render kwarg mimetyp imag
+
+render django respons kwarg
+render graph django respons
+django http http respons
+http respons
+render kwarg content imag
+
+render kwarg
+output encod
+forc protocol none
+kwarg setdefault forc protocol http
+imag charset base64
+base64 b64encod
+render kwarg
+decod replac
+
+
+render file filenam kwarg
+render graph write filenam
+open filenam encod
+write render unicod kwarg
+
+render filenam kwarg
+render graph convert write filenam
+cairosvg
+cairosvg svg2png
+bytestr render kwarg write filenam
+
+render sparktext rel
+make mini text sparklin chart
+bar ▁▂▃▄▅▆▇█
+seri
+
+valu seri
+valu
+
+
+chart
+valu valu
+
+vmax valu
+rel
+rel valu
+
+vmax rel
+chart bar valu
+chart
+
+divis bar
+valu valu
+chart bar divis
+valu rel vmax rel
+chart
+
+render sparklin kwarg
+render sparklin
+spark option dict
+width
+height
+show dot
+show legend
+show label
+show label
+space
+margin
+scale
+scale
+size
+text
+class ellipsi pygal sparklin
+
+spark option updat kwarg
+render spark option
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+horizont stack graph
+
+pygal graph horizont horizont graph
+pygal graph stackedbar stack bar
+
+
+horizont stack bar horizont graph stack bar
+
+horizont stack graph
+code
+thi file part pygal
+
+python graph plot librari
+copyright 2012 2016 kozea
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+funnel chart repres valu funnel
+
+futur divis
+
+pygal adapt none zero posit
+pygal graph graph graph
+pygal util alter decor
+
+
+funnel graph
+
+funnel graph
+
+adapt posit none zero
+
+valu format valu
+format valu dual valu display
+funnel valu format valu valu
+
+funnel seri
+draw funnel slice
+seri node seri seri
+
+poli enumer seri point
+metadata seri metadata
+format seri
+
+funnel decor
+
+node seri node plot funnel
+metadata
+
+alter node
+funnel polygon
+point join view poli
+funnel reactiv tooltip trigger metadata
+
+poli center label
+view
+center seri index
+point point poli poli
+tooltip
+funnel center
+label seri index
+valu seri node metadata
+
+center
+order
+
+comput
+comput scale label
+
+order rang order
+order center valu
+
+previou zero zero rang
+seri enumer seri
+height seri valu
+
+seri point
+valu enumer seri valu
+poli
+poli append previou
+poli append previou
+previou height
+height previou height valu
+poli append previou
+poli append previou
+seri point append poli
+
+seri valu zero
+ymin
+ymax
+
+rang rang
+ymin rang
+
+rang rang
+ymax rang
+
+comput label
+label
+label
+format label
+seri titl titl
+isinst seri titl dict
+seri titl seri seri
+center
+
+plot
+plot funnel
+seri seri
+funnel seri
+python3
+code
+
+pygal document build configur file creat
+sphinx quickstart 2015
+
+thi file execfil current directori
+contain
+
+note possibl configur valu present
+autogener file
+
+configur valu valu comment
+serv show
+
+
+
+shlex
+
+extens modul document autodoc anoth directori
+directori path directori rel
+document root path abspath make absolut like shown
+path insert path join path abspath
+
+gener configur
+
+document need minim sphinx version state
+need sphinx
+
+sphinx extens name string they
+extens come sphinx name sphinx custom
+one
+extens
+sphinx autodoc
+sphinx doctest
+sphinx intersphinx
+sphinx coverag
+sphinx viewcod
+pygal sphinx direct
+
+
+path contain templat rel directori
+templat path templat
+
+suffix sourc filenam
+specifi multipl suffix
+sourc suffix
+sourc suffix
+
+encod sourc file
+sourc encod
+
+master toctre document
+master index
+
+gener inform project
+project pygal
+copyright 2012 2016 florian mounier
+author florian mounier
+
+version info project document act replac
+version releas also use variou place throughout
+built document
+
+version
+version
+full version includ alpha beta tag
+releas
+
+languag content autogener sphinx refer document
+support languag
+
+thi also use content translat gettext catalog
+usual languag command line case
+languag
+
+there option replac today either today
+valu use
+today
+els today use format strftime call
+today
+
+list pattern rel sourc directori match file
+directori ignor look sourc file
+exclud pattern build
+
+re st role use markup text
+document
+role
+
+append func cross refer text
+parenthes
+
+current name prepend descript
+unit titl
+name
+
+sectionauthor moduleauthor direct shown
+output they ignor
+show author
+
+name pygment syntax highlight style
+pygment style sphinx
+
+ignor prefix index sort
+modindex common prefix
+
+keep warn system messag paragraph built document
+keep warn
+
+todo todo list produc output produc noth
+todo todo
+
+
+whether readthedoc
+environ readthedoc
+
+theme build doc local
+sphinx theme
+html theme sphinx theme
+html theme path sphinx theme html theme path
+
+otherwis readthedoc use theme need specifi
+option html output
+
+theme html html help page document
+builtin theme
+html theme alabast
+
+theme option theme specif custom look feel theme
+option avail theme
+document
+html theme option
+
+path contain custom theme rel directori
+html theme path
+
+name sphinx document default
+project releas document
+html titl
+
+shorter titl navig default html titl
+html titl
+
+name imag file rel directori place
+sidebar
+html logo
+
+name imag file within path favicon
+doc thi file window icon file 16x16 32x32
+pixel larg
+html favicon
+
+path contain custom file style sheet
+rel directori they copi builtin file
+file name overwrit builtin
+html path
+
+extra path contain custom file robot
+htaccess rel directori these file copi
+directli root document
+html extra path
+
+last updat timestamp insert everi page bottom
+given strftime format
+html last updat
+
+smarti pant use convert quot dash
+typograph correct entiti
+html smartyp
+
+custom sidebar templat map document name name
+html sidebar
+
+addit templat render page map page name
+name
+html addit page
+
+index gener
+html domain indic
+
+index gener
+html index
+
+index split individu page letter
+html split index
+
+link re st sourc ad page
+html show sourcelink
+
+creat sphinx shown html footer default
+html show sphinx
+
+copyright shown html footer default
+html show copyright
+
+open search descript file output page
+contain link refer valu option must
+finish html serv
+html opensearch
+
+thi file name suffix html file xhtml
+html file suffix
+
+languag use gener html full text search index
+sphinx support follow languag
+
+
+html search languag
+
+dictionari option search languag support
+use config valu
+html search option
+
+name javascript file rel configur directori
+search result scorer use
+html search scorer scorer
+
+output file name html help builder
+htmlhelp basenam pygaldoc
+
+option la te x output
+
+latex element
+paper size letterpap a4pap
+papers letterpap
+
+font size 10pt 11pt 12pt
+pointsiz 10pt
+
+addit stuff la te x preambl
+preambl
+
+latex figur align
+figur align htbp
+
+
+group document tree la te x file list tupl
+sourc start file target name titl
+author documentclass howto manual
+latex document
+master pygal pygal document
+florian mounier manual
+
+
+name imag file rel directori place
+titl page
+latex logo
+
+manual document toplevel head part
+chapter
+latex part
+
+show page refer link
+latex show pageref
+
+show address extern link
+latex show url
+
+document append appendix manual
+latex appendic
+
+index gener
+latex domain indic
+
+
+option manual page output
+
+entri manual page list tupl
+sourc start file name descript author manual section
+page
+master pygal pygal document
+author
+
+
+show address extern link
+show url
+
+
+option texinfo output
+
+group document tree texinfo file list tupl
+sourc start file target name titl author
+menu entri descript categori
+texinfo document
+master pygal pygal document
+author pygal line descript project
+miscellan
+
+
+document append appendix manual
+texinfo appendic
+
+index gener
+texinfo domain indic
+
+display address footnot
+texinfo show url footnot
+
+gener detailmenu node menu
+texinfo detailmenu
+
+
+exampl configur intersphinx refer python standard librari
+intersphinx map http doc python
+code
+thi file part pygal sphinx direct
+
+pygal sphinx integr
+copyright 2012 2016 florian mounier
+
+thi librari free softwar redistribut modifi
+term lesser gener public licens publish free
+softwar foundat either version licens option
+later version
+
+thi librari distribut hope use without
+warranti without even impli warranti merchant fit
+particular purpos lesser gener public licens
+detail
+
+receiv copi lesser gener public licens
+along pygal http licens
+
+
+docutil parser direct
+traceback format
+sphinx direct code code block
+
+docutil core
+pygal
+
+patch style
+
+pygal config config style valu pygal style rotat style
+2980b9
+background fcfcfc
+plot background ffffff
+foreground 707070
+foreground strong 404040
+foreground subtl 909090
+opac
+opac hover
+transit 400m eas
+
+
+pygal direct direct
+execut given python file put result document
+requir
+option
+argument whitespac
+content
+
+
+width height
+
+
+render
+
+render
+
+render
+content content
+content content
+render
+content content
+code join content
+scope pygal pygal
+
+exec code scope
+except
+code
+
+docutil node system messag
+except occur code pars
+format error sourc
+level
+render
+scope
+
+chart
+valu scope item
+isinst valu pygal graph graph graph
+chart valu
+content append render
+
+chart
+docutil node system messag
+graph found level
+error sourc
+chart config width width
+chart config height height
+chart size
+
+
+emb chart render
+except
+docutil node system messag
+except occur graph gener
+format error sourc
+level
+docutil node format html
+
+
+pygal with code pygal direct
+
+
+node pygal with code
+node extend code block
+name
+python
+option
+content
+lineno
+content offset
+block text
+state
+state machin
+
+docutil node compound node
+
+
+pygal tabl direct
+execut given python file put result document
+requir
+option
+argument whitespac
+content
+
+
+
+content content
+content content
+content content
+code join content
+scope pygal pygal
+
+exec code scope
+except
+
+docutil node system messag
+except occur code pars
+format error sourc
+level
+scope
+
+docutil node format html
+
+
+pygal tabl with code pygal tabl
+
+
+node pygal tabl with code
+node extend code block
+name
+python
+option
+content
+lineno
+content offset
+block text
+state
+state machin
+
+docutil node compound node
+
+
+setup
+direct pygal pygal direct
+direct pygal code pygal with code
+direct pygal tabl pygal tabl
+direct pygal tabl code pygal tabl with code
+
+version

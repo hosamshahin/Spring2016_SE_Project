@@ -1,0 +1,4891 @@
+lodash
+path path
+gulp gulp
+
+less gulp less
+browserifi gulp browserifi
+minifi css gulp minifi
+run sequenc gulp sequenc
+renam gulp renam
+uglifi gulp uglifi
+stringifi stringifi
+merg merg stream
+child process child process
+
+debug process debug
+
+exec
+child process exec appli child process
+stdout pipe process stdout
+stderr pipe process stderr
+
+
+compil javascript
+gulp task script
+gulp editor main
+pipe browserifi
+debug
+transform stringifi globifi
+
+
+debug pipe uglifi
+
+pipe renam applic
+pipe gulp dest build
+
+
+dedup modul
+gulp task dedup
+exec dedup
+
+
+copi html
+gulp task html
+gulp editor index html
+pipe renam index html
+pipe gulp dest build
+
+
+copi asset
+gulp task asset
+resourc gulp
+editor resourc font
+editor resourc imag
+
+editor resourc
+
+pipe gulp dest build
+
+octicon gulp
+node modul octicon octicon woff
+
+pipe gulp dest build font octicon
+
+merg resourc octicon
+
+
+less
+gulp task style
+gulp editor resourc stylesheet main less
+pipe less
+path path join dirnam
+
+pipe minifi css
+pipe renam applic
+pipe gulp dest build
+
+
+clean output
+gulp task clean
+
+
+build
+packag build
+
+
+
+build client code
+gulp task build
+run sequenc clean dedup script style html asset
+
+
+dedup modul
+gulp task preinstal addon
+exec codebox instal root packag
+extend process
+codebox debug debug
+
+
+
+
+copi everyth
+gulp task copi
+gulp
+most file one
+
+
+ignor gitignor
+gitignor
+
+ignor relat thing
+
+
+packag
+node modul
+node modul
+test
+test
+
+
+pipe gulp dest
+
+
+publish
+gulp task publish
+debug
+run sequenc clean build copi preinstal addon
+
+gulp task publish publish
+exec publish
+
+
+gulp task
+run sequenc build
+
+util
+jqueri
+
+
+logger logger
+
+onerror error
+logger except uncaught error error
+
+
+core applic
+command core command
+packag core packag
+user core user
+workspac core workspac
+user core user
+set core set
+dialog util dialog
+menu util menu
+file model file
+
+keybind set keybind
+upload util upload
+codebox requir util
+
+creat packag
+window codebox
+codebox requir
+
+user user
+workspac workspac
+root file
+set set
+
+
+command
+set open
+titl set open
+icon gear
+shortcut
+
+
+arg context
+command file open
+file set get file
+
+
+
+
+start run applic
+logger start applic
+delay
+
+
+codebox user whoami
+codebox root stat
+codebox workspac
+set load
+user list all
+
+
+
+packag load all codebox workspac debug
+fail
+messag messag
+error
+messag error
+escap name escap error
+join
+
+
+dialog alert messag is html
+
+
+start bind
+fail
+logger error error messag stack
+dialog error
+
+
+util
+jqueri
+view view
+model model
+
+getter
+
+
+
+
+
+
+
+pars int
+
+
+
+render
+properti name properti valu
+input
+checkbox
+valu
+name properti name
+
+
+
+properti name properti valu
+input
+
+valu valu
+name properti name
+properti minimum
+properti maximum
+step properti multipl of
+
+
+
+properti name properti valu
+properti render select appli
+
+input
+text
+valu valu
+name properti name
+
+
+
+select properti name properti valu
+select select
+name properti name
+
+
+select append properti
+option
+select valu
+text
+valu
+
+
+
+select
+
+
+
+schema view view extend
+class name form schema
+default
+prefix
+schema
+valu
+
+event
+
+initi
+schema view initi appli
+
+
+render
+valu option valu
+
+
+option schema properti properti properti name
+valu properti
+valu valu properti name
+
+prefix properti name
+prefix compact option prefix split concat properti name
+
+ignor moment
+properti
+
+properti
+schema properti properti
+
+
+creat label
+titl label
+properti label level prefix length
+text properti titl properti descript
+
+pad left prefix length
+
+
+titl append to properti
+
+handl subschema
+properti
+schema schema view
+schema properti
+valu valu
+prefix prefix join
+
+schema append to properti
+schema updat
+
+
+handl normal field
+
+render render properti
+input render prefix join properti valu
+input attr getter properti
+
+input contain
+properti input
+
+
+input append to input contain
+input contain prepend to properti
+
+
+properti append to
+
+
+
+readi
+
+
+
+form view view extend
+class name compon form
+default
+schema
+valu
+
+
+initi
+form view initi appli
+
+schema schema view
+prefix
+schema option schema
+valu option valu
+
+schema append to
+schema updat
+
+
+extract valu
+get valu
+model option valu
+name
+name attr name
+getter getter getter
+valu getter appli
+
+name valu
+
+
+to json
+
+
+updat valu form
+set valu valu
+schema option valu valu
+schema updat
+
+
+
+export form view
+util
+jqueri
+view view
+
+menu view view extend
+class name compon menu
+default
+event
+
+initi
+menu view initi appli
+
+
+render
+
+
+menu render menu option item
+menu append to
+
+readi
+
+
+render menu item
+menu
+menu
+
+
+item item render item
+menu append item
+
+menu
+
+
+render item item
+
+
+item default item
+normal
+label
+click
+
+
+
+item
+menu item item
+
+label span
+item label
+text item label
+click
+prevent default
+trigger action
+item click
+
+
+
+label
+item divid label append to item
+
+submenu
+item menu
+menu render menu item item
+menu append to item
+
+
+item
+
+
+
+export menu view
+util
+jqueri
+view view
+
+dialog view view extend
+class name compon dialog
+default
+keyboard
+keyboard enter
+
+view view
+view
+size medium
+
+event
+click on click
+click dialog wrapper on wrapper click
+keydown keydown
+
+
+initi option
+dialog view initi appli
+
+wrapper
+dialog wrapper
+
+
+bind keyboard
+keydown handler bind keydown
+option keyboard document bind keydown keydown handler
+
+adapt style
+add class size option size
+
+build view
+view option view option view
+view append to wrapper
+wrapper append to
+
+
+render
+view updat
+
+readi
+
+
+finish
+open
+dialog view finish appli
+
+
+open
+dialog view current dialog view current close
+
+append to bodi
+dialog view current
+
+trigger open
+
+
+
+
+close forc
+prevent default
+
+unbind document keydown
+document unbind keydown keydown handler
+
+hide modal
+trigger close forc
+remov
+
+dialog view current
+
+
+keydown
+option keyboard
+
+key code
+
+enter valid
+option keyboard enter
+close
+
+close
+
+close
+
+
+
+on wrapper click
+stop propag
+
+on click
+prevent default
+stop propag
+
+close
+
+
+current
+
+
+export dialog view
+
+util
+jqueri
+view view
+list view
+collect collect
+
+util
+dialog input view input
+
+
+list item list view item inherit view templat extend
+class name item
+
+initi option
+list item initi appli
+
+dialog content parent
+
+
+
+dialog content option
+
+templat context
+
+item model
+
+
+
+
+list view list view extend
+item list item
+class name content
+
+
+dialog list view dialog input view extend
+default
+text index model json stringifi model to json
+
+class name dialog
+
+initi
+dialog list view initi appli
+
+sourc item
+result collect
+sourc option sourc
+
+option sourc collect
+sourc collect
+result option sourc
+sourc
+option sourc filter model
+search text model
+
+bind
+
+
+filter item
+filter input input
+text
+placehold option placehold
+
+keydown interv
+filter input keydown on filter keydown bind
+filter input keyup on filter keyup bind
+filter input append to
+
+item
+list view
+collect result
+
+append to
+
+focu input
+listen to parent open
+filter input focu
+do search
+select item
+
+
+
+render
+readi
+
+
+search text model
+option text index model
+
+word split
+
+to lower case
+to lower case
+
+everi split
+search
+
+
+
+do search queri
+to remov
+collect queri queri
+
+collect queri queri
+queri index of collect queri
+continu current search
+collect queri queri
+collect model
+search text model queri
+to remov push model
+
+
+collect remov to remov
+collect sort
+select item get select item
+
+differ search
+collect queri queri
+collect reset
+
+
+
+sourc queri
+
+result
+collect filter result option filter
+select item get select item
+consol error bind consol
+
+
+
+select item
+box h height
+
+select
+
+select collect size select collect size
+select select
+
+
+collect model
+item item model
+item toggl class activ select
+
+select
+item outer height
+item posit
+
+box h
+scroll top box h
+
+scroll top
+
+
+
+
+
+
+
+get select item
+
+collect model
+item item model
+item ha class activ
+
+
+
+
+
+
+
+get valu
+collect get select item
+
+
+on filter keydown
+key code
+
+
+prevent default
+
+
+interv
+select get select item
+p select select
+
+
+
+select select
+
+down
+select select
+
+select p select select item select
+bind
+
+keydown interv
+clear interv keydown interv
+keydown interv
+
+interv
+keydown interv set interv interv
+
+on filter keyup
+filter input to lower case
+
+do search
+
+keydown interv
+clear interv keydown interv
+keydown interv
+
+
+
+
+export dialog list view
+util
+jqueri
+view view
+
+form view form
+
+
+dialog input view view templat extend
+class name dialog input
+default
+class name
+
+valu
+
+event
+click close on close
+click confirm on confirm
+
+
+initi option
+dialog input view initi appli
+
+adapt style
+add class option class name
+
+valu
+valu option valu
+
+
+finish
+
+defer
+input first focu
+
+dialog input view finish appli
+
+
+
+option
+
+templat context
+
+option option
+
+
+
+get valu
+selector option valu
+is function selector
+valu selector
+is string selector
+valu selector
+
+
+valu
+
+
+on confirm
+prevent default
+
+parent close
+
+on close
+prevent default
+parent close
+
+
+
+export dialog input view
+
+util
+collect collect
+logger logger user
+
+user model user
+core
+
+user collect extend
+model user
+
+list all
+execut user
+reset bind
+
+
+
+export user
+
+util
+collect collect
+logger logger command
+
+command model command
+
+command collect extend
+model command
+
+initi
+initi
+command initi appli
+
+context
+
+
+regist command
+
+is array
+
+
+remov
+
+
+
+
+command
+arg
+resolv
+reject error command found
+
+arg
+
+
+resolv command
+resolv
+chain model
+
+
+
+score resolv
+
+
+filter
+score
+
+sort by score
+pluck
+last
+valu
+
+
+context
+set context
+logger updat context key
+context
+trigger context context
+
+
+
+export command
+
+util
+jqueri
+collect collect
+logger logger packag
+
+packag model
+core
+
+
+packag collect extend
+model packag
+
+packag backend
+list all
+execut packag
+reset bind
+
+
+load plugin backend bundl
+load all bundl
+
+error
+
+bundl
+get script packag
+
+list all
+
+reduc prev
+error error concat error
+
+name name
+error
+
+
+
+prev load bind
+fail
+error push
+name name
+error
+
+
+
+
+
+
+error length
+error error load packag
+error error
+reject
+
+
+
+
+
+
+export packag
+util
+command core command
+set core set
+
+
+bind configur allow user
+chang keyboard shortcut specif command
+
+
+key bind set schema keybind
+titl bind
+
+properti
+command
+
+item
+command
+
+
+key
+
+
+
+
+
+
+
+updat command
+updat command
+bind key bind command
+bind find bind command
+
+bind
+origin shortcut shortcut origin shortcut
+
+origin shortcut origin shortcut shortcut
+shortcut silent
+shortcut bind key
+
+
+
+updat command
+updat all
+command updat command
+
+
+updat command everytim set chang adapt command
+key bind chang updat all
+command updat command
+command reset updat all
+
+updat all
+
+export key bind
+
+score anoth
+score hello world 5931818181818181
+score hello world hello 7318181818181818
+
+score word fuzzi
+equal word perfect match
+word
+
+perfect match
+word
+
+run score
+char score
+final score
+l string to lower case
+str length length
+l word word to lower case
+word length word length
+idx of
+start at
+fuzzi
+fuzzi factor
+
+cach fuzzi factor speed increas
+fuzzi fuzzi factor fuzzi
+
+walk word score
+code duplic occur prevent check fuzzi insid
+fuzzi
+word length
+
+find first insensit match charact
+idx of l string index of l word start at
+
+idx of
+fuzzi fuzzi factor
+
+start at idx of
+consecut letter start bonu
+char score
+
+char score
+
+acronym bonu
+weigh logic type first charact acronym
+preced perfect charact match
+idx of char score
+
+
+same bonu
+idx of word char score
+
+updat score start at posit round index of
+run score char score
+start at idx of
+
+
+word length
+
+idx of l string index of l word start at
+
+idx of
+
+start at idx of
+char score
+
+char score
+idx of char score
+
+
+idx of word char score
+
+run score char score
+start at idx of
+
+
+
+reduc penalti longer string
+final score run score str length run score word length fuzzi
+
+l word l string final score
+final score
+
+
+final score
+
+
+end with suffix
+index of suffix length suffix length
+
+
+export
+score score
+end with end with
+
+util
+
+collect collect
+
+dialog view dialog contain
+dialog input view view dialog input
+dialog list view view dialog
+
+alert templat resourc templat dialog alert html
+confirm templat resourc templat dialog confirm html
+prompt templat resourc templat dialog prompt html
+schema templat resourc templat dialog schema html
+
+open dialog
+open view option
+defer
+
+creat dialog
+diag dialog extend option
+view view
+
+
+bind close
+diag close forc
+forc reject error dialog close
+resolv diag view
+
+
+open
+diag updat
+
+promis
+
+
+input dialog
+open input view option option view
+open view dialog input view extend option
+view view option
+
+view
+valu view get valu
+
+valu reject error dialog valu
+valu
+
+
+
+alert
+open alert text option
+option default option
+is html
+
+open input
+alert templat
+text text
+is html option is html
+
+
+open error alert
+consol error
+open alert error messag
+
+reject
+
+
+
+confirm
+open confirm text option
+open input
+confirm templat
+text text
+
+
+
+prompt
+open prompt text valu option
+open input
+prompt templat
+text text
+default valu valu
+valu input
+
+
+
+list
+open list sourc option
+is array sourc
+sourc collect
+model sourc item
+is object item valu item
+item
+
+
+
+
+open input
+extend
+item text item valu
+placehold
+filter
+option
+sourc sourc
+dialog list view
+
+
+schema
+open schema schema valu
+valu valu
+
+open input
+schema templat
+schema schema
+default valu valu
+valu
+nvalu valu
+
+schema properti properti
+name
+nvalu
+
+
+nvalu
+
+
+
+
+
+export
+open open
+alert open alert
+error open error alert
+confirm open confirm
+prompt open prompt
+open list
+schema open schema
+input open input
+
+jqueri
+
+document document
+
+trigger custom event event type bubbl
+origin type
+event type
+bubbl
+trigger
+
+dispatch call
+
+origin type
+
+
+special taphold
+setup namespac
+thi object
+thi object
+timeout
+durat
+max move
+
+
+mousemov touchmov callback
+mousemov callback
+page x origin event touch page x
+page y origin event touch page y
+
+math max move math max move
+timeout clear timeout timeout
+
+
+
+mouseup touchend callback
+mouseup callback
+unbind doc
+timeout clear timeout timeout
+
+
+bind doc
+document mousemov mousemov callback
+document touchmov mousemov callback
+document mouseup mouseup callback
+document touchend mouseup callback
+
+
+unbind doc
+document unbind mousemov mousemov callback
+document unbind touchmov mousemov callback
+document unbind mouseup mouseup callback
+document unbind touchend mouseup callback
+
+
+mousedown touchstart callback
+mousedown callback
+onli accept left click
+mousedown origin event button
+page x origin event touch page x
+page y origin event touch page y
+
+bind doc
+
+timeout call longpress callback time elaps
+timeout set timeout
+unbind doc
+
+trigger custom event thi object taphold event taphold
+target target
+page x
+page y
+
+durat
+
+stop propag
+
+
+browser support
+mousedown mousedown callback
+
+mobil support
+touchstart mousedown callback
+
+teardown namespac
+unbind namespac
+
+
+
+export
+bind
+bind taphold
+
+unbind
+unbind taphold
+
+
+class
+util
+
+mousetrap mousetrap
+
+origin stop callback mousetrap prototyp stop callback
+mousetrap prototyp stop callback element
+mousetrap
+
+
+origin stop callback call element
+
+
+mousetrap mousetrap document
+
+keyboard class extend
+initi
+bind
+
+
+
+
+enabl keyboard shortcut specif
+
+enabl key event
+mousetrap
+
+
+
+bind keyboard shortcut callback
+
+bind key callback context
+is array key
+key bind callback context
+
+
+
+shortcut action
+is object key
+key method
+bind method callback
+
+
+
+
+bind
+bind key
+bind key class
+mousetrap bind key bind
+bind key trigger action
+
+
+context listen to bind key action callback
+
+
+
+
+unbind keyboard shortcut
+
+unbind key context callback
+is array key
+key unbind context callback
+
+
+
+bind key
+
+context stop listen bind key action callback
+
+
+
+
+prevent browser shortcut
+
+prevent default key
+bind key
+prevent default
+
+
+
+
+convert shortcut shortcut
+
+to text shortcut
+is array shortcut shortcut first shortcut
+shortcut
+
+is mac i pod i phone i pad test navig platform
+
+replac equival window
+shortcut shortcut replac is mac 8984 ctrl
+
+replac ctrl
+shortcut shortcut replac ctrl
+
+replac shift
+shortcut shortcut replac shift
+
+is mac
+shortcut shortcut replac
+
+shortcut shortcut replac
+
+
+replac
+shortcut shortcut replac
+
+shortcut to upper case
+
+
+
+keyboard keyboard
+
+prevent browser keyboard interact
+keyboard prevent default
+
+export keyboard
+crc32tabl 00000000 77073096 ee0 e612 c 990951 ba 076 dc419 706 af48 f e963 a535 9 e6495 a3 0 edb8832 79 dcb8 a4 e0 d5 e91 e 97 d2 d988 09 b64 c2 b 7 eb17 cbd e7 b82 d07 90 bf1 d91 1 db71064 6 ab020 f2 f3 b97148 84 be41 de 1 adad47 d 6 ddde4 eb f4 d4 b551 83 d385 c7 136 c9856 646 ba8 c0 fd62 f97 a 8 a65 c9 ec 14015 c4 f 63066 cd9 fa0 f3 d63 8 d080 df5 3 b6 e20 c8 4 c69105 e d56041 e4 a2677172 3 c03 e4 d1 4 b04 d447 d20 d85 fd a50 ab56 b 35 b5 a8 fa 42 b2986 c dbbbc9 d6 acbcf940 32 d86 ce3 45 df5 c75 dcd60 dcf abd13 d59 26 d930 ac 51 de003 a c8 d75180 bfd06116 21 b4 f4 b5 56 b3 c423 cfba9599 b8 bda50 f 2802 b89 e 5 f058808 c60 cd9 b2 b10 be924 2 f6 f7 c87 58684 c11 c1611 dab b6662 d3 d 76 dc4190 01 db7106 98 d220 bc efd5102 a 71 b18589 06 b6 b51 f 9 fbfe4 a5 e8 b8 d433 7807 c9 a2 0 f00 f934 9609 a88 e e10 e9818 7 f6 a0 dbb 086 d3 d2 d 91646 c97 e6635 c01 6 b6 b51 f4 1 c6 c6162 856530 d8 f262004 e 6 c0695 ed 1 b01 a57 b 8208 f4 c1 f50 fc457 65 b0 d9 c6 12 b7 e950 8 bbeb8 ea fcb9887 c 62 dd1 ddf 15 da2 d49 8 cd37 cf3 fbd44 c65 4 db26158 3 ab551 ce a3 bc0074 d4 bb30 e2 4 adfa541 3 dd895 d7 a4 d1 c46 d d3 d6 f4 fb 4369 e96 a 346 ed9 fc ad678846 da60 b8 d0 44042 d73 33031 de5 aa0 a4 c5 f dd0 d7 cc9 5005713 c 270241 aa be0 b1010 c90 c2086 5768 b525 206 f85 b3 b966 d409 ce61 e49 f 5 edef90 e 29 d9 c998 b0 d09822 c7 d7 a8 b4 59 b33 d17 2 eb40 d81 b7 bd5 c3 b c0 ba6 cad edb88320 9 abfb3 b6 03 b6 e20 c 74 b1 d29 a ead54739 9 dd277 af 04 db2615 73 dc1683 e3630 b12 94643 b84 0 d6 d6 a3 e 7 a6 a5 aa8 e40 ecf0 b 9309 ff9 d 0 a00 ae27 7 d079 eb1 f00 f9344 8708 a3 d2 1 e01 f268 6906 c2 fe f762575 d 806567 cb 196 c3671 6 e6 b06 e7 fed41 b76 89 d32 be0 10 da7 a5 a 67 dd4 acc f9 b9 df6 f 8 ebeeff9 17 b7 be43 60 b08 ed5 d6 d6 a3 e8 a1 d1937 e 38 d8 c2 c4 4 fdff252 d1 bb67 f1 a6 bc5767 3 fb506 dd 48 b2364 b d80 d2 bda af0 a1 b4 c 36034 af6 41047 a60 df60 efc3 a867 df55 316 e8 eef 4669 be79 cb61 b38 c bc66831 a 256 fd2 a0 5268 e236 cc0 c7795 bb0 b4703 220216 b9 5505262 f c5 ba3 bbe b2 bd0 b28 2 bb45 a92 5 cb36 a04 c2 d7 ffa7 b5 d0 cf31 2 cd99 e8 b 5 bdeae1 d 9 b64 c2 b0 ec63 f226 756 aa39 c 026 d930 a 9 c0906 a9 eb0 e363 f 72076785 05005713 95 bf4 a82 e2 b87 a14 7 bb12 bae 0 cb61 b38 92 d28 e9 b e5 d5 be0 d 7 cdcefb7 0 bdbdf21 86 d3 d2 d4 f1 d4 e242 68 ddb3 f8 1 fda836 e 81 be16 cd f6 b9265 b 6 fb077 e1 18 b74777 88085 ae6 ff0 f6 a70 66063 bca 11010 b5 c 8 f659 eff f862 ae69 616 bffd3 166 ccf45 a00 ae278 d70 dd2 ee 4 e048354 3903 b3 c2 a7672661 d06016 f7 4969474 d 3 e6 e77 db aed16 a4 a d9 d65 adc 40 df0 b66 37 d83 bf0 a9 bcae53 debb9 ec5 47 b2 cf7 f 30 b5 ffe9 bdbdf21 c cabac28 a 53 b39330 24 b4 a3 a6 bad03605 cdd70693 54 de5729 23 d967 bf b3667 a2 e c4614 ab8 5 d681 b02 2 a6 f2 b94 b40 bbe37 c30 c8 ea1 5 a05 df1 b 2 d02 ef8 d
+
+utf8 encod
+replac
+utftext
+
+length
+char code at
+
+
+utftext string from char code
+
+2048
+utftext string from char code
+utftext string from char code
+
+
+utftext string from char code
+utftext string from char code
+utftext string from char code
+
+
+
+utftext
+
+
+
+convert valu integ digit hexadecim
+
+hex8
+0x ff
+to string to upper case
+
+
+length
+
+
+
+
+
+
+convert valu integ digit hexadecim
+
+hex16
+hex8 hex8
+
+
+
+convert valu integ digit hexadecim
+
+hex32
+hex16 hex16
+
+
+crc32
+utf8 encod
+
+
+
+
+
+
+i top length i top
+char code at 0x ff
+crc32tabl substr
+
+
+
+to string
+
+
+
+
+base64 binari string util
+
+http develop mozilla doc java script base64 encod decod
+
+
+
+array byte base64 decod
+
+b64 to uint6 n chr
+n chr n chr
+n chr
+n chr n chr
+n chr
+n chr n chr
+n chr
+n chr
+
+n chr
+
+
+
+
+
+base64 dec to arr s base64 n block size
+
+s b64 enc s base64 replac n in len s b64 enc length
+n out len n block size math ceil n in len n block size n block size n in len ta byte uint8 array n out len
+
+n mod3 n mod4 n uint24 n out idx n in idx n in idx n in len n in idx
+n mod4 n in idx
+n uint24 b64 to uint6 s b64 enc char code at n in idx n mod4
+n mod4 n in len n in idx
+n mod3 n mod3 n out idx n out len n mod3 n out idx
+ta byte n out idx n uint24 n mod3
+
+n uint24
+
+
+
+ta byte
+
+
+base64 encod
+
+uint6 to b64 n uint6
+n uint6
+n uint6
+n uint6
+n uint6
+n uint6
+n uint6
+n uint6
+
+n uint6
+
+
+
+
+
+base64 enc arr a byte
+n mod3 s b64 enc
+
+n len a byte length n uint24 n idx n idx n len n idx
+n mod3 n idx
+n idx n idx s b64 enc
+n uint24 a byte n idx n mod3
+n mod3 a byte length n idx
+s b64 enc string from char code uint6 to b64 n uint24 uint6 to b64 n uint24 uint6 to b64 n uint24 uint6 to b64 n uint24
+n uint24
+
+
+
+s b64 enc replac
+
+
+dom string vice versa
+
+utf8 arr to str a byte
+
+s view
+
+n part n len a byte length n idx n idx n len n idx
+n part a byte n idx
+s view string from char code
+n part n part n idx n len byte
+n part possibl ecma script
+n part 1073741824 a byte n idx a byte n idx a byte n idx a byte n idx a byte n idx
+n part n part n idx n len five byte
+n part a byte n idx a byte n idx a byte n idx a byte n idx
+n part n part n idx n len four byte
+n part a byte n idx a byte n idx a byte n idx
+n part n part n idx n len three byte
+n part a byte n idx a byte n idx
+n part n part n idx n len byte
+n part a byte n idx
+n part
+n part
+
+
+
+s view
+
+
+
+str to utf8 arr s dom str
+
+a byte n chr n str len s dom str length n arr len
+
+map
+
+n map idx n map idx n str len n map idx
+n chr s dom str char code at n map idx
+n arr len n chr 0x80 n chr 0x800 n chr 0x10000 n chr 0x200000 n chr 0x4000000
+
+
+a byte uint8 array n arr len
+
+transcript
+
+n idx n chr idx n idx n arr len n chr idx
+n chr s dom str char code at n chr idx
+n chr
+
+a byte n idx n chr
+n chr 0x800
+byte
+a byte n idx n chr
+a byte n idx n chr
+n chr 0x10000
+three byte
+a byte n idx n chr
+a byte n idx n chr
+a byte n idx n chr
+n chr 0x200000
+four byte
+a byte n idx n chr
+a byte n idx n chr
+a byte n idx n chr
+a byte n idx n chr
+n chr 0x4000000
+five byte
+a byte n idx n chr
+a byte n idx n chr
+a byte n idx n chr
+a byte n idx n chr
+a byte n idx n chr
+n chr 0x7fffffff
+byte
+a byte n idx n chr possibl ecma script n chr 1073741824
+a byte n idx n chr
+a byte n idx n chr
+a byte n idx n chr
+a byte n idx n chr
+a byte n idx n chr
+
+
+
+a byte
+
+
+
+export
+crc32 crc32
+hex8 hex8
+hex16 hex16
+hex32 hex32
+atob
+utf8 arr to str base64 dec to arr
+
+btoa
+base64 enc arr str to utf8 arr
+
+base64
+encod array base64 enc arr
+
+
+jqueri
+
+util
+class
+
+
+logger logger upload
+
+
+xml http request prototyp send as binari
+xml http request prototyp send as binari datastr
+byte valu
+char code at 0xff
+
+ord array prototyp call datastr byte valu
+ui8a uint8 array ord
+send ui8a
+
+
+
+
+upload class extend
+default
+
+
+
+
+
+constructor upload
+
+initi
+upload initi appli
+
+
+max file size 1048576
+
+
+
+
+
+connect input file
+
+connect input
+
+input chang
+prevent default
+upload file
+
+
+
+
+
+upload
+file html5 file
+
+upload file
+defer
+total file size
+
+
+
+reject upload alreadi progress
+
+
+calcul total file size
+total file size reduc file memo file memo file size file size
+
+reduc file file
+
+upload file file
+
+
+resolv
+
+reject
+progress
+notifi progress
+
+
+promis
+
+
+
+upload file
+
+upload file file
+
+defer
+filenam file webkit rel path file name
+
+error
+logger error error upload filenam
+trigger error
+
+reject
+
+
+progress percent
+logger notifi filenam percent
+trigger state percent
+notifi
+filenam filenam
+percent percent
+
+
+
+text
+logger text
+trigger text
+
+resolv text
+
+
+file name file name
+
+
+
+file name file size file size max file size
+reject error invalid file file
+
+
+
+
+logger upload file filenam option file size file size
+
+xml http request
+upload upload
+start time date get time
+uploadurl option replac file filenam
+
+logger start upload filenam
+
+upload file file
+upload download start time start time
+upload current start start time
+upload current progress
+upload start data
+upload add event listen progress
+length comput
+percentag math round load file size
+progress percentag
+
+
+
+open uploadurl
+onreadystatechang
+statu
+error error statu respons text
+prevent default
+
+
+
+
+form data form data
+form data append filenam file
+option
+form data append json stringifi
+
+
+progress
+onload
+statu
+respons text
+
+
+
+send form data
+
+promis
+
+
+upload file
+upload option
+defer
+
+option default option
+
+
+directori
+multipl
+
+
+upload
+upload upload option
+
+input file upload
+length
+input
+file
+file upload
+
+append to bodi
+
+
+hide
+
+prop webkitdirectori option directori
+prop directori option directori
+prop multipl option multipl
+
+creat file element select
+chang
+prevent default
+
+upload upload current target file
+progress
+notifi percent
+
+
+resolv
+
+reject
+
+
+remov
+
+
+trigger click
+
+promis
+
+
+
+
+export upload
+jqueri
+util
+
+menu view view menu
+taphold taphold
+
+menu
+last time open
+origin
+
+
+clear current context menu
+
+clear
+context menu remov class context menu
+context menu remov
+
+
+
+gener menu menu item gener
+
+param menu item
+
+gener view menu item
+is function menu item menu item menu item
+
+menu view menu view
+item menu item
+
+menu view append to bodi
+menu view action
+menu clear
+
+menu view render
+menu view
+
+
+
+creat context menu
+
+param menu item
+param posit menu
+
+open menu item
+menu clear
+menu last time open date
+
+menu view menu gener view menu item
+
+menu view width
+menu view height
+
+window w window width
+window h window height
+
+left window w
+left left
+menu view add class submenu right
+
+window h
+
+menu view add class submenu
+
+
+menu view extend
+posit
+index
+
+menu view attr context menu
+
+
+
+context menu element
+menu open left click hold ipad
+
+param jqueri element
+param menu menu item
+param option
+
+menu view option
+
+
+option default option
+menu access textinput
+textinput
+
+
+handler
+menu origin
+target target src element
+
+ignor menu textinput
+option textinput
+target tag name input target tag name select target tag name textarea target is content edit
+
+
+
+page x origin event touch page x
+page y origin event touch page y
+
+menu open menu view
+left
+
+
+
+add class context menu
+
+
+
+contextmenu handler
+navig user agent match i pad taphold bind handler
+
+
+remov
+
+
+contextmenu
+taphold unbind
+
+
+
+click page clse context menu
+document click
+menu last time open date menu origin contextmenu
+menu clear
+
+
+open menu close context menu
+document contextmenu
+menu clear
+
+
+export menu
+util
+
+axio
+jqueri
+storag
+view
+
+model
+collect
+logger
+
+
+gridview
+queue
+
+glob
+
+export
+reduc
+
+
+prev
+
+
+
+prev
+
+
+modul found
+
+
+util
+jqueri
+
+logger logger
+applic
+grid view gridview
+
+dialog util dialog
+workspac workspac
+
+defin applic
+codebox applic applic extend
+
+class name main applic
+name codebox
+event
+rout
+
+initi
+codebox applic initi appli
+
+grid grid view
+column
+
+grid add class main grid
+grid append to
+
+signal offlin
+updat onlin statu
+logger connect chang navig on line
+navig on line
+dialog alert look like lost internet connect requir internet connect
+
+dialog alert your internet connect restart navig codebox work perfectli
+
+
+window add event listen onlin updat onlin statu
+window add event listen offlin updat onlin statu
+
+
+render
+head titl workspac titl
+readi
+
+
+start
+append to bodi
+updat
+
+
+
+export codebox applic
+
+axio axio
+backend backend
+
+backend
+prefix
+
+
+default method
+execut arg option method
+axio post method arg
+
+result
+
+error error
+code statu
+
+reject
+
+
+
+
+export
+user model user
+
+export user
+class
+sock js sockj client
+logger logger socket
+
+socket class extend
+initi
+
+socket initi appli
+
+logger connect servic option servic
+sock sock js window locat origin window locat pathnam socket option servic
+sock onopen
+trigger open
+
+sock onmessag
+json pars
+
+trigger
+method
+trigger method
+
+
+sock onclos
+trigger close
+
+
+
+send messag
+send messag
+sock send json stringifi messag
+
+
+
+call method
+method
+send
+method method
+
+
+
+
+close connect
+close
+sock close
+
+
+
+
+export socket
+logger logger event
+
+socket socket
+
+creat socket connect event backend
+event socket
+servic event
+
+
+event report
+event trigger
+
+
+export event
+workspac model workspac
+
+export workspac
+user collect user
+event event
+
+user user
+
+listen updat
+event user
+user list all
+
+
+export user
+
+util
+class
+collect collect
+
+file model file
+schema model schema
+
+
+
+manag class extend
+initi
+manag initi appli
+
+set
+schema collect extend model schema
+
+
+schema
+schema info
+
+
+info schema
+
+schema
+
+schema info
+
+import json set
+save
+silent
+
+schema
+
+listen to chang
+trigger chang
+
+
+
+
+
+export
+export json
+
+
+schema schema
+
+schema
+schema get data
+
+
+
+
+
+import
+import json option
+option default option
+save
+silent
+
+
+set
+
+schema schema
+schema clear silent
+schema default set schema schema get default
+silent option silent
+
+
+
+option save
+save
+
+
+
+
+
+file
+get file
+gener content
+code json stringifi export json
+
+build file buffer
+file buffer codebox set json code codebox set json
+save as file
+
+
+handl write oper
+listen to write
+import json json pars
+
+
+
+
+
+save set server
+save
+execut set export json
+
+
+load set server
+load
+execut set
+partial right import json save bind
+
+
+return schema
+to schema
+
+titl set
+
+properti chain schema model
+
+to json
+schema
+
+
+valu
+
+
+
+
+export manag
+command collect command
+
+export command
+packag collect packag
+dialog util dialog
+event event
+
+packag packag
+
+load instal packag
+event packag
+packag
+load
+fail dialog error
+
+
+unload remov packag
+event packag remov
+packag name
+destroy
+
+
+export packag
+path path
+axio axio
+
+util
+model model
+logger logger file
+
+core
+command core command
+event core event
+hash util hash
+dialog util dialog
+
+file model extend
+default
+path
+name
+directori
+size
+mtime
+atim
+buffer
+mime text plain
+
+id attribut name
+
+initi
+initi
+file initi appli
+
+option default option
+save as file
+
+
+listen to event modifi partial dispatch fs event modifi
+listen to event delet partial dispatch fs event delet
+listen to event creat partial dispatch fs event creat
+
+
+dispatch
+dispatch fs event path
+path child
+
+is buffer
+
+path path
+contain path path
+trigger
+
+is directori
+child filter path is child
+child length
+trigger file
+
+
+
+
+open file
+open
+command file open get extens slice
+path path
+
+
+
+check directori
+is directori
+directori
+
+
+check file buffer exist
+is buffer
+is string buffer
+
+
+test path child
+is child path
+parts1 filter path split length
+parts2 filter path split length
+parts1 length parts2 length
+
+
+list file directori
+
+execut
+path path
+
+file
+file file
+file file
+
+
+
+
+specif file
+stat path
+
+
+execut stat
+path path
+
+file
+buffer silent
+file
+
+then resolv
+
+
+read file content
+read opt
+opt default opt
+base64
+
+
+
+
+is buffer hash btoa buffer
+
+execut read
+path path
+
+content
+
+
+opt base64 hash atob
+
+
+
+
+access
+access url
+path
+
+
+write file content
+write content opt
+
+opt default opt
+base64
+
+
+
+
+is buffer
+file blob to string content
+
+buffer
+
+
+
+file write content path content
+
+
+trigger write content
+
+
+
+renam
+renam name
+
+is buffer
+
+execut renam
+path
+name name
+
+
+
+
+
+
+remov file
+remov
+is buffer destroy
+
+execut remov
+path path
+
+destroy bind
+
+
+creat file folder
+creat name
+file creat path name
+
+
+creat folder folder
+mkdir name
+file mkdir path name
+
+
+extens
+get extens
+name split
+
+
+save file
+save content opt
+
+
+
+
+is buffer option save as file write content opt
+
+dialog prompt save name
+filenam
+file write content filenam content
+
+
+
+stat filenam
+
+fail dialog error
+
+
+
+
+specif file
+path
+file
+
+stat path
+
+
+creat file buffer
+buffer name content option
+file option
+name name
+buffer content
+path buffer uniqu id
+directori
+
+
+
+
+
+creat file
+creat path name
+execut creat
+path path
+name name
+
+
+file
+
+
+
+creat folder
+mkdir path name
+execut mkdir
+path path
+name name
+
+
+file
+
+
+
+save
+save as filenam content opt
+file buffer filenam
+save content opt
+
+
+convert blob
+blob to string
+defer
+
+blob
+reader window file reader
+reader onerror
+reject
+
+reader onload
+resolv reader result
+
+reader read as text
+
+resolv
+
+
+promis
+
+
+write content file blob arraybuff
+write content filenam content opt
+opt default opt
+base64
+
+use upload
+
+
+
+is string content
+opt base64 content
+
+use upload content length 1000
+opt base64
+hash btoa content
+
+use upload
+content
+
+
+content
+use upload
+opt path path dirnam filenam
+
+form data
+blob blob content
+
+opt valu
+append json stringifi valu
+
+append content blob path basenam filenam
+
+axio upload
+
+opt path filenam
+opt content content
+execut write opt
+
+
+
+
+
+export file
+
+util
+model model
+logger logger user
+
+core
+
+user model extend
+default
+
+name
+email
+color
+
+
+identifi log user
+whoami
+
+
+execut user whoami
+
+
+
+then resolv
+
+
+
+export user
+util
+model model
+
+get default schema
+schema
+schema
+schema
+schema properti
+
+schema properti
+schema properti ha own properti
+schema properti get default schema properti
+
+schema properti
+schema properti
+
+
+
+
+schema properti
+schema
+schema item
+get default schema item
+
+
+
+schema model extend
+default
+
+schema
+
+
+initi
+schema initi appli
+
+model
+
+
+get default schema
+get default to json schema
+
+
+get data
+extend get default to json
+
+
+
+export schema
+
+util
+model model
+logger logger workspac
+
+core
+
+workspac model extend
+default
+
+titl
+
+
+identifi workspac
+
+
+
+execut codebox
+
+
+
+then resolv
+
+
+
+export workspac
+
+jqueri
+util
+model model
+logger logger
+
+get script callback
+head document get element by tag name head
+script document creat element script
+script
+
+handl script load
+
+done
+
+attach handler browser
+script onload script onreadystatechang
+done readi state
+readi state load readi state complet
+done
+callback
+callback
+
+handl memori leak
+script onload script onreadystatechang
+
+
+
+script onerror
+callback
+
+
+
+head append child script
+
+handl everyth script element inject
+
+
+
+packag model extend
+default
+name
+error
+
+id attribut name
+
+
+return addon
+
+
+base path window locat pathnam
+base path base path substr base path last index of
+base path packag name
+
+
+
+load addon
+
+load
+context main pkg requir config pkg requir
+defer
+
+browser
+
+logger load name
+get script build
+resolv
+
+logger except error load plugin
+reject
+
+
+promis timeout 10000 thi addon took load 10second
+
+
+
+return version
+
+version
+pars int version replac
+
+
+
+export packag
+
+util
+model model
+logger logger command
+
+keyboard util keyboard
+
+arg
+pars int
+
+
+command model extend
+default
+uniqu command
+
+
+titl command
+titl
+
+command
+context
+
+context need command
+context
+
+argument
+
+
+keyboard shortcut
+shortcut
+
+hidden command palett
+hidden
+
+disabl runnabl
+enabl
+
+
+constructor
+initi
+command initi appli
+
+just run
+prevent default
+
+bind
+
+listen to chang shortcut bind keyboard
+listen to destroy unbind keyboard
+bind keyboard
+
+
+unbind keyboard shortcut
+unbind keyboard
+shortcut
+
+keyboard unbind shortcut just run
+
+
+bind keyboard shortcut
+bind keyboard
+unbind keyboard
+shortcut shortcut
+keyboard bind shortcut just run
+
+
+command
+arg origin
+
+
+check context
+is runnabl
+
+logger
+
+
+
+appli arg collect context origin
+
+fail
+logger except command fail
+
+
+
+shortcut text
+shortcut text
+keyboard to text shortcut
+
+
+valid context
+ha valid context
+context context
+current context key collect context
+
+differ context current context length
+
+
+valid command name command match score
+resolv
+score
+part split
+thi part split
+
+part part
+thi part
+
+reg exp thi part
+part match
+
+
+
+score score
+
+
+score thi part length
+score part length score thi part length
+
+
+check command runnabl
+is runnabl
+ha valid context enabl
+
+
+
+export command
+lodash
+
+express express
+servic servic
+
+logger util logger
+
+router express router
+
+servic
+
+name method
+logger servic name size method method
+
+servic
+servic name chain method
+method method name
+
+method name
+arg context
+arg arg
+context context
+
+
+method arg context
+
+
+
+
+
+valu
+
+
+get servic name
+servic name
+
+
+init
+servic method servic
+servic method
+
+
+router servic
+servic get servic servic
+servic
+error servic found
+code
+
+
+
+send
+servic servic
+method key servic
+
+
+
+handl
+servic get servic servic
+servic
+error servic found
+code
+
+
+
+method servic method
+method
+error method found
+code
+
+
+
+method bodi
+user user
+
+
+
+send
+result
+
+
+fail
+logger error error method method
+logger except
+send
+error messag
+code code
+
+
+
+
+router post servic method handl
+router servic method handl
+
+
+export
+router router
+servic
+init init
+get servic
+
+
+lodash
+sockj sockj
+event event
+
+logger util logger socket
+
+servic
+
+init server config
+socket sockj creat server
+logger bind logger
+
+
+socket connect conn
+servic conn pathnam split
+logger connect servic servic
+
+servic servic
+conn close servic found
+logger error invalid servic servic
+
+
+conn method
+write json stringifi
+method method
+
+
+bind conn
+
+conn
+
+json pars
+
+logger error error pars
+
+
+
+method
+conn emit method
+
+conn emit messag
+
+
+
+servic servic handler conn
+
+
+socket instal handler server
+prefix socket
+
+
+
+add servic name handler
+logger servic name
+
+servic name
+handler handler
+
+
+
+
+export
+init init
+servic add servic
+
+event emitter2 eventemitter2 event emitter2
+lodash
+
+logger util logger event
+socket socket
+timestamp util time timestamp
+hook hook
+
+event event emitter2
+delimit
+wildcart
+
+
+init config
+socket servic event
+socket servic event conn
+handler
+conn report
+
+
+
+
+
+event on ani handler
+
+disconnect cleanli
+conn close
+event handler
+
+
+
+event report
+
+interv send event
+timeout number config report timeout
+
+queue push event
+event queue
+
+send event queue
+send event debounc
+logger report size event queue event
+
+hook
+hook event event queue
+
+empti queue
+event queue
+timeout
+
+queue event event data
+event queue push event data
+
+
+event on ani
+logger
+
+queue
+queue event
+type
+
+
+data
+
+
+workspac
+workspac id config
+
+timestamp
+timestamp date 1000
+
+
+send event
+send event
+
+
+logger event readi report debounc timeout 1000 to fix
+
+
+
+export
+init init
+emit event emit bind event
+
+path path
+
+lodash
+
+event event
+logger util logger workspac
+
+root
+config
+
+init workspac
+init config
+config config
+root path resolv config root
+
+logger work root
+event emit workspac readi
+
+
+return correct path workspac
+get path path
+path path resolv root path
+
+path rel root path substr
+error eaccess path root
+code eaccess
+
+reject
+
+
+path
+
+
+convert absolut rel path workspac
+rel path path
+path rel root path
+
+
+export
+init init
+path get path
+rel rel path
+root root
+config
+split reduc
+
+config
+
+
+
+lodash
+
+logger util logger user
+event event
+hook hook
+
+user
+color
+1abc9c
+9b59b6
+e67e22
+16a085
+c0392b
+2980b9
+f39c12
+8e44ad
+
+
+info user user id
+user id is string user id user id user id
+user user id reject error user exist
+
+omit user user id token
+
+
+get user user id
+user user id
+
+
+list user
+user user
+omit user token
+
+
+
+activ user user id
+user id is string user id user id user id
+user user id reject error user exist
+
+user user id mtime date
+
+info user user id
+
+
+auth email token
+hook user auth
+email email
+token token
+
+user
+user color color size user color length
+user user user
+
+activ user user
+
+user
+event emit user user
+
+session user id user
+user
+
+
+
+init option
+logger init user
+
+
+export
+init init
+auth auth
+activ activ user
+info info user
+list user
+get user
+
+
+lodash
+path path
+
+uuid uuid
+
+http http
+express express
+bodi parser bodi parser
+basic auth basic auth
+cooki parser cooki parser
+session express session
+busboy busboy
+
+config config
+hook hook
+event event
+packag packag
+
+workspac workspac
+user user
+socket socket
+log util logger
+
+logger log main
+
+middlewar
+middlewar
+
+middlewar middlewar
+middlewar appli
+
+
+
+prepar config
+
+partial log init config
+
+config config
+
+config
+
+
+partial event init config
+partial hook init config
+partial workspac init config
+partial user init config
+partial init config
+partial packag init config
+
+
+start config
+express
+server http creat server
+
+pars form
+
+
+header content index of multipart form
+method to lower case
+
+
+file field
+
+busboy busboy
+header header
+
+busboy file fieldnam file filenam encod mimetyp
+save to path join tmp dir uuid
+file pipe creat write stream save to
+file fieldnam
+filenam filenam
+path save to
+mimetyp mimetyp
+
+
+busboy field fieldnam fieldnam truncat val truncat
+pval
+
+
+pval json pars
+
+pval
+
+
+field fieldnam
+is array field fieldnam field fieldnam field fieldnam
+field fieldnam push pval
+
+field fieldnam pval
+
+
+busboy finish
+bodi field
+bodi
+file file
+
+finish
+file file
+unlink sync file path
+
+file
+
+
+
+
+pipe busboy
+
+bodi parser
+cooki parser
+
+auth
+session
+secret config secret codebox secret
+resav
+save uniniti
+
+
+auth queri string
+
+arg extend queri bodi
+arg email arg token
+user auth arg email arg token
+
+redirect
+
+fail
+
+
+
+
+
+auth
+
+session user id
+
+auth basic auth
+
+basic auth
+auth auth name auth
+user auth auth name auth
+user
+user user
+
+
+fail
+
+config auth redirect
+consol auth redirect config auth redirect
+redirect config auth redirect
+
+header authent basic realm codebox
+statu
+
+
+
+
+
+user
+session user id user
+
+
+session user id
+error need authent
+code
+
+
+user user session user id
+user
+error need login
+code
+
+
+user user
+
+
+
+
+
+static file
+express path resolv dirnam build
+
+
+download packag
+packag middlewar
+express config packag root
+
+packag
+packag bundl
+
+creat read stream pipe
+
+fail
+
+
+servic
+router
+
+direct access
+middlewar
+express workspac root
+
+
+error handl
+
+error page found
+code
+
+
+
+messag
+code number code
+
+return error
+format
+text plain
+statu code
+send
+
+applic json
+statu code
+send
+error
+code code
+
+
+
+
+logger error stack
+
+
+prepar extend config
+partial socket init server config
+
+logger
+logger applic listen port config port
+server listen config port
+
+
+
+export
+start start
+prepar prepar
+
+
+lodash
+request request
+
+logger util logger hook
+
+boxid
+hook
+posthook
+user auth
+valid
+name
+token email
+invalid authent
+
+
+
+
+
+secret token
+
+call hook
+hook
+logger call hook hook
+
+hook hook reject hook hook exist
+
+
+
+handler hook hook
+
+is function handler
+handler
+is string handler
+defer
+
+http request
+request post handler
+bodi
+boxid
+
+hook hook
+
+header
+author secret token
+
+json
+error respons bodi
+error respons statu code
+resolv bodi
+
+reject error error hook webhook bodi bodi error bodi error messag
+
+
+
+promis
+
+valid hook
+
+
+
+posthook hook
+posthook hook
+
+
+
+fail
+logger error error hook
+logger except
+
+reject
+
+
+
+init hook system
+init option
+logger init hook
+
+boxid option
+hook option hook
+secret token option secret
+
+
+export
+init init
+
+
+
+
+lodash
+
+
+path path
+wrench wrench
+
+packag pkgm
+json
+
+event event
+logger util logger packag
+
+context manag bundl
+
+remov output folder symlink
+clean folder out path
+
+stat lstat sync out path
+stat is directori
+wrench rmdir sync recurs out path
+
+unlink sync out path
+
+
+code enoent
+
+
+
+
+init config
+manag manag packag
+engin codebox
+version version
+folder config packag root
+less includ path resolv dirnam editor resourc stylesheet variabl less
+uglifi config debug
+
+
+manag
+logger name
+event emit packag info
+
+manag remov
+logger remov name
+event emit packag remov info
+
+manag
+logger appli logger
+
+
+context
+util
+promis
+hook hook
+event event
+workspac workspac
+
+socket socket
+logger util logger
+
+
+
+logger load prepar packag size packag depend depend
+
+
+keep foler clean packag
+
+packag readdir sync config packag root
+
+packag i pkg
+pkg path path resolv config packag root i pkg
+
+exist sync path resolv pkg path json
+logger warn remov pkg path
+clean folder pkg path
+
+
+
+
+
+default packag root config packag default
+default packag root default packag root config packag root
+
+copi packag packag folder
+default packag readdir sync default packag root
+
+creat packag folder
+wrench mkdir sync recurs config packag root
+
+default packag default pkg
+pkg path path resolv default packag root default pkg
+out path path resolv config packag root default pkg
+
+remov output folder symlink
+clean folder out path
+
+creat symlink
+logger symlink default pkg
+symlink sync
+pkg path
+out path
+
+
+
+
+manag prepar extend packag depend config packag instal
+
+
+config
+manag run all context
+
+
+bundl
+
+
+
+instal
+manag instal by uri
+
+context
+then resolv
+
+
+bundl
+
+
+
+uninstal name
+manag uninstal name
+
+
+
+manag order packag
+
+
+bundl forc
+exist
+
+
+
+bundl bundl
+exist
+
+nfcall file
+
+
+bundl
+exist forc
+manag bundl all bundl
+
+
+bundl
+
+
+
+export
+init init
+manag
+manag
+
+instal instal
+uninstal uninstal
+
+bundl bundl
+
+
+
+
+
+
+read git config filenam
+nfcall read file filenam utf8
+pars
+
+
+export read git config
+btoa
+buffer to string base64
+
+
+atob
+buffer base64 to string utf8
+
+
+export
+btoa btoa
+atob atob
+
+return timestamp curent time
+timestamp
+math floor date 1000
+
+
+export
+timestamp timestamp
+
+lodash
+
+state
+enabl
+
+color type
+color
+
+error
+warn
+
+
+base method
+log type log section
+enabl
+
+arg array prototyp slice call
+arg splice color log type log type color log type log section
+consol appli consol arg
+
+
+error partial error
+partial
+warn partial warn
+except wrap error func log section kill
+func log section messag
+stack consol error stack
+
+kill process
+kill process
+
+
+enabl disabl log
+toggl
+enabl
+
+
+init log
+init config
+config
+toggl config
+
+
+
+export name
+
+partial name
+error partial error name
+warn partial warn name
+except partial except name
+
+
+
+export toggl toggl
+export init init
+
+path path
+json
+
+workspac workspac
+
+about current version
+arg
+
+workspac config
+titl workspac config titl
+version version
+debug workspac config debug
+
+
+
+releas note
+chang arg
+
+content read file sync path resolv dirnam chang to string
+
+
+
+export
+
+chang chang
+
+
+lodash
+
+path path
+wrench wrench
+stream stream
+mime mime
+base64 stream base64 stream
+
+workspac workspac
+base64 util base64
+
+file info path stat
+
+path workspac rel path
+name path basenam path
+directori stat is directori
+size stat size
+mtime stat mtime get time
+atim stat atim get time
+mode stat mode
+mime mime lookup path
+
+
+
+file inform
+stat arg
+workspac path arg path
+path
+nfcall stat path path
+
+spread stat path
+file info path stat
+
+
+
+list file directori
+arg
+default arg
+order
+group
+
+
+
+workspac path arg path
+path
+nfcall readdir path path
+
+spread path root
+reduc path prev path
+prev file
+folder path resolv root path
+
+nfcall stat folder
+stat
+file push file info folder stat
+
+file
+
+
+
+
+
+file
+arg order file
+
+file sort by file file
+file name to lower case
+
+arg group
+group group by file file
+file directori directori file
+
+file concat group directori concat group file
+
+
+file
+
+
+
+read file
+read arg
+default arg
+base64
+
+
+arg path need path
+
+workspac path arg path
+path
+nfcall read file path path
+
+spread content path
+
+content arg base64 base64 btoa content content to string
+
+
+
+
+creat folder
+mkdir arg
+arg path need path
+arg name arg path path join arg path arg name
+
+workspac path arg path
+path
+wrench mkdir sync recurs path
+
+
+stat arg
+
+
+
+write file
+write arg
+default arg
+base64
+
+creat parent
+
+
+is stream arg content stream readabl
+
+arg path arg content need path content
+arg base64 is stream arg content base64 atob arg content
+
+workspac path arg path
+path
+arg exist sync path file alreadi exist
+
+write parent folder
+arg creat parent
+parent path dirnam path
+wrench mkdir sync recurs parent 0777
+
+
+write stream
+is stream
+defer
+write stream creat write stream path
+
+arg content
+resolv
+
+
+write stream error
+reject
+
+
+arg content
+
+arg base64 pipe base64 stream decod
+
+pipe write stream
+
+promis
+
+nfcall write file path arg content
+
+
+then resolv
+
+
+creat file
+creat arg
+arg path need path
+arg name arg path path join arg path arg name
+
+write
+path arg path
+
+content
+base64
+
+
+stat
+path arg path
+
+
+
+
+remov file
+remov arg
+arg path need path
+
+
+workspac path
+workspac path arg path
+
+spread root path
+root path cannot remov root folder
+
+nfcall stat path path
+
+spread stat path
+stat is directori nfcall unlink path path
+
+nfcall wrench rmdir recurs path path
+
+then resolv
+
+
+renam
+renam arg
+arg arg arg name need
+arg name arg path join path dirnam arg arg name
+
+
+workspac path arg
+workspac path arg
+
+spread
+workspac root workspac root cannot root folder
+equal
+exist sync alreadi exist
+
+nfcall renam
+
+
+stat path arg
+
+
+
+upload file
+upload arg meta
+arg path arg path
+reduc meta file prev file
+prev
+
+write extend arg
+path path join arg path file filenam
+base64 arg base64
+content creat read stream file path
+
+
+
+
+
+export
+stat stat
+
+read read
+write write
+remov remov
+mkdir mkdir
+creat creat
+renam renam
+upload upload
+
+lodash
+user user
+
+list user
+
+user
+
+
+identifi current user
+whoami arg context
+context user
+
+
+
+export
+
+whoami whoami
+
+export
+
+packag packag
+user user
+set set
+codebox codebox
+
+hook hook
+
+get set arg meta
+hook set
+user meta user
+
+
+
+set set arg meta
+hook set
+user meta user
+set arg
+
+
+
+export
+get set
+set set
+
+lodash
+packag packag
+json
+
+list packag
+arg
+packag
+info
+
+
+
+instal packag
+instal arg
+arg need
+
+packag instal arg post info
+
+
+uninstal
+uninstal arg
+arg name need name
+packag depend arg name uninstal core depend
+
+packag uninstal arg name post info
+
+
+export
+
+instal instal
+uninstal uninstal
+
+lodash
+
+
+path path
+wrench wrench
+
+logger util logger local
+
+local set process codebox local folder path join process home codebox
+set file path join local set set json
+
+base structur local workspac
+store workspac configur file
+export option
+option merg option
+hook
+set arg
+nfcall read file set file
+json pars
+fail constant
+config
+config option config option
+config option arg user
+
+
+
+set arg
+nfcall read file set file
+json pars
+fail constant
+config
+config option config option
+config option arg user arg set
+
+nfcall write file set file json stringifi config
+then resolv config
+
+config
+config option arg user
+
+
+
+packag
+root path resolv local set packag
+
+default
+
+creat codebox folder
+logger creat local set
+wrench mkdir sync recurs local set 0777
+
+option
+
+lodash
+
+path path
+
+base structur configur
+export option
+option merg option
+debug
+debug
+
+port run webserv
+port 3000
+
+root folder
+root process
+
+workspac titl
+titl codebox
+
+workspac
+
+
+secret identifi workspac
+secret
+
+event report
+report
+timeout
+
+
+authent set
+auth
+redirect user auth
+redirect
+
+
+hook
+valu post
+execut
+hook
+user auth
+email token need token email auth hook
+
+user id email
+token token
+
+size option auth user
+option auth user user id token option auth user user id invalid user
+
+
+
+user id
+name user id
+token token
+email email
+
+
+event
+set
+set
+
+
+packag
+packag
+path store packag user
+root
+
+path packag
+default path resolv dirnam packag
+
+packag instal boot
+instal
+
+default
+
+uniqu workspac
+option option hex32 crc32 option root
+
+option
+
+lodash
+
+
+port codebox port
+
+
+pars env parent prefix
+env var pars env
+
+parent
+parent
+
+
+parent
+parent
+
+env var prefix prefix
+env var to upper case
+
+is object is array is function
+pars env env var
+
+
+env var env var replac
+env var
+is array length is string
+parent compact env var split
+is number
+parent pars int env var
+is boolean
+parent env var
+
+parent env var
+
+
+
+
+
+parent
+
+
+
+extend configur environ variabl
+export option
+process
+
+
+
+pars env option codebox
+
+lodash
+
+
+templat
+
+local local
+
+
+
+gener complet config templat
+export option
+templat uniqu concat option templat local split
+
+reduc templat prev
+prev option
+templat invalid
+
+templat option
+
+option
+
+
+lodash
+path path
+
+
+base64 util base64
+
+describ
+content root folder
+
+file
+filenam pluck file name
+expect contain filenam test
+
+
+
+stat file
+stat path test
+file
+expect file name equal test
+
+
+
+content folder
+path test
+file
+filenam pluck file name
+expect contain filenam test2
+
+
+
+read file
+read path test
+file
+expect file content
+expect base64 atob file content equal hello world
+
+
+
+write file
+write
+path test
+content base64 atob test
+
+
+
+read write file without base64
+write
+path test
+content test witout base64
+base64
+
+
+read
+path test
+base64
+
+
+file
+expect file content
+expect file content equal test witout base64
+
+
+
+renam file
+renam
+test
+test new2
+
+
+
+renam file
+renam
+test new2
+name test new3
+
+
+
+remov file
+remov
+path test new3
+
+
+
+creat folder
+mkdir
+path folder folder
+
+
+
+renam folder
+renam
+folder
+folder new2
+
+
+
+remov folder
+remov
+path folder new2
+
+
+
+
+chai chai
+path path
+wrench wrench
+
+codebox
+user user
+
+packag folder path resolv dirnam packag
+
+wrench mkdir sync recurs packag folder 0777
+
+
+config
+
+root path resolv dirnam workspac
+packag
+root packag folder
+
+
+
+expos global
+expect chai expect
+
+init test
+
+timeout 500000
+
+codebox prepar config
+
+user auth test test
+
+
+
+path path
+
+workspac workspac
+
+describ workspac
+access file insid workspac
+workspac path path join dirnam workspac test then resolv
+
+
+access file outsid workspac
+workspac path path join dirnam workspac test2
+
+wrong
+
+
+
+
+
+
+path path
+
+user user
+
+describ user
+authent
+user auth test1 test1
+
+
+activ exist user
+user activ test2
+
+wrong
+
+
+
+
+
+
+lodash
+
+
+
+describ user
+user
+user
+user
+token compact pluck user token
+pluck user
+
+expect token length
+expect contain test
+
+
+
+node
+
+lodash
+path path
+program command
+open open
+
+json
+codebox
+
+gitconfig util gitconfig
+
+print error
+consol stack messag
+process
+
+
+program
+version version
+help
+consol exampl
+consol
+consol codebox myfold
+consol
+
+
+codebox
+
+program
+command root
+descript codebox
+option templat configur templat separ comma
+option port port http port 3000
+option open open favorit browser
+option email email address email address authent
+option user user list coma seper user password format usernam password
+split
+usernam password
+split
+
+
+action root opt
+gener configr
+option
+root path resolv process root
+port opt port
+auth
+user opt user
+
+
+
+codebox start option
+
+program email program email
+
+path user gitconfig file
+config path path join
+process home
+gitconfig
+
+
+codebox repo identifi user
+gitconfig config path
+user
+email
+fail
+
+
+
+email
+token opt user email math random to string substr
+http localhost option port
+
+consol n codebox run
+
+program open open email email token token
+
+fail print error
+
+
+instal packag
+
+program
+command instal
+descript instal packag
+option root path root folder store packag
+option packag item comma separ packag instal
+chain split
+compact
+pkgref
+part pkgref split
+name first part
+part slice join
+name packag need format name
+
+name
+
+
+valu
+
+action opt
+codebox prepar
+packag
+root opt root path resolv process opt root
+instal opt packag
+default
+
+
+
+process
+
+fail print error
+
+
+program pars process argv
+
+process argv slice length
+program output help
+

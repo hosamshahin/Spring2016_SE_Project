@@ -1,0 +1,788 @@
+font clear san
+html bodi
+margin
+pad
+background faf8ef
+color 776e65
+font famili clear san helvetica neue arial san serif
+font size 18px
+
+bodi
+margin 80px
+
+head
+content
+display block
+clear
+
+titl
+font size 80px
+font weight bold
+margin
+display block
+left
+
+webkit keyfram move
+
+25px
+opac
+
+
+50px
+opac
+keyfram move
+
+25px
+opac
+
+
+50px
+opac
+keyfram move
+
+25px
+opac
+
+
+50px
+opac
+score contain
+right
+text align right
+
+score contain best contain
+posit rel
+display block
+background bbada0
+pad 15px 25px
+font size 25px
+height 25px
+line height 47px
+font weight bold
+border radiu
+color white
+margin
+text align center
+score contain best contain
+posit absolut
+width
+10px
+left
+text transform uppercas
+font size 13px
+line height 13px
+text align center
+color eee4da
+score contain score addit best contain score addit
+posit absolut
+right 30px
+color
+font size 25px
+line height 25px
+font weight bold
+color rgba
+index
+webkit anim move 600m eas
+anim move 600m eas
+anim move 600m eas
+webkit anim fill mode
+anim fill mode
+anim fill mode
+
+score contain
+content score
+
+best contain
+content best
+
+
+margin
+margin bottom 10px
+line height
+
+
+color 776e65
+font weight bold
+text decor underlin
+cursor pointer
+
+strong import
+text transform uppercas
+
+
+border none
+border bottom solid d8d4d0
+margin 20px
+margin bottom 30px
+
+contain
+width 500px
+margin
+
+webkit keyfram fade
+
+opac
+
+
+opac
+keyfram fade
+
+opac
+
+
+opac
+keyfram fade
+
+opac
+
+
+opac
+game contain
+margin 40px
+posit rel
+pad 15px
+cursor
+webkit touch callout none
+touch callout none
+webkit user select none
+user select none
+user select none
+touch action none
+touch action none
+background bbada0
+border radiu
+width 500px
+height 500px
+webkit size border
+size border
+size border
+game contain game messag
+display none
+posit absolut
+
+right
+bottom
+left
+background rgba
+index
+text align center
+webkit anim fade 800m eas 1200m
+anim fade 800m eas 1200m
+anim fade 800m eas 1200m
+webkit anim fill mode
+anim fill mode
+anim fill mode
+game contain game messag
+font size 60px
+font weight bold
+height 60px
+line height 60px
+margin 222px
+game contain game messag lower
+display block
+margin 59px
+game contain game messag
+display block
+background 8f7a66
+border radiu
+pad 20px
+text decor none
+color f9f6f2
+height 40px
+line height 42px
+margin left
+game contain game messag keep play button
+display none
+game contain game messag game
+background rgba
+color f9f6f2
+game contain game messag game keep play button
+display block
+game contain game messag game game contain game messag game
+display block
+
+grid contain
+posit absolut
+index
+
+grid
+margin bottom 15px
+grid last child
+margin bottom
+grid
+content
+display block
+clear
+
+grid cell
+width 25px
+height 25px
+margin right 15px
+left
+border radiu
+background rgba
+grid cell last child
+margin right
+
+tile contain
+posit absolut
+index
+
+tile tile tile inner
+width 107px
+height 107px
+line height 107px
+tile tile posit
+webkit transform translat
+transform translat
+transform translat
+transform translat
+tile tile posit
+webkit transform translat 121px
+transform translat 121px
+transform translat 121px
+transform translat 121px
+tile tile posit
+webkit transform translat 242px
+transform translat 242px
+transform translat 242px
+transform translat 242px
+tile tile posit
+webkit transform translat 363px
+transform translat 363px
+transform translat 363px
+transform translat 363px
+tile tile posit
+webkit transform translat 121px
+transform translat 121px
+transform translat 121px
+transform translat 121px
+tile tile posit
+webkit transform translat 121px 121px
+transform translat 121px 121px
+transform translat 121px 121px
+transform translat 121px 121px
+tile tile posit
+webkit transform translat 121px 242px
+transform translat 121px 242px
+transform translat 121px 242px
+transform translat 121px 242px
+tile tile posit
+webkit transform translat 121px 363px
+transform translat 121px 363px
+transform translat 121px 363px
+transform translat 121px 363px
+tile tile posit
+webkit transform translat 242px
+transform translat 242px
+transform translat 242px
+transform translat 242px
+tile tile posit
+webkit transform translat 242px 121px
+transform translat 242px 121px
+transform translat 242px 121px
+transform translat 242px 121px
+tile tile posit
+webkit transform translat 242px 242px
+transform translat 242px 242px
+transform translat 242px 242px
+transform translat 242px 242px
+tile tile posit
+webkit transform translat 242px 363px
+transform translat 242px 363px
+transform translat 242px 363px
+transform translat 242px 363px
+tile tile posit
+webkit transform translat 363px
+transform translat 363px
+transform translat 363px
+transform translat 363px
+tile tile posit
+webkit transform translat 363px 121px
+transform translat 363px 121px
+transform translat 363px 121px
+transform translat 363px 121px
+tile tile posit
+webkit transform translat 363px 242px
+transform translat 363px 242px
+transform translat 363px 242px
+transform translat 363px 242px
+tile tile posit
+webkit transform translat 363px 363px
+transform translat 363px 363px
+transform translat 363px 363px
+transform translat 363px 363px
+
+tile
+posit absolut
+webkit transit 100m eas
+transit 100m eas
+transit 100m eas
+webkit transit properti webkit transform
+transit properti transform
+transit properti transform
+tile tile inner
+border radiu
+background eee4da
+text align center
+font weight bold
+index
+font size 55px
+tile tile tile inner
+background eee4da
+shadow 30px 10px rgba inset rgba
+tile tile tile inner
+background ede0c8
+shadow 30px 10px rgba inset rgba
+tile tile tile inner
+color f9f6f2
+background f2b179
+tile tile tile inner
+color f9f6f2
+background f59563
+tile tile tile inner
+color f9f6f2
+background f67c5f
+tile tile tile inner
+color f9f6f2
+background f65e3b
+tile tile tile inner
+color f9f6f2
+background edcf72
+shadow 30px 10px rgba 2381 inset rgba 14286
+font size 45px
+media screen width 520px
+tile tile tile inner
+font size 25px
+tile tile tile inner
+color f9f6f2
+background edcc61
+shadow 30px 10px rgba 31746 inset rgba 19048
+font size 45px
+media screen width 520px
+tile tile tile inner
+font size 25px
+tile tile tile inner
+color f9f6f2
+background edc850
+shadow 30px 10px rgba 39683 inset rgba 2381
+font size 45px
+media screen width 520px
+tile tile tile inner
+font size 25px
+tile tile 1024 tile inner
+color f9f6f2
+background edc53f
+shadow 30px 10px rgba 47619 inset rgba 28571
+font size 35px
+media screen width 520px
+tile tile 1024 tile inner
+font size 15px
+tile tile 2048 tile inner
+color f9f6f2
+background edc22
+shadow 30px 10px rgba 55556 inset rgba 33333
+font size 35px
+media screen width 520px
+tile tile 2048 tile inner
+font size 15px
+tile tile tile inner
+color f9f6f2
+background 3c3a32
+font size 30px
+media screen width 520px
+tile tile tile inner
+font size 10px
+
+webkit keyfram appear
+
+opac
+webkit transform scale
+transform scale
+transform scale
+transform scale
+
+
+opac
+webkit transform scale
+transform scale
+transform scale
+transform scale
+keyfram appear
+
+opac
+webkit transform scale
+transform scale
+transform scale
+transform scale
+
+
+opac
+webkit transform scale
+transform scale
+transform scale
+transform scale
+keyfram appear
+
+opac
+webkit transform scale
+transform scale
+transform scale
+transform scale
+
+
+opac
+webkit transform scale
+transform scale
+transform scale
+transform scale
+tile tile inner
+webkit anim appear 200m eas 100m
+anim appear 200m eas 100m
+anim appear 200m eas 100m
+webkit anim fill mode backward
+anim fill mode backward
+anim fill mode backward
+
+webkit keyfram
+
+webkit transform scale
+transform scale
+transform scale
+transform scale
+
+
+webkit transform scale
+transform scale
+transform scale
+transform scale
+
+
+webkit transform scale
+transform scale
+transform scale
+transform scale
+keyfram
+
+webkit transform scale
+transform scale
+transform scale
+transform scale
+
+
+webkit transform scale
+transform scale
+transform scale
+transform scale
+
+
+webkit transform scale
+transform scale
+transform scale
+transform scale
+keyfram
+
+webkit transform scale
+transform scale
+transform scale
+transform scale
+
+
+webkit transform scale
+transform scale
+transform scale
+transform scale
+
+
+webkit transform scale
+transform scale
+transform scale
+transform scale
+tile merg tile inner
+index
+webkit anim 200m eas 100m
+anim 200m eas 100m
+anim 200m eas 100m
+webkit anim fill mode backward
+anim fill mode backward
+anim fill mode backward
+
+game
+content
+display block
+clear
+
+game intro
+left
+line height 42px
+margin bottom
+
+restart button
+display block
+background 8f7a66
+border radiu
+pad 20px
+text decor none
+color f9f6f2
+height 40px
+line height 42px
+display block
+text align center
+right
+
+game explan
+margin 50px
+
+media screen width 520px
+html bodi
+font size 15px
+
+bodi
+margin 20px
+pad 20px
+
+titl
+font size 27px
+margin 15px
+
+contain
+width 280px
+margin
+
+score contain best contain
+margin
+pad 15px 10px
+width 40px
+
+head
+margin bottom 10px
+
+game intro
+width
+display block
+size border
+line height
+
+restart button
+width
+pad
+display block
+size border
+margin
+
+game contain
+margin 17px
+posit rel
+pad 10px
+cursor
+webkit touch callout none
+touch callout none
+webkit user select none
+user select none
+user select none
+touch action none
+touch action none
+background bbada0
+border radiu
+width 280px
+height 280px
+webkit size border
+size border
+size border
+game contain game messag
+display none
+posit absolut
+
+right
+bottom
+left
+background rgba
+index
+text align center
+webkit anim fade 800m eas 1200m
+anim fade 800m eas 1200m
+anim fade 800m eas 1200m
+webkit anim fill mode
+anim fill mode
+anim fill mode
+game contain game messag
+font size 60px
+font weight bold
+height 60px
+line height 60px
+margin 222px
+game contain game messag lower
+display block
+margin 59px
+game contain game messag
+display block
+background 8f7a66
+border radiu
+pad 20px
+text decor none
+color f9f6f2
+height 40px
+line height 42px
+margin left
+game contain game messag keep play button
+display none
+game contain game messag game
+background rgba
+color f9f6f2
+game contain game messag game keep play button
+display block
+game contain game messag game game contain game messag game
+display block
+
+grid contain
+posit absolut
+index
+
+grid
+margin bottom 10px
+grid last child
+margin bottom
+grid
+content
+display block
+clear
+
+grid cell
+width
+height
+margin right 10px
+left
+border radiu
+background rgba
+grid cell last child
+margin right
+
+tile contain
+posit absolut
+index
+
+tile tile tile inner
+width 58px
+height 58px
+line height 58px
+tile tile posit
+webkit transform translat
+transform translat
+transform translat
+transform translat
+tile tile posit
+webkit transform translat 67px
+transform translat 67px
+transform translat 67px
+transform translat 67px
+tile tile posit
+webkit transform translat 135px
+transform translat 135px
+transform translat 135px
+transform translat 135px
+tile tile posit
+webkit transform translat 202px
+transform translat 202px
+transform translat 202px
+transform translat 202px
+tile tile posit
+webkit transform translat 67px
+transform translat 67px
+transform translat 67px
+transform translat 67px
+tile tile posit
+webkit transform translat 67px 67px
+transform translat 67px 67px
+transform translat 67px 67px
+transform translat 67px 67px
+tile tile posit
+webkit transform translat 67px 135px
+transform translat 67px 135px
+transform translat 67px 135px
+transform translat 67px 135px
+tile tile posit
+webkit transform translat 67px 202px
+transform translat 67px 202px
+transform translat 67px 202px
+transform translat 67px 202px
+tile tile posit
+webkit transform translat 135px
+transform translat 135px
+transform translat 135px
+transform translat 135px
+tile tile posit
+webkit transform translat 135px 67px
+transform translat 135px 67px
+transform translat 135px 67px
+transform translat 135px 67px
+tile tile posit
+webkit transform translat 135px 135px
+transform translat 135px 135px
+transform translat 135px 135px
+transform translat 135px 135px
+tile tile posit
+webkit transform translat 135px 202px
+transform translat 135px 202px
+transform translat 135px 202px
+transform translat 135px 202px
+tile tile posit
+webkit transform translat 202px
+transform translat 202px
+transform translat 202px
+transform translat 202px
+tile tile posit
+webkit transform translat 202px 67px
+transform translat 202px 67px
+transform translat 202px 67px
+transform translat 202px 67px
+tile tile posit
+webkit transform translat 202px 135px
+transform translat 202px 135px
+transform translat 202px 135px
+transform translat 202px 135px
+tile tile posit
+webkit transform translat 202px 202px
+transform translat 202px 202px
+transform translat 202px 202px
+transform translat 202px 202px
+
+tile tile inner
+font size 35px
+
+game messag
+font size 30px import
+height 30px import
+line height 30px import
+margin 90px import
+game messag lower
+margin 30px import
+font face
+font famili clear san
+clear san light webfont
+clear san light webfont iefix format embed opentyp
+clear san light webfont clear san lightregular format
+clear san light webfont woff format woff
+font weight
+font style normal
+
+
+font face
+font famili clear san
+clear san regular webfont
+clear san regular webfont iefix format embed opentyp
+clear san regular webfont clear sansregular format
+clear san regular webfont woff format woff
+font weight normal
+font style normal
+
+
+font face
+font famili clear san
+clear san bold webfont
+clear san bold webfont iefix format embed opentyp
+clear san bold webfont clear sansbold format
+clear san bold webfont woff format woff
+font weight
+font style normal
+
+

@@ -1,0 +1,4581 @@
+encod
+
+stemmer
+bloomfilt igrigorik bloomfilt rjspotter bloomfilt
+moneta
+moneta memori
+
+defin decid root
+decid root file dirnam file decid
+
+
+decid root error
+decid root core extens
+decid root vector
+decid root vector binari
+decid root vector spars binari
+decid root vector tanimoto
+decid root stopword
+decid root token transform
+decid root document
+decid root document helper
+decid root vector
+decid root train
+decid root cluster tree
+decid root cluster node
+decid root cluster
+decid root cluster hierarch
+decid root cluster nearest neighbor
+decid root classifi
+decid root classifi bay
+decid root classifi anomali
+decid root classifi nearest neighbor
+
+decid
+
+extend
+
+conveni method classifi bay
+classifi arg block
+classifi bay arg block
+
+
+encod
+
+decid
+document helper
+
+document name
+document name
+document callback call
+
+
+
+document callback
+document callback token transform transform
+
+
+includ receiv
+receiv send attr writer document callback
+
+
+
+
+encod
+
+decid
+
+decid error standard error
+
+
+not implement error decid error
+initi klass method
+klass name expect method defin subclass
+
+
+
+
+encod
+
+decid
+train set
+attr reader document name
+document helper
+
+creat train gener train correspond
+singl document spam
+document given train analysi
+process accord given block exampl
+
+train set
+plain text
+stem
+ngram
+
+
+method call defin token transform your
+token method creat load
+document custom transform your own token transform
+
+initi name owner block
+name owner name owner
+token document hash
+block given
+document callback block
+
+
+
+token block
+document callback block
+
+
+use document train document
+document
+push document strip document
+
+
+push name document
+invalid cach
+document document name document
+
+
+
+token
+token valu collect token key sort
+
+
+term frequenc
+term frequenc
+term frequenc
+token token term frequenc token count token
+
+term frequenc
+
+
+count token
+collect token token
+
+
+count
+document size
+
+
+save
+store document document
+
+
+load
+invalid cach
+document store document
+
+
+
+
+collect token
+collect token
+collect token hash
+document
+token token
+collect token token
+
+
+
+collect token
+
+
+store
+owner store
+
+
+document
+owner name name document
+
+
+token
+owner name name token
+
+
+hapax occurr valu
+
+
+
+invalid cach
+owner invalid cach
+token valu
+term frequenc
+collect token
+
+
+
+
+
+encod
+
+math
+
+varianc popul comput varianc entir
+popul default fine comput varianc sampl
+popul enabl bessel correct sampl
+algorithm knuth welford
+http wikipedia wiki algorithm calcul varianc line algorithm
+varianc popul opt sampl
+mean
+popul
+
+delta mean
+mean delta
+delta mean
+
+opt sampl
+
+
+standard deviat popul sampl popul need
+provid sampl varianc
+stddev popul opt sampl
+sqrt varianc popul opt
+
+
+
+
+total inject
+total size
+
+
+float
+inject element element
+
+
+varianc stddev float
+
+
+
+
+hash
+
+val block
+
+
+block call
+
+
+
+
+
+
+string
+
+
+name split name
+name split word word capit join
+
+root modul name shift
+name inject root name name
+
+
+
+
+symbol
+
+
+
+
+
+
+
+array
+
+
+size size
+
+element size
+
+element size
+
+
+product
+element time product
+product
+
+
+partit partit
+result array
+partit width size partit ceil
+partit time
+partit width
+partit width
+result array rang
+
+result array
+
+
+remov item
+remov item
+element
+remov item item element
+remov item
+
+
+
+
+
+
+
+encod
+
+decid
+vector
+
+vector
+vector prototyp vector prototyp token indic
+vector prototyp
+
+
+binari vector document
+binari vector prototyp vector spars binari prototyp token indic
+binari vector prototyp document
+
+
+spars binari vector document
+vector
+document token token
+vector token indic token
+
+vector key sort
+
+
+proport vector document
+vector vector
+token frequenc token frequenc document token
+token frequenc token frequenc
+vector token indic token frequenc
+
+vector
+
+
+euclidean coeffici vector1 vector2
+euclidian distanc vector1 vector2
+
+
+pearson coeffici vector1 vector2
+vector1 size
+coproduct rang vector1 vector2
+covari math float coproduct
+vector1 stddev vector2 stddev vector stddev vector1 vector stddev vector2
+denomin vector1 stddev vector2 stddev
+denomin covari denomin
+
+
+averag vector
+
+size time
+
+
+
+
+
+invalid cach
+token indic vector
+vector prototyp
+
+
+
+
+build hash token autoincr integ
+use elsewher quickli build vector represent document
+token indic
+token indic
+token indic
+bloomfilt slower mani cach miss
+
+token indic bloom filter
+index
+sort class klass
+klass token token
+token indic token
+token indic token index
+index
+
+
+
+vector array index
+
+token indic
+
+
+vector
+token indic token indic
+vector
+
+
+euclidian distanc vector1 vector2
+squar distanc
+vector1 size time
+squar distanc vector1 vector2
+
+math sqrt squar distanc
+
+
+vector stddev vector
+math sqrt math float vector vector size
+
+
+token frequenc token
+token count token size
+frequenc hash
+token token
+frequenc token token count
+
+frequenc
+
+
+
+
+encod
+
+decid
+token transform
+
+
+
+transform
+
+plain text
+stem
+
+
+
+
+
+assign valu pass document domain token
+document alreadi form
+
+document alreadi token
+verbatim
+domain token token
+verbatim
+domain token
+
+
+split text document whitespac
+delimet
+plain text
+domain token split
+
+
+split text document
+delimet
+
+domain token split
+
+
+creat addit token exist one extract charact
+ngram token chees would give
+
+use conjunct stem awar call stem first
+stem use gener ngram
+charact ngram size
+ngram token domain token token extract ngram token size
+push addit token ngram token flatten
+
+
+creat addit token combin exist one ngram
+exampl token would give
+ngram
+ngram size
+token ngram extract ngram domain token size join
+push addit token token ngram
+
+
+stem token porter stem algorithm implement
+stemmer
+stem
+domain token stem
+
+
+remov stopword
+stopword stopword english quit larg might
+need reduc applic creat defin
+constant decid stopword pass name
+argument
+remov stopword stopword english
+token san stopword
+stopword stopword stopword
+domain token token
+token san stopword token stopword token
+
+domain token token san stopword
+
+
+
+
+extract ngram string ngram size
+ngram size ngram size respond ngram size ngram size
+
+ngram
+ngram size ngram size
+string length ngram size time
+ngram string ngram size
+
+
+ngram
+
+
+
+
+
+encod
+
+decid
+stopword
+english
+
+
+
+
+across
+
+afterward
+
+
+
+almost
+alon
+along
+alreadi
+also
+although
+alway
+
+among
+amongst
+amoungst
+amount
+
+
+anoth
+
+anyhow
+anyon
+anyth
+anyway
+anywher
+
+around
+
+
+back
+
+becam
+
+becom
+becom
+becom
+
+
+beforehand
+behind
+
+
+besid
+besid
+
+beyond
+bill
+
+bottom
+
+
+call
+
+cannot
+cant
+
+
+could
+couldnt
+
+
+describ
+detail
+
+done
+
+
+
+
+
+eight
+either
+eleven
+
+elsewher
+
+enough
+
+even
+ever
+everi
+everyon
+everyth
+everywher
+
+
+fifteen
+fifi
+fill
+find
+fire
+first
+five
+
+former
+formerli
+forti
+found
+four
+
+front
+full
+
+
+give
+
+
+
+hasnt
+
+
+henc
+
+
+hereaft
+herebi
+herein
+hereupon
+
+
+
+
+
+
+howev
+hundr
+
+
+
+
+inde
+interest
+
+
+
+
+
+keep
+last
+latter
+latterli
+least
+less
+
+made
+mani
+
+
+meanwhil
+might
+mill
+mine
+
+moreov
+
+mostli
+move
+much
+must
+
+
+name
+name
+neither
+never
+nevertheless
+
+nine
+
+nobodi
+none
+noon
+
+
+noth
+
+nowher
+
+
+often
+
+
+
+
+onto
+
+
+other
+otherwis
+
+
+
+
+
+
+part
+
+perhap
+pleas
+
+rather
+
+
+
+seem
+seem
+seem
+seem
+seriou
+sever
+
+
+show
+side
+sinc
+sincer
+
+sixti
+
+
+somehow
+someon
+someth
+sometim
+sometim
+somewher
+still
+
+system
+take
+
+
+
+
+
+
+
+
+thenc
+
+thereaft
+therebi
+therefor
+therein
+thereupon
+
+
+thickv
+thin
+third
+
+
+though
+three
+
+throughout
+thru
+thu
+
+togeth
+
+
+toward
+toward
+twelv
+twenti
+
+
+
+
+
+upon
+
+
+
+
+
+well
+
+
+whatev
+
+whenc
+whenev
+
+whereaft
+wherea
+wherebi
+wherein
+whereupon
+wherev
+whether
+
+
+whither
+
+whoever
+whole
+
+whose
+
+
+
+within
+without
+would
+
+
+
+
+
+
+
+
+encod
+
+decid
+
+document final decid error
+
+
+document store text use creat well token extract
+text document initi text document
+typic visit upon block perform whatev oper
+need extract token text
+
+document extend token extract method like just
+write method argument custom transform
+
+exampl extend document token extract method look
+token transform
+document
+token transform
+
+
+
+provid wrapper send
+extend document token strategi
+custom transform transform
+transform
+
+
+
+attr reader name addit token train
+attr writer domain token
+
+initi name text
+name name text
+domain token addit token final
+
+
+push addit token token
+final
+addit token token
+
+
+return domain token given argument given argument set
+domain token thi allow avoid domain token
+write token transform modul
+domain token domain token
+final
+domain token
+domain token domain token
+
+domain token
+
+
+
+token
+token domain token addit token
+
+
+
+
+token
+domain token addit token
+final
+
+
+
+
+final
+document final token access document final final
+
+
+
+
+
+encod
+
+decid
+cluster
+nearest neighbor base
+
+tree
+tree
+tree bk tree
+corpu document
+tree insert vector
+
+
+tree
+
+
+invalid cach
+tree
+
+
+
+find document train distanc
+vector represent document within rang
+given document
+rang rang document
+document queri target document
+tree nearest neighbor rang vector
+
+
+find singl closest match document train determin
+vector distanc calcul
+nearest document
+document queri target document
+tree nearest neighbor vector
+
+
+find nearest neighbor given document
+nearest neighbor document opt
+tree vector document queri target document opt
+
+
+nearest neighbor
+
+unoptim search tree thi
+search distanc form
+metric space vector binari recommend distanc
+
+name method warn
+slow document
+result
+target vector vector document queri target document
+corpu document
+vector vector
+result target vector distanc vector
+
+select best result result
+
+
+
+
+select best result result hash
+result hash key result hash size
+score result hash valu sort
+best score score rang
+put best score best score join
+result hash select result score best score score best score remov score result score
+result score first
+
+
+
+
+
+
+encod
+
+decid
+cluster
+base
+attr reader class name store
+
+vector
+document helper
+
+initi vector block
+vector decid vector vector vector spars binari
+document callback block block given
+class corpu train set corpu document callback
+
+
+document
+corpu document
+
+
+push arg
+corpu push arg
+
+
+sort class
+corpu
+
+
+vector
+vector
+
+
+vector
+vector
+corpu document
+vector name vector
+
+vector
+
+
+invalid cach
+
+
+
+corpu
+class corpu
+
+
+
+
+
+encod
+
+decid
+cluster
+
+tree
+
+initi
+root node node root
+
+
+root
+root node
+
+
+insert name vector
+root node attach node name vector
+
+
+format arg
+root node format arg
+
+
+
+
+node
+vector
+
+attr accessor parent children vector name
+
+
+
+initi name vector
+name children vector name vector
+
+
+attach node
+children size
+children creat subnod node
+
+node parent
+children node
+
+
+
+
+creat subnod node
+closest child children index child closest node
+vector closest child vector averag node vector
+subnod subnod name closest child node vector
+subnod attach closest child attach node
+
+
+index child closest node
+index closest node best distanc measur
+children size time
+distanc measur children vector similar node vector
+distanc measur best distanc measur
+best distanc measur distanc measur
+index closest node
+
+
+index closest node
+
+
+node
+children node
+
+
+leaf
+children
+
+
+format depth opt
+
+depth
+root
+
+depth time
+name
+ljust vector inspect opt vector
+
+
+leaf
+children format depth opt
+
+
+
+
+
+
+subnod name node1 node2
+node1 name split first node2 name split last
+
+
+
+
+
+encod
+
+decid
+cluster
+hierarch base
+
+tree
+tree
+tree tree
+corpu document
+tree insert name vector
+
+
+tree
+
+
+root node
+tree root
+
+
+invalid cach
+tree
+
+
+
+
+
+
+encod
+forward
+
+decid
+cluster
+
+burkhard keller tree implement
+tree provid effici comput nearest neighbor
+wikipedia articl tree kinda suck blog post decent
+http blog notdot 2007 damn cool algorithm part tree
+bk tree
+
+root
+root
+
+
+insert name vector
+root node name vector root
+
+root attach node name vector
+
+
+find neighbor node within limit distanc
+target vector
+nearest neighbor limit target vector
+find nearest neighbor target vector distanc limit
+
+
+find singl nearest neighbor target vector
+nearest neighbor target vector
+find nearest neighbor target vector result first
+
+
+nearest neighbor target vector opt
+opt result
+find nearest neighbor target vector opt
+
+
+nearest neighbor
+
+format
+root root format
+
+
+size
+root root size
+
+
+
+
+find nearest neighbor target vector opt
+node test root
+result result opt
+node node test shift
+distanc node node vector distanc target vector
+result node distanc node
+node test node children rang distanc node result distanc limit
+result distanc limit result distanc limit ceil
+
+put found nearest node distanc result score join
+put nearest node result name join
+opt score
+result
+result node score
+result node score
+
+result
+
+result node node
+
+
+
+result
+extend forward
+deleg result valu size
+
+initi opt
+result distanc limit opt result opt distanc
+result
+
+
+vector distanc
+distanc limit distanc distanc limit
+result vector distanc
+worst result result size result
+
+
+
+distanc limit
+distanc limit
+result result size result
+distanc limit result valu inject valu valu valu valu valu valu
+
+distanc limit
+
+
+score
+result valu
+
+
+
+result key
+
+
+
+
+worst
+worst node result key first
+worst distanc result worst node
+distanc limit
+result node distanc
+distanc worst distanc
+worst node worst distanc node distanc
+
+
+result worst node
+
+
+
+
+node
+attr reader document vector children
+document
+
+initi document vector
+document vector document vector
+children
+
+
+attach subnod
+node attach
+node attach
+distanc node attach vector distanc subnod vector
+equidist child node attach children distanc
+node attach equidist child
+
+node attach children distanc subnod
+node attach
+
+
+
+
+format depth
+prefix depth
+name
+children distanc node
+prefix distanc node format depth
+
+
+
+
+children rang center delta
+children valu delta
+center delta center delta
+children select node pair
+pair last
+
+
+
+size
+children size children inject child child last size
+
+
+
+
+
+
+
+encod
+
+decid
+classifi
+nearest neighbor
+
+
+
+encod
+
+decid
+classifi
+not implement error standard error
+
+
+base
+attr reader class name store
+
+document helper
+
+creat classifi class current
+bayesian algorithm implement symbol prefer name
+option block control document token
+token strategi split token whitespac
+charact stem result document token transform
+detail
+manual classifi default would creat
+classifi like
+
+classifi classifi spam
+plain text
+stem
+
+
+creat token strategi
+document custom transform my token transform includ
+
+onc creat classifi train like continu
+exampl
+
+document class magic defin method
+classifi spam spammi viagra phish blah blah free
+classifi someth actual want read
+
+valu return spam exampl instanc
+train set array train set return
+train chain insert
+
+also predic method like
+
+classifi spam cheap fake viagra watch your credit
+
+
+initi class block
+class
+document callback block block given
+class klass
+class klass train set klass document callback
+defin accessor klass
+defin predic klass
+
+
+
+give name document class defin
+name
+class key
+
+
+sort train set class name convert document vector
+vector depend get train set determinist
+order everyon would rubi
+jerk
+sort class
+sort class name sort name class name
+
+
+classifi arg
+not implement error classifi suppos defin subclass
+
+
+just stub call train document
+ad subclass nillifi cach comput
+invalid cach
+
+
+save name
+name name
+
+
+
+back opt
+store name moneta back
+store name
+store store name opt
+
+
+save
+class valu save
+
+
+load
+class valu load
+
+
+save
+
+
+
+defin accessor klass
+singleton
+singleton send defin method klass
+class klass
+
+
+
+defin predic klass
+singleton
+singleton send defin method klass text
+classifi text klass
+
+
+
+
+
+
+encod
+
+decid
+classifi
+bay base
+
+classifi document text base previou train
+classifi document text
+score document text inject memo last memo last memo first
+
+
+give probabilit document text
+score document text
+bayesian score token document test document text token
+
+
+bayesian score token token
+result
+class size
+name name
+result name probabl token name token
+result result name
+
+class name train
+result name probabl token name token
+
+
+result
+
+
+give probabl token appear given
+bay theorem combin probabl token
+probabl token klass token
+product invers product
+index
+start
+token token
+index index
+probabl probabl token klass token
+product product probabl
+invers product invers product probabl
+interim numer product
+interim denomin product invers product
+index
+rebalanc
+product invers product rebal product invers product
+interim numer product
+interim denomin product invers product
+
+
+
+product product invers product
+
+
+score document
+score document
+score document hash
+class name train
+train document
+bayesian score token token klass name score
+score document klass name score
+
+
+
+
+score document
+
+
+comput probabl token appear klass follow
+
+appear doc
+
+appear doc apper document
+probabl token klass token
+probabl token token probabl
+probabl token klass token hash
+occurr occurr token klass token
+count document count klass
+ratio occurr count
+class ratio occurr count
+probabl bound probabl ratio class ratio
+probabl token klass token hash probabl
+
+probabl token klass token hash
+probabl token
+
+
+
+document count klass
+document count
+document count klass
+count hash
+class name train
+name klass
+count train count
+
+count train count
+
+
+document count klass count val count
+count count
+
+
+document count klass
+
+
+occurr token klass token
+result hash
+term frequenc term frequenc token token
+result term frequenc klass
+term frequenc klass count
+result count
+
+result
+
+
+term frequenc token token
+class val train
+train term frequenc token
+
+
+
+total document
+total doc
+class name train
+total doc train count
+
+total doc
+
+
+invalid cach
+
+occurr token
+document count
+score document
+probabl token
+
+
+
+
+rebal product invers product
+invers product product
+
+
+bound probabl
+valu unknown token
+
+probabl
+probabl
+
+probabl
+
+
+probabl
+
+
+
+token probabl
+total document round
+bloom filter rand
+
+
+
+
+
+
+encod
+
+decid
+classifi
+anomali bay
+
+todo cach
+score
+score document val score
+math score
+
+
+
+todo cach
+stddev
+score document val score
+math stddev score
+
+
+
+anomali score document
+document score score document
+anomali score
+score name averag
+anomali score name averag document score name stddev name
+
+anomali score
+
+
+singl classifi experiment anomali detect document text
+standard deviat classifi think normal return
+otherwis
+anomal document text
+anomali detect right class size
+class valu first anomali score document document text
+
+
+
+
+
+encod
+
+decid
+vector
+binari abstract base
+attr accessor vector
+
+binari vector tanimoto coeffici use
+http wikipedia wiki jaccard index
+similar vector
+vector
+vector vector vector vector
+
+
+distanc vector
+vector length vector vector
+distanc
+vector length time
+distanc vector vector
+
+distanc
+
+
+averag vector
+vector duplic
+vector length time
+vector vector vector
+
+vector
+
+
+
+creat binari vector given thi use
+facilit test
+
+
+vector
+
+
+
+
+initi token index
+
+vector array token index length
+
+
+convert document document
+document token
+index
+vector
+
+
+
+
+
+
+
+encod
+
+decid
+vector
+
+base class variou vector type vector prototyp
+inherit mechan like javascript thi slightli complic
+help avoid variabl facilit perform
+enhanc duplic array instead creat one
+abstract base
+
+
+prototyp token index
+prototyp token index
+prototyp
+
+
+distanc comput distanc
+defin method comput distanc comput distanc
+defin method distanc
+distanc lookup
+distanc store vector
+result comput distanc
+
+
+
+similar comput similar
+defin method comput similar comput similar
+defin method similar
+similar lookup
+similar store vector
+result comput similar
+
+
+
+averag comput averag
+defin method comput averag comput averag
+defin method averag
+averag lookup
+averag store vector
+result comput averag
+
+
+
+
+attr reader index
+token indic index
+
+attr reader distanc similar averag
+attr accessor vector
+
+initi token index
+index token index
+vector
+distanc similar averag comput cach
+
+
+document
+vector duplic
+vector convert document document
+vector
+
+
+subclass method duplic varibl
+duplic shallow copi select deep copi
+duplic
+defin vector
+vector vector
+
+
+
+vector
+vector vector vector
+
+
+similar
+not implement error similar
+
+
+averag
+not implement error averag
+
+
+distanc
+not implement error averag
+
+
+convert document
+not implement error convert document
+
+
+duplic
+vector
+vector duplic
+vector
+
+
+return represent vector
+
+vector
+
+
+comput cach
+
+initi
+result moneta memori
+
+
+lookup arg
+result arg result arg revers
+
+
+store opt
+result opt vector opt result
+
+
+
+
+
+
+
+encod
+
+decid
+vector
+tanimoto spars binari
+
+give distanc measur tanimoto coeffici
+
+defin normal instead metaprogram macro
+distanc block cach valu cach
+similar instead
+distanc
+item spars vector spars vector length
+item spars vector spars vector length
+item spars vector spars vector length
+100000 item item item item
+similar
+
+
+
+
+
+encod
+
+decid
+vector
+spars binari abstract base
+attr accessor vector size
+
+binari vector tanimoto coeffici use
+http wikipedia wiki jaccard index
+similar
+unoptim implement
+item vector vector size
+item vector vector length
+item vector vector length
+item item item item
+
+
+
+item vector vector size
+item vector size vector size item
+
+
+
+distanc
+
+vector vector length vector vector length
+
+
+averag
+vector duplic
+vector vector vector vector
+vector
+
+
+
+vector array token indic length
+vector index
+vector index
+
+vector
+
+
+convert document document
+document token
+index
+vector
+
+
+vector size vector size
+
+
+
+
+
+file dirnam file bench helper
+file dirnam file github contest
+
+github contest data load
+cluster github contest user cluster watch vector tanimoto
+
+
+benchmark result
+result report load
+cluster load
+
+
+result report build tree
+cluster build
+
+
+result report find
+cluster find neighbor test user
+
+
+cluster recommend recommend repo
+put recommend repo emit recommend
+
+
+
+
+rubi
+encod
+file dirnam file bench helper
+
+hierarch cluster bench
+bench helper log
+bench helper sa corpu data
+
+subject line email
+subject
+match email
+undeciper
+
+
+extend
+
+load cluster
+load corpu
+train spam email
+cluster push spam subject line email email
+
+train email
+cluster push spam subject line email email
+
+test email
+cluster push subject line email email
+
+test spam email
+cluster push spam subject line email email
+
+
+
+
+
+
+cluster decid cluster hierarch
+plain text
+
+
+
+hierarch cluster bench
+
+benchmark
+
+report load
+load cluster
+
+
+report creat token index
+cluster send token indic
+
+
+token count cluster send token indic length
+
+report calcul vector
+cluster vector
+
+
+report creat tree
+cluster tree
+
+
+report tree
+put cluster tree format
+
+
+
+
+file dirnam file bench helper
+file dirnam file github contest
+
+github contest data load
+cluster github contest repo cluster watch vector tanimoto
+
+benchmark result
+result report load
+cluster load
+
+
+result report build tree
+cluster build
+
+
+result report find
+cluster find neighbor repo
+
+
+
+file open bench repo neighbor
+cluster similar repo similar repo
+put similar repo
+
+
+close
+
+
+
+encod
+benchmark
+logger
+rubygem
+file dirnam file decid
+
+bench file dirnam file
+
+respond forc encod
+string
+forc encod arg
+
+
+
+
+
+bench helper
+log
+
+simpl log format logger formatt
+call sever time program name messag
+sever messag
+
+
+
+logger
+logger
+logger logger stderr
+logger formatt simpl log format
+logger level logger info
+
+logger
+
+
+
+logger info
+
+
+debug
+logger debug
+
+
+debug
+logger level logger debug
+
+
+silent
+current level logger level
+logger level logger fatal
+
+logger level current level
+
+
+
+
+sa corpu data
+
+fail corpu avail
+dir easi easi spam spam subdir bench fixtur
+dir
+file exist
+fail need spam assasin corpu benchmark
+read bench fixtur readm
+fail fail
+
+
+
+
+load corpu
+fail corpu avail
+dir train easi train spam spam test easi test spam spam
+
+dir
+
+glob bench fixtur email
+read email forc encod 8859
+
+
+
+
+
+
+rubi
+encod
+file dirnam file bench helper
+
+bay bench
+bench helper sa corpu data
+
+accuraci stat
+attr accessor train train spam test test spam posit neg
+
+report
+
+train messag
+train train spam messag total train spam spam train
+
+test messag
+total test msg test test spam
+total test msg total test spam spam test
+percent neg test spam
+neg percent messag wrongli mark neg
+percent posit test
+posit percent messag wrongli mark spam posit
+total error posit neg
+accurraci total error total test msg
+accuraci accurraci
+total error error total test msg messag
+put
+
+
+
+
+bench helper log
+
+extend
+
+preload
+load corpu
+accuraci stat accuraci stat
+accuraci stat train train length
+accuraci stat train spam train spam length
+accuraci stat test test length
+accuraci stat test spam test spam length
+
+
+train spam classifi
+train spam
+classifi spam
+
+
+
+train classifi
+train
+classifi
+
+
+
+test spam classifi
+neg
+test spam
+neg classifi spam
+
+accuraci stat neg neg
+
+
+test classifi
+posit
+test
+posit classifi
+
+accuraci stat posit posit
+
+
+report
+accuraci stat report
+
+
+
+
+bay bench
+preload
+
+classifi decid classifi spam
+plain text
+ngram
+stem
+
+
+benchmark
+
+start
+
+report train classifi
+train classifi
+train spam classifi
+
+
+start
+
+report classifi
+test spam classifi
+test classifi
+
+
+
+report
+
+file dirnam file bench helper
+file dirnam file github contest
+
+
+github contest data load
+
+repo similar
+bench repo neighbor line
+github contest recommend repo load line strip
+repo similar test repo
+
+
+github contest data test user test user
+recommend repo github contest recommend repo test user
+github contest data repo watch test user watch repo
+repo similar watch repo repo metric similar repo metric
+github contest data repo watch test user similar repo
+recommend repo consid repo similar repo metric metric first
+
+
+
+put recommend repo emit recommend
+
+singleton
+
+github contest
+contest data file dirnam file fixtur github
+
+data
+singleton
+
+
+
+load
+load
+load sampl
+load test
+load
+
+
+
+load
+load
+
+
+repo watch user
+user repo user
+
+
+user watch repo
+repo watcher repo
+
+
+user block
+user repo block
+
+
+repo block
+repo watcher block
+
+
+test user
+test user
+
+
+repo
+repo watcher key
+
+
+popular remain user
+popular repo
+popular repo recommend repo
+repo popular repo watcher
+popular repo consid repo repo metric watcher
+
+
+popular repo best repo user revers
+
+
+
+
+attr reader user repo repo watcher repo popular test user
+
+initi
+load
+
+
+load sampl
+user repo hash
+repo watcher hash
+repo popular hash
+load
+contest data line
+user repo line strip split
+repo popular repo
+repo watcher repo user
+user repo user repo
+
+
+
+
+load test
+test user
+load
+contest data test line
+test user line strip
+
+
+
+
+load
+load
+
+
+load
+load
+
+
+
+
+similar user
+
+
+load
+argument error invalid similar user invalid
+test user user metric strip split
+similar user test user
+user metric split user metric
+user metric user metric split
+metric metric metric metric
+similar user user user metric metric
+
+similar user
+
+
+invalid
+valid regex
+valid regex match
+
+
+
+
+attr reader user metric test user
+
+initi test user
+test user test user
+user metric
+
+
+user attr
+user metric attr attr metric
+
+
+user user metric hash
+user metric user metric hash
+
+
+recommend repo
+recommend repo recommend repo test user
+user metric similar user metric
+data repo watch similar user repo
+recommend repo consid repo repo metric metric
+
+
+recommend repo
+
+
+
+test user
+user metric user metric user metric
+
+
+
+
+
+recommend repo
+
+
+
+load
+test subject repo metric strip split
+recommend repo test subject
+repo metric split repo metric
+repo metric repo metric split
+repo repo
+metric split metric
+metric metric metric metric
+recommend repo consid repo repo metric metric
+
+
+recommend repo
+
+
+
+
+initi test user repo
+test subject test user repo
+repo metric hash
+
+
+test user
+test subject
+
+test repo test user
+
+consid repo attr
+repo metric attr attr metric
+
+
+repo metric hash
+repo metric hash repo metric
+consid repo repo metric metric
+
+
+
+repo metric opt
+user opt exclud user repo
+exclus repo metric
+repo metric repo metric
+exclus repo metric repo metric data repo watch user repo
+
+exclus repo metric
+
+repo metric
+
+
+
+rank repo opt
+rank
+repo metric opt repo metric
+rank repo metric inject metric metric
+
+rank
+
+
+emit recommend user
+user test subject
+user recommend user join
+
+emit recommend emit recommend
+
+recommend user
+recommend best repo user compact
+recommend size
+popular repo data popular remain user
+recommend size time
+recommend popular repo
+
+
+recommend
+
+
+best repo user
+exclus rank repo rank repo exclud user repo user
+best
+time
+best select best exclus rank repo
+
+best
+
+
+select best exclus rank repo
+best repo exclus rank repo key first
+best rank exclus rank repo best repo
+exclus rank repo repo rank
+best repo best rank repo rank rank best rank
+
+exclus rank repo best repo
+best repo
+
+
+
+test subject
+repo metric repo metric
+repo metric join
+
+
+
+
+
+
+gener cluster
+attr reader cluster
+
+initi opt
+opt vector
+cluster decid cluster nearest neighbor repo vector repo vector verbatim
+minimum watch opt watch
+
+
+load
+data load
+
+
+build
+cluster tree
+
+
+
+
+user cluster gener cluster
+attr reader similar user
+
+initi arg
+
+similar user
+
+
+load
+
+data user user watch repo
+cluster push user watch repo watch repo size minimum watch
+
+
+
+find neighbor test user
+mutex mutex
+thread
+data test user partit user subset
+thread thread
+strang error data would initi
+possibl thread
+context hope data
+user subset test user
+similar user user similar test user
+mutex synchron similar user similar user
+
+
+
+thread join
+
+
+user similar user opt
+opt
+similar user similar user user
+cluster data repo watch user score user metric
+similar user user user name metric metric
+
+similar user
+
+
+recommend
+similar user similar user similar user recommend repo
+
+
+
+
+repo cluster gener cluster
+attr reader similar repo
+
+initi arg
+
+similar repo
+
+
+load
+
+data repo repo watcher
+cluster push repo watcher watcher size minimum watch
+
+
+
+repo similar repo opt
+opt
+similar repo recommend repo repo
+cluster data user watch repo score repo metric
+similar repo consid repo repo name metric metric
+
+similar repo
+
+
+find neighbor repo
+mutex mutex
+thread
+data repo partit repo subset
+thread thread
+repo subset repo
+similar repo repo similar repo
+mutex synchron similar repo similar repo
+
+
+
+thread join
+
+
+
+
+
+rubi
+http
+
+corpu file
+http spamassassin apach publiccorpu 20030228 easi
+http spamassassin apach publiccorpu 20030228 spam
+http spamassassin apach publiccorpu 20030228 easi
+http spamassassin apach publiccorpu 20030228 spam
+
+file glob filenam regexp filenam gsub
+corpu file corpu file
+file inject memo file memo corpu file file
+
+
+put retriev corpu file
+
+uri corpu file file locat pars file locat
+uri
+put
+respons http start host port http
+http path
+
+file open path split last
+respons bodi
+
+
+
+put untar corpu file
+
+glob tarbal
+put tarbal gsub
+kernel system tarbal
+
+rubygem
+file dirnam file decid
+
+decid classifi spam
+plain text
+ngram
+stem
+
+
+spam viagra jerk enorm make women happi
+check code github homi beer work
+
+spam viagra huge
+
+put term frequenc
+put spam spam term frequenc inspect
+put term frequenc inspect
+put
+score write code drink beer
+spam
+classifi write code drink beer
+
+encod
+rubygem
+
+
+file dirnam file decid
+
+spec runner configur config
+config mock mocha
+
+
+decid
+
+encod
+file dirnam file spec helper
+
+describ document
+
+context initi
+
+initi
+document simpl origin text origin text
+
+
+name convert
+document simpl origin text name simpl
+
+
+
+
+context store token manipul
+
+
+document simpl origin text
+
+
+provid domain token
+split token domain token token
+domain token origin text
+
+
+support domain token domain token domain token creat variabl sometim
+domain token
+domain token
+
+
+provid addit token
+addit token
+addit token
+
+
+allow domain token directli
+domain token token
+domain token token
+
+
+allow addit token push mass
+push addit token
+addit token
+
+
+
+
+context return token
+
+
+document origin text text
+domain token origin text text
+push addit token origin origin text text text
+
+
+domain token addit token
+expect origin text text origin origin text text text sort
+token sort expect
+
+
+remov refer origin token
+
+token
+variabl domain token
+variabl
+variabl addit token
+
+
+error chang token final
+
+domain token error document final
+push addit token error document final
+
+
+
+
+context support extens
+
+test custom transform
+
+succ
+push addit token domain token succ
+
+
+
+
+provid wrapper
+document custom transform test custom transform
+document abcdef
+plain text
+succ
+addit token
+
+
+
+
+encod
+file dirnam file spec helper
+
+describ token transform
+
+context provid token transform
+
+treat doc plain text stem
+mock document
+receiv plain text
+receiv stem
+token transform transform call
+
+
+
+
+context convert token domain token
+
+convert basic text token delimet
+document delimet origin text extra delimit amirit
+plain text
+domain token origin text extra delimit amirit
+
+
+convert ur is token delimet
+document delimet delimet html
+
+domain token delimet html
+
+
+token verbatim
+document word alreadi form
+verbatim
+domain token word alreadi form
+
+
+
+
+context transform document domain token
+
+
+document simpl origin text
+domain token origin text
+
+
+gener charact wise gram
+charact ngram
+addit token
+
+
+gener token wise gram
+ngram
+addit token origin origin text
+
+
+gener multipl length ngram given rang
+ngram
+addit token origin origin text origin text
+
+
+stem word stemmer
+domain token receiv stem
+stem
+
+
+remov stop word
+remov stopword english
+domain token origin text
+
+
+
+
+
+encod
+file dirnam file spec helper
+
+moneta memori
+
+document tricki mock
+doc mock
+attr reader name text
+
+initi name text
+name text name text
+
+
+token
+text split
+
+
+probabl
+probabl token token
+
+
+
+
+describ train set
+
+
+owner mock train owner
+train train set name owner
+
+
+name
+train name name
+
+
+context work train
+
+
+init proc
+train stub document callback init proc
+document stub name text doc mock name text
+
+
+store train document
+train paramet paramet
+train document
+
+
+name document truncat text
+text text longer charact show
+train set name document implicitli
+train text
+train document first name text
+
+
+document name
+train push explicitli name document text
+train document first name explicitli name document
+train document first text text
+
+
+sort token store document
+train paramet paramet
+train token paramet paramet
+
+
+increment count token given duplic
+train chees chees
+train count chees
+
+
+invalid cach owner ad document
+owner receiv invalid cach
+train stuff
+
+
+
+
+context train load
+token
+bullet
+bullet
+bullet1
+bullet1
+bullet2
+bullet2
+aqv3 n2
+aqv3 n2
+menutre
+menutre
+menutre
+plu
+minu
+minu
+spacer
+spacer
+calendar
+contact
+
+technic
+
+
+
+
+document stub name text doc mock name text
+init proc
+train stub document callback init proc
+token token train token
+
+
+give term frequenc hash
+expect bullet bullet1 bullet2 aqv3 n2 menutre
+plu minu spacer calendar contact
+technic
+train term frequenc expect
+
+
+give document count
+train count
+
+
+
+
+context initi document
+
+
+mock mock
+stub token
+document stub
+
+
+store block initi document
+train token
+
+
+
+receiv
+receiv
+train document callback call
+
+
+call block creat document
+document mock mock
+train receiv document text text document
+train text
+
+
+
+
+context store moneta valu store
+
+classifi
+train
+
+train
+document
+
+classifi name train name document doc
+
+
+store moneta memori
+owner stub store store
+owner stub name snoop
+train train set name owner plain text
+train
+
+
+save document token moneta store
+train save
+store snoop name document document
+
+
+load document moneta store
+doc doc mock doc mock
+store snoop name document doc
+token
+store snoop name token token
+train receiv invalid cach
+train load
+train document doc
+
+
+
+
+
+encod
+
+file dirnam file spec helper
+
+describ decid
+
+provid conveni access classifi
+classifi bay receiv spammi hammi
+decid classifi spammi hammi
+
+
+
+encod
+file dirnam file spec helper
+
+vector test har
+vector
+
+
+describ vector
+
+
+vector vector test har
+
+
+context comput cach token indic
+
+
+klass mock
+klass mock
+vector stub sort class klass klass
+klass stub token token1 token2
+klass stub token token3
+
+
+creat dictionari hash token count
+vector send token indic token1 token2 token3
+
+
+cach result token indic
+vector send token indic
+expect token1 token2 token3
+vector variabl token indic expect
+
+
+clear cach
+vector send token indic
+vector invalid cach
+vector variabl token indic
+
+
+
+
+context convert document vector
+
+
+vector stub token indic token1 token2 token3
+vector stub vector
+mock document
+stub token token1 token3 token1 token1
+
+
+convert document binari vector
+vector stub vector vector binari
+vector vector vector binari
+vector vector
+
+
+convert document proport frequenc vector
+vector proport vector
+
+
+convert document spars binari vector
+vector stub vector vector spars binari
+vector vector vector spars binari
+vector vector
+
+
+
+
+context compar vector
+
+comput euclidean coeffici
+vector euclidean coeffici
+vector euclidean coeffici
+
+
+comput pearson coeffici
+vector pearson coeffici close 0000001
+vector pearson coeffici close 0000001
+vector pearson coeffici
+vector pearson coeffici
+
+
+averag vector
+vector averag vector
+
+
+
+
+
+encod
+file dirnam file spec helper
+
+describ math core extens
+
+comput varianc collect
+math varianc
+
+
+comput varianc sampl collect
+math varianc sampl
+
+
+comput standard deviat collect
+math stddev
+
+
+comput standard deviat sampl collect
+math stddev sampl math sqrt
+
+
+element
+math float
+
+
+
+describ hash
+valu base given block
+val
+
+
+
+core extens spec
+nest const
+nest deeper
+
+
+
+
+
+describ string
+convert constant
+core extens spec nest core extens spec nest const
+core extens spec nest nest deeper core extens spec nest const nest deeper
+modul
+
+
+
+describ symbol
+defin
+sort
+
+
+
+describ array
+comput product anoth equal size
+
+
+
+comput product unequ size array
+
+
+
+
+partit smaller size array
+partit
+
+
+remov singl match element
+remov
+
+
+encod
+file dirnam file spec helper
+
+document helper test har
+document helper
+
+
+describ document helper
+
+
+helper document helper test har
+
+
+creat accessor document creation callback
+helper document callback text text chees
+helper document callback call feed feed chees
+
+
+creat document call callback
+helper document callback poke
+document mock mock
+document receiv poke
+document receiv name whateva document
+helper document name whateva
+
+
+
+encod
+file dirnam file spec helper
+
+describ cluster hierarch
+
+
+cluster cluster hierarch plain text
+
+
+creat node tree document train
+cluster text even text text
+put cluster tree format
+cluster tree cluster tree
+cluster root node cluster node
+cluster root node children
+cluster root node children children
+
+
+name node tree document name
+cluster push name mean name node
+cluster root node children first name name
+
+
+
+encod
+file dirnam file spec helper
+
+describ cluster nearest neighbor
+
+
+nearest node cluster nearest neighbor binari plain text
+
+
+creat tree
+nearest node tree cluster bk tree
+
+
+popul tree document corpu
+nearest node text even text text drivel text
+nearest node tree size
+
+
+context find neighbor document
+
+
+nearest node text even text text drivel text
+
+
+find document within given radiu target
+nearest node rang nonsens text result
+
+
+find singl nearest neighbor
+nearest node nearest drivel text drivel text
+
+
+find nearest neighbor
+result nearest node nearest neighbor text
+result document
+result result
+result match text
+
+
+
+respond nearest neighbor
+nearest node respond
+
+
+allow distanc limit specifi search
+nearest node tree receiv anyth distanc
+nearest node whatev distanc
+
+
+optim search distanc calcul form metric space
+result nearest node slow nonsens text
+result document
+result expect result
+pend
+
+
+
+
+
+encod
+file dirnam file spec helper
+
+describ cluster tree
+cluster tree
+
+
+creat root node initi
+root cluster node
+
+
+context ad node tree
+
+
+tree
+
+
+creat node
+node mock node
+cluster node receiv node node
+tree insert node
+
+
+insert node tree
+tree root receiv attach cluster node
+tree insert node
+
+
+tree
+tree root receiv format vector
+tree format vector
+
+
+
+
+
+
+describ cluster node
+cluster node
+
+
+root node root
+vector binari
+variabl vector
+high vector high
+vector binari
+variabl vector
+vector
+
+
+attach first node root node
+root node attach high vector
+root node attach vector
+root node children
+
+
+context node attach root
+
+
+root node attach high vector
+root node attach vector
+test high test high
+test test
+
+
+find closest vector
+root node index child closest test high
+root node index child closest test
+
+
+creat subnod best match child
+subnod root node creat subnod test high
+subnod vector
+subnod children
+subnod children high vector
+subnod children test high
+subnod children child node child node parent subnod
+
+
+creat intermedi subnod node children
+root node attach test high
+root node attach test
+root node children
+root node children child node child node children
+
+
+
+
+
+encod
+file dirnam file spec helper
+
+describ cluster bk tree node
+give correct node within specifi rang
+node cluster bk tree node
+dummi child node three four five seven
+node variabl children dummi child node
+node children rang three four
+node children rang three four
+
+
+
+describ cluster bk tree
+
+vector
+vector binari
+
+
+
+tree cluster bk tree
+
+
+similar gener tree
+tree respond root
+tree respond insert
+
+
+initi
+tree root
+
+
+make first insert node root
+vector vector
+tree insert first vector
+tree root vector vector
+
+
+store document node accessor
+tree insert document vector
+tree root document document
+tree root document
+
+
+context root node creat
+
+
+root vector vector
+tree insert root root vector
+
+
+attach node root
+vector root vector
+tree insert dist vector root
+vector root vector
+tree insert dist vector root
+tree root children
+
+
+attach node exist node distanc parent node
+vector root vector
+vector root vector
+vector root vector
+tree insert dist first vector root
+tree insert dist second vector root
+tree insert dist third vector root
+put tree root format
+tree root children
+tree root children children
+tree root children children children
+
+
+
+
+context find child node within rang
+
+
+tree insert root vector
+tree insert root plu vector
+tree insert root plu vector
+tree insert root plu vector
+tree insert root plu vector
+
+
+give child node within rang
+put tree root format
+node name tree root children rang node node document
+node name root plu
+node name root plu
+node name root plu
+node name root plu
+
+
+
+
+context find nearest neighbor
+
+
+one vector
+time
+array
+
+vector
+one vector
+tree insert one
+
+zero vector
+time
+array
+
+vector
+zero vector
+tree insert one
+
+
+
+find nearest neighbor within given distanc
+node name tree nearest neighbor vector
+
+
+node name item
+node name match one
+
+
+find singl nearest neighbor
+three up2down vector
+tree insert three up2down three up2down
+tree nearest neighbor vector three up2down
+
+
+find nearest neighbor
+result tree nearest neighbor vector
+result node
+result document document match one
+
+
+give nearest neighbor distanc valu
+result tree nearest neighbor vector score
+result node
+result document score
+document match one
+score
+
+
+
+nearest neighbor
+tree respond
+
+
+allow distanc limit specifi search
+target vector
+tree receiv find nearest neighbor target result distanc
+tree target distanc
+
+
+format root node
+tree root receiv format
+tree format
+
+
+format root node
+cluster bk tree format error no method error
+
+
+give size
+cluster bk tree size
+tree size
+
+
+
+
+
+
+describ cluster bk tree result
+cluster bk tree result
+
+find best singl result result
+result result
+result good enough
+result winner
+result distanc limit
+result winner
+
+
+find best result result
+result result
+result fail
+result
+result better
+result
+result distanc limit
+result fail
+result node
+
+
+accept result limit
+result distanc
+result fail
+result close fail
+result good
+result awesom
+result node
+
+
+give distanc limit less result result
+result result
+result
+result distanc limit
+
+
+encod
+file dirnam file spec helper
+
+describ cluster base
+
+
+cluster cluster base plain text
+
+
+creat train name corpu
+cluster corpu train set
+cluster corpu name corpu
+
+
+document train text
+cluster corpu receiv
+cluster text
+
+
+name document train push
+cluster corpu receiv push name text
+cluster push name text
+
+
+invalid cach ad document
+cluster receiv invalid cach
+cluster text
+
+
+take vector throughout
+cluster base binari
+vector vector binari
+
+
+spars binari vector
+cluster base vector vector spars binari
+
+
+vector represent document
+cluster push quick brown quick brown push brown brown jump
+cluster push lazi lazi push quick brown
+index cluster send token indic
+cluster vector quick brown length
+expect vector array
+quick brown word expect vector index word
+cluster vector expect vector
+
+
+
+encod
+file dirnam file spec helper
+
+describ classifi anomali
+
+
+anomali detector classifi anomali cool lame
+
+
+comput averag score document
+anomali detector receiv score document cool lame
+result anomali detector score
+result cool close 000001
+result lame close 000001
+
+
+comput standard deviat score train doc
+anomali detector receiv score document cool lame
+result anomali detector stddev
+result cool close 04082 00001
+
+
+comput standard deviat mean document
+anomali detector stub score
+anomali detector stub score
+anomali detector stub stddev
+anomali detector anomali score innocu document close 00001
+
+
+
+context detect anomali statist algorithm
+
+
+classifi classifi anomali normal
+
+
+complain ask anomali detect class
+strang request classifi anomali bay spam anomal text
+strang request error
+
+
+classifi document anomal document anomali score
+classifi normal receiv anomali score document rubyist love java
+classifi anomal rubyist love java
+
+
+
+
+
+encod
+file dirnam file spec helper
+
+describ classifi bay
+
+
+classifi classifi bay deck weak
+
+
+context count token document frequenc
+give term frequenc hash token
+deck mock deck train
+deck stub term frequenc indi rock film
+weak mock weak train
+weak stub term frequenc film cultur
+classifi stub class deck deck weak weak
+classifi term frequenc token film deck weak
+classifi term frequenc token indi rock deck weak
+
+
+split term frequenc
+classifi stub term frequenc token good ugli
+classifi occurr token good token
+classifi occurr token token
+classifi occurr token ugli token
+
+
+give document count
+good mock good
+good stub count
+mock
+stub count
+ugli mock ugli
+ugli stub count
+classifi stub class good good ugli ugli
+classifi document count good
+classifi document count
+classifi document count ugli
+
+
+fallback valu document
+good mock good
+good stub count
+mock
+stub count
+classifi stub class good good
+classifi document count good
+
+
+comput probabilt token given
+classifi stub occurr token
+classifi stub document count
+expect
+classifi probabl token klass token expect
+
+
+fallback neutral valu token seen
+classifi stub occurr token
+classifi stub document count
+classifi probabl token klass token
+
+
+comput probabl token given
+classifi stub probabl token
+expect
+classifi probabl token klass token check expect
+
+
+comput probabl token
+classifi stub class good ugli
+classifi receiv probabl token good token
+classifi receiv probabl token token
+classifi receiv probabl token ugli token
+classifi bayesian score token token good ugli
+
+
+optim classifi
+classifi stub name good
+classifi receiv probabl token good token
+classifi receiv probabl token token
+score classifi bayesian score token token
+score good close 000001
+score close 000001
+
+
+give reason token seen
+classifi stub occurr token 6347
+classifi stub document count 3052
+doesnt classifi probabl token a token
+doesnt error type error
+
+
+give total document
+classifi deck stub count
+classifi weak stub count
+classifi total document
+
+
+rebal valu bayesian combin round
+product invers product
+product invers product classifi send rebal product invers product
+product
+invers product
+
+
+forc valu probabl token within
+classifi send bound probabl
+classifi send bound probabl
+
+
+
+
+context classifi document
+
+classifi document
+classifi receiv bayesian score token weak deck
+classifi classifi java weak
+
+
+give score
+classifi receiv bayesian score token weak deck
+classifi score java deck weak
+
+
+give score document
+classifi deck deck document
+classifi weak weak
+classifi stub bayesian score token deck weak
+deck weak
+deck weak
+expect deck weak
+classifi score document expect
+
+
+
+
+
+
+
+encod
+file dirnam file spec helper
+
+describ classifi nearest neighbor
+
+nearest neighbor cluster
+pend
+
+
+forward push text cluster
+pend
+
+
+defin classif name method classifi
+pend
+
+
+defin classif predic method classifi
+pend
+
+
+
+encod
+file dirnam file spec helper
+
+moneta
+mock store
+
+
+
+
+def load
+load arg
+
+
+
+describ classifi base
+
+context initi
+
+class
+classifi base spam blam
+name spam blam
+
+
+take token transform block
+mock mock
+train set receiv whatsi classifi base mock
+mock receiv
+classifi base whatsi
+
+
+
+
+give train set sort thing work correctli rubi luddit
+classifi base
+sort sort class
+sort klass klass train set
+sort klass klass name
+
+
+
+
+context defin singleton eigen method
+
+
+train mock
+train set stub train
+classifi classifi base bay whatsi
+
+
+creat train defin accessor
+classifi whatsi train
+
+
+creat predic method classifi doc like spam email text
+classifi respond whatsi
+
+
+
+
+context call method suppos defin subclass
+
+
+classifi classifi base
+
+
+land mine classifi
+classifi classifi whatev error classifi not implement error
+
+
+defin invalid cach subclass call method
+classifi respond invalid cach
+
+
+
+
+context save moneta
+
+
+classifi classifi base
+
+
+store classifi name
+classifi save classifi
+classifi name
+
+
+magic need moneta file creat moneta
+classifi receiv moneta mock store
+moneta mock store receiv mock store opt
+classifi save mock store mock store opt
+
+
+context moneta store initi
+
+
+classifi stub
+moneta mock store stub delici cooki
+classifi save mock store mock store opt
+
+
+save call save train set
+classifi receiv save
+classifi receiv save
+classifi save
+classifi store delici cooki
+
+
+load call load train set
+classifi class valu extend def load kernel load angri
+classifi receiv load
+classifi receiv load
+classifi load
+
+
+
+classifi base deck wack
+syntax
+store deck wack mapper moneta arg
+syntax
+store deck wack
+store mapper moneta arg
+then
+save
+load
+
+
+
+encod
+file dirnam file spec helper
+
+describ vector tanimoto
+
+
+share exampl binari vector
+
+
+token indic lolz catz fridg eatin foodz
+prototyp vector prototyp token indic
+
+
+creat vector document
+mock lolz document
+stub token lolz fridg lolz
+prototyp
+
+
+
+context compar averag vector
+
+
+vector 11101 mock lolz catz fridg foodz
+vector 11101 stub token lolz catz fridg foodz
+lolz catz prototyp vector 11101
+vector 01111 mock catz fridg eatin foodz
+vector 01111 stub token catz fridg eatin foodz
+eatin foodz prototyp vector 01111
+
+
+http wikipedia wiki jaccard index
+
+
+give tanimoto coeffici vector
+lolz catz similar eatin foodz
+
+
+close ident vector
+lolz lolz catz make sure compar ident
+lolz catz similar lolz
+
+
+give distanc measur ham distanc
+lolz catz distanc eatin foodz
+
+
+anoth vector averag
+vector binari vector
+result lolz catz averag eatin foodz
+result vector
+result
+
+
+
+
+
+encod
+file dirnam file spec helper
+file dirnam file binari vector behavior
+
+describ vector spars binari
+
+
+vector vector spars binari
+
+
+behav like binari vector
+
+context get extra workout
+
+
+token index hash
+1000 time token index hash
+vector vector token index hash
+vector vector token index hash
+vector item mock vector item
+vector item stub token
+vector convert document vector item total
+vector convert document vector item
+vector vector token index hash
+vector item mock vector item
+vector item stub token
+vector convert document vector item
+
+
+determin correct distanc
+vector distanc vector
+
+
+give vector size cach
+vector vector size
+vector vector size
+vector send variabl vector size
+
+
+
+
+encod
+file dirnam file spec helper
+file dirnam file binari vector behavior
+
+describ vector binari
+
+
+vector vector binari
+
+
+behav like binari vector
+
+creat vector
+vector binari
+
+
+
+give correct distanc vector
+vector binari vector binari
+distanc
+vector binari vector binari
+distanc
+
+
+
+encod
+file dirnam file spec helper
+
+exampl subclass vector abstract base
+attr reader duplic
+
+distanc vector
+vector
+
+
+similar vector
+vector
+
+
+averag vector
+vector
+
+
+convert document whatev
+
+
+
+duplic
+duplic
+
+
+
+
+describ vector abstract base
+
+
+vector abstract base
+
+
+method stub close averag distanc
+similar error decid not implement error
+averag error decid not implement error
+distanc error decid not implement error
+
+
+creat prototyp vector token index hash
+token indic token hash
+vector abstract base prototyp token indic
+index token indic
+
+
+defin prototyp vector
+vector abstract base prototyp token
+respond
+
+
+cach distanc averag close
+vector abstract base prototyp token
+distanc kind vector abstract base comput cach
+similar kind vector abstract base comput cach
+averag kind vector abstract base comput cach
+
+
+determin equal compar vector
+
+vector
+vector
+equal
+
+vector
+
+
+
+convert return vector attribut
+
+vector attr
+vector vector attr
+equal vector attr
+
+
+context creat vector prototyp
+
+
+token indic lolz catz fridg eatin foodz
+prototyp exampl subclass prototyp token indic
+mock lolz document
+stub token lolz fridg lolz
+prototyp
+
+
+creat vector document
+exampl subclass
+equal prototyp
+duplic
+
+
+give access ident cach object children
+distanc equal prototyp distanc
+similar equal prototyp similar
+averag equal prototyp averag
+
+
+
+
+context cach
+
+
+vector exampl subclass prototyp token
+vector
+
+
+defin distanc comput block handl cach automat
+vector distanc lookup vector
+vector distanc
+vector distanc lookup vector 42other vector
+
+
+defin close comput block handl cach automat
+vector similar lookup vector
+vector similar
+vector similar lookup vector 23other vector
+
+
+defin averag comput block handl cach automat
+vector averag lookup vector
+vector averag
+vector averag lookup vector 815other vector
+
+
+
+
+describ vector abstract base comput cach
+
+cach vector abstract base comput cach
+
+
+cach miss
+cach lookup unknown vector anoth unknown
+
+
+cach comput vector
+cach store vector vector vector result 12345
+cach lookup vector vector 12345
+
+
+cach result vector revers order
+cach store vector vector vector result 12345
+cach lookup vector vector 12345
+
+
+result valu store
+cach store vector result
+
+
+
+
+
+file dirnam file spec helper
+file dirnam file benchmark github contest
+
+describ github contest data
+
+singleton pattern
+github contest data error
+
+
+load sampl test
+github contest data receiv load sampl
+github contest data receiv load test
+github contest data load
+github contest data load
+
+
+give repo watch user
+github contest data receiv user repo
+github contest data repo watch
+
+
+give watcher repo
+github contest data receiv repo watcher
+github contest data user watch
+
+
+forward user user repo
+user repo hash mock user repo hash
+user repo hash receiv
+github contest data receiv user repo user repo hash
+github contest data user user repo whatev
+
+
+forward repo repo
+repo watcher mock repo watcher
+repo watcher receiv
+github contest data receiv repo watcher repo watcher
+github contest data repo user repo whatev
+
+
+forward test user test user
+github contest data receiv test user
+github contest data test user
+
+
+give repo
+github contest data stub repo watcher
+github contest data repo
+
+
+give popular repo exclud one alreadi watch given user
+popular repo
+github contest data stub repo popular popular repo
+github contest data stub repo watch 40998
+github contest data popular remain 40998 revers
+
+
+
+describ github contest similar user
+
+
+similar user github contest similar user 40998
+
+
+store test user
+similar user test user 40998
+
+
+store user distanc metric
+similar user user metric
+similar user user metric
+similar user user metric
+
+
+store sever user metric
+result user distanc
+result
+similar user user result
+similar user user metric equal result
+
+
+convert recommend repo
+result user distanc
+result
+similar user user result
+github contest data stub repo watch
+github contest data stub repo watch
+recommend similar user recommend repo
+recommend test user 40998
+metric user pass repo
+recommend repo metric
+
+
+convert format userid user metric user metric
+similar user user metric
+similar user user metric
+similar user similar user
+similar user match 40998
+similar user match
+similar user match
+
+
+valid format might load
+github contest similar user invalid
+github contest similar user invalid
+github contest similar user invalid
+github contest similar user invalid
+github contest similar user invalid 12345
+github contest similar user invalid abc123
+
+
+load format use
+similar user github contest similar user load 40998
+similar user user metric
+similar user test user 40998
+
+
+load format use metric
+similar user github contest similar user load 40998
+similar user user metric
+similar user test user 40998
+
+
+
+
+describ github contest recommend repo
+
+
+recommend github contest recommend repo
+
+
+store test user repo
+recommend test repo
+recommend test user
+
+
+store repo distanc metric
+recommend consid repo metric
+recommend consid repo metric
+recommend repo metric
+
+
+rank repo metric
+recommend consid repo metric 1000
+recommend consid repo metric
+recommend consid repo metric
+recommend rank repo 1001
+
+
+store repo distanc metric time
+result format similar repo similar repo distanc
+result
+recommend result
+recommend repo metric
+
+
+remov recommend repo alreadi watch user
+recommend consid repo metric 1000
+recommend consid repo metric
+recommend consid repo metric
+github contest data stub repo watch 40998
+recommend repo metric exclud user repo 40998
+recommend rank repo exclud user repo 40998
+
+
+select best repo
+result 1313 1414
+github contest data stub repo watch 40998
+recommend result
+recommend best repo 40998
+
+
+best repo popular less
+result
+github contest data stub repo watch 40998
+github contest data stub popular remain 40998
+recommend result
+recommend recommend 40998
+
+
+emit recommend form user repo1 repo2 repo10
+recommend repo
+recommend stub recommend 40998 recommend repo
+recommend emit recommend 40998 40998
+
+
+convert form test subject repo1 metric1a metric1b repo2 metric2a metric2b
+recommend consid repo metric 1000
+recommend consid repo metric
+recommend consid repo metric
+recommend 1000
+match
+match 1000
+match
+
+
+load string form emit
+recommend github contest recommend repo load 1000
+recommend github contest recommend repo
+recommend test repo
+recommend repo metric 1000
+
+
+
+describ github contest user cluster
+
+nearest neighbor cluster
+want verbatim mock repo vector
+want verbatim receiv verbatim
+decid cluster nearest neighbor receiv vector want verbatim
+github contest user cluster vector vector
+
+
+context initi
+
+
+user cluster github contest user cluster
+
+
+load user watch cluster
+github contest data stub user repo
+user cluster cluster receiv push
+user cluster cluster receiv push
+user cluster cluster receiv push
+user cluster load
+
+
+trigger build bk tree
+user cluster cluster receiv tree
+user cluster build
+
+
+find user similar test user
+vector user 40998
+doc12 mock doc12
+doc12 stub name
+doc34 mock doc34
+doc34 stub name
+doc56 mock doc56
+doc56 stub name
+result doc12 doc34 doc56
+github contest data stub repo watch 40998 vector user 40998
+user cluster cluster receiv vector user 40998 score result
+similar user user cluster user similar 40998
+similar user github contest similar user
+similar user test user 40998
+similar user user metric
+
+
+convert similar user recommend
+similar user mock similar user
+similar user stub recommend repo surpris
+similar user similar user
+user cluster variabl similar user similar user
+user cluster recommend surpris
+
+
+
+
+
+
+describ github contest repo cluster
+
+nearest neighbor cluster
+want verbatim mock repo vector
+want verbatim receiv verbatim
+decid cluster nearest neighbor receiv vector want verbatim
+github contest repo cluster vector vector
+
+
+context initi
+
+
+repo cluster github contest repo cluster
+
+
+load repo watcher cluster
+github contest data stub repo watcher
+repo cluster cluster receiv push
+repo cluster cluster receiv push
+repo cluster cluster receiv push
+repo cluster load
+
+
+trigger build bk tree
+repo cluster cluster receiv tree
+repo cluster build
+
+
+find similar repo given repo
+vector repo
+doc123 mock doc123
+doc123 stub name
+doc45 mock doc45
+doc45 stub name
+doc678 mock doc678
+doc678 stub name
+result doc123 doc45 doc678
+github contest data stub user watch vector repo
+repo cluster cluster receiv vector repo score result
+similar repo repo cluster repo similar
+similar repo github contest recommend repo
+similar repo test repo
+similar repo repo metric
+
+
+
+
+

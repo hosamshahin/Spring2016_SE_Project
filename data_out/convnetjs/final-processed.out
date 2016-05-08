@@ -1,0 +1,9772 @@
+
+label
+scale draw
+
+layer def trainer
+
+creat neural
+layer def
+layer def push input depth
+layer def push neuron activ relu
+layer def push neuron activ sigmoid
+layer def push regress neuron
+
+convnetj
+make layer layer def
+
+trainer convnetj sgd trainer learn rate momentum batch size decay
+
+
+layer layer like draw output
+reload
+layerdef
+
+refresh button
+
+layer length ignor input regress layer first last
+butid button
+input butid valu layer layer submit onclick updat lix style width 80px height 30px margin
+
+layer ixe html
+button background color
+
+updat lix newlix
+button background color eras highlight
+newlix
+button background color
+
+
+regen
+pars int
+
+label
+
+math random
+math
+push
+label push
+
+
+
+myinit
+regen
+layerdef
+reload
+
+
+updat
+forward prop
+
+netx convnetj
+avloss
+
+iter iter iter
+
+netx
+stat trainer train netx label
+avloss stat loss
+
+
+avloss iter
+
+
+
+draw
+
+clear rect width height
+fill style black
+
+netx convnetj
+
+draw decis grid
+densiti
+draw neuron output layer out
+
+draw decis
+neuron
+begin path
+width densiti
+
+netx width
+forward netx
+
+
+draw neuron output
+neuron push layer back
+
+
+move to height
+line to height
+
+stroke
+
+draw individu neuron first layer
+draw neuron output
+neuron length
+stroke style
+
+begin path
+
+width densiti
+move to neuron height
+line to neuron height
+
+
+stroke
+
+
+
+draw axe
+begin path
+stroke style
+line width
+move to height
+line to width height
+move to width
+line to width height
+stroke
+
+draw datapoint draw support vector larger
+stroke style
+line width
+
+draw circl width label height
+
+
+fill style blue
+font bold 16px arial
+fill text averag loss avloss
+
+
+mous click shift press
+
+datapoint locat click
+push width
+label push height
+
+
+
+
+key down
+
+
+key up
+
+
+
+
+
+
+j queri jqueri jqueri licens
+split node type replac to lower case get attribut test pars json is empti object to json parent node parent node node type node type is function grep call node type grep grep node type test filter filter grep in array split creat document fragment creat element length creat element get element by tag name append child owner document creat element node type ha data event handl event length extend node type clear attribut clear attribut merg attribut merg attribut node name to lower case parent node outer html outer html support html5 clone inner html trim inner html inner html inner html input test default check valu valu valu valu option select default select input textarea default valu default valu script text text text text remov attribut expando get element by tag name get element by tag name queri selector all queri selector all test default check char at to upper case slice length display none contain owner document length style olddisplay style display none style display style display olddisplay node name display none olddisplay style style display none style display style display none exec math border content width margin content pars float pad margin pars float border width pars float pad pad pars float border width width offset width offset height support box size box size border style test support box size reliabl style pars float border content append to bodi display remov none bodi append child extend creat element ifram frame border width height creat element content window content document document write doctyp html html bodi close bodi append child creat element display bodi remov child is array test to lower case split length is function test substr unshift push data type length data type unshift ajax set flat option extend content data type respons field shift mime type get respons header content test unshift convert unshift data type slice data filter data filter data type convert to lower case convert split splice state parsererror error convers state success xml http request activ x object microsoft xmlhttp set timeout concat length call length defer alway elem math start time durat durat tween length tween notifi with resolv with promis elem prop extend opt extend special eas origin properti origin option start time durat durat tween creat tween tween opt opt special eas opt eas tween push stop tween length tween resolv with reject with prop opt special eas call opt is function opt start opt start call timer extend anim queue opt queue elem progress opt progress done opt done opt complet fail opt fail alway opt alway camel case is array css hook expand expand style node type queue queue hook unqueu unqueu fire fire unqueu unqueu alway alway unqueu queue length fire node type height width overflow overflow overflow x overflow y display none support inlin block need layout node name display block zoom overflow overflow hidden support shrink wrap block done overflow overflow overflow x overflow overflow y overflow exec toggl hide show push length fxshow fxshow hidden hidden hidden show done hide done remov data fxshow style creat tween style start start start width height prototyp init height margin pad opac width is window node type default view parent window document locat navig j queri array prototyp push array prototyp slice array prototyp index of object prototyp to string object prototyp ha own properti string prototyp trim init sourc u feff u feff bfnrt to upper case add event listen remov event listen dom content load readi readi state complet detach event onreadystatechang readi prototyp init node type context length char at char at length length exec node type owner document pars html test is plain object attr call merg get element by id parent node find length context selector jqueri find find is function readi selector selector selector context context make array selector jqueri length size length to array call to array length push stack merg prev object context context find selector selector selector selector selector readi readi promis done slice slice first last slice push stack appli slice call join push stack call prev object push sort sort splice splice init prototyp extend extend length is function is plain object is array is array is plain object extend extend no conflict j queri j queri is readi readi wait hold readi readi wait readi readi readi wait is readi bodi set timeout readi is readi readi wait resolv with trigger trigger readi readi is function is array array is array is window window is numer is na n pars float is finit string call is plain object node type is window call call prototyp is prototyp of call is empti object error error pars html exec creat element build fragment merg cacheabl fragment fragment child node pars json trim json json pars json pars test replac replac replac function error invalid json pars xml dom parser dom parser pars from string text activ x object microsoft xmldom async load xml document element get element by tag name parsererror length error invalid noop global eval test exec script call camel case replac replac node name node name node name to lower case to lower case length is function appli appli call call trim call ufeff u00a0 call replac make array length regexp is window call merg in array call length math merg length length length grep length push length is array length length concat appli guid proxi is function call appli concat call guid guid guid guid access length access is function call call call call date get time readi promis defer readi state complet set timeout readi add event listen add event listen dom content load add event listen load readi attach event onreadystatechang attach event onload readi frame element document element do scroll is readi do scroll left set timeout readi promis boolean number string function array date reg exp object split to lower case callback extend memori length appli stop on fals length shift disabl length uniqu push length length remov in array splice in array disabl disabl disabl lock fire with slice slice push fire fire with fire extend defer resolv done callback memori resolv reject fail callback memori reject notifi progress callback memori pend state alway done fail defer is function appli is function promis promis done resolv fail reject progress notifi with promis promis extend pipe disabl fire with fire with promis call call length is function promis defer length call notifi with resolv with array array array is function promis promis done fail reject progress resolv with promis support creat element set attribut class name inner html link tabl tabl href input checkbox get element by tag name get element by tag name length creat element select append child creat element option get element by tag name input style css text left opac lead whitespac first child node type tbodi get element by tag name tbodi length html serial get element by tag name link length style test get attribut style href normal get attribut href opac test style opac css float style css float check on valu opt select select get set attribut class name enctyp creat element form enctyp html5 clone creat element clone node outer html box model compat mode css1 compat submit bubbl chang bubbl focusin bubbl delet expando no clone event inlin block need layout shrink wrap block reliabl margin right box size reliabl pixel posit no clone check clone node disabl opt disabl disabl test delet expando add event listen attach event fire event attach event onclick no clone event clone node fire event onclick detach event onclick creat element input valu set attribut radio radio valu valu set attribut set attribut name append child creat document fragment append child last child check clone clone node clone node last child append check remov child append child attach event submit chang focusin set attribut bubbl pad margin border display block overflow hidden get element by tag name bodi creat element style css text visibl hidden border width height posit margin insert befor first child creat element append child inner html tabl tabl get element by tag name style css text pad margin border display none offset height style display style display none reliabl hidden offset offset height inner html style css text size border size border webkit size border pad border display block width margin posit absolut box size offset width doe not includ margin in bodi offset offset top get comput style pixel posit get comput style box size reliabl get comput style width width creat element style css text style css text style margin right style width style width append child reliabl margin right pars float get comput style margin right style zoom inner html style css text width pad display zoom inlin block need layout offset width style display block style overflow visibl inner html first child style width shrink wrap block offset width style zoom remov child remov child extend cach delet id uuid expando j queri jqueri math random replac no data emb clsid d27 cdb6 e ae6 d 11cf 96 b8 444553540000 applet ha data node type cach expando expando accept data expando node type cach delet id guid to json noop extend extend camel case camel case remov data accept data node type cach expando expando is array camel case split length is empti object clean data support delet expando window accept data node name no data node name to lower case get attribut classid extend length node type pars attr attribut length name index of camel case substr pars attr split access trigger handler get data trigger handler set data trigger handler chang data length remov data remov data extend queue queue is array make array push dequeu queue length shift queue hook dequeu inprogress shift unshift inprogress stop call fire queue hook queue hook callback memori remov data queue remov data extend queue length queue queue queue hook inprogress dequeu dequeu dequeu delay speed queue set timeout stop clear timeout clear queue queue promis defer length resolv with queue hook promis button input button input select textarea autofocu autoplay async control defer disabl hidden multipl open requir scope select support get set attribut extend attr access attr length remov attr remov attr prop access prop length remov prop prop fix add class is function add class call class name split length node type class name length class name class name length index of class name trim remov class is function remov class call class name split length node type class name class name replac length index of replac class name trim toggl class is function toggl class call class name split ha class add class remov class class name class name class name class name class name class name ha class length node type class name replac index of length val hook val hook node name to lower case valu valu replac is function node type call is array val hook val hook node name to lower case valu valu extend val hook option attribut valu specifi valu text select option select index select length select support opt disabl disabl get attribut disabl parent node disabl node name parent node optgroup push make array find option select in array length select index attr fn attr node type is function get attribut prop is xml doc to lower case attr hook test remov attr set attribut get attribut remov attr node type split length prop fix test attr remov attribut attr hook test node name parent node error properti chang support radio valu radio node name input valu set attribut valu valu node name button valu node name button valu prop fix tabindex tab index read onli html for class name maxlength max length cellspac cell space cellpad cell pad rowspan row span colspan col span usemap use map framebord frame border contentedit content edit prop node type is xml doc prop fix prop hook prop hook tab index get attribut node tabindex specifi pars int valu test node name test node name href prop get attribut node node valu to lower case remov attr prop fix set attribut to lower case name coord val hook button get attribut node valu specifi valu get attribut node creat attribut set attribut node valu width height attr hook extend attr hook set attribut attr hook contentedit support href normal href width height attr hook extend attr hook get attribut support style attr hook style style css text to lower case style css text support opt select prop hook select extend prop hook select parent node select index parent node parent node select index support enctyp prop fix enctyp encod support check on radio checkbox val hook get attribut valu valu radio checkbox val hook extend val hook is array in array textarea input select hover mous contextmenu click focusinfocu focusoutblur special hover replac mouseent mouseleav node type node type handler handler selector guid guid guid event event handl handl trigger dispatch appli elem elem trim split length exec split sort special deleg type bind type special extend orig type handler guid guid selector need context expr match need context test join deleg count setup setup call add event listen add event listen attach event attach event call handler guid handler guid guid splice deleg count push remov ha data event trim split length exec remov special deleg type bind type length reg exp split sort join length orig type guid guid test selector selector splice selector deleg count remov remov call length length teardown teardown call handl remov event handl is empti object handl remov data event custom event get data set data chang data trigger node type node type test trigger index of slice index of split shift sort custom event expando event event is trigger exclus join reg exp join index of cach event event trigger handl elem result target target make array unshift special trigger trigger appli bind type no bubbl is window deleg type test parent node parent node push owner document push default view parent window length is propag stop event handl appli accept data appli appli prevent default is default prevent appli owner document click node name accept data focu blur target offset width is window trigger trigger result dispatch event deleg count call exclus special deleg target pre dispatch pre dispatch call button click target parent node disabl click selector need context index find length push length push elem match length push elem match slice length is propag stop current target elem match length is immedi propag stop match test handl obj special orig type handl handler appli elem result prevent default stop propag post dispatch post dispatch call result prop attr chang attr name relat node src element alt key bubbl cancel ctrl key current target event phase meta key relat target shift key target time stamp view split fix hook key hook prop char code key code split filter char code char code key code mous hook prop button button client x client y from element offset x offset y page x page y screen x screen y to element split filter button from element page x client x target owner document document element bodi page x client x scroll left scroll left client left client left page y client y scroll top scroll top client top client top relat target relat target target to element expando fix hook prop prop concat prop prop event length target target src element target node type target target parent node meta key meta key filter filter special load no bubbl focu deleg type focusin blur deleg type focusout beforeunload setup is window onbeforeunload teardown onbeforeunload onbeforeunload simul extend event is simul origin event trigger dispatch call is default prevent prevent default handl dispatch remov event remov event listen remov event listen remov event listen detach event detach event event event event origin event is default prevent default prevent return valu get prevent default get prevent default extend time stamp time stamp expando event prototyp prevent default is default prevent origin event prevent default prevent default return valu stop propag is propag stop origin event stop propag stop propag cancel bubbl stop immedi propag is immedi propag stop stop propag is default prevent is propag stop is immedi propag stop mouseent mouseov mouseleav mouseout special deleg type bind type handl relat target handl obj selector contain orig type handler appli support submit bubbl special submit setup node name form click submit keypress submit target node name input node name button form submit attach submit submit submit bubbl submit attach post dispatch submit bubbl submit bubbl parent node is trigger simul submit parent node teardown node name form remov submit support chang bubbl special chang setup test node name checkbox radio propertychang chang origin event properti name chang click chang chang is trigger chang simul chang beforeactiv chang target test node name chang attach chang chang parent node is simul is trigger simul chang parent node chang attach handl target is simul is trigger radio checkbox handl obj handler appli teardown remov chang test node name support focusin bubbl focu focusin blur focusout simul target special setup add event listen teardown remov event listen extend appli guid guid guid guid prevent default handl obj handl obj deleg target orig type orig type selector handler remov bind unbind live context selector context selector undeleg length trigger trigger trigger handler trigger toggl guid guid last toggl guid last toggl guid prevent default appli guid length guid click hover mouseent mouseleav blur focu focusin focusout load resiz scroll unload click dblclick mousedown mouseup mousemov mouseov mouseout mouseent mouseleav chang select submit keydown keypress keyup error contextmenu split length trigger test fix hook key hook test fix hook mous hook node type exec get element by id parent node push owner document owner document get element by id push appli call get element by tag name get element by class name appli call get element by class name replac node name to lower case input node name to lower case input button length length next sibl next sibl slice pre filter exec slice length push exec push shift slice length replac filter exec push shift slice length match length error slice parent node first node type node type sizset index of sizset sizset sizset node type length length length push push length node type length length push length call splice length appli length rel rel call node type rel filter appli match rel slice join replac slice slice join push length length find parent node math push push call appli length length uniqu sort length length length slice length node type rel find match replac slice shift length test length rel find match replac test parent node splice length join appli call test sizcach math random replac string document document element push slice index of length push cach length shift replac even first last reg exp reg exp reg exp reg exp input select textarea button reg exp class reg exp name reg exp name reg exp replac attr reg exp pseudo reg exp reg exp child reg exp first last child even need context reg exp creat element append child creat comment get element by tag name length inner html href first child first child get attribut first child get attribut href inner html select select last child get attribut multipl inner html hidden hidden get element by class name get element by class name length last child class name get element by class name length inner html name name insert befor first child get element by name get element by name length get element by name length get element by id remov child call child node node type push match match selector length get text node type text content text content first child next sibl node valu is xml owner document document element node name html contain contain node type document element parent node node type contain contain compar document posit compar document posit parent node attr to lower case attr handl get attribut get attribut node specifi valu selector cach length creat pseudo match attr handl href get attribut href get attribut find get element by id get element by id parent node get element by id get element by id get attribut node get attribut node valu get element by tag name get element by tag name get element by tag name node type push name get element by name get element by name name class get element by class name get element by class name rel parent node first parent node previou sibl first previou sibl pre filter attr replac replac slice child to lower case error even error pseudo child test test index of length length slice slice slice filter replac get attribut replac get attribut node get attribut node valu replac to lower case node name node name to lower case class reg exp test class name get attribut get attribut attr attr index of index of substr length length index of substr length child parent node first child next sibl node type first previou sibl node type first last next sibl node type pseudo pseudo set filter to lower case error unsupport pseudo length set filter ha own properti to lower case length call pseudo replac length length contain text content inner text index of enabl disabl disabl disabl node name to lower case input option select select parent node parent node select index select parent pseudo first child node name node type next sibl header test node name text node name to lower case input text get attribut to lower case radio radio checkbox checkbox file file password password imag imag submit submit reset reset button node name to lower case input button button input test node name focu owner document activ element ha focu ha focu href tab index activ owner document activ element first last even push push push push compar document posit compar document posit compar document posit compar document posit compar document posit sourc index sourc index sourc index sourc index parent node parent node unshift parent node unshift parent node length length sort uniqu sort sort push splice error error syntax error unrecogn express compil length push push queri selector all focu activ match selector moz match selector webkit match selector o match selector ms match selector inner html select option select option select queri selector all select length push disabl ismap multipl select valu queri selector all length push inner html test queri selector all test length push inner html input hidden queri selector all enabl length push enabl disabl reg exp join test node type node type node name to lower case get attribut replac set attribut length join test parent node join appli call queri selector all remov attribut call call test sizzl push reg exp join match selector replac test test call document document node type length pseudo pseudo filter prototyp pseudo set filter attr attr find expr selector expr expr pseudo uniqu uniqu sort text get text is xml doc is xml contain contain until parent prev until expr match need context children content prev extend find filter length contain push stack find length length find length splice length filter contain push stack filter push stack filter test context index filter length filter length closest length test context owner document node type index find match selector push parent node length uniqu push stack closest index in array in array jqueri parent node prev all length make array node type merg push stack uniqu add back prev object prev object filter and self add back parent parent node node type parent parent node parent until parent node next sibl prev previou sibl next all next sibl prev all previou sibl next until next sibl prev until previou sibl sibl sibl parent node first child children sibl first child content node name ifram content document content window document merg child node test filter length uniqu length test revers push stack call join extend filter length find match selector find match node type node type node type push sibl next sibl node type push abbr articl asid audio canva datalist detail figcapt figur footer header hgroup mark meter output progress section summari time video j queri area emb input link meta param tbodi script style link script emb option style reg exp checkbox radio java ecma script cdata option select multipl multipl select legend fieldset fieldset thead tabl tabl tabl tbodi tbodi tabl tabl tbodi tbodi tabl tabl tbodi tbodi colgroup colgroup tabl area append child creat element optgroup option tbodi tfoot colgroup caption thead support html serial extend text access text append owner document creat text node length wrap all is function wrap all call owner document parent node insert befor first child first child node type first child append wrap inner is function wrap inner call content length wrap all append wrap is function wrap all call unwrap parent node name bodi replac with child node append dom manip node type node type append child prepend dom manip node type node type insert befor first child dom manip parent node insert befor length clean push stack merg selector dom manip parent node insert befor next sibl length clean push stack merg selector remov filter length node type clean data get element by tag name clean data parent node parent node remov child node type clean data get element by tag name first child remov child first child html access length node type inner html replac test support html serial test support lead whitespac test exec to lower case replac node type clean data get element by tag name inner html append length replac with length push stack is function replac with is function html replac with call detach next sibl parent node remov append detach remov dom manip concat appli length support check clone test dom manip is function call html dom manip build fragment fragment first child child node length node name cacheabl call node name tabl tbodi length ajax ajax data type script async error ajax global eval text text content inner html replac parent node parent node remov child build fragment node type owner document length length char at test support check clone test support html5 clone test fragment creat document fragment clean fragment fragment cacheabl fragment append to append prepend to prepend insert befor insert after replac all replac with length length parent node node type child node length concat push stack selector extend support html5 clone is xml doc test node name clone node inner html outer html remov child first child support no clone event support no clone check node type node type is xml doc clean creat document fragment test creat text node creat element append child replac exec to lower case inner html last child support tbodi test tabl first child first child child node tabl child node length node name tbodi child node length parent node remov child support lead whitespac test insert befor creat text node exec first child child node parent node remov child node type push merg support append check node name input get element by tag name grep get element by tag name input test push parent node parent node remov child append child node name script append child get element by tag name grep merg get element by tag name script splice appli concat length clean data expando cach support delet expando special accept data event event remov remov event handl remov attribut remov attribut delet id push ua match to lower case chrome exec webkit exec opera version exec msie exec index of compat mozilla exec browser version ua match user agent browser browser version version chrome webkit webkit safari browser init extend superclass prototyp init init call init prototyp alpha opac right bottom left none tabl margin reg exp reg exp reg exp bodi block posit absolut visibl hidden display block letter space font weight right bottom left webkit toggl extend access style length show hide toggl is function is function appli show hide extend css hook opac opac css number fill opac font weight line height opac orphan widow z index zoom css prop support css float css float style float style node type node type style camel case style css prop css prop css hook css hook exec pars float is na n css number camel case css prop css prop style css hook css hook normal pars float is numer swap style style call style get comput style get comput style style get properti valu contain owner document style test test width min width max width min width max width width width width min width max width document element current style current style current style style test test left runtim style runtim style left runtim style left current style left left font size pixel left left runtim style left height width css hook offset width test display swap support box size box size border support opac css hook opac test current style current style filter style filter pars float reg exp style current style is numer alpha opac filter filter zoom trim replac remov attribut remov attribut filter filter filter test replac support reliabl margin right css hook margin right swap display block margin right support pixel posit posit left css hook test posit expr expr filter expr filter hidden offset width offset height support reliabl hidden offset style style display display none expr filter visibl expr filter hidden margin pad border width css hook expand split test css hook color date datetim datetim local email hidden month password rang search text time week select textarea extend serial param serial array serial array element make array element filter name disabl test node name test is array name name valu replac name name valu replac param is function length encod uri compon encod uri compon ajax set ajax set tradit is array jqueri is plain object name valu join replac storag extens file widget head script script script load href creat element href href exec to lower case load appli length index of slice length slice is function post ajax data type html complet respons text done html append replac find ajax start ajax stop ajax complet ajax error ajax success ajax send split post is function ajax success data type extend get script script get json json ajax setup ajax set ajax set ajax set is local test content type applic form urlencod charset process data async accept applic text html text html text text plain json applic json text javascript content html html json json respons field respons xml text respons text convert text string text html text json pars json text pars xml flat option context ajax prefilt ajax transport ajax clear timeout readi state if modifi get respons header last modifi last modifi get respons header etag etag notmodifi state error error statu statu text resolv with reject with statu code trigger ajax success error fire with trigger ajax complet activ trigger ajax stop ajax setup context node type defer callback memori statu code cancel readi state set request header to lower case get all respons header get respons header exec to lower case to lower case overrid mime type mime type abort abort promis success done error fail complet statu code statu alway replac replac data type trim data type to lower case split cross domain exec to lower case cross domain http http process data param tradit to upper case ha content test activ trigger ajax start ha content test cach replac test ha content content type content type set request header content type content type if modifi last modifi set request header modifi sinc last modifi etag set request header match etag set request header accept data type accept data type accept data type data type accept header set request header header befor send befor send call abort success error complet transport readi state trigger ajax send async timeout set timeout abort timeout timeout send abort activ last modifi etag ajax setup jsonp callback jsonp callback expando ajax prefilt json jsonp jsonp test content type index of applic form urlencod test data type jsonp jsonp callback is function jsonp callback jsonp callback jsonp callback replac replac test jsonp convert script json error call data type json alway jsonp callback jsonp callback push is function script ajax setup accept script text javascript applic javascript applic ecmascript applic ecmascript content script javascript ecmascript convert text script global eval ajax prefilt script cach cach cross domain ajax transport script cross domain head get element by tag name head document element send creat element script async async script charset charset script charset onload onreadystatechang readi state load complet test readi state onload onreadystatechang parent node remov child success insert befor first child abort onload activ x object ajax set activ x object is local extend support ajax cor with credenti ajax set support ajax ajax transport cross domain support cor send usernam open async usernam password open async xhr field xhr field xhr field mime type overrid mime type overrid mime type mime type cross domain request with request with xml http request set request header send ha content readi state onreadystatechang noop readi state abort statu get all respons header respons xml document element text respons text statu text is local cross domain text 1223 async readi state set timeout unload onreadystatechang abort toggl show hide reg exp queue hook creat tween exec css number elem style elem unit start anim extend tweener is function split length unshift prefilt unshift push tween prototyp init elem prop eas swing option start unit css number prop hook prop prop hook prop hook prop option durat eas eas option durat option durat start start option step option step call elem prop hook prototyp init prototyp prototyp prop hook elem prop elem style elem style prop elem prop elem prop step prop step prop elem style elem style css prop prop css hook prop style elem prop unit elem prop prop hook scroll top prop hook scroll left elem node type elem parent node elem prop toggl show hide is function is function appli anim extend fade to filter opac show anim opac anim is empti object speed extend stop queue queue queue stop stop stop queue queue hook timer stop stop test length elem queue anim stop splice dequeu slide down show slide up hide slide toggl toggl fade in opac show fade out opac hide fade toggl opac toggl anim speed extend complet is function durat eas is function durat durat durat durat speed speed durat speed queue queue queue complet complet is function call queue dequeu queue eas linear swing math math timer prototyp init tick timer length splice length stop timer timer push set interv tick interv interv stop clear interv speed slow fast step expr expr filter expr filter anim grep timer elem length bodi html offset length offset set offset left owner document bodi offset bodi offset document element contain get bound client rect get bound client rect client top client top client left client left page y offset scroll top page x offset scroll left left left offset bodi offset offset top offset left support doe not includ margin in bodi offset pars float margin top pars float margin left left set offset posit style posit rel offset left absolut in array posit left pars float pars float is function call left left left left call extend posit offset parent offset test node name left offset pars float margin top left pars float margin left pars float border top width left pars float border left width left left left offset parent offset parent bodi test node name posit offset parent bodi scroll left page x offset scroll top page y offset test access document document element scroll to scroll left scroll top length height height width width pad inner content outer length margin border access is window document document element client node type document element math bodi scroll scroll bodi offset offset client style j queri defin defin defin j queri defin jqueri window
+
+load file
+reader file reader
+reader onload
+preview document get element by id preview
+preview center crop reader result
+preview resiz preview
+
+reader read as data url target file
+
+
+center crop
+imag imag
+imag
+
+width math imag width imag height
+height math imag width imag height
+
+canva document creat element canva
+canva get context
+
+clear rect canva width canva height
+canva width width
+canva height height
+draw imag imag width imag width height imag height imag width imag height
+canva to data url imag
+
+
+resiz
+imag imag
+imag
+
+canva document creat element canva
+canva width imag width
+canva height imag height
+canva get context
+clear rect canva width canva height
+draw imag imag imag width imag height
+
+document creat element canva
+width imag dimens
+height imag dimens
+
+window pica
+window pica resiz canva canva
+qualiti
+unsharp amount
+unsharp threshold
+transfer
+
+window pica
+to data url imag
+
+
+simpl game engin
+author andrej karpathi
+licens
+thi bore canva stuff creat function
+updat get call everi frame
+draw get call everi frame
+myinit get call begin
+mous click get call mous click
+key up keycod get call releas
+key down keycod get call push
+
+canva
+
+width
+height
+
+
+draw bubbl radiu
+
+
+
+begin path
+stroke style black
+line width
+move to radiu
+line to radiu
+line to radiu
+line to radiu
+quadrat curv to radiu
+line to radiu
+quadrat curv to radiu
+line to radiu
+quadrat curv to radiu
+line to radiu
+quadrat curv to radiu
+stroke
+
+
+draw rect
+begin path
+rect
+close path
+fill
+stroke
+
+
+draw circl
+begin path
+math
+close path
+stroke
+fill
+
+
+uniform distribut integ
+randi
+math floor math random
+
+
+uniform distribut
+randf
+math random
+
+
+normal distribut random
+randn mean varianc
+
+
+math random
+math random
+
+
+
+
+math sqrt math
+mean math sqrt varianc
+
+
+
+event click
+
+posit cursor rel left canva
+
+
+page x page y
+page x
+page y
+
+client x document bodi scroll left document document element scroll left
+client y document bodi scroll top document document element scroll top
+
+canva offset left
+canva offset top
+
+call user defin callback
+mous click shift key ctrl key
+
+
+code found
+http aspdotnetfaq what key code java script key down key press key up event aspx
+event key up
+keycod key code
+key up keycod
+
+
+event key down
+keycod key code
+key down keycod
+
+
+np ginit
+take frame secont
+
+canva document get element by id np gcanva
+canva get context
+width canva width
+height canva height
+canva add event listen click event click
+
+canva element cannot focu requir either
+tabindex focus need attach listen
+document here latter
+document add event listen keyup event key up
+document add event listen keydown event key down
+
+set interv np gtick 1000
+
+myinit
+
+
+np gtick
+updat
+draw
+
+sampl train
+find unload batch
+math floor math random load train batch length
+load train batch
+math floor math random sampl batch sampl within batch
+sampl batch
+
+load batch time
+step sampl batch step
+batch
+load
+load
+load batch
+okay
+
+
+
+
+fetch appropri train imag reshap
+
+convnetj imag dimens imag dimens imag channel
+imag dimens imag dimens
+
+imag channel
+
+imag dimens
+imag dimens
+
+
+
+
+
+
+
+random posit
+math floor math random
+math floor math random
+convnetj augment imag dimens mayb chang posit
+
+
+random flip
+convnetj augment imag dimens math random mayb flip horizont
+
+
+isval valid
+label label isval isval
+
+
+sampl random test
+sampl test
+
+test batch
+math floor math random sampl batch
+sampl batch
+
+
+convnetj imag dimens imag dimens imag channel
+imag dimens imag dimens
+
+imag channel
+
+imag dimens
+imag dimens
+
+
+
+
+
+
+
+distort posit mayb flip
+
+
+random flip random posit
+
+test variat
+random posit
+math floor math random
+math floor math random
+test variat convnetj augment test variat imag dimens
+
+
+random flip
+test variat convnetj augment test variat imag dimens math random
+
+
+push test variat
+
+
+push imag dimens push augment copi
+
+
+multipl augment averag network
+increas perform
+label label
+
+
+
+elt array batch
+array batch
+load array batch
+load train batch
+
+main
+window load
+
+newnet
+newnet
+
+updat param display
+
+load length load
+
+load batch async load train batch
+load batch test batch async load test
+start
+
+
+start
+load load test batch
+consol start
+set interv load step let
+
+set timeout start keep check
+
+
+load batch batch
+load dataset background
+elt batch imag
+elt batch
+onload
+canva document creat element canva
+canva width width
+canva height height
+canva get context
+draw imag copi wast
+batch get imag data canva width canva height
+load batch
+batch test batch load train batch push batch
+consol finish load batch batch
+
+dataset name dataset name batch batch
+
+
+maxmin cnnutil maxmin
+cnnutil
+
+element canva activ draw
+
+scale multipli make visual larger make higher larger pictur
+grad gradient use instead
+draw activ scale grad
+
+scale scale
+draw grad
+grad draw grad grad
+
+activ scale map automat
+draw grad
+maxmin
+
+creat canva element draw
+depth
+
+canv document creat element canva
+canv class name actmap
+
+
+canv width
+canv height
+canv get context
+creat imag data
+
+
+
+draw grad
+dval math floor grad minv
+
+dval math floor minv
+
+
+
+
+dval
+alpha channel
+
+
+
+
+put imag data
+append child canv
+
+
+
+draw activ color scale grad
+
+scale scale
+draw grad
+grad draw grad grad
+
+activ scale map automat
+draw grad
+maxmin
+
+canv document creat element canva
+canv class name actmap
+
+
+canv width
+canv height
+canv get context
+creat imag data
+
+
+
+draw grad
+dval math floor grad minv
+
+dval math floor minv
+
+
+
+
+dval
+alpha channel
+
+
+
+
+
+put imag data
+append child canv
+
+
+visual activ
+
+clear element
+inner html
+
+show activ layer
+layer length
+
+layer
+
+layer document creat element
+
+visual activ
+activ document creat element
+activ append child document creat text node activ
+activ append child document creat element
+activ class name layer
+scale
+layer softmax layer scale softmax
+
+hack draw color input layer
+
+draw activ color activ scale
+draw activ color activ scale
+
+
+visual posit neg compon gradient separ
+
+length
+
+draw activ color activ scale
+
+draw activ color activ scale
+
+
+
+visual network would like imag look like
+
+length
+
+draw activ color activ scale
+
+
+
+visual gradient magnitud
+
+length
+
+draw activ color activ scale
+
+
+
+draw activ activ scale
+
+
+visual gradient
+layer softmax layer input
+grad document creat element
+grad append child document creat text node activ gradient
+grad append child document creat element
+grad class name layer grad
+scale
+layer softmax layer scale softmax
+draw activ grad scale
+activ append child grad
+
+
+visual filter reason size
+layer conv
+filter document creat element
+filter
+actual weight
+filter append child document creat text node weight
+filter append child document creat element
+filter length
+hack draw color first layer conv filter
+
+draw activ color filter filter
+
+filter append child document creat text node
+draw activ filter filter
+filter append child document creat text node
+
+
+gradient
+filter append child document creat element
+filter append child document creat text node weight gradient
+filter append child document creat element
+filter length
+draw activ color filter filter
+
+filter append child document creat text node
+draw activ filter filter
+filter append child document creat text node
+
+
+
+filter append child document creat text node weight hidden small
+
+activ append child filter
+
+layer append child activ
+
+stat left layer
+layer class name layer layer
+titl document creat element
+titl class name ltitl
+layer depth
+titl append child document creat text node
+layer append child titl
+
+layer conv
+filter size filter filter filter depth stride stride
+layer append child document creat text node
+layer append child document creat element
+
+layer pool
+pool size stride stride
+layer append child document creat text node
+layer append child document creat element
+
+
+find activ display
+maxmin
+activ maxv minv
+layer append child document creat text node
+layer append child document creat element
+
+maxmin
+gradient maxv minv
+layer append child document creat text node
+layer append child document creat element
+
+paramet
+layer conv layer local
+depth filter length filter length
+paramet filter length depth filter length
+layer append child document creat text node
+layer append child document creat element
+
+layer
+input filter length filter length
+paramet filter length input filter length
+layer append child document creat text node
+layer append child document creat element
+
+
+mad need
+clear document creat element
+clear class name clear
+layer append child clear
+
+append child layer
+
+
+
+load train imag train network
+paus
+load step
+paus
+
+sampl sampl train
+step sampl process imag
+
+set timeout load step schedul iter
+
+
+evalu current network test
+test predict
+class layer layer length depth
+
+document get element by id testset inner html
+total
+correct
+
+grab random test imag
+
+sampl sampl test
+sampl label ground truth label
+
+forward prop network
+aavg convnetj class
+ensur alway regardless return singl item
+concat sampl
+length
+
+forward
+aavg add from
+
+pred
+aavg length pred push aavg
+pred sort
+
+correct pred
+correct correct
+total
+
+document creat element
+class name testdiv
+
+draw imag canva
+draw activ color draw canv
+
+predict
+probsdiv document creat element
+
+
+
+pred
+style width math floor pred background color class pred
+
+probsdiv inner html
+probsdiv class name probsdiv
+append child probsdiv
+
+
+prepend to testset hide fade in slow slide down slow
+probsdiv length
+testset probsdiv last remov keep upper bound shown item
+
+
+test acc window correct total
+testset text test accuraci base last test imag test acc window averag
+
+test imag
+convnetj
+forward
+
+
+document get element by id visnet
+visual activ
+
+pred
+length pred push
+pred sort
+
+predict
+document creat element
+class name testdiv
+
+draw imag canva
+draw activ color
+
+probsdiv document creat element
+
+
+
+
+
+style width math floor pred background color class pred
+
+
+probsdiv inner html
+probsdiv class name probsdiv
+append child probsdiv
+
+
+prepend to testset hide fade in slow slide down slow
+probsdiv length
+testset probsdiv last remov keep upper bound shown item
+
+
+
+loss graph cnnvi graph
+x loss window cnnutil window
+w loss window cnnutil window
+train acc window cnnutil window
+val acc window cnnutil window
+test acc window cnnutil window
+step
+step sampl
+
+sampl
+sampl label
+
+sampl isval
+build estim valid error
+forward
+yhat get predict
+yhat
+val acc window
+
+
+
+train network
+stat trainer train
+lossx stat cost loss
+lossw stat decay loss
+
+keep track stat averag train error loss
+yhat get predict
+train yhat
+x loss window lossx
+w loss window lossw
+train acc window train
+
+visual train statu
+train document get element by id trainstat
+train inner html
+forward time exampl stat time
+train append child document creat text node
+train append child document creat element
+backprop time exampl stat time
+train append child document creat text node
+train append child document creat element
+classif loss x loss window averag
+train append child document creat text node
+train append child document creat element
+weight decay loss w loss window averag
+train append child document creat text node
+train append child document creat element
+train accuraci train acc window averag
+train append child document creat text node
+train append child document creat element
+valid accuraci val acc window averag
+train append child document creat text node
+train append child document creat element
+exampl seen step
+train append child document creat text node
+train append child document creat element
+
+visual activ
+step
+document get element by id visnet
+visual activ
+
+
+progress graph full loss
+step
+x loss window averag
+w loss window averag
+mean enough accumul estim
+loss graph step
+loss graph draw self document get element by id lossgraph
+
+
+
+predict test
+step step step
+test predict
+
+step
+
+
+user set
+chang
+trainer learn rate pars float document get element by id input valu
+updat param display
+
+chang momentum
+trainer momentum pars float document get element by id momentum input valu
+updat param display
+
+chang batch size
+trainer batch size pars float document get element by id batch size input valu
+updat param display
+
+chang decay
+trainer decay pars float document get element by id decay input valu
+updat param display
+
+updat param display
+document get element by id input valu trainer learn rate
+document get element by id momentum input valu trainer momentum
+document get element by id batch size input valu trainer batch size
+document get element by id decay input valu trainer decay
+
+toggl paus
+paus paus
+document get element by id buttontp
+paus valu resum
+valu paus
+
+dump json
+document get element by id dumpjson valu json stringifi to json
+
+clear graph
+loss graph cnnvi graph reinit graph
+
+reset
+reinit trainer
+trainer convnetj sgd trainer learn rate trainer learn rate momentum trainer momentum batch size trainer batch size decay trainer decay
+updat param display
+
+reinit window keep track train accuraci
+x loss window reset
+w loss window reset
+train acc window reset
+val acc window reset
+test acc window reset
+loss graph cnnvi graph reinit graph
+step
+
+load json
+json string document get element by id dumpjson valu
+json json pars json string
+convnetj
+from json json
+reset
+
+
+load pretrain
+get json dataset name snapshot json json
+convnetj
+from json json
+trainer learn rate 0001
+trainer momentum
+trainer batch size
+trainer decay 00001
+reset
+
+
+
+chang
+newnet
+reset
+
+
+util function
+array prototyp contain
+length
+
+
+
+
+array prototyp uniqu
+
+length
+contain
+push
+
+
+
+
+
+fail outdivid
+outdivid prepend style background color
+
+succ outdivid
+outdivid prepend style background color
+
+
+look column guess
+return result analysi column numer mani uniqu entri
+guess column
+numer
+
+length
+
+push
+is na n numer
+
+uniqu
+numer
+numer uniqu index
+numer numer length uniqu
+
+numer numer length
+
+
+
+return pars
+colstat contain statist column input
+pars result append outdivid
+import data outdivid
+outdivid flush messag
+
+find datapoint
+length
+
+succ outdivid found point
+fail outdivid point found
+
+find dimension enforc consist
+length
+
+length
+fail outdivid dimens constant line entri
+
+succ outdivid dimension
+
+column figur
+colstat
+
+guess column
+colstat push
+
+
+succ outdivid suppress output mani column
+
+
+succ outdivid column look numer numer numer uniqu element
+
+
+
+colstat colstat
+
+
+process input mess vol label
+make dataset colstat
+
+labelix pars int labelix
+labelix labelix labelix turn
+
+
+label
+
+arri
+
+creat input datapoint
+arri slice
+xarr
+
+labelix skip
+
+colstat numer
+xarr push pars float arri
+
+colstat uniqu
+index of arri turn 1ofk encod
+length
+xarr push
+xarr push
+
+
+
+convnetj xarr
+
+process label last column
+colstat labelix numer
+pars float arri labelix regress
+
+colstat labelix uniqu index of arri labelix classif
+
+consol whoa label found critic error fishi
+
+
+push
+label push
+
+
+dataset
+dataset
+dataset label label
+dataset
+
+
+option provid magic
+test eval option
+option
+option
+
+magic net
+
+
+option magic
+ensembl size pars int ensemblenum
+
+read text field
+test dataset import test data
+magic predict
+test dataset length
+
+
+yhat predict test dataset
+yhat
+testresult html magic net readi must process least batch candid across fold first wait
+testresult background color
+
+
+test dataset label
+yhat loss
+consol test exampl predict yhat ground truth
+
+
+
+report accuraci
+testresult html test accuraci
+testresult background color
+
+
+reinit graph
+legend
+magic net candid length
+legend push model
+
+val graph cnnvi multi graph legend mini maxi
+
+
+fold evalu
+finish fold
+fold evalu
+foldreport html evalu total fold evalu magic net fold fold current batch
+reinit graph
+
+batch evalu
+finish batch
+batch evalu
+candsreport html evalu total batch evalu batch candid
+
+
+magic net
+start cv take train dataset
+opt
+opt train ratio pars int trainp
+opt fold pars int foldsnum
+opt candid pars int candsnum
+opt epoch pars int epochsnum
+opt neuron pars int nnmin
+opt neuron pars int nnmin
+magic net convnetj magic net train dataset train dataset label opt
+magic net on finish fold finish fold
+magic net on finish batch finish batch
+
+fold evalu
+batch evalu
+candsreport html evalu total batch evalu batch candid
+foldreport html evalu total fold evalu magic net fold fold current batch
+reinit graph
+
+legend
+magic net candid length
+legend push model
+
+val graph cnnvi multi graph legend mini maxi
+set interv step
+
+
+fold
+cand
+dostep
+val graph
+iter
+step
+iter
+
+magic net step
+iter
+
+val magic net eval val error
+val graph magic net iter val
+val graph draw self document get element by id valgraph
+
+best model
+cand magic net candid naughti pointer
+score
+cand length
+cand
+length accv length
+score push
+
+convnetj maxmin score
+cand maxi
+
+length
+result base length fold
+best model current batch valid accuraci maxv
+layer definit
+json stringifi layer def
+trainer definit
+json stringifi trainer
+
+
+bestmodel html
+
+also best model
+
+magic net evalu candid length
+magic net evalu candid
+valid accuraci best model overal accv length
+layer definit
+json stringifi layer def
+trainer definit
+json stringifi trainer
+
+
+bestmodeloveral html
+
+
+
+todo move convnetj util
+randperm
+
+
+temp
+
+
+
+math floor math random
+temp
+
+temp
+
+
+
+
+train dataset train global
+import train data
+
+to array
+train
+test
+
+test ratio math floor testsplit
+test ratio
+send line test
+test line math floor length test ratio
+randperm length
+train
+length
+test line
+test push
+
+train push
+
+
+enter test line test
+
+test length
+test join
+
+
+datamsgtest
+
+
+prepromsg flush
+succ prepromsg sent test length test keep train length train
+train import data train datamsg
+train dataset make dataset train train colstat
+train dataset
+
+
+import test data
+
+to array
+import data datamsgtest
+note import colstat train
+test dataset make dataset train colstat
+test dataset
+
+
+load db
+load dataset ajax
+ajax
+
+data type text
+success
+
+
+
+
+
+start
+load db
+
+
+export magic net
+taexport json stringifi magic net to json
+
+
+debug
+json pars taexport
+convnetj magic net
+from json
+test eval
+
+
+
+chang nn rang
+magic net neuron pars int nnmin
+magic net neuron pars int nnmax
+
+
+label
+scale draw
+
+creat neural
+layer def trainer
+
+layer def
+layer def push input depth
+layer def push neuron activ tanh
+layer def push neuron activ tanh
+layer def push softmax class
+
+convnetj
+make layer layer def
+
+trainer convnetj sgd trainer learn rate momentum batch size decay
+
+
+reload
+layerdef
+
+enter button layer
+
+layer length ignor input regress layer first last
+butid button
+input butid valu layer layer layer depth submit onclick updat lix style width 80px height 30px margin
+
+layer ixe html
+button background color
+cyclestatu html draw neuron layer index layer layer
+
+updat lix newlix
+button background color eras highlight
+newlix
+
+reset
+button background color
+
+cyclestatu html draw neuron layer index layer layer
+
+
+
+myinit
+
+random
+
+label
+
+push convnetj randf convnetj randf label push convnetj randf
+
+label length
+
+
+origin
+
+
+label
+push 4326 1909 label push
+push label push
+push 1253 0376 label push
+push 2877 3273 label push
+push 1465 1746 label push
+push 8133 0139 label push
+push 7258 0668 label push
+push 4117 5593 label push
+push 1832 3044 label push
+push 8636 1677 label push
+push label push
+push label push
+push label push
+label length
+
+
+circl
+
+label
+
+convnetj randf
+convnetj randf math
+push math math
+label push
+
+
+convnetj randf
+convnetj randf math
+math
+push math math
+label push
+
+length
+
+
+spiral
+
+label
+
+
+convnetj randf
+math convnetj randf
+push math math
+label push
+
+
+convnetj randf
+math math convnetj randf
+push math math
+label push
+
+length
+
+
+updat
+forward prop
+
+start date get time
+
+convnetj
+
+avloss
+iter iter iter
+
+
+stat trainer train label
+avloss stat loss
+
+
+avloss iter
+
+date get time
+time start
+
+consol loss avloss cycl time
+
+
+cycl
+select layer layer
+
+
+select layer depth wrap
+select layer depth wrap
+cyclestatu html draw neuron layer layer layer
+
+
+layer track first neuron
+first dimens show visual
+second dimens show visual
+draw
+
+clear rect width height
+
+netx convnetj
+draw decis grid
+densiti
+gridstep
+gridx
+gridi
+gridl
+width densiti
+height densiti
+margin one width height
+netx width
+netx height
+forward netx
+
+fill style
+fill style
+
+fill style math floor
+fill style math floor math floor
+fill rect densiti densiti densiti densiti
+
+gridstep gridstep
+record transform inform
+layer screen coord
+layer screen coord
+gridx push
+gridi push
+gridl push rememb label well
+
+
+
+
+draw axe
+begin path
+stroke style
+line width
+move to height
+line to width height
+move to width
+line to width height
+stroke
+
+draw represent transform axe neuron layer
+cnnutil maxmin gridx
+cnnutil maxmin gridi
+visctx clear rect vi width vi height
+visctx stroke style
+math floor math sqrt gridx length size grid should fine
+gridx length
+counter
+visctx begin path
+
+
+
+
+
+
+check
+xraw gridx
+xraw1 vi width gridx minv
+yraw1 vi height gridi minv
+xraw2 vi width gridx minv
+yraw2 vi height gridi minv
+visctx move to xraw1 yraw1
+visctx line to xraw2 yraw2
+
+
+draw color
+gridl visctx fill style
+visctx fill style
+densiti gridstep
+visctx fill rect xraw1 yraw1
+
+right
+
+
+check
+xraw gridx
+xraw1 vi width gridx minv
+yraw1 vi height gridi minv
+xraw2 vi width gridx minv
+yraw2 vi height gridi minv
+visctx move to xraw1 yraw1
+visctx line to xraw2 yraw2
+
+
+
+
+visctx stroke
+
+draw datapoint
+stroke style
+line width
+
+
+label fill style
+fill style
+
+draw circl width height
+
+also draw transform point
+netx
+netx
+forward netx
+vi width layer minv screen coord
+vi height layer minv screen coord
+label visctx fill style
+visctx fill style
+visctx begin path
+visctx math
+visctx close path
+visctx stroke
+visctx fill
+
+
+
+mous click shift press ctrl press
+
+transform space coordin
+width
+height
+
+ctrl press
+remov closest point
+mink
+mind 99999
+length
+
+
+
+mind
+mind
+mink
+
+
+mink
+consol splice mink
+splice mink
+label splice mink
+
+
+
+
+datapoint locat click
+push
+label push shift press
+
+
+
+
+
+key down
+
+
+key up
+
+
+
+note global
+viscanva document get element by id viscanva
+visctx viscanva get context
+vi width viscanva width
+vi height viscanva height
+
+circl
+layerdef
+reload
+np ginit
+
+
+pica nodeca pica export export defin defin defin window window pica defin export error cannot find code modul found export call export export export length export
+strict
+
+window
+eslint space
+
+featur detect
+worker window worker window
+worker
+allow creat webwork check
+http connect microsoft feedback detail 801810 worker blob url
+
+webworkifi
+termin
+
+worker
+
+
+
+resiz resiz
+resiz worker resiz worker
+
+
+
+helper
+object prototyp to string call
+is function function
+
+
+
+method
+
+
+rgba buffer async resiz
+
+resiz buffer option callback
+
+
+opt
+option
+dest
+width option width
+height option height
+to width option to width
+to height option to height
+qualiti option qualiti
+alpha option alpha
+unsharp amount option unsharp amount
+unsharp threshold option unsharp threshold
+
+
+worker export
+webworkifi resiz worker
+
+onmessag
+
+dest option dest
+output output
+
+output buffer refer copi
+return independ
+dest
+imag data style canva pixel array
+without method copi manual
+dest
+dest output
+
+output length
+dest output
+
+
+
+callback output
+termin
+
+
+option transfer
+post messag opt option buffer
+
+post messag opt
+
+expos worker avail allow earli termin
+
+
+
+fallback sync call web worker avail
+opt dest option dest
+resiz opt callback
+
+
+
+
+canva async resiz
+
+resiz canva option callback
+width
+height
+width
+height
+
+is function option
+callback option
+option
+
+
+is na n option
+option qualiti option alpha
+
+
+ctx to get context
+imag data to ctx to get imag data
+
+opt
+get context get imag data
+dest imag data to
+width width
+height height
+to width width
+to height height
+qualiti option qualiti
+alpha option alpha
+unsharp amount option unsharp amount
+unsharp threshold option unsharp threshold
+transfer
+
+
+resiz buffer opt output
+
+callback
+
+
+
+ctx to put imag data imag data to
+callback
+
+
+
+
+export resiz buffer resiz buffer
+export resiz canva resiz canva
+export worker
+
+resiz resiz worker webworkifi export
+blur filter
+
+
+strict
+
+
+blur kernel uint8 array
+
+
+
+
+
+bk width math floor math sqrt blur kernel length
+bk half math floor bk width
+bk wsum
+blur kernel length bk wsum blur kernel
+
+
+blur point src w src h
+wsum
+b ptr
+blur kernel blur kernel
+bk half bk half
+
+wsum weight normal result
+
+
+bk half bk half bk half src w bk half src h
+
+
+bk half
+bk half
+
+src w blur kernel b ptr
+
+
+bk wsum bk wsum
+
+
+
+
+bk half
+bk half
+
+src w src h
+blur kernel b ptr
+wsum
+src w
+
+b ptr
+
+
+wsum wsum
+
+
+blur src w src h radiu
+
+output uint16 array length
+
+src w
+src h
+output src w blur point src w src h
+
+
+
+output
+
+
+export blur
+
+export
+high speed resiz tuneabl speed qualiti ratio
+
+strict
+
+
+unsharp unsharp
+
+
+precis valu
+fix frac bit
+fix frac fix frac bit
+
+
+
+preset qualiti filter function window size
+
+filter info
+nearest neibor
+
+filter
+
+
+
+ham
+
+filter
+
+19209290 e 19209290 e
+math
+math math
+
+
+lanczo
+
+filter
+
+19209290 e 19209290 e
+math
+math math
+
+
+lanczo
+
+filter
+
+19209290 e 19209290 e
+math
+math math
+
+
+
+
+clamp to8
+
+to fix point math floor fix frac
+
+
+calcul convolut filter destin point
+pack int16 array
+
+shift length shift2 length2
+
+shift offset imag
+length filter length point
+filter valu sequenc
+
+creat filter qualiti src size dest size
+
+filter function filter info qualiti filter
+
+scale dest size src size
+scale invert scale
+scale clamp math scale upscal
+
+filter window averag interv scale imag
+src window filter info qualiti scale clamp
+
+dest pixel src pixel src first src last filter element size
+float filter fxp filter total fix total float val fix val
+left not empti right not empti filter shift filter size
+
+max filter element size math floor src window
+pack filter int16 array max filter element size dest size
+pack filter ptr
+
+destin pixel calcul sourc rang built filter valu
+dest pixel dest pixel dest size dest pixel
+
+scale done rel central pixel point
+src pixel dest pixel scale invert
+
+src first math math floor src pixel src window
+src last math src size math ceil src pixel src window
+
+filter element size src last src first
+float filter float32 array filter element size
+fxp filter int16 array filter element size
+
+total
+
+fill filter valu calcul rang
+src first src last
+float val filter function src pixel scale clamp
+total float val
+float filter float val
+
+
+normal filter convert point accumul convers error
+fix total
+
+float filter length
+fix val to fix point float filter total
+fix total fix val
+fxp filter fix val
+
+
+compens normal error minim bright drift
+fxp filter dest size to fix point fix total
+
+
+pack filter useabl form
+
+trim head tail zero valu compens shitf length
+singl format
+
+shift length value1 value2 value3
+
+
+left not empti
+left not empti fxp filter length fxp filter left not empti
+left not empti
+
+
+left not empti fxp filter length
+right not empti fxp filter length
+right not empti fxp filter right not empti
+right not empti
+
+
+filter shift src first left not empti
+filter size right not empti left not empti
+
+pack filter pack filter ptr filter shift shift
+pack filter pack filter ptr filter size size
+
+pack filter fxp filter subarray left not empti right not empti pack filter ptr
+pack filter ptr filter size
+
+zero write header
+pack filter pack filter ptr shift
+pack filter pack filter ptr size
+
+
+pack filter
+
+
+convolv imag horizont direct transpos output theori
+transpos allow
+
+convolv pass fail differ
+type input temporari buffer
+make vertic horisonlt line inprov cach
+
+real life work
+
+convolv horizont dest src w src h dest w filter
+
+
+filter ptr filter shift filter size
+src ptr src y dest x filter val
+src offset dest offset
+
+
+src y src y src h src y
+filter ptr
+
+appli precomput filter destin point
+dest x dest x dest w dest x
+filter determin current output pixel
+filter shift filter filter ptr
+filter size filter filter ptr
+
+src ptr src offset filter shift
+
+
+
+appli filter destin pixel
+filter size filter size
+filter val filter filter ptr
+
+revers order workaround deopt node
+thank mraleph vyacheslav egorov
+filter val src ptr
+filter val src ptr
+filter val src ptr
+filter val src ptr
+src ptr src ptr
+
+
+bring valu back rang filter scale factor
+point fix frac bit bit fraction part
+dest dest offset clamp to8 fix frac bit
+dest dest offset clamp to8 fix frac bit
+dest dest offset clamp to8 fix frac bit
+dest dest offset clamp to8 fix frac bit
+dest offset dest offset src h
+
+
+dest offset src y
+src offset src y src w
+
+
+
+technic convolv input temporari
+buffer differ especi browser
+keep code separ function avoid deoptim speed loss
+
+convolv vertic dest src w src h dest w filter
+
+
+filter ptr filter shift filter size
+src ptr src y dest x filter val
+src offset dest offset
+
+
+src y src y src h src y
+filter ptr
+
+appli precomput filter destin point
+dest x dest x dest w dest x
+filter determin current output pixel
+filter shift filter filter ptr
+filter size filter filter ptr
+
+src ptr src offset filter shift
+
+
+
+appli filter destin pixel
+filter size filter size
+filter val filter filter ptr
+
+revers order workaround deopt node
+thank mraleph vyacheslav egorov
+filter val src ptr
+filter val src ptr
+filter val src ptr
+filter val src ptr
+src ptr src ptr
+
+
+bring valu back rang filter scale factor
+point fix frac bit bit fraction part
+dest dest offset clamp to8 fix frac bit
+dest dest offset clamp to8 fix frac bit
+dest dest offset clamp to8 fix frac bit
+dest dest offset clamp to8 fix frac bit
+dest offset dest offset src h
+
+
+dest offset src y
+src offset src y src w
+
+
+
+
+reset alpha width height
+width height
+0x ff
+
+
+
+resiz option
+option
+src w option width
+src h option height
+dest w option to width
+dest h option to height
+dest option dest uint8 array dest w dest h
+qualiti option qualiti option qualiti
+alpha option alpha
+unsharp amount option unsharp amount option unsharp amount
+unsharp threshold option unsharp threshold option unsharp threshold
+
+src w src h dest w dest h
+
+filter x creat filter qualiti src w dest w
+filter y creat filter qualiti src h dest h
+
+uint8 array dest w src h
+
+singl need
+canva pixel array uint8 array keep
+vertic horizont pass separ avoid deoptim
+
+convolv horizont src w src h dest w filter x
+convolv vertic dest src h dest w dest h filter y
+
+that faster check convolv
+note canva premultipl need
+alpha correct
+
+alpha
+reset alpha dest dest w dest h
+
+
+unsharp amount
+unsharp dest dest w dest h unsharp amount unsharp threshold
+
+
+dest
+
+
+
+export resiz
+
+unsharp export
+unsharp mask filter
+
+http stackoverflow 23322820 1031804
+amount
+gaussial blur
+
+bright
+http stackoverflow 596243 1031804
+
+simplifi math normal brigh mutipli
+
+bright 19595 38470 7471 65536
+
+strict
+
+
+blur blur
+
+
+clamp to8
+
+convert imag greyscal 16bit result
+
+greyscal src w src h
+size src w src h
+result uint16 array size sign help
+src ptr
+
+src ptr size
+result src ptr 7471 blue
+src ptr 38470 green
+src ptr 19595
+src ptr src ptr
+
+
+result
+
+
+
+appli unsharp mask
+
+note radiu ignor simplifi gaussian blur calcul
+practic need radiu
+
+unsharp src w src h amount radiu threshold
+diff corr src ptr
+
+normal delta multipli expect
+amount norm math floor amount
+
+convert grayscal
+
+prevent color drift
+speedup blur calc
+
+greyscal src w src h
+blure blur src w src h
+fp threshold threshold
+gs ptr
+
+src h
+src w
+
+calcul bright blur differ updat sourc buffer
+
+diff gs ptr blure gs ptr
+
+updat sourc imag thresold exceed
+math diff fp threshold
+calcul correct multipli
+corr 65536 diff amount norm
+src ptr gs ptr
+
+src ptr
+src ptr clamp to8 corr
+src ptr
+src ptr clamp to8 corr
+src ptr
+src ptr clamp to8 corr
+
+
+gs ptr
+
+
+column
+
+
+
+export unsharp
+
+blur export
+proxi simplifi split webwork plain call
+strict
+
+resiz pure resiz
+
+export option callback
+output resiz option
+
+callback output
+
+
+pure resiz export
+worker wrapper imag resiz
+
+strict
+
+export
+resiz resiz
+
+onmessag
+resiz output
+
+post messag
+
+
+
+post messag output output output buffer
+
+
+
+
+resiz export
+bundl fn
+sourc
+cach
+
+stringifi json stringifi
+
+export
+key
+wkey
+cach key object key cach
+
+cach key length
+cach key
+cach export
+wkey
+
+
+
+
+wkey
+wkey math floor math math random to string
+wcach
+cach key length
+cach key
+wcach
+
+sourc wkey
+function export
+wcach
+
+
+skey math floor math math random to string
+
+scach scach wkey wkey
+sourc skey
+function stringifi wkey
+scach
+
+
+bundl fn
+object key sourc
+stringifi
+sourc
+stringifi sourc
+
+join
+stringifi skey
+
+worker window creat object url
+blob text javascript
+
+
+
+
+
+canva
+
+vector util
+
+
+
+
+prototyp
+
+util
+dist math sqrt math math
+length math sqrt math math
+
+vector return oper
+
+
+rotat clockwis
+math math
+math math
+
+
+place oper
+scale
+normal length scale
+
+
+line intersect helper line segment intersect segment
+line intersect
+denom
+denom parallel line
+denom
+denom
+
+
+intersect point
+
+
+
+
+line point intersect
+perpendicular vector
+math
+length
+
+
+normal
+scale
+
+math math
+
+
+
+
+
+
+
+
+
+
+wall made point
+wall
+
+
+
+
+world contain mani agent wall food stuff
+util
+push wall
+push wall
+push wall
+push wall
+
+
+item circl thing floor agent interact
+item
+posit
+
+radiu
+
+cleanup
+
+
+world
+agent
+canva width
+canva height
+
+clock
+
+wall world
+wall
+
+util wall
+util wall inner wall
+wall
+util wall
+wall
+
+food poison
+item
+
+convnetj randf
+convnetj randf
+convnetj randi food poison
+item
+item push
+
+
+
+world prototyp
+helper closest collid wall item
+stuff collid check wall check item
+minr
+
+collid wall
+check wall
+wall length
+wall wall
+line intersect wall wall
+
+wall
+minr minr
+
+check closer
+minr
+replac
+minr
+
+
+
+
+
+
+collid item
+check item
+item length
+item
+line point intersect
+
+store item
+minr minr
+minr minr
+
+
+
+
+
+minr
+
+tick
+tick environ
+clock
+
+input agent base environ
+process eye
+collpoint
+agent length
+agent
+eye length
+eye
+line eyep
+eyep rang math angl angl
+rang math angl angl
+stuff collid eyep
+
+collid wall
+sens proxim dist
+sens
+
+sens proxim rang
+sens
+
+
+
+
+agent behav world base input
+agent length
+agent forward
+
+
+appli output agent eviron
+agent length
+agent
+back posit
+oangl angl angl
+
+steer agent accord output wheel veloc
+
+rotat angl math
+posit wheel
+
+
+rotat rot1
+
+rotat rot2
+
+scale
+
+scale
+
+
+angl rot1
+angl angl math
+angl rot2
+angl math angl math
+
+agent tri move check wall
+stuff collid
+
+wall collis reset posit
+
+
+
+handl boundari condit
+
+
+
+
+
+
+tick item
+updat item
+item length
+item
+
+
+agent get lunch
+agent length
+agent
+dist
+
+
+wait let make sure wall
+rescheck stuff collid
+rescheck
+ding
+digest signal delici appl
+digest signal ewww poison
+cleanup
+updat item
+item consum
+
+
+
+
+5000 clock convnetj randf
+cleanup replac around
+updat item
+
+
+updat item
+
+item length
+item
+cleanup push
+
+item swap
+
+item length clock convnetj randf
+newitx convnetj randf
+newiti convnetj randf
+newitt convnetj randi food poison
+newit item newitx newiti newitt
+item push newit
+
+
+agent given opportun learn base feedback action environ
+agent length
+agent backward
+
+
+
+
+sensor maximum rang sens wall
+angl
+angl angl angl rel agent
+rang
+sens proxim see world tick
+sens
+
+
+singl agent
+agent
+
+posit inform
+
+posit
+angl direct face
+
+action
+action push
+action push
+action push
+action push
+action push
+
+properti
+
+eye
+eye push
+
+braaain
+brain deepqlearn brain eye length action length
+spec document get element by id qspec valu
+spec
+brain brain
+
+reward bonu
+digest signal
+
+output world
+rot1 rotat speed wheel
+rot2 rotat speed wheel
+
+prevactionix
+
+agent prototyp
+forward
+forward agent simpli behav environ
+creat input brain
+eye eye length
+input array eye
+eye
+eye
+input
+input
+input
+sens
+sens wall food poison
+let encod input
+input sens sens proxim rang normal
+
+
+
+action brain
+actionix brain forward input
+action action actionix
+actionix actionix back
+
+demultiplex behavior variabl
+rot1 action
+rot2 action
+
+rot1
+rot2
+
+backward
+backward agent learn
+comput reward
+proxim reward
+eye eye length
+eye
+eye
+agent dont like wall especi close
+proxim reward sens sens proxim rang
+
+proxim reward proxim reward eye
+proxim reward math proxim reward
+
+agent like straight forward
+forward reward
+actionix proxim reward forward reward proxim reward
+
+agent like good thing
+digest reward digest signal
+digest signal
+
+reward proxim reward forward reward digest reward
+
+brain learn
+brain backward reward
+
+
+
+draw
+simspe
+alway draw speed
+
+clock sparingli
+
+
+canva document get element by id canva
+canva get context
+canva width
+canva height
+clear rect canva width canva height
+agent brain valu layer
+length
+
+
+font 12px verdana
+fill style
+fill text valu function approxim neural network
+length
+mayb readi
+
+length
+
+fill style
+fill text layer
+
+math floor
+fill style
+fill style
+fill rect
+
+
+
+
+
+
+
+
+reward graph cnnvi graph
+draw stat
+canva document get element by id canva
+canva get context
+canva width
+canva height
+clear rect canva width canva height
+agent
+brain
+netin last input
+stroke style
+font 12px verdana
+fill text current state
+line width
+begin path
+netin length
+move to
+line to netin
+
+stroke
+
+clock
+reward graph clock averag reward window averag
+gcanva document get element by id graph canva
+reward graph draw self gcanva
+
+
+
+draw everyth
+draw
+clear rect canva width canva height
+line width
+agent agent
+
+draw wall environ
+stroke style
+begin path
+wall length
+wall
+move to
+line to
+
+stroke
+
+draw agent
+color agent base reward experienc moment
+math floor agent brain latest reward
+
+fill style
+stroke style
+agent length
+agent
+
+draw agent bodi
+begin path
+math
+fill
+stroke
+
+draw agent sight
+eye length
+eye
+sens proxim
+sens sens
+stroke style wall noth
+
+sens stroke style appl
+sens stroke style poison
+begin path
+move to
+line to math oangl angl
+math oangl angl
+stroke
+
+
+
+draw item
+stroke style
+item length
+item
+fill style
+fill style
+begin path
+math
+fill
+stroke
+
+
+agent brain vi self document get element by id brain info
+
+
+tick world
+tick
+tick
+skipdraw clock
+draw
+draw stat
+draw
+
+
+
+simspe
+goveryfast
+window clear interv current interv
+current interv set interv tick
+skipdraw
+simspe
+
+gofast
+window clear interv current interv
+current interv set interv tick
+skipdraw
+simspe
+
+gonorm
+window clear interv current interv
+current interv set interv tick
+skipdraw
+simspe
+
+goslow
+window clear interv current interv
+current interv set interv tick
+skipdraw
+simspe
+
+
+savenet
+agent brain valu to json
+json stringifi
+document get element by id valu
+
+
+loadnet
+document get element by id valu
+json pars
+agent brain valu from json
+stoplearn also stop learn
+gonorm
+
+
+startlearn
+agent brain learn
+
+stoplearn
+agent brain learn
+
+
+reload
+agent agent simpli work think
+reward graph cnnvi graph reinit
+
+
+world
+current interv
+skipdraw
+start
+canva document get element by id canva
+canva get context
+
+world
+agent agent
+
+gofast
+
+
+
+let exampl fulli connect layer re lu
+layer def
+layer def push input depth
+layer def push neuron activ relu
+layer def push neuron activ relu
+layer def push softmax class
+
+fill trainer spec wish evalu give name legend
+learn rate
+batch size
+weight decay
+net
+trainer def
+trainer def push learn rate method momentum batch size decay
+trainer def push learn rate method momentum batch size decay
+trainer def push learn rate method adam beta1 beta2 batch size decay
+trainer def push learn rate method adagrad batch size decay
+trainer def push learn rate method windowgrad batch size decay
+trainer def push learn rate method adadelta batch size decay
+trainer def push learn rate method nesterov momentum batch size decay
+
+name trainer
+legend momentum adam adagrad windowgrad adadelta nesterov
+
+
+
+mnist specif stuff
+
+class
+
+valid
+sampl train
+
+find unload batch
+math floor math random load train batch length
+load train batch
+math floor math random 3000 sampl within batch
+3000
+
+load batch time
+step 5000 step
+batch
+load
+load
+load batch
+okay
+
+
+
+
+fetch appropri train imag reshap
+
+convnetj
+
+
+
+
+
+convnetj augment
+
+isval valid
+label label isval isval
+
+
+sampl test
+
+math floor math random 3000
+3000
+
+
+convnetj
+
+
+
+
+
+convnetj augment
+label label
+
+
+batch train batch test
+elt array batch
+array batch
+load array batch
+load train batch
+step
+
+main
+loss window
+train acc window
+test acc window
+loss graph train graph test graph
+window load
+
+layerdef
+
+load length load
+load batch async load train batch total train batch
+load batch async load test batch
+start
+
+reload
+
+
+reload
+
+layerdef fill trainer spect layer def
+
+trainer def length
+net
+trainer
+
+convnetj
+make layer layer def
+trainer convnetj trainer trainer def
+net push
+trainer push trainer
+
+
+step
+
+loss window
+train acc window
+test acc window
+
+loss window push cnnutil window
+train acc window push cnnutil window
+test acc window push cnnutil window
+
+loss graph cnnvi multi graph legend
+train graph cnnvi multi graph legend
+test graph cnnvi multi graph legend
+
+
+start
+load load
+consol start
+set interv load step let
+
+set timeout start keep check
+
+
+load batch batch
+load dataset background
+elt batch imag
+elt batch
+onload
+canva document creat element canva
+canva width width
+canva height height
+canva get context
+draw imag copi wast
+batch get imag data canva width canva height
+load batch
+batch load train batch push batch
+consol finish load batch batch
+
+mnist mnist batch batch
+
+
+
+mnist specif stuff
+
+
+main iter
+load step
+step
+sampl sampl train
+test sampl sampl test
+
+train network
+net length
+loss
+trainacc
+testacc
+
+
+train train exampl
+stat trainer train sampl sampl label
+yhat net get predict
+train acc window yhat sampl label
+loss window stat loss
+
+evalu test exampl
+net forward test sampl
+yhat test net get predict
+test acc window yhat test test sampl label
+
+everi iter also draw
+step
+loss push loss window averag
+trainacc push train acc window averag
+testacc push test acc window averag
+
+
+step
+loss graph step loss
+loss graph draw self document get element by id lossgraph
+
+train graph step trainacc
+train graph draw self document get element by id trainaccgraph
+
+test graph step testacc
+test graph draw self document get element by id testaccgraph
+
+
+global
+layer def trainer
+
+layer def
+layer def push input depth
+layer def push neuron activ tanh
+layer def push neuron activ tanh
+layer def push neuron
+layer def push neuron activ tanh
+layer def push neuron activ tanh
+layer def push regress neuron
+
+convnetj
+make layer layer def
+
+trainer convnetj sgd trainer learn rate method adadelta batch size decay decay
+
+
+
+mnist specif stuff
+
+sampl train
+
+find unload batch
+math floor math random load train batch length
+load train batch
+math floor math random 3000 sampl within batch
+3000
+
+load batch time
+step 5000 step
+batch
+load
+load
+load batch
+okay
+
+
+
+
+fetch appropri train imag reshap
+
+convnetj
+
+
+
+
+
+
+label label
+
+
+batch train batch test
+elt array batch
+array batch
+load array batch
+load train batch
+
+main
+window load
+
+newnet
+chang
+
+load length load
+
+load batch async load train batch total train batch
+load batch async load test batch
+start
+
+
+start
+load load
+consol start
+set interv load step let
+
+set timeout start keep check
+
+
+load batch batch
+load dataset background
+elt batch imag
+elt batch
+onload
+canva document creat element canva
+canva width width
+canva height height
+canva get context
+draw imag copi wast
+batch get imag data canva width canva height
+load batch
+batch load train batch push batch
+consol finish load batch batch
+
+mnist mnist batch batch
+
+
+
+mnist specif stuff
+
+
+maxmin cnnutil maxmin
+cnnutil
+
+render
+
+maxmin
+
+
+canv document creat element canva
+canv class name rendera
+
+
+canv width
+canv height
+canv get context
+creat imag data
+
+
+
+dval math floor minv
+
+
+
+dval
+alpha channel
+
+
+
+
+put imag data
+canv
+
+
+element canva activ draw
+
+scale multipli make visual larger make higher larger pictur
+grad gradient use instead
+draw activ scale grad
+
+scale scale
+draw grad
+grad draw grad grad
+
+activ scale map automat
+draw grad
+maxmin
+
+creat canva element draw
+depth
+
+canv document creat element canva
+canv class name actmap
+
+
+canv width
+canv height
+canv get context
+creat imag data
+
+
+
+draw grad
+dval math floor grad minv
+
+dval math floor minv
+
+
+
+
+dval
+alpha channel
+
+
+
+
+put imag data
+append child canv
+
+
+
+visual activ
+
+clear element
+inner html
+
+show activ layer
+layer length
+
+layer
+
+layer document creat element
+
+visual activ
+activ document creat element
+activ append child document creat text node activ
+activ append child document creat element
+activ class name layer
+scale
+layer scale softmax
+layer regress
+vvi
+vvi
+vvi
+vvi depth
+draw activ activ vvi scale
+
+draw activ activ scale
+
+
+also append regress layer right input
+easi compar
+activ append child document creat element
+activ append child document creat text node predict reconstruct
+activ append child document creat element
+vvi layer layer length
+vvi
+vvi
+vvi depth
+draw activ activ vvi scale
+
+
+
+layer
+filter document creat element
+filter append child document creat text node weight
+filter append child document creat element
+filter length
+lshow filter
+lshow
+lshow
+lshow depth
+draw activ filter lshow
+
+activ append child filter
+
+
+visual filter reason size
+layer conv
+filter document creat element
+filter
+actual weight
+filter append child document creat text node weight
+filter append child document creat element
+filter length
+draw activ filter filter
+
+gradient
+filter append child document creat element
+filter append child document creat text node gradient
+filter append child document creat element
+filter length
+draw activ filter filter
+
+
+filter append child document creat text node weight hidden small
+
+activ append child filter
+
+layer append child activ
+
+stat left layer
+layer class name layer layer
+titl document creat element
+titl class name ltitl
+layer depth
+titl append child document creat text node
+layer append child titl
+
+layer conv
+filter size filter filter filter depth stride stride
+layer append child document creat text node
+layer append child document creat element
+
+layer pool
+pool size stride stride
+layer append child document creat text node
+layer append child document creat element
+
+
+find activ display
+maxmin
+activ maxv minv
+layer append child document creat text node
+layer append child document creat element
+
+paramet
+layer conv
+depth filter length filter length
+paramet filter length depth filter length
+layer append child document creat text node
+layer append child document creat element
+
+layer
+input filter length filter length
+paramet filter length input filter length
+layer append child document creat text node
+layer append child document creat element
+
+
+mad need
+clear document creat element
+clear class name clear
+layer append child clear
+
+append child layer
+
+
+
+load train imag train network
+paus
+emb sampl
+emb img
+load step
+paus
+
+emb sampl length happen
+
+sampl train
+emb sampl push
+render save
+render
+emb img push
+
+
+sampl sampl train
+step sampl process imag
+
+
+
+
+
+cycl
+select layer layer
+
+
+select layer depth wrap
+select layer depth wrap
+cyclestatu html draw neuron layer layer layer
+
+updat lix newlix
+button background color eras highlight
+newlix
+
+reset
+button background color
+
+cyclestatu html draw neuron layer index layer layer
+
+
+
+loss graph cnnvi graph
+x loss window cnnutil window
+w2 loss window cnnutil window
+w1 loss window cnnutil window
+step
+color blue green orang magenta cyan purpl silver oliv lime yellow
+step sampl
+
+train network
+stat trainer train sampl sampl
+
+keep track stat averag train error loss
+x loss window stat cost loss
+w1 loss window stat decay loss
+w2 loss window stat decay loss
+
+visual train statu
+train document get element by id trainstat
+train inner html
+forward time exampl stat time
+train append child document creat text node
+train append child document creat element
+backprop time exampl stat time
+train append child document creat text node
+train append child document creat element
+regress loss x loss window averag
+train append child document creat text node
+train append child document creat element
+weight decay loss w2 loss window averag
+train append child document creat text node
+train append child document creat element
+weight decay loss w1 loss window averag
+train append child document creat text node
+train append child document creat element
+exampl seen step
+train append child document creat text node
+train append child document creat element
+
+visual activ
+step
+document get element by id visnet
+visual activ
+
+
+visual embed
+step
+
+embcanva document get element by id embed
+embcanva get context
+embcanva width
+embcanva height
+
+propag train exampl network grab code
+xcode
+ycode
+emb sampl length sampl
+
+sampl emb sampl
+forward sampl
+xcode layer
+ycode layer
+xcode push xcode
+ycode push ycode
+
+cnnutil maxmin xcode
+cnnutil maxmin ycode
+
+draw everi exampl canva
+clear rect
+
+xpo xcode minv
+ypo ycode minv
+draw border accord
+fill style color emb sampl label
+fill rect xpo ypo
+
+draw imag emb img xpo ypo
+
+
+
+
+progress graph full loss
+step
+x loss window averag
+w1 loss window averag
+w2 loss window averag
+mean enough accumul estim
+loss graph step
+loss graph draw self document get element by id lossgraph
+
+
+
+step
+
+
+user set
+chang
+trainer learn rate pars float document get element by id input valu
+updat param display
+
+updat param display
+document get element by id input valu trainer learn rate
+
+toggl paus
+paus paus
+document get element by id buttontp
+paus valu resum
+valu paus
+
+dump json
+document get element by id dumpjson valu json stringifi to json
+
+clear graph
+loss graph cnnvi graph reinit graph
+
+reset
+updat param display
+
+reinit window keep track train accuraci
+loss graph cnnvi graph reinit graph
+step
+
+enter button layer
+
+layer length ignor input regress layer first last
+butid button
+input butid valu layer layer layer depth submit onclick updat lix style width 80px height 30px margin
+
+layer ixe html
+button background color
+cyclestatu html draw neuron layer index layer layer
+
+
+load json
+json string document get element by id dumpjson valu
+json json pars json string
+convnetj
+from json json
+reset
+
+chang
+newnet
+reset
+
+
+label
+layer def trainer
+
+creat neural
+layer def
+layer def push input depth input
+layer def push neuron activ relu
+layer def push neuron activ relu
+layer def push neuron activ relu
+layer def push neuron activ relu
+layer def push neuron activ relu
+layer def push neuron activ relu
+layer def push neuron activ relu
+layer def push regress neuron output
+
+convnetj
+make layer layer def
+
+trainer convnetj sgd trainer learn rate momentum batch size decay
+
+
+batch iter
+skip draw
+smooth loss
+
+updat
+forward prop
+canva width
+canva height
+
+oridata
+
+convnetj
+loss
+lossi
+batch iter
+iter iter trainer batch size iter
+
+sampl coordin
+convnetj randi
+convnetj randi
+
+
+
+
+stat trainer train
+loss stat loss
+lossi
+
+
+loss lossi
+
+counter smooth loss loss
+smooth loss smooth loss loss
+
+
+loss smooth loss
+
+iter counter
+report html
+
+
+draw
+counter skip draw
+
+iter pixel target evalu
+draw
+canva width
+canva height
+
+get imag data
+convnetj
+
+
+
+
+
+
+forward
+math floor
+math floor
+math floor
+alpha
+
+
+put imag data
+
+
+tick
+updat
+draw
+counter
+
+
+reload
+counter
+layerdef
+slider slider valu math trainer learn rate math ln10
+html learn rate trainer learn rate
+
+refresh swatch
+slider slider valu
+trainer learn rate math
+html learn rate trainer learn rate
+
+
+canva canva oridata
+size draw area
+counter
+
+dynam load lena imag origin imag canva
+imag imag
+imag lena
+imag onload
+
+canva document get element by id canv origin
+canva document get element by id canv
+canva width
+canva height
+canva width
+canva height
+
+canva get context
+canva get context
+draw imag imag
+oridata get imag data grab pointer dataset
+
+start regress
+set interv tick
+
+imag img
+
+init text textarea
+layerdef
+
+load
+reload
+
+slider learn rate
+slider slider
+orient horizont
+
+
+step
+valu math trainer learn rate math ln10
+slide refresh swatch
+chang refresh swatch
+
+html learn rate trainer learn rate
+
+chang
+target file
+file reader
+onload
+imag imag
+imag onload
+draw imag imag
+oridata get imag data
+reload
+
+imag target result
+
+read as data url
+
+
+click
+attr
+draw imag
+oridata get imag data
+reload
+
+
+
+strict
+
+basic build block
+essenti volum number
+width height depth depth
+use hold filter volum
+weight also store gradient
+option valu initi volum
+miss fill random number
+depth
+check variabl javascript
+object prototyp to string call array
+given assum volum fill
+
+
+depth length
+follow copi want
+fast type array ordinari javascript
+zero depth
+zero depth
+depth
+
+
+
+given dimens
+
+
+depth depth
+depth
+zero
+zero
+
+weight normal done equal output
+varianc everi neuron otherwis neuron
+incom connect output larger varianc
+scale math sqrt depth
+
+randn scale
+
+
+
+
+
+
+
+
+
+prototyp
+
+depth
+
+
+
+depth
+
+
+
+depth
+
+
+grad
+depth
+
+
+grad
+depth
+
+
+grad
+depth
+
+
+clone and zero depth
+
+depth
+length
+
+
+
+add from length
+add from scale length
+set const length
+
+to json
+todo want save signific digit save space
+json
+json
+json
+json depth depth
+json
+json
+wont back gradient save space
+
+from json json
+json
+json
+depth json depth
+
+depth
+zero
+zero
+copi element
+
+json
+
+
+
+
+
+convnetj
+
+strict
+conveni
+
+layer implement loss current layer
+initi backward futur probabl want
+flexibl system accomod multipl loss multi task
+learn stuff like layer
+file must layer
+
+thi classifi discret class
+get stream incom number comput softmax
+exponenti normal probabl
+softmax layer
+
+
+comput
+input depth
+depth input
+
+
+layer softmax
+
+
+softmax layer prototyp
+forward train
+
+
+depth
+
+comput activ
+
+amax
+depth
+amax amax
+
+
+comput exponenti care blow
+zero depth
+esum
+depth
+math amax
+esum
+
+
+
+normal output
+depth
+esum
+
+
+
+save backprop
+
+
+
+backward
+
+comput accumul gradient weight bia layer
+
+zero length zero gradient input
+
+depth
+indic
+indic
+
+
+
+loss neg likelihood
+math
+
+get param and grad
+
+
+to json
+json
+json depth depth
+json
+json
+json layer layer
+json input input
+json
+
+from json json
+depth json depth
+json
+json
+layer json layer
+input json input
+
+
+
+regress cost layer
+penal input
+user provid correct valu
+regress layer
+
+
+comput
+input depth
+depth input
+
+
+layer regress
+
+
+regress layer prototyp
+forward train
+
+
+ident
+
+size input
+valu regress
+want
+regress dimens ask valu
+backward
+
+comput accumul gradient weight bia layer
+
+zero length zero gradient input
+loss
+array float64 array
+depth
+
+
+loss
+
+
+let hope regress
+
+
+loss
+
+assum entri
+gradient along dimens equal
+
+
+
+
+loss
+
+loss
+
+get param and grad
+
+
+to json
+json
+json depth depth
+json
+json
+json layer layer
+json input input
+json
+
+from json json
+depth json depth
+json
+json
+layer json layer
+input json input
+
+
+
+svm layer
+
+
+comput
+input depth
+depth input
+
+
+layer
+
+
+svm layer prototyp
+forward train
+
+noth output score
+
+
+backward
+
+comput accumul gradient weight bia layer
+
+zero length zero gradient input
+
+structur loss mean score
+ground truth higher score
+margin
+yscore score ground truth
+margin
+loss
+depth
+
+ydiff yscore margin
+ydiff
+violat dimens appli loss
+
+
+loss ydiff
+
+
+
+loss
+
+get param and grad
+
+
+to json
+json
+json depth depth
+json
+json
+json layer layer
+json input input
+json
+
+from json json
+depth json depth
+json
+json
+layer json layer
+input json input
+
+
+
+regress layer regress layer
+softmax layer softmax layer
+svm layer svm layer
+
+convnetj
+
+convnetj convnetj revis alpha
+
+strict
+
+random util
+
+
+gauss random
+
+
+
+
+math random
+math random
+
+gauss random
+math sqrt math
+cach
+
+
+
+randf math random
+randi math floor math random
+randn gauss random
+
+array util
+zero
+is na n
+array buffer
+lack browser support
+array
+
+
+
+float64 array
+
+
+
+arr contain
+length
+
+
+
+
+
+arr uniqu
+
+length
+arr contain
+push
+
+
+
+
+
+given
+maxmin
+length
+maxv
+minv
+maxi
+mini
+length
+
+maxv maxv maxi
+minv minv mini
+
+maxi maxi maxv maxv mini mini minv minv maxv minv
+
+
+creat random permut number rang
+randperm
+
+
+temp
+
+
+
+math floor math random
+temp
+
+temp
+
+
+
+
+sampl accord probabl prob
+list size prob add
+weight sampl prob
+randf
+cumprob
+length
+cumprob prob
+cumprob
+
+
+
+syntact sugar get paramet valu
+getopt field name valu
+field name
+singl
+field name field name valu
+
+assum given instead
+valu
+field name length
+field name
+
+overwrit valu
+
+
+
+
+
+
+condit messag
+condit
+messag messag assert fail
+error
+error messag
+
+messag fallback
+
+
+
+randf randf
+randi randi
+randn randn
+zero zero
+maxmin maxmin
+randperm randperm
+weight sampl weight sampl
+arr uniqu arr uniqu
+arr contain arr contain
+getopt getopt
+
+
+convnetj
+
+strict
+conveni
+
+pool layer
+
+
+
+requir
+filter size
+depth depth
+
+
+
+option
+
+stride stride stride
+amount pad around border input volum
+
+comput
+depth depth
+math floor stride
+math floor stride
+layer pool
+store switch coordin come output neuron
+switchx zero depth
+switchi zero depth
+
+
+pool layer prototyp
+forward train
+
+
+depth
+
+counter switch
+depth
+
+
+stride
+
+stride
+
+convolv center particular locat
+99999 hope small enough
+winx wini
+
+
+
+
+
+
+perform pool store pointer
+came thi speed backprop
+help make nice visual futur
+winx wini
+
+
+
+switchx winx
+switchi wini
+
+
+
+
+
+
+
+
+backward
+pool layer paramet simpli comput
+gradient
+
+zero length zero gradient
+comput forward
+
+
+depth
+
+
+stride
+
+stride
+
+chain grad grad
+grad switchx switchi chain grad
+
+
+
+
+
+
+get param and grad
+
+
+to json
+json
+json
+json
+json stride stride
+json depth depth
+json depth depth
+json
+json
+json layer layer
+json
+json
+
+from json json
+depth json depth
+json
+json
+layer json layer
+json
+json
+stride json stride
+depth json depth
+json json backward compat
+switchx zero depth need init appropri
+switchi zero depth
+
+
+
+pool layer pool layer
+
+convnetj
+
+strict
+conveni
+
+implement re lu nonlinear elementwis
+
+output
+relu layer
+
+
+comput
+
+
+depth depth
+layer relu
+
+relu layer prototyp
+forward train
+
+
+length
+
+
+threshold
+
+
+
+
+backward
+need
+
+length
+zero zero gradient
+
+threshold
+
+
+
+get param and grad
+
+
+to json
+json
+json depth depth
+json
+json
+json layer layer
+json
+
+from json json
+depth json depth
+json
+json
+layer json layer
+
+
+
+implement sigmoid nnonlinear elementwis
+
+output
+sigmoid layer
+
+
+comput
+
+
+depth depth
+layer sigmoid
+
+sigmoid layer prototyp
+forward train
+
+clone and zero
+length
+
+
+
+math
+
+
+
+
+backward
+need
+
+length
+zero zero gradient
+
+v2wi
+v2wi v2wi
+
+
+get param and grad
+
+
+to json
+json
+json depth depth
+json
+json
+json layer layer
+json
+
+from json json
+depth json depth
+json
+json
+layer json layer
+
+
+
+implement maxout nnonlinear comput
+
+vector size group size ideal cours
+input size exactli divis group size
+maxout layer
+
+
+requir
+group size group size group size
+
+comput
+
+
+depth math floor depth group size
+layer maxout
+
+switch zero depth use backprop
+
+maxout layer prototyp
+forward train
+
+depth
+depth
+
+optim branch oper array dont
+worri keep track coordin insid
+input volum convnet
+
+
+group size index offset
+
+
+group size
+
+
+
+
+
+
+
+switch
+
+
+counter switch
+
+
+
+group size
+
+
+group size
+
+
+
+
+
+
+
+switch
+
+
+
+
+
+
+
+
+
+backward
+need
+
+depth
+zero length zero gradient
+
+gradient appropri
+
+
+chain grad
+switch chain grad
+
+
+bleh okay let hard
+counter switch
+
+
+
+chain grad grad
+grad switch chain grad
+
+
+
+
+
+
+get param and grad
+
+
+to json
+json
+json depth depth
+json
+json
+json layer layer
+json group size group size
+json
+
+from json json
+depth json depth
+json
+json
+layer json layer
+group size json group size
+switch zero group size
+
+
+
+helper sinc tanh part ecma script will
+tanh
+math
+
+
+implement tanh nnonlinear elementwis
+tanh
+output
+tanh layer
+
+
+comput
+
+
+depth depth
+layer tanh
+
+tanh layer prototyp
+forward train
+
+clone and zero
+length
+
+tanh
+
+
+
+
+backward
+need
+
+length
+zero zero gradient
+
+v2wi
+v2wi v2wi
+
+
+get param and grad
+
+
+to json
+json
+json depth depth
+json
+json
+json layer layer
+json
+
+from json json
+depth json depth
+json
+json
+layer json layer
+
+
+
+tanh layer tanh layer
+maxout layer maxout layer
+relu layer relu layer
+sigmoid layer sigmoid layer
+
+convnetj
+
+
+strict
+conveni
+
+experiment layer think work
+gradient check funki look later
+local respons normal window along depth volum
+local respons normal layer
+
+
+requir
+
+
+alpha alpha
+beta beta
+
+comput
+
+
+depth depth
+layer
+
+check
+consol warn layer
+
+local respons normal layer prototyp
+forward train
+
+
+clone and zero
+cach clone and zero
+math floor
+
+
+depth
+
+
+
+normal window size
+
+math math depth
+
+
+
+alpha
+
+cach use backprop
+math beta
+
+
+
+
+
+
+dummi ident
+
+backward
+evalu gradient
+need
+zero length zero gradient
+comput forward
+
+math floor
+
+
+depth
+
+chain grad grad
+cach
+math beta
+
+
+normal window size
+math math depth
+
+beta math beta alpha
+
+
+chain grad
+grad
+
+
+
+
+
+
+get param and grad
+to json
+json
+json
+json
+json alpha alpha normal size
+json beta beta
+json
+json
+json depth depth
+json layer layer
+json
+
+from json json
+json
+json
+alpha json alpha normal size
+beta json beta
+json
+json
+depth json depth
+layer json layer
+
+
+
+
+local respons normal layer local respons normal layer
+convnetj
+
+strict
+
+use util make local refer
+randf randf
+randi randi
+
+trainer trainer
+maxmin maxmin
+randperm randperm
+weight sampl weight sampl
+getopt getopt
+arr uniqu arr uniqu
+
+
+magic net take convnetj label
+assum indec magic net
+creat fold cross valid
+sampl candid network
+evalu candid network fold
+produc predict model averag best network
+
+magic net label
+
+
+label label
+
+requir input
+store pointer
+label label
+
+option input
+train ratio getopt train ratio
+fold getopt fold
+candid getopt candid evalu sever parallel
+mani epoch train everi network everi fold
+higher valu mean higher accuraci result expens
+epoch getopt epoch
+best model averag predict usual higher better
+ensembl size getopt ensembl size
+
+candid paramet
+batch size getopt batch size
+batch size getopt batch size
+decay getopt decay
+decay getopt decay
+learn rate getopt learn rate
+learn rate getopt learn rate
+momentum getopt momentum
+momentum getopt momentum
+neuron getopt neuron
+neuron getopt neuron
+
+comput
+fold fold indic get fill sampl fold
+candid candid network current evalu
+evalu candid histori candid fulli evalu fold
+uniqu label arr uniqu label
+iter iter counter goe epoch train
+foldix index activ fold
+
+callback
+finish fold callback
+finish batch callback
+
+initi
+length
+sampl fold
+sampl candid
+
+
+
+magic net prototyp
+
+set fold sampl fold fold
+sampl fold
+length
+train math floor train ratio
+fold flush fold
+fold
+randperm
+fold push train slice train test slice train
+
+
+
+return random candid network
+sampl candid
+input depth length
+class uniqu label length
+
+sampl network topolog hyperparamet
+layer def
+layer def push input depth input depth
+weight sampl prefer net hidden layer
+
+randi neuron neuron
+tanh maxout relu randi
+randf
+math random
+layer def push neuron activ drop prob
+
+layer def push neuron activ
+
+
+layer def push softmax class class
+
+make layer layer def
+
+sampl train hyperparamet
+randi batch size batch size batch size
+math randf decay decay weight decay
+math randf learn rate learn rate learn rate
+randf momentum momentum momentum let work okay usual
+randf trainer
+trainer
+
+trainer method adadelta batch size decay
+
+trainer method adagrad learn rate batch size decay
+
+trainer method learn rate momentum batch size decay
+
+
+trainer trainer trainer
+
+cand
+cand
+cand accv maintain conveni
+cand layer def layer def
+cand trainer trainer
+cand
+cand trainer trainer
+cand
+
+
+set candid candid candid net
+sampl candid
+candid flush
+candid
+cand sampl candid
+candid push cand
+
+
+
+step
+
+exampl current candid
+iter
+
+step candid random point
+fold fold foldix activ fold
+dataix fold train randi fold train length
+candid length
+dataix
+label dataix
+candid trainer train
+
+
+process consequ sampl fold candid
+lastit epoch fold train length
+iter lastit
+finish evalu fold valid
+accuraci record fold
+eval val error
+candid length
+candid
+push
+accv
+
+iter reset step
+foldix increment fold
+
+finish fold callback
+finish fold callback
+
+
+foldix fold length
+finish fold well record candid
+sampl one evalu
+candid length
+evalu candid push candid
+
+sort evalu candid accord accuraci achiev
+evalu candid sort
+accv length
+accv length
+
+
+clip one let place limit ensembl size
+otherwis concern keep memori
+magic net evalu time
+evalu candid length ensembl size
+evalu candid evalu candid slice ensembl size
+
+finish batch callback
+finish batch callback
+
+sampl candid candid
+foldix reset
+
+anoth fold reset candid net
+candid length
+candid
+
+make layer layer def
+trainer trainer trainer
+
+trainer trainer
+
+
+
+
+
+eval val error
+evalu candid valid perform current network
+simpl
+val
+fold fold foldix activ fold
+candid length
+candid
+
+fold test length
+fold test
+label fold test
+forward
+yhat get predict
+yhat loss
+
+fold test length normal
+val push
+
+val
+
+
+return predict score given test point
+use averag predict best ensembl size model
+
+predict soft
+forward prop best network
+accumul probabl last layer output
+
+candid
+
+evalu candid length
+sure first batch net hasnt evalu
+let predict current candid
+candid length
+candid candid
+
+forward prop best network evalu candid
+math ensembl size evalu candid length
+candid evalu candid
+
+
+forward net candid averag predict
+xout
+
+candid
+forward
+
+xout
+length
+
+
+
+xout
+
+
+
+produc averag
+
+xout
+
+xout
+
+
+predict
+xout predict soft
+xout length
+stat maxmin xout
+predict label stat maxi
+
+predict label error
+
+predict label
+
+
+
+to json
+dump ensembl size network
+math ensembl size evalu candid length
+json
+json net
+
+json net push evalu candid to json
+
+json
+
+
+from json json
+ensembl size json net length
+evalu candid
+ensembl size
+
+from json json net
+dummi candid
+dummi candid
+evalu candid push dummi candid
+
+
+
+callback function
+call fold finish evalu batch
+on finish fold finish fold callback
+call batch candid finish evalu
+on finish batch finish batch callback
+
+
+
+magic net magic net
+convnetj
+
+strict
+conveni
+
+trainer option
+
+
+
+option option
+learn rate option learn rate option learn rate
+decay option decay option decay
+decay option decay option decay
+batch size option batch size option batch size
+method option method option method adam adagrad adadelta windowgrad netsterov
+
+momentum option momentum option momentum
+option option use adadelta
+option option use adam adadelta
+beta1 option beta1 option beta1 use adam
+beta2 option beta2 option beta2 use adam
+
+iter counter
+gsum last iter gradient use momentum calcul
+xsum use adam adadelta
+
+check regress expect
+layer layer length layer regress
+regress
+
+regress
+
+
+trainer prototyp
+train
+
+start date get time
+forward also flag let know train
+date get time
+time start
+
+start date get time
+cost loss backward
+decay loss
+decay loss
+date get time
+time start
+
+regress array
+consol warn regress requir train output vector
+
+
+batch size
+
+pglist get param and grad
+
+initi list accumul will done first iter
+gsum length method momentum
+vanilla doesnt need either list
+momentum need gsum
+adagrad need gsum
+adam adadelta need gsum xsum
+pglist length
+gsum push zero pglist length
+method adam method adadelta
+xsum push zero pglist length
+
+xsum push conserv memori
+
+
+
+
+perform updat set weight
+pglist length
+pglist param gradient option futur custom learn rate
+
+grad
+
+learn rate paramet
+decay decay decay
+decay decay decay
+decay decay decay
+decay decay decay
+
+plen length
+plen
+decay loss decay accumul weight decay loss
+decay loss decay math
+l1grad decay
+l2grad decay
+
+l2grad l1grad batch size batch gradient
+
+gsumi gsum
+xsumi xsum
+method adam
+adam updat
+gsumi gsumi beta1 beta1 updat bias first moment estim
+xsumi xsumi beta2 beta2 updat bias second moment estim
+bia corr1 gsumi math beta1 correct bia first moment estim
+bia corr2 xsumi math beta2 correct bia second moment estim
+learn rate bia corr1 math sqrt bia corr2
+
+method adagrad
+adagrad updat
+gsumi gsumi
+learn rate math sqrt gsumi
+
+method windowgrad
+adagrad move window weight averag
+gradient accumul entir histori
+also refer idea zeiler paper adadelta seem reason
+gsumi gsumi
+learn rate math sqrt gsumi ad better condit
+
+method adadelta
+gsumi gsumi
+math sqrt xsumi gsumi
+xsumi xsumi xsum lag behind gsum
+
+method nesterov
+gsumi
+gsumi gsumi momentum learn rate
+momentum momentum gsumi
+
+
+assum
+momentum
+momentum updat
+momentum gsumi learn rate step
+gsumi back iter momentum
+appli correct gradient
+
+vanilla
+learn rate
+
+
+zero gradient accumul anew
+
+
+
+
+append softmax loss backward compat alway cost loss
+futur todo complet loss done around network current
+loss hack ideal user specifi arbitrari loss function layer
+comput correctli automat
+time time time time
+decay loss decay loss decay loss decay loss
+cost loss cost loss softmax loss cost loss
+loss cost loss decay loss decay loss
+
+
+
+trainer trainer
+sgd trainer trainer backward compat
+convnetj
+
+
+strict
+conveni
+
+ineffici dropout layer
+note effici implement sinc layer
+comput activ go drop
+goe backward also want effici test time
+could equival clever upscal train copi pointer test
+todo make effici
+dropout layer
+
+
+comput
+
+
+depth depth
+layer dropout
+drop prob drop prob drop prob
+drop zero depth
+
+dropout layer prototyp
+forward train
+
+train train predict mode
+
+length
+train
+dropout
+
+math random drop prob drop drop
+drop
+
+
+scale activ predict
+drop prob
+
+
+dummi ident
+
+backward
+need
+chain grad
+length
+zero zero gradient
+
+drop
+chain grad copi gradient
+
+
+
+get param and grad
+
+
+to json
+json
+json depth depth
+json
+json
+json layer layer
+json drop prob drop prob
+json
+
+from json json
+depth json depth
+json
+json
+layer json layer
+drop prob json drop prob
+
+
+
+
+dropout layer dropout layer
+convnetj
+
+strict
+export
+window convnetj ordinari browser attach librari window
+
+export nodej
+
+convnetj
+
+strict
+conveni
+
+volum util
+intend augment
+crop size output
+offset incom volum shift
+fliplr whether also want flip left right
+augment crop fliplr
+note assum squar output size crop crop
+fliplr fliplr
+randi crop
+randi crop
+
+randomli sampl crop input volum
+
+crop
+crop crop depth
+crop
+crop
+
+depth
+copi
+
+
+
+
+
+
+
+fliplr
+flip volum horziont
+clone and zero
+
+
+depth
+copi
+
+
+
+swap
+
+
+
+
+element contain load imag
+return size rgba
+convert grayscal
+
+convert grayscal convert grayscal
+
+canva document creat element canva
+canva width width
+canva height height
+canva get context
+
+firefox
+
+draw imag
+
+name error avail
+sometim happen let abort
+
+
+
+
+
+
+
+get imag data canva width canva height
+
+name index size error
+sure caus sometim okay abort
+
+
+
+
+
+prepar input pixel normal
+
+width
+height
+
+length
+push normal imag pixel
+
+input volum imag
+
+
+convert grayscal
+flatten depth
+
+
+
+
+
+
+
+
+
+
+
+
+augment augment
+
+
+convnetj
+
+strict
+conveni
+
+
+manag layer
+constraint simpl linear order layer first layer input last layer cost layer
+option
+layer
+
+
+prototyp
+
+take layer definit creat network layer object
+make layer def
+
+check
+def length error least input layer loss layer requir
+def input error first layer must input layer size input
+
+desugar layer def ad activ dropout layer
+desugar
+def
+def length
+def
+
+softmax
+layer reason user
+worri almost alway want
+def push neuron class
+
+
+regress
+layer reason user
+worri almost alway want
+def push neuron neuron
+
+
+conv
+bia pref
+bia pref
+activ activ relu
+bia pref relu like posit bia gradient earli
+otherwis technic possibl relu unit never turn chanc
+never gradient never contribut comput dead relu
+
+
+
+def push
+
+activ
+activ relu def push relu
+activ sigmoid def push sigmoid
+activ tanh def push tanh
+activ maxout
+creat maxout activ along group size provid
+group size group size
+def push maxout group size
+
+consol error unsupport activ activ
+
+drop prob dropout
+def push dropout drop prob drop prob
+
+
+
+def
+
+def desugar def
+
+creat layer
+layer
+def length
+def
+
+prev layer
+prev
+prev
+depth prev depth
+
+
+
+layer push fulli conn layer
+layer push local respons normal layer
+dropout layer push dropout layer
+input layer push input layer
+softmax layer push softmax layer
+regress layer push regress layer
+conv layer push conv layer
+pool layer push pool layer
+relu layer push relu layer
+sigmoid layer push sigmoid layer
+tanh layer push tanh layer
+maxout layer push maxout layer
+layer push svm layer
+consol error unrecogn layer type
+
+
+
+
+forward prop network
+trainer pass train
+call outsid trainer default predict mode
+forward train
+train train
+layer forward train
+layer length
+layer forward train
+
+
+
+
+get cost loss
+forward
+layer length
+loss layer backward
+loss
+
+
+backprop comput gradient paramet
+backward
+layer length
+loss layer backward last layer assum loss layer
+first layer assum input
+layer backward
+
+loss
+
+get param and grad
+accumul paramet gradient entir network
+respons
+layer length
+layer repons layer get param and grad
+layer repons length
+respons push layer repons
+
+
+respons
+
+get predict
+conveni return argmax
+predict assum last layer softmax
+layer layer length
+layer softmax get predict assum softmax last layer
+
+
+maxv
+maxi
+length
+maxv maxv maxi
+
+maxi index highest probabl
+
+to json
+json
+json layer
+layer length
+json layer push layer to json
+
+json
+
+from json json
+layer
+json layer length
+json layer
+layer
+
+input input layer
+relu relu layer
+sigmoid sigmoid layer
+tanh tanh layer
+dropout dropout layer
+conv conv layer
+pool pool layer
+local respons normal layer
+softmax softmax layer
+regress regress layer
+fulli conn layer
+maxout maxout layer
+svm layer
+from json
+layer push
+
+
+
+
+
+convnetj
+
+strict
+conveni
+
+thi file contain layer product input
+usual differ connect pattern weight share
+scheme
+fulli conn fulli connect product
+conv layer convolut weight share spatial
+put togeth file similar
+conv layer
+
+
+requir
+depth filter
+filter size should possibl cleaner
+depth depth
+
+
+
+option
+
+stride stride stride stride appli filter input volum
+amount pad around border input volum
+decay decay decay
+decay decay decay
+
+comput
+note floor stride convolut filter doesnt input
+volum exactli output volum trim contain incomplet comput
+applic
+math floor stride
+math floor stride
+layer conv
+
+initi
+bia bia pref bia pref
+filter
+depth filter push depth
+bias depth bia
+
+conv layer prototyp
+forward train
+optim code mdda achiev speedup previou version
+
+
+depth
+
+
+
+stride stride
+
+depth
+filter
+
+
+stride stride
+
+stride stride
+
+convolv center particular locat
+
+
+coordin origin input coordin
+
+
+
+depth
+avoid call overhead effici compromis modular
+depth depth
+
+
+
+
+bias
+
+
+
+
+
+
+
+backward
+
+
+zero length zero gradient bottom fill
+
+
+
+stride stride
+
+depth
+filter
+
+
+stride stride
+
+stride stride
+
+convolv center particular locat
+chain grad grad gradient chain rule
+
+coordin origin input coordin
+
+
+
+depth
+avoid call overhead effici compromis modular
+depth
+depth
+chain grad
+chain grad
+
+
+
+
+bias chain grad
+
+
+
+
+get param and grad
+respons
+depth
+respons push filter grad filter decay decay decay decay
+
+respons push bias grad bias decay decay
+respons
+
+to json
+json
+json filter size dim
+json
+json stride stride
+json depth depth
+json depth depth
+json
+json
+json layer layer
+json decay decay
+json decay decay
+json
+json filter
+filter length
+json filter push filter to json
+
+json bias bias to json
+json
+
+from json json
+depth json depth
+json
+json
+layer json layer
+json filter size dim
+json
+stride json stride
+depth json depth depth input volum
+filter
+decay json decay json decay
+decay json decay json decay
+json json
+json filter length
+
+from json json filter
+filter push
+
+bias
+bias from json json bias
+
+
+
+fulli conn layer
+
+
+requir
+fine allow filter word well
+depth neuron neuron filter
+
+option
+decay decay decay
+decay decay decay
+
+comput
+input depth
+
+
+layer
+
+initi
+bia bia pref bia pref
+filter
+depth filter push input
+bias depth bia
+
+
+fulli conn layer prototyp
+forward train
+
+depth
+
+depth
+
+filter
+input
+effici vol directli
+
+bias
+
+
+
+
+
+backward
+
+zero length zero gradient input
+
+comput gradient weight
+depth
+filter
+chain grad
+input
+chain grad grad input
+chain grad grad
+
+bias chain grad
+
+
+get param and grad
+respons
+depth
+respons push filter grad filter decay decay decay decay
+
+respons push bias grad bias decay decay
+respons
+
+to json
+json
+json depth depth
+json
+json
+json layer layer
+json input input
+json decay decay
+json decay decay
+json filter
+filter length
+json filter push filter to json
+
+json bias bias to json
+json
+
+from json json
+depth json depth
+json
+json
+layer json layer
+input json input
+decay json decay json decay
+decay json decay json decay
+filter
+json filter length
+
+from json json filter
+filter push
+
+bias
+bias from json json bias
+
+
+
+conv layer conv layer
+fulli conn layer fulli conn layer
+
+convnetj
+
+
+strict
+conveni
+getopt getopt
+
+input layer
+
+
+requir depth
+depth getopt depth depth
+
+option dimens
+getopt width
+getopt height
+
+comput
+layer input
+
+input layer prototyp
+forward train
+
+
+simpli ident
+
+backward
+get param and grad
+
+
+to json
+json
+json depth depth
+json
+json
+json layer layer
+json
+
+from json json
+depth json depth
+json
+json
+layer json layer
+
+
+
+input layer input layer
+convnetj
+
+copyright 2008 2013 pivot lab
+
+permiss herebi grant free charg person obtain
+copi softwar associ document file
+softwar deal softwar without restrict includ
+without limit right copi modifi merg publish
+distribut sublicens sell copi softwar
+permit person softwar furnish subject
+follow condit
+
+copyright notic permiss notic shall
+includ copi substanti portion softwar
+
+softwar provid without warranti kind
+express impli includ limit warranti
+merchant fit particular purpos
+noninfring event shall author copyright holder
+liabl claim damag other liabil whether action
+contract tort otherwis aris from connect
+with softwar other deal softwar
+
+get jasmin requir obj
+export
+export
+
+window jasmin requir window jasmin requir
+window jasmin requir
+
+
+
+get jasmin requir obj consol j requir
+consol report j requir consol report
+
+
+get jasmin requir obj consol report
+
+noop timer
+start
+elaps
+
+
+consol report option
+option
+show color option show color
+on complet option on complet
+timer option timer noop timer
+spec count
+failur count
+fail spec
+pend count
+ansi
+green
+
+yellow
+none
+
+
+jasmin start
+spec count
+failur count
+pend count
+start
+print newlin
+timer start
+
+
+jasmin done
+print newlin
+fail spec length
+spec failur detail fail spec
+
+
+print newlin
+spec count spec count plural spec spec count
+failur count plural failur failur count
+
+pend count
+spec count pend count pend plural spec pend count
+
+
+spec count
+
+print newlin
+second timer elaps 1000
+finish second plural second second
+
+print newlin
+
+on complet failur count
+
+
+spec done result
+spec count
+
+result statu pend
+pend count
+color yellow
+
+
+
+result statu pass
+color green
+
+
+
+result statu fail
+failur count
+fail spec push result
+color
+
+
+
+
+
+print newlin
+
+
+
+color color
+show color ansi color ansi none
+
+
+plural count
+count
+
+
+thing time
+
+time
+push thing
+
+
+
+
+indent space
+line split
+new arr
+line length
+new arr push space join line
+
+new arr join
+
+
+spec failur detail result
+print newlin
+result full name
+
+result fail expect length
+fail expect result fail expect
+print newlin
+indent fail expect stack
+
+
+print newlin
+
+
+
+consol report
+
+
+start version file boot jasmin perform necessari initi execut load environ project spec thi file load jasmin project sourc file spec file load thu file also use custom jasmin project
+
+project jasmin standalon distribut file custom directli project jasmin rubi jasmin file copi support directori jasmin copi boot other environ python differ mechan
+
+locat boot specifi overridden jasmin
+
+jasmin http github pivot jasmin
+
+
+
+
+
+requir instanti
+
+requir jasmin core file specif requir attach jasmin code jasmin refer
+
+window jasmin jasmin requir core jasmin requir
+
+
+sinc browser result popul html page html specif jasmin code inject refer
+
+jasmin requir html jasmin
+
+
+creat jasmin environ thi use spec project
+
+jasmin get env
+
+
+global interfac
+
+build function expos jasmin project custom renam function desir provid implement remain unchang
+
+jasmin interfac
+describ descript spec definit
+describ descript spec definit
+
+
+xdescrib descript spec definit
+xdescrib descript spec definit
+
+
+desc func
+desc func
+
+
+desc func
+desc func
+
+
+befor each befor each function
+befor each befor each function
+
+
+after each after each function
+after each after each function
+
+
+expect actual
+expect actual
+
+
+pend
+pend
+
+
+spi on method name
+spi on method name
+
+
+js api report jasmin js api report
+timer jasmin timer
+
+
+
+
+jasmin proper project directli exampl call describ spec instead jasmin get env describ
+
+window export
+extend export jasmin interfac
+
+extend window jasmin interfac
+
+
+
+expos ad custom equal tester
+
+jasmin add custom equal tester tester
+add custom equal tester tester
+
+
+
+expos ad custom expect matcher
+
+jasmin add matcher matcher
+add matcher matcher
+
+
+
+expos mock java script timeout function
+
+jasmin clock
+clock
+
+
+
+runner paramet
+
+more browser specif code wrap queri allow get set paramet runner user
+
+
+queri string jasmin queri string
+get window locat window locat
+
+
+catch except queri string get param
+catch except catch except catch except
+
+
+report
+html report build html runner page thi report paint dot star spec well spec name failur
+
+html report jasmin html report
+
+on rais except click queri string set param catch except
+get contain document bodi
+creat element document creat element appli document
+creat text node document creat text node appli document
+timer jasmin timer
+
+
+
+js api report also receiv spec result use environ need extract result java script
+
+add report jasmin interfac js api report
+add report html report
+
+
+filter spec match start full name spec queri param
+
+spec filter jasmin html spec filter
+filter string queri string get param spec
+
+
+spec filter spec
+spec filter match spec get full name
+
+
+
+set time function abl overridden certain browser safari phantomj hack
+
+window set timeout window set timeout
+window set interv window set interv
+window clear timeout window clear timeout
+window clear interv window clear interv
+
+
+execut
+
+replac browser window onload call load spec thi includ initi html report execut load jasmin environ happen spec load
+
+current window onload window onload
+
+window onload
+current window onload
+current window onload
+
+html report initi
+execut
+
+
+
+helper readabl
+
+extend destin sourc
+properti sourc destin properti sourc properti
+destin
+
+
+
+
+copyright 2008 2013 pivot lab
+
+permiss herebi grant free charg person obtain
+copi softwar associ document file
+softwar deal softwar without restrict includ
+without limit right copi modifi merg publish
+distribut sublicens sell copi softwar
+permit person softwar furnish subject
+follow condit
+
+copyright notic permiss notic shall
+includ copi substanti portion softwar
+
+softwar provid without warranti kind
+express impli includ limit warranti
+merchant fit particular purpos
+noninfring event shall author copyright holder
+liabl claim damag other liabil whether action
+contract tort otherwis aris from connect
+with softwar other deal softwar
+
+jasmin requir html
+result node jasmin requir result node
+html report jasmin requir html report
+queri string jasmin requir queri string
+html spec filter jasmin requir html spec filter
+
+
+jasmin requir html report
+
+noop timer
+start
+elaps
+
+
+html report option
+option
+get contain option get contain
+creat element option creat element
+creat text node option creat text node
+on rais except click option on rais except click
+timer option timer noop timer
+result
+spec execut
+failur count
+pend spec count
+html report main
+symbol
+
+initi
+html report main creat dom class name html report
+creat dom class name banner
+creat dom span class name titl jasmin
+creat dom span class name version version
+
+creat dom class name summari
+creat dom class name alert
+creat dom class name result
+creat dom class name failur
+
+
+get contain append child html report main
+
+symbol find summari
+
+
+total spec defin
+jasmin start option
+total spec defin option total spec defin
+timer start
+
+
+summari creat dom class name summari
+
+top result result node
+current parent top result
+
+suit start result
+current parent add child result suit
+current parent current parent last
+
+
+suit done result
+current parent top result
+
+
+
+current parent current parent parent
+
+
+spec start result
+current parent add child result spec
+
+
+failur
+spec done result
+result statu disabl
+spec execut
+
+
+symbol append child creat dom
+class name result statu
+spec result
+titl result full name
+
+
+
+result statu fail
+failur count
+
+failur
+creat dom class name spec detail fail
+creat dom class name descript
+creat dom titl result full name href spec href result result full name
+
+creat dom class name messag
+
+messag failur child node
+
+result fail expect length
+expect result fail expect
+messag append child creat dom class name result messag expect messag
+messag append child creat dom class name stack trace expect stack
+
+
+failur push failur
+
+
+result statu pend
+pend spec count
+
+
+
+jasmin done
+banner find banner
+banner append child creat dom span class name durat finish timer elaps 1000
+
+alert find alert
+
+alert append child creat dom span class name except
+creat dom label class name label except except
+creat dom input
+class name
+except
+checkbox
+
+
+checkbox find input
+
+checkbox catch except
+checkbox onclick on rais except click
+
+spec execut total spec defin
+skip messag spec execut total spec defin spec
+alert append child
+creat dom span class name skip
+creat dom href titl spec skip messag
+
+
+
+statu bar messag plural spec spec execut plural failur failur count
+pend spec count statu bar messag plural pend spec pend spec count
+
+statu bar class name failur count fail pass
+alert append child creat dom span class name statu bar class name statu bar messag
+
+result find result
+result append child summari
+
+summari list top result summari
+
+summari list result tree dom parent
+spec list node
+result tree children length
+result node result tree children
+result node suit
+suit list node creat dom class name suit suit result node result
+creat dom class name suit detail
+creat dom href spec href result node result result node result descript
+
+
+
+summari list result node suit list node
+dom parent append child suit list node
+
+result node spec
+dom parent get attribut spec
+spec list node creat dom class name spec
+dom parent append child spec list node
+
+spec list node append child
+creat dom
+class name result node result statu
+spec result node result
+
+creat dom href spec href result node result result node result descript
+
+
+
+
+
+
+failur length
+alert append child
+creat dom span class name menu spec
+creat dom span spec list
+creat dom class name failur menu href failur
+alert append child
+creat dom span class name menu failur
+creat dom class name spec menu href spec list
+creat dom span failur
+
+find failur menu onclick
+set menu mode to failur
+
+find spec menu onclick
+set menu mode to spec
+
+
+set menu mode to failur
+
+failur node find failur
+failur length
+failur node append child failur
+
+
+
+
+
+
+find selector
+get contain queri selector selector
+
+
+creat dom attr children var arg
+creat element
+
+length
+child
+
+child
+append child creat text node child
+
+child
+append child child
+
+
+
+
+attr attr
+attr class name
+attr attr attr
+
+set attribut attr attr attr
+
+
+
+
+
+
+plural singular count
+word count singular singular
+
+count word
+
+
+spec href result
+spec encod uri compon result full name
+
+
+set menu mode to mode
+html report main set attribut html report mode
+
+
+
+html report
+
+
+jasmin requir html spec filter
+html spec filter option
+filter string option option filter string option filter string replac
+filter pattern reg exp filter string
+
+match spec name
+filter pattern test spec name
+
+
+
+html spec filter
+
+
+jasmin requir result node
+result node result parent
+result result
+
+parent parent
+
+children
+
+add child result
+children push result node result
+
+
+last
+children children length
+
+
+
+result node
+
+
+jasmin requir queri string
+queri string option
+
+set param valu
+param map queri string to param map
+param map valu
+option get window locat search to queri string param map
+
+
+get param
+queri string to param map
+
+
+
+
+to queri string param map
+q str pair
+prop param map
+q str pair push encod uri compon prop encod uri compon param map prop
+
+q str pair join
+
+
+queri string to param map
+param str option get window locat search substr
+
+param map
+
+param str length
+param str split
+length
+split
+valu decod uri compon
+valu valu
+valu json pars valu
+
+param map decod uri compon valu
+
+
+
+param map
+
+
+
+
+queri string
+
+
+copyright 2008 2013 pivot lab
+
+permiss herebi grant free charg person obtain
+copi softwar associ document file
+softwar deal softwar without restrict includ
+without limit right copi modifi merg publish
+distribut sublicens sell copi softwar
+permit person softwar furnish subject
+follow condit
+
+copyright notic permiss notic shall
+includ copi substanti portion softwar
+
+softwar provid without warranti kind
+express impli includ limit warranti
+merchant fit particular purpos
+noninfring event shall author copyright holder
+liabl claim damag other liabil whether action
+contract tort otherwis aris from connect
+with softwar other deal softwar
+
+get jasmin requir obj
+export
+export
+
+window jasmin requir window jasmin requir
+window jasmin requir
+
+
+
+get jasmin requir obj core j requir
+
+
+j requir
+util j requir util
+j requir
+call tracker j requir call tracker
+clock j requir clock
+delay function schedul j requir delay function schedul
+j requir
+except formatt j requir except formatt
+expect j requir expect
+build expect result j requir build expect result
+js api report j requir js api report
+matcher util j requir matcher util
+object contain j requir object contain
+j requir
+queue runner j requir queue runner
+report dispatch j requir report dispatch
+spec j requir spec
+spi strategi j requir spi strategi
+suit j requir suit
+timer j requir timer
+version j requir version
+
+matcher j requir requir matcher j requir
+
+
+
+
+get jasmin requir obj requir matcher j requir
+avail matcher
+to be
+to be close to
+to be defin
+to be falsi
+to be greater than
+to be less than
+to be na n
+to be null
+to be truthi
+to be undefin
+to contain
+to equal
+to have been call
+to have been call with
+to match
+to throw
+to throw error
+
+matcher
+
+avail matcher length
+name avail matcher
+matcher name j requir name
+
+
+matcher
+
+
+get jasmin requir obj
+unimpl method
+error unimpl method
+
+
+pretti print depth
+default timeout interv 5000
+
+get global
+jasmin global call
+
+jasmin global
+
+
+
+get env option
+current env current env option
+jasmin singleton set timeout blah blah
+
+
+
+is array valu
+array valu
+
+
+is string valu
+string valu
+
+
+is number valu
+number valu
+
+
+type name valu
+object prototyp to string appli valu type name
+
+
+is dom node
+node type
+
+
+clazz
+clazz
+
+
+object contain sampl
+object contain sampl
+
+
+creat spi name origin fn
+
+spi strategi spi strategi
+name name
+origin fn
+get spi
+
+call tracker call tracker
+
+call tracker track
+
+arg array prototyp slice appli
+
+spi strategi exec appli
+
+
+prop origin fn
+prop prop call
+error jasmin spi would overwrit call properti spi upon
+
+
+prop origin fn prop
+
+
+spi strategi
+call call tracker
+
+
+
+
+is spi put spi
+put spi
+
+
+put spi spi strategi
+put spi call call tracker
+
+
+creat spi obj base name method name
+is array method name method name length
+creat spi obj requir method name creat spi
+
+
+method name length
+method name creat spi base name method name
+
+
+
+
+
+get jasmin requir obj util
+
+util
+
+util inherit child class parent class
+subclass
+
+subclass prototyp parent class prototyp
+child class prototyp subclass
+
+
+util html escap
+
+
+
+replac
+replac
+replac
+
+
+util arg to array arg
+array of arg
+arg length
+array of arg push arg
+
+array of arg
+
+
+util is undefin
+
+
+
+util
+
+
+get jasmin requir obj spec
+spec attr
+expect factori attr expect factori
+result callback attr result callback
+attr
+descript attr descript
+attr
+befor fn attr befor fn
+after fn attr after fn
+on start attr on start
+except formatt attr except formatt
+get spec name attr get spec name
+expect result factori attr expect result factori
+queue runner factori attr queue runner factori
+catch except attr catch except
+
+timer attr timer set timeout set timeout clear timeout clear timeout
+
+
+pend
+
+
+result
+
+descript descript
+full name get full name
+fail expect
+
+
+
+spec prototyp add expect result pass
+pass
+
+
+result fail expect push expect result factori
+
+
+spec prototyp expect actual
+expect factori actual
+
+
+spec prototyp execut on complet
+
+timeout
+
+on start
+
+mark pend disabl
+complet
+
+
+
+timeout
+done
+timeout function prototyp appli appli timer set timeout get global
+on except error timeout async callback invok within timeout specifi jasmin default timeout interv
+done
+default timeout interv
+
+call done
+clear timeout
+done
+
+
+call call done todo care
+
+
+
+clear timeout
+function prototyp appli appli timer clear timeout get global timeout
+timeout
+
+
+all fn befor fn concat concat after fn
+all timeout fn
+all fn length
+all fn
+all timeout fn push length timeout
+
+
+queue runner factori
+all timeout fn
+on except on except
+on complet complet
+
+
+on except
+clear timeout
+spec is pend spec except
+pend
+
+
+
+add expect result
+matcher name
+pass
+expect
+actual
+error
+
+
+
+complet
+result statu statu
+result callback result
+
+on complet
+on complet
+
+
+
+
+spec prototyp disabl
+disabl
+
+
+spec prototyp pend
+mark pend
+
+
+spec prototyp statu
+disabl
+disabl
+
+
+mark pend
+pend
+
+
+result fail expect length
+fail
+
+pass
+
+
+
+spec prototyp get full name
+get spec name
+
+
+spec pend spec except messag mark pend
+
+spec is pend spec except
+to string index of spec pend spec except messag
+
+
+spec
+
+
+window export
+export spec jasmin requir spec
+
+
+get jasmin requir obj
+option
+option option
+
+
+option get global
+
+total spec defin
+
+catch except
+
+real set timeout get global set timeout
+real clear timeout get global clear timeout
+clock clock delay function schedul
+
+runnabl lookup tabl
+
+spi
+
+current spec
+current suit
+
+report report dispatch
+jasmin start
+jasmin done
+suit start
+suit done
+spec start
+spec done
+
+
+spec filter
+
+
+
+equal tester
+
+custom equal tester
+add custom equal tester tester
+custom equal tester push tester
+
+
+expect add core matcher matcher
+
+next spec id
+get next spec id
+spec next spec id
+
+
+next suit id
+get next suit id
+suit next suit id
+
+
+expect factori actual spec
+expect factori
+util matcher util
+custom equal tester custom equal tester
+actual actual
+add expect result add expect result
+
+
+add expect result pass result
+spec add expect result pass result
+
+
+
+spec start spec
+current spec spec
+report spec start spec result
+
+
+befor fn suit
+
+befor
+suit
+befor befor concat suit befor fn
+suit suit parent suit
+
+befor revers
+
+
+
+after fn suit
+
+after
+suit
+after after concat suit after fn
+suit suit parent suit
+
+after
+
+
+
+get spec name spec suit
+suit get full name spec descript
+
+
+todo abl instead wrap
+build expect result build expect result
+except formatt except formatt
+expect result factori attr
+attr messag formatt except formatt messag
+attr stack formatt except formatt stack
+
+build expect result attr
+
+
+todo name valu come
+catch except valu
+catch except valu
+catch except
+
+
+catch except
+catch except
+
+
+maximum spec callback depth
+current spec callback depth
+
+clear stack
+current spec callback depth
+current spec callback depth maximum spec callback depth
+current spec callback depth
+real set timeout
+
+
+
+
+
+catch except
+spec is pend spec except catch except
+
+
+queue runner factori option
+option catch except catch except
+option clear stack option clear stack clear stack
+
+queue runner option execut
+
+
+top suit suit
+
+get next suit id
+descript jasmin top level suit
+queue runner queue runner factori
+result callback todo hook
+
+runnabl lookup tabl top suit top suit
+current suit top suit
+
+top suit
+top suit
+
+
+execut runnabl to run
+runnabl to run runnabl to run top suit
+
+all fn
+runnabl to run length
+runnabl runnabl lookup tabl runnabl to run
+all fn push runnabl done runnabl execut done runnabl
+
+
+report jasmin start
+total spec defin total spec defin
+
+
+queue runner factori all fn on complet report jasmin done
+
+
+add report report to add
+report add report report to add
+
+
+add matcher matcher to add
+expect add matcher matcher to add
+
+
+spi on method name
+util is undefin
+error spi on could find upon method name
+
+
+util is undefin method name
+error method name method exist
+
+
+method name is spi method name
+todo current downsid caus user confus state
+error method name alreadi spi upon
+
+
+creat spi method name method name
+
+spi push
+
+base obj
+method name method name
+origin valu method name
+
+
+method name
+
+
+
+
+suit factori descript
+suit suit
+
+get next suit id
+descript descript
+parent suit current suit
+queue runner queue runner factori
+on start suit start
+result callback attr
+report suit done attr
+
+
+
+runnabl lookup tabl suit suit
+suit
+
+
+describ descript spec definit
+suit suit factori descript
+
+parent suit current suit
+parent suit add child suit
+current suit suit
+
+declar error
+
+spec definit call suit
+
+declar error
+
+
+declar error
+encount declar except
+declar error
+
+
+
+current suit parent suit
+
+suit
+
+
+xdescrib descript spec definit
+suit describ descript spec definit
+suit disabl
+suit
+
+
+spec factori descript suit
+total spec defin
+
+spec spec
+get next spec id
+befor fn befor fn suit
+after fn after fn suit
+expect factori expect factori
+except formatt except formatt
+result callback spec result callback
+get spec name spec
+get spec name spec suit
+
+on start spec start
+descript descript
+expect result factori expect result factori
+queue runner factori queue runner factori
+
+timer set timeout real set timeout clear timeout real clear timeout
+
+
+runnabl lookup tabl spec spec
+
+spec filter spec
+spec disabl
+
+
+spec
+
+remov all spi
+spi length
+spi entri spi
+spi entri base obj spi entri method name spi entri origin valu
+
+spi
+
+
+spec result callback result
+remov all spi
+expect reset matcher
+custom equal tester
+current spec
+report spec done result
+
+
+
+suit start suit
+report suit start suit result
+
+
+descript
+spec spec factori descript current suit
+current suit add child spec
+spec
+
+
+descript
+spec descript
+spec pend
+spec
+
+
+expect actual
+current spec expect actual
+
+
+befor each befor each function
+current suit befor each befor each function
+
+
+after each after each function
+current suit after each after each function
+
+
+pend
+spec pend spec except messag
+
+
+
+
+
+
+get jasmin requir obj js api report
+
+noop timer
+start
+elaps
+
+
+js api report option
+timer option timer noop timer
+statu load
+
+start
+finish
+
+jasmin start
+start
+statu start
+timer start
+
+
+execut time
+
+jasmin done
+finish
+execut time timer elaps
+statu done
+
+
+statu
+statu
+
+
+suit
+
+suit start result
+store suit result
+
+
+suit done result
+store suit result
+
+
+store suit result
+suit result result
+
+
+suit
+suit
+
+
+spec
+spec start result
+
+spec done result
+spec push result
+
+
+spec result index length
+spec slice index index length
+
+
+spec
+spec
+
+
+execut time
+execut time
+
+
+
+
+js api report
+
+
+get jasmin requir obj
+
+expect object
+expect object expect object
+
+
+prototyp jasmin match
+expect object string
+string
+
+
+expect object number
+number
+
+
+expect object function
+function
+
+
+expect object object
+
+
+
+expect object boolean
+
+
+
+expect object
+
+
+prototyp jasmin to string
+jasmin expect class
+
+
+
+
+
+get jasmin requir obj call tracker
+
+call tracker
+call
+
+track context
+call push context
+
+
+
+call length
+
+
+count
+call length
+
+
+arg for index
+call call index
+call call arg
+
+
+
+call
+
+
+all arg
+call arg
+call length
+call arg push call arg
+
+
+call arg
+
+
+first
+call
+
+
+most recent
+call call length
+
+
+reset
+call
+
+
+
+call tracker
+
+
+get jasmin requir obj clock
+clock delay function schedul
+
+real time function
+set timeout set timeout
+clear timeout clear timeout
+set interv set interv
+clear interv clear interv
+
+fake time function
+set timeout set timeout
+clear timeout clear timeout
+set interv set interv
+clear interv clear interv
+
+instal
+timer
+
+instal
+replac fake time function
+timer fake time function
+instal
+
+
+uninstal
+delay function schedul reset
+replac real time function
+timer real time function
+instal
+
+
+set timeout delay
+legaci ie
+length
+error cannot support extra set timeout without polyfil
+
+timer set timeout delay
+
+function prototyp appli appli timer set timeout
+
+
+set interv delay
+legaci ie
+length
+error cannot support extra set interv without polyfil
+
+timer set interv delay
+
+function prototyp appli appli timer set interv
+
+
+clear timeout
+function prototyp call appli timer clear timeout
+
+
+clear interv
+function prototyp call appli timer clear interv
+
+
+tick milli
+instal
+delay function schedul tick milli
+
+error mock clock instal jasmin clock instal
+
+
+
+
+
+legaci ie
+method polyfil appli present
+real time function set timeout real time function set interv appli
+
+
+replac dest sourc
+prop sourc
+dest prop sourc prop
+
+
+
+set timeout delay
+delay function schedul schedul function delay arg slice
+
+
+clear timeout
+delay function schedul remov function with id
+
+
+set interv interv
+delay function schedul schedul function interv arg slice
+
+
+clear interv
+delay function schedul remov function with id
+
+
+arg slice arg obj
+array prototyp slice call arg obj
+
+
+
+clock
+
+
+get jasmin requir obj delay function schedul
+delay function schedul
+
+schedul lookup
+schedul function
+current time
+delay fn count
+
+tick milli
+milli milli
+end time current time milli
+
+run schedul function end time
+current time end time
+
+
+schedul function func to call milli recur timeout key run at milli
+
+func to call
+jshint evil
+func to call
+jshint evil
+
+func to call
+
+
+milli milli
+timeout key timeout key delay fn count
+run at milli run at milli current time milli
+
+func to schedul
+run at milli run at milli
+func to call
+recur recur
+
+timeout key timeout key
+milli milli
+
+
+run at milli schedul function
+schedul function run at milli push func to schedul
+
+schedul function run at milli func to schedul
+schedul lookup push run at milli
+schedul lookup sort
+
+
+
+
+timeout key
+
+
+remov function with id timeout key
+run at milli schedul function
+func schedul function run at milli
+index of first to pass func func
+func timeout key timeout key
+
+
+
+func length
+schedul function run at milli
+delet from lookup run at milli
+
+func splice
+
+
+interv reschedul execut never
+singl schedul given timeout key
+
+
+
+
+
+reset
+current time
+schedul lookup
+schedul function
+delay fn count
+
+
+
+
+index of first to pass test fn
+index
+
+length
+test fn
+index
+
+
+
+
+index
+
+
+delet from lookup
+valu number
+index of first to pass schedul lookup milli
+milli valu
+
+
+
+schedul lookup splice
+
+
+
+reschedul schedul fn
+schedul function schedul fn func to call
+schedul fn milli
+schedul fn
+
+schedul fn timeout key
+schedul fn run at milli schedul fn milli
+
+
+run schedul function end time
+schedul lookup length schedul lookup end time
+
+
+
+
+current time schedul lookup shift
+
+func to run schedul function current time
+schedul function current time
+
+func to run length
+func to run func to run
+func to run func to call appli func to run
+
+func to run recur
+reschedul func to run
+
+
+schedul lookup length
+check first time prevent set timeout
+schedul func to run forc extra iter
+current time end time
+schedul lookup end time
+
+
+
+delay function schedul
+
+
+get jasmin requir obj except formatt
+except formatt
+messag error
+messag error name
+
+error messag
+
+error file name error sourc url
+messag error file name error sourc url
+
+
+error line error line number
+messag line error line error line number
+
+
+messag
+
+
+stack error
+error error stack
+
+
+
+except formatt
+
+
+get jasmin requir obj expect
+
+matcher
+
+expect option
+util option util build failur messag
+custom equal tester option custom equal tester
+actual option actual
+add expect result option add expect result
+is not option is not
+
+matcher name matcher
+matcher name matcher matcher name
+
+
+
+expect prototyp wrap compar name matcher factori
+
+arg array prototyp slice call
+expect arg slice
+messag
+
+arg unshift actual
+
+matcher matcher factori util custom equal tester
+matcher compar matcher compar
+
+default neg compar
+result matcher compar appli arg
+result result
+result
+
+
+is not
+matcher compar matcher neg compar default neg compar
+
+
+result matcher compar appli arg
+
+result
+result messag
+arg unshift is not
+arg unshift name
+messag util build failur messag appli arg
+
+messag result messag
+
+
+
+expect length
+expect expect
+
+
+todo mani need
+add expect result
+result
+
+matcher name name
+pass result
+messag messag
+actual actual
+expect expect todo need arrayifi slice
+
+
+
+
+
+expect add core matcher matcher
+prototyp expect prototyp
+matcher name matcher
+matcher matcher matcher name
+prototyp matcher name prototyp wrap compar matcher name matcher
+
+
+
+expect add matcher matcher to add
+name matcher to add
+matcher matcher to add name
+matcher name expect prototyp wrap compar name matcher
+
+
+
+expect reset matcher
+name matcher
+matcher name
+
+
+
+expect factori option
+option option
+
+expect expect option
+
+todo would nice object neg expect
+todo copi instead mutat option
+option is not
+expect expect option
+
+expect
+
+
+expect
+
+
+todo expect result make sens present expect
+get jasmin requir obj build expect result
+build expect result option
+messag formatt option messag formatt
+stack formatt option stack formatt
+
+
+matcher name option matcher name
+expect option expect
+actual option actual
+messag messag
+stack stack
+pass option pass
+
+
+messag
+option pass
+pass
+option messag
+option messag
+option error
+messag formatt option error
+
+
+
+
+stack
+option pass
+
+
+
+error option error
+error
+
+error messag
+
+error
+
+
+stack formatt error
+
+
+
+build expect result
+
+
+get jasmin requir obj object contain
+
+object contain sampl
+sampl sampl
+
+
+object contain prototyp jasmin match mismatch key mismatch valu
+sampl error must provid object contain sampl
+
+mismatch key mismatch key
+mismatch valu mismatch valu
+
+ha key key name
+util is undefin key name
+
+
+properti sampl
+ha key properti ha key sampl properti
+mismatch key push expect properti miss actual
+
+matcher util equal sampl properti properti
+mismatch valu push properti properti util html escap properti to string properti actual sampl properti util html escap sampl properti to string sampl properti expect
+
+
+
+mismatch key length mismatch valu length
+
+
+object contain prototyp jasmin to string
+jasmin object contain sampl
+
+
+object contain
+
+
+get jasmin requir obj
+
+pretti printer
+pp nest level
+
+
+pretti printer prototyp format valu
+pp nest level
+
+util is undefin valu
+emit scalar
+valu
+emit scalar
+valu get global
+emit scalar
+valu jasmin to string
+emit scalar valu jasmin to string
+valu
+emit string valu
+is spi valu
+emit scalar valu ident
+valu reg exp
+emit scalar valu to string
+valu
+emit scalar function
+valu node type
+emit scalar html node
+valu date
+emit scalar date valu
+valu jasmin
+emit scalar circular refer is array valu array object
+is array valu object valu
+valu jasmin
+is array valu
+emit array valu
+
+emit object valu
+
+valu jasmin
+
+emit scalar valu to string
+
+
+pp nest level
+
+
+
+pretti printer prototyp iter object
+properti
+ha own properti properti
+properti jasmin
+properti lookup getter util is undefin lookup getter properti
+lookup getter properti
+
+
+
+pretti printer prototyp emit array unimpl method
+pretti printer prototyp emit object unimpl method
+pretti printer prototyp emit scalar unimpl method
+pretti printer prototyp emit string unimpl method
+
+string pretti printer
+pretti printer call
+
+
+
+
+util inherit string pretti printer pretti printer
+
+string pretti printer prototyp emit scalar valu
+append valu
+
+
+string pretti printer prototyp emit string valu
+append valu
+
+
+string pretti printer prototyp emit array
+pp nest level pretti print depth
+append array
+
+
+
+append
+length
+
+append
+
+format
+
+append
+
+
+string pretti printer prototyp emit object
+pp nest level pretti print depth
+append object
+
+
+
+
+append
+first
+
+iter object properti is getter
+first
+first
+
+append
+
+
+append properti
+append
+is getter
+append getter
+
+format properti
+
+
+
+append
+
+
+string pretti printer prototyp append valu
+valu
+
+
+valu
+string pretti printer string pretti printer
+string pretti printer format valu
+string pretti printer
+
+
+
+get jasmin requir obj queue runner
+
+queue runner attr
+attr
+on complet attr on complet
+clear stack attr clear stack
+on except attr on except
+catch except attr catch except
+user context
+
+
+queue runner prototyp execut
+
+
+
+queue runner prototyp recurs index
+length length
+
+iter index
+
+iter index recurs index iter index length iter index
+iter index
+length
+attempt async
+
+attempt sync
+
+
+
+runner done iter index length
+
+runner done
+clear stack on complet
+
+
+attempt sync
+
+call user context
+
+handl except
+
+
+
+attempt async
+iter index
+
+
+call user context
+
+handl except
+
+
+
+
+handl except
+on except
+catch except
+todo except
+block close nice
+
+
+
+
+
+queue runner
+
+
+get jasmin requir obj report dispatch
+report dispatch method
+
+dispatch method method
+
+dispatch method length
+method dispatch method
+method
+
+dispatch
+
+method
+
+
+report
+
+add report report
+report push report
+
+
+
+
+dispatch method arg
+report length
+report report
+report method
+report method appli report arg
+
+
+
+
+
+report dispatch
+
+
+
+get jasmin requir obj spi strategi
+
+spi strategi option
+option option
+
+ident option name unknown
+origin fn option
+get spi option get spi
+plan
+
+ident
+ident
+
+
+exec
+plan appli
+
+
+call through
+plan origin fn
+get spi
+
+
+return valu valu
+plan
+valu
+
+get spi
+
+
+throw error someth
+error someth error someth error someth
+plan
+error
+
+get spi
+
+
+call fake
+plan
+get spi
+
+
+stub
+plan
+get spi
+
+
+
+spi strategi
+
+
+get jasmin requir obj suit
+suit attr
+attr
+attr
+parent suit attr parent suit
+descript attr descript
+on start attr on start
+result callback attr result callback
+clear stack attr clear stack
+
+befor fn
+after fn
+queue runner attr queue runner
+disabl
+
+children
+
+result
+
+statu disabl disabl
+descript descript
+full name get full name
+
+
+
+suit prototyp get full name
+full name descript
+parent suit parent suit parent suit parent suit parent suit parent suit
+parent suit parent suit
+full name parent suit descript full name
+
+
+full name
+
+
+suit prototyp disabl
+disabl
+
+
+suit prototyp befor each
+befor fn unshift
+
+
+suit prototyp after each
+after fn unshift
+
+
+suit prototyp add child child
+children push child
+
+
+suit prototyp execut on complet
+
+disabl
+complet
+
+
+
+all fn
+
+children length
+all fn push wrap child as async children
+
+
+on start
+
+queue runner
+all fn
+on complet complet
+
+
+complet
+result callback result
+
+on complet
+on complet
+
+
+
+wrap child as async child
+done child execut done
+
+
+
+suit
+
+
+window export
+export suit jasmin requir suit
+
+
+get jasmin requir obj timer
+timer option
+option option
+
+option date get time
+start time
+
+start
+start time
+
+
+elaps
+start time
+
+
+
+timer
+
+
+get jasmin requir obj matcher util
+todo jasmin inject move json stringifi pretti printer
+
+
+equal custom tester
+custom tester custom tester
+
+custom tester
+
+
+contain haystack needl custom tester
+custom tester custom tester
+
+object prototyp to string appli haystack array
+haystack length
+haystack needl custom tester
+
+
+
+
+
+haystack index of needl
+
+
+build failur messag
+arg array prototyp slice call
+matcher name arg
+is not arg
+actual arg
+expect arg slice
+englishi predic matcher name replac to lower case
+
+messag expect
+actual
+is not
+englishi predic
+
+expect length
+expect length
+
+messag
+
+messag expect
+
+
+
+messag
+
+
+
+equal lovingli adapt is equal
+underscor http underscorej
+a stack b stack custom tester
+result
+
+custom tester length
+custom tester result custom tester
+util is undefin custom tester result
+custom tester result
+
+
+
+
+result jasmin match
+result
+
+
+
+
+
+result jasmin match
+result
+
+
+
+
+object contain
+result jasmin match
+result
+
+
+
+
+error error
+messag messag
+
+
+ident object equal ident
+harmoni egal propos http wiki ecmascript doku harmoni egal
+
+strict comparison necessari
+
+class name object prototyp to string call
+class name object prototyp to string call
+class name
+string number date boolean compar valu
+string
+primit correspond wrapper equival thu
+equival string
+string
+number
+equival reflex egal comparison perform
+numer valu
+
+date
+boolean
+coerc date boolean numer primit valu date compar
+millisecond represent note invalid date millisecond represent
+equival
+
+reg exp compar sourc pattern flag
+reg exp
+sourc sourc
+
+multilin multilin
+ignor case ignor case
+
+
+assum equal cyclic structur algorithm detect cyclic
+structur adapt section oper
+length a stack length
+length
+linear search perform invers proport
+uniqu nest structur
+a stack length b stack length
+
+first stack travers object
+a stack push
+b stack push
+size
+recurs compar object array
+class name array
+compar length determin deep comparison necessari
+size length
+result size length
+result
+deep compar content ignor numer properti
+size
+result size size a stack b stack custom tester
+
+
+
+object differ constructor equival object
+differ frame
+a ctor b ctor
+a ctor b ctor is function a ctor a ctor a ctor
+is function b ctor b ctor b ctor
+
+
+deep compar object
+
+
+count expect properti
+size
+deep compar member
+result a stack b stack custom tester
+
+
+ensur object contain properti
+result
+
+size
+
+result size
+
+
+remov first stack travers object
+a stack
+b stack
+
+result
+
+
+ha own properti
+
+
+is function
+
+
+
+
+
+get jasmin requir obj to be
+to be
+
+compar actual expect
+
+actual expect
+
+
+
+
+
+to be
+
+
+get jasmin requir obj to be close to
+
+to be close to
+
+compar actual expect precis
+precis
+precis precis
+
+
+
+math expect actual math precis
+
+
+
+
+
+to be close to
+
+
+get jasmin requir obj to be defin
+to be defin
+
+compar actual
+
+actual
+
+
+
+
+
+to be defin
+
+
+get jasmin requir obj to be falsi
+to be falsi
+
+compar actual
+
+actual
+
+
+
+
+
+to be falsi
+
+
+get jasmin requir obj to be greater than
+
+to be greater than
+
+compar actual expect
+
+actual expect
+
+
+
+
+
+to be greater than
+
+
+
+get jasmin requir obj to be less than
+to be less than
+
+
+compar actual expect
+
+actual expect
+
+
+
+
+
+to be less than
+
+get jasmin requir obj to be na n
+
+to be na n
+
+compar actual
+result
+actual actual
+
+
+result
+result messag expect actual
+
+result messag expect actual
+
+
+result
+
+
+
+
+to be na n
+
+
+get jasmin requir obj to be null
+
+to be null
+
+compar actual
+
+actual
+
+
+
+
+
+to be null
+
+
+get jasmin requir obj to be truthi
+
+to be truthi
+
+compar actual
+
+actual
+
+
+
+
+
+to be truthi
+
+
+get jasmin requir obj to be undefin
+
+to be undefin
+
+compar actual
+
+actual
+
+
+
+
+
+to be undefin
+
+
+get jasmin requir obj to contain
+to contain util custom equal tester
+custom equal tester custom equal tester
+
+
+compar actual expect
+
+
+util contain actual expect custom equal tester
+
+
+
+
+
+to contain
+
+
+get jasmin requir obj to equal
+
+to equal util custom equal tester
+custom equal tester custom equal tester
+
+
+compar actual expect
+result
+
+
+
+result util equal actual expect custom equal tester
+
+result
+
+
+
+
+to equal
+
+
+get jasmin requir obj to have been call
+
+to have been call
+
+compar actual
+result
+
+is spi actual
+error expect actual
+
+
+length
+error to have been call take to have been call with
+
+
+result actual call
+
+result messag result
+expect actual ident call
+expect actual ident call
+
+result
+
+
+
+
+to have been call
+
+
+get jasmin requir obj to have been call with
+
+to have been call with util
+
+compar
+arg array prototyp slice call
+actual arg
+expect arg arg slice
+result
+
+is spi actual
+error expect actual
+
+
+actual call
+result messag expect actual ident call expect arg never call
+result
+
+
+util contain actual call all arg expect arg
+result
+result messag expect actual ident call expect arg
+
+result messag expect actual ident call expect arg actual call actual call all arg replac
+
+
+result
+
+
+
+
+to have been call with
+
+
+get jasmin requir obj to match
+
+to match
+
+compar actual expect
+regexp reg exp expect
+
+
+regexp test actual
+
+
+
+
+
+to match
+
+
+get jasmin requir obj to throw
+
+to throw util
+
+compar actual expect
+result
+threw
+thrown
+
+actual
+error actual function
+
+
+
+actual
+
+threw
+thrown
+
+
+threw
+result messag expect except
+result
+
+
+length
+result
+result messag expect threw thrown
+
+result
+
+
+util equal thrown expect
+result
+result messag expect expect
+
+result messag expect expect threw thrown
+
+
+result
+
+
+
+
+to throw
+
+
+get jasmin requir obj to throw error
+to throw error util
+
+compar actual
+threw
+thrown
+error type
+messag
+regexp
+name
+constructor name
+
+actual
+error actual function
+
+
+extract expect param appli
+
+
+actual
+
+threw
+thrown
+
+
+threw
+fail expect error
+
+
+thrown error
+fail expect error threw thrown
+
+
+length
+expect error threw fn name for thrown
+
+
+error type
+name fn name for error type
+constructor name fn name for thrown
+
+
+error type messag
+thrown error type util equal thrown messag messag
+expect name messag messag
+
+fail expect name messag messag
+threw constructor name messag thrown messag
+
+
+
+error type regexp
+thrown error type regexp test thrown messag
+expect name messag match regexp
+
+fail expect name messag match regexp
+threw constructor name messag thrown messag
+
+
+
+error type
+thrown error type
+expect name
+
+fail expect name threw constructor name
+
+
+
+messag
+thrown messag messag
+expect except messag messag
+
+fail expect except messag messag
+threw except messag thrown messag
+
+
+
+regexp
+regexp test thrown messag
+expect except messag match regexp
+
+fail expect except messag match regexp
+threw except messag thrown messag
+
+
+
+fn name for func
+func name func to string match
+
+
+not messag
+
+
+messag not messag
+
+
+
+fail messag
+
+
+messag messag
+
+
+
+extract expect param
+length
+
+
+
+length
+expect
+
+expect reg exp
+regexp expect
+expect
+messag expect
+check for an error type expect
+error type expect
+
+
+error type messag regexp
+error expect error reg exp
+
+
+check for an error type
+error type
+
+error expect error error
+
+
+reg exp
+regexp
+
+messag
+
+error expect error messag reg exp
+
+
+
+
+check for an error type
+
+
+
+
+surrog
+surrog prototyp prototyp
+surrog error
+
+
+
+
+
+to throw error
+
+
+get jasmin requir obj version
+
+
+describ simpl fulli connect neural classifi
+
+trainer
+
+befor each
+convnetj
+
+layer def
+layer def push input depth
+layer def push neuron activ tanh
+layer def push neuron activ tanh
+layer def push softmax class
+make layer layer def
+
+trainer convnetj sgd trainer
+learn rate 0001 momentum batch size decay
+
+
+possibl initi
+
+tanh layer softmax get fulli connect layer
+desugar fine
+expect layer length to equal
+
+
+
+forward prop volum probabl
+
+convnetj
+probabl volum forward
+
+expect probabl volum length to equal class output
+probabl volum
+
+expect to be greater than
+expect to be less than
+
+expect to be close to
+
+
+
+increas probabl ground truth train
+
+let test random point label set
+note work sinc regular
+issu step size high could technic fail
+
+convnetj math random math random
+forward
+math floor math random
+trainer train
+forward
+expect to be greater than
+
+
+
+
+comput correct gradient
+
+test gradient
+right comfort
+gradient layer
+
+convnetj math random math random
+math floor math random ground truth index
+trainer train comput gradient layer
+
+delta 000001
+
+length
+
+grad analyt
+
+xold
+delta
+get cost loss
+delta
+get cost loss
+xold reset
+
+grad numer delta
+error math grad analyt grad numer math grad analyt grad numer
+consol numer grad numer analyt grad analyt error error
+expect error to be less than
+
+
+
+
+deepqlearn deepqlearn revis alpha
+
+
+strict
+
+agent state0 action0
+environ assign reward0 provid state state1
+experi node store inform use
+learn updat step
+experi state0 action0 reward0 state1
+state0 state0
+action0 action0
+reward0 reward0
+state1 state1
+
+
+brain magic
+time receiv input reward
+output maxim expect reward
+brain state action
+
+time step tempor memori
+actual input tempor window time follow current
+inform previou time step go valu
+tempor window tempor window tempor window
+size experi replay memori
+experi size experi size experi size 30000
+exampl experi replay memori learn
+start learn threshold start learn threshold start learn threshold math floor math experi size 1000
+gamma crucial paramet control much plan ahead agent
+gamma gamma gamma
+
+step learn
+learn step total learn step total learn step total 100000
+mani step perform random action begin
+learn step burnin learn step burnin learn step burnin 3000
+epsilon valu bottom pure determinist polici
+epsilon epsilon epsilon
+epsilon test time learn disabl
+epsilon test time epsilon test time epsilon test time
+
+advanc featur sometim random action bias toward valu
+exampl flappi bird want choos flap often
+random action distribut
+better length action
+random action distribut random action distribut
+random action distribut length action
+consol troubl random action distribut length action
+
+random action distribut
+length
+math 0001 consol troubl random action distribut
+
+random action distribut
+
+
+state neural predict optim action look
+
+variabl control size tempor window action
+encod vector
+input state tempor window action tempor window state
+state state
+action action
+window size math tempor window must least want context even
+state window array window size
+action window array window size
+reward window array window size
+window array window size
+
+creat state valu possibl action model valu
+layer def
+layer def
+advanc usag featur size input network
+action must check thi pretti object orient program
+
+layer def layer def
+layer def length consol troubl must least layer
+layer def input consol troubl first layer must input layer
+layer def layer def length regress consol troubl last layer must input regress
+layer def depth layer def layer def input
+consol troubl number input must state tempor window action tempor window state
+
+layer def layer def length neuron action
+consol troubl number regress neuron action
+
+
+creat simpl neural
+layer def push input depth input
+hidden layer size
+allow user specifi option conveni
+hidden layer size
+length
+layer def push neuron activ relu relu
+
+
+layer def push regress neuron action valu output
+
+valu convnetj
+valu make layer layer def
+
+need tempor differ learn trainer
+tdtrainer option learn rate momentum batch size decay
+tdtrainer option
+tdtrainer option tdtrainer option allow user overwrit
+
+tdtrainer convnetj sgd trainer valu tdtrainer option
+
+experi replay
+experi
+
+variou housekeep variabl
+increment everi backward
+forward pass increment everi forward
+epsilon control explor exploit tradeoff should anneal time
+latest reward
+last input
+averag reward window cnnutil window 1000
+averag loss window cnnutil window 1000
+learn
+
+brain prototyp
+random action
+helper return random action
+abstract away futur want
+sophist thing exampl action could
+less like rest state
+random action distribut length
+convnetj randi action
+
+okay let fancier sampl
+convnetj randf
+cumprob
+action
+cumprob random action distribut
+cumprob
+
+
+
+polici
+comput valu action state
+argmax action valu
+svol convnetj input
+svol
+action valu valu forward svol
+maxk
+maxval action valu
+action
+action valu maxval maxk maxval action valu
+
+action maxk valu maxval
+
+get net input
+state vector
+concaten last window size pair current state
+
+concat start current state
+backward append state action histori tempor window time
+window size
+tempor window
+state
+concat state window
+action encod indic vector scale
+dont want weight regular undervalu inform exist
+action1ofk array action
+action action1ofk
+action1ofk action window state
+concat action1ofk
+
+
+
+forward input
+comput forward behavior given input neuron signal bodi
+forward pass
+last input input back
+
+creat network input
+action
+forward pass tempor window
+enough actual someth reason
+input get net input input
+learn
+comput epsilon epsilon greedi polici
+epsilon math math epsilon learn step burnin learn step total learn step burnin
+
+epsilon epsilon test time test time valu
+
+convnetj randf
+epsilon
+choos random action epsilon probabl
+action random action
+
+otherwis polici make decis
+maxact polici input
+action maxact action
+
+
+patholog happen first iter
+accumul window size input
+input
+action random action
+
+
+rememb state action took backward
+window shift
+window push input
+state window shift
+state window push input
+action window shift
+action window push action
+
+action
+
+backward reward
+latest reward reward
+averag reward window reward
+reward window shift
+reward window push reward
+
+learn
+
+variou book keep
+
+
+time store experi
+given appropri state measur alreadi exist cours
+forward pass tempor window
+experi
+window size
+state0 window
+action0 action window
+reward0 reward window
+state1 window
+experi length experi size
+experi push
+
+replac finit memori
+convnetj randi experi size
+experi
+
+
+
+learn base experi sampl
+magic happen
+experi length start learn threshold
+avcost
+tdtrainer batch size
+convnetj randi experi length
+experi
+convnetj input
+state0
+maxact polici state1
+reward0 gamma maxact valu
+ystruct action0
+loss tdtrainer train ystruct
+avcost loss loss
+
+avcost avcost tdtrainer batch size
+averag loss window avcost
+
+
+vi self
+inner html eras first
+
+element fill brain relat inform
+brainvi document creat element
+
+basic inform
+desc document creat element
+
+experi replay size experi length
+explor epsilon epsilon
+
+averag learn loss averag loss window averag
+smooth reward averag reward window averag
+desc inner html
+brainvi append child desc
+
+append child brainvi
+
+
+
+brain brain
+deepqlearn
+
+
+strict
+export
+window deepqlearn ordinari browser attach librari window
+
+export nodej
+
+deepqlearn
+
+contain variou util function
+cnnvi export
+
+use graph loss accuract time
+graph option
+option option
+step horizon option step horizon 1000
+
+
+
+maxi 9999
+mini 9999
+
+
+graph prototyp
+canv canva wish updat datapoint
+step
+time date get time
+maxi maxi
+mini mini
+
+push step step time time
+step step horizon step horizon
+
+canva wish draw
+draw self canv
+
+
+canv height
+canv width
+canv get context
+
+clear rect
+font 10px georgia
+
+
+math
+math floor
+
+
+draw guidelin valu
+stroke style
+begin path
+
+
+xpo
+move to xpo
+line to xpo
+fill text step horizon 1000 xpo
+
+
+ypo
+move to ypo
+line to ypo
+fill text maxi mini mini ypo
+
+stroke
+
+length
+
+
+draw actual curv
+
+step horizon
+mini maxi mini
+
+
+
+stroke style
+begin path
+
+draw line
+
+step
+move to
+line to
+
+stroke
+
+
+
+graph draw multipl line lazi duplic
+code futur merg nice
+multi graph legend option
+option option
+step horizon option step horizon 1000
+
+option maxi maxi forc option maxi
+option mini mini forc option mini
+
+
+
+maxi 9999
+mini 9999
+numlin
+
+numlin legend length
+legend legend
+style blue green black magenta cyan purpl aqua oliv lime navi
+basic color aqua black blue fuchsia gray green lime maroon navi oliv orang purpl silver teal white yellow
+
+
+multi graph prototyp
+canv canva wish updat datapoint
+step
+time date get time
+length
+
+
+maxi maxi
+mini mini
+
+
+maxi forc maxi maxi forc
+mini forc mini mini forc
+
+push step step time time
+step step horizon step horizon
+
+canva wish draw
+draw self canv
+
+
+canv height
+canv width
+canv get context
+
+clear rect
+font 10px georgia
+
+
+math
+math floor
+
+
+draw guidelin valu
+stroke style
+begin path
+
+
+xpo
+move to xpo
+line to xpo
+fill text step horizon 1000 xpo
+
+
+ypo
+move to ypo
+line to ypo
+fill text maxi mini mini ypo
+
+stroke
+
+length
+
+
+draw legend
+numlin
+fill style style style length
+fill text legend
+
+fill style black
+
+draw actual curv
+
+step horizon
+mini maxi mini
+
+
+numlin
+
+stroke style style style length
+begin path
+
+draw line
+
+step
+move to
+line to
+
+stroke
+
+
+
+
+
+export export
+export graph graph
+export multi graph multi graph
+export
+
+export export export node
+
+
+
+contain variou util function
+cnnutil export
+
+window store size valu
+return averag use keep run
+track valid train accuraci
+window size minsiz
+
+size size size
+minsiz minsiz minsiz
+
+
+window prototyp
+
+push
+
+length size
+xold shift
+xold
+
+
+averag
+length minsiz
+length
+
+reset
+
+
+
+
+
+return indec
+maxmin
+length
+
+maxv
+minv
+maxi
+mini
+length
+maxv maxv maxi
+minv minv mini
+
+maxi maxi maxv maxv mini mini minv minv maxv minv
+
+
+return represent
+truncat length digit
+
+
+math
+math floor
+
+
+export export
+export window window
+export maxmin maxmin
+export
+export
+
+export export export node
+
+

@@ -1,0 +1,2860 @@
+
+bem simpl line graph view
+simpl line graph
+
+creat bobo updat spencer
+copyright 2013 bori emorin right reserv
+copyright 2014 spencer
+
+
+bem simpl line graph view
+
+cg float bem null graph valu cgfloat
+
+
+featur objc
+fobjc flag enabl file describ document http clang llvm doc automat refer count html
+error bem simpl line graph built object must enabl file
+
+
+defin system version greater than equal ui devic current devic system version compar option ns numer search ns order ascend
+defin default font name helvetica neue light
+
+
+enum ns integ bem intern tag
+
+dot first tag100
+dot last tag1000 1000
+label y axi tag2000 2000
+background y axi tag2100 2100
+background x axi tag2200 2200
+perman pop up view tag3100 3100
+
+
+bem simpl line graph view
+point graph
+ns integ number of point
+
+closest point touch point
+bem circl closest dot
+cg float current closer
+
+axi valu
+ns mutabl array x axi valu
+
+axi label point
+ns mutabl array x axi label point
+
+axi label point
+cg float x axi horizont fring negat valu
+
+axi label point
+ns mutabl array y axi label point
+
+axi valu
+ns mutabl array y axi valu
+
+data point
+ns mutabl array data point
+
+axi label
+ns mutabl array x axi label
+
+
+vertic line appear user drag across graph
+properti strong nonatom ui view touch input line
+
+view pick gestur
+properti strong nonatom readwrit ui view pan view
+
+label display
+properti strong nonatom ui label no data label
+
+gestur recogn pick graph view
+properti strong nonatom ui pan gestur recogn pan gestur
+
+thi gestur recogn pick initi touch graph view
+properti nonatom ui long press gestur recogn long press gestur
+
+label display enabl pop up report
+properti strong nonatom ui label pop up label
+
+view use background popup label
+properti strong nonatom ui view pop up view
+
+posit center view popup label
+properti nonatom cg float x center label
+
+posit center view popup label
+properti nonatom cg float y center label
+
+offset necessari compens label axi
+properti nonatom cg float x axi label y offset
+
+offset necessari compens label axi will take valu bigger label axi
+properti nonatom cg float y axi label x offset
+
+biggest valu point
+properti nonatom cg float max valu
+
+smallest valu point
+properti nonatom cg float min valu
+
+find point current closest vertic line
+bem circl closest dot fromtouch input line ui view touch input line
+
+determin biggest axi valu point
+cg float max valu
+
+determin smallest axi valu point
+cg float min valu
+
+track whether pop up view custom
+properti nonatom bool use custom popup view
+
+store current view size detect whether redraw need layout subview
+properti nonatom cg size current view size
+
+store background axi view
+properti nonatom ui view background x axi
+
+
+
+implement bem simpl line graph view
+
+pragma mark initi
+
+instancetyp init with frame cg rect frame
+init with frame frame
+common init
+
+
+
+instancetyp init with coder ns coder coder
+init with coder coder
+common init
+
+
+
+common init
+initi common init with frame init with coder method
+
+axi label font
+label font ui font font with name default font name size
+
+anim valu
+anim graph entranc time
+
+color valu
+color xaxi label ui color black color
+color yaxi label ui color black color
+color top ui color color with red green blue alpha
+color line ui color color with red green blue alpha
+color bottom ui color color with red green blue alpha
+color point ui color color with white alpha
+color touch input line ui color gray color
+color background pop uplabel ui color white color
+alpha touch input line
+width touch input line
+color background xaxi
+alpha background xaxi
+color background yaxi
+alpha background yaxi
+display dot while anim
+
+alpha valu
+alpha top
+alpha bottom
+alpha line
+
+size valu
+width line
+width refer line
+size point
+
+default featur valu
+enabl touch report
+touch report finger requir
+enabl pop up report
+enabl bezier curv
+enabl x axi label
+enabl y axi label
+y axi label x offset
+auto scale y axi
+alway display dot
+alway display pop up label
+enabl left refer axi frame line
+enabl bottom refer axi frame line
+format string for valu
+interpol null valu
+display dot onli
+
+initi variou array
+x axi valu ns mutabl array
+x axi horizont fring negat valu
+x axi label point ns mutabl array
+y axi label point ns mutabl array
+data point ns mutabl array
+x axi label ns mutabl array
+y axi valu ns mutabl array
+
+initi object
+averag line bem averag line alloc init
+
+
+prepar for interfac builder
+point remov dot previous graph
+number of point
+ui label subview subview
+subview is equal no data label
+subview remov from superview
+
+
+draw entir graph
+
+
+draw graph
+know graph began layout updat
+respond to selector selector line graph did begin load
+line graph did begin load
+
+point graph
+layout number of point
+
+number of point
+
+
+draw graph
+draw entir graph
+
+setup touch report
+layout touch report
+
+know graph finish updat
+respond to selector selector line graph did finish load
+line graph did finish load
+
+
+
+
+layout subview
+layout subview
+
+cg size equal to size current view size bound size
+current view size bound size
+
+draw graph
+
+
+layout number of point
+total point
+data sourc respond to selector selector number of point in line graph
+number of point data sourc number of point in line graph
+
+respond to selector selector number of point in graph
+print deprec warn for old method number of point in graph and replac method number of point in line graph
+
+pragma clang diagnost push
+pragma clang diagnost ignor wdeprec declar
+number of point number of point in graph
+pragma clang diagnost
+
+respond to selector selector number of point in line graph
+print deprec and unavail warn for old method number of point in line graph
+number of point
+
+number of point
+
+there point load
+number of point
+
+respond to selector selector no data label enabl for line graph
+no data label enabl for line graph
+
+ns log bem simpl line graph data sourc contain label display draw stop sourc reload graph
+
+target interfac builder
+no data label ui label alloc init with frame cg rect make view for baselin layout frame size width view for baselin layout frame size height
+
+no data label ui label alloc init with frame cg rect make view for baselin layout frame size width view for baselin layout frame size height view for baselin layout frame size height
+
+
+no data label background color ui color clear color
+no data label text align ns text align center
+
+target interfac builder
+ns string no data text
+respond to selector selector no data label text for line graph
+no data text no data label text for line graph
+
+no data label text no data text ns local string data
+
+no data label text data load interfac builder
+
+no data label font no data label font ui font font with name helvetica neue light size
+no data label text color no data label color color line
+
+view for baselin layout add subview no data label
+
+know graph finish layout updat
+respond to selector selector line graph did finish load
+line graph did finish load
+
+
+number of point
+ns log bem simpl line graph data sourc contain point sourc reload graph
+bem circl circl dot bem circl alloc init with frame cg rect make size point size point
+circl dot center cg point make frame size width frame size height
+circl dot pointcolor color point
+circl dot alpha
+add subview circl dot
+
+
+
+remov dot previous graph
+ui label subview subview
+subview is equal no data label
+subview remov from superview
+
+
+
+
+layout touch report
+touch report enabl
+enabl touch report enabl pop up report
+initi vertic gray line appear user touch graph
+touch input line ui view alloc init with frame cg rect make width touch input line frame size height
+touch input line background color color touch input line
+touch input line alpha
+add subview touch input line
+
+pan view ui view alloc init with frame cg rect make view for baselin layout frame size width view for baselin layout frame size height
+pan view background color ui color clear color
+view for baselin layout add subview pan view
+
+pan gestur ui pan gestur recogn alloc init with target action selector handl gestur action
+pan gestur
+pan gestur set maximum number of touch
+pan view add gestur recogn pan gestur
+
+long press gestur ui long press gestur recogn alloc init with target action selector handl gestur action
+long press gestur minimum press durat
+pan view add gestur recogn long press gestur
+
+enabl pop up report alway display pop up label
+respond to selector selector pop up view for line graph
+pop up view pop up view for line graph
+use custom popup view
+pop up view alpha
+add subview pop up view
+
+ns string max valu string ns string string with format format string for valu calcul maximum point valu doubl valu
+ns string min valu string ns string string with format format string for valu calcul minimum point valu doubl valu
+
+ns string longest string
+max valu string length min valu string length
+longest string max valu string
+
+longest string min valu string
+
+
+ns string prefix
+ns string suffix
+respond to selector selector pop up suffix forlin graph
+suffix pop up suffix forlin graph
+
+respond to selector selector pop up prefix forlin graph
+prefix pop up prefix forlin graph
+
+
+ns string full string ns string string with format prefix longest string suffix
+
+ns string m string full string string by replac occurr of string with string option ns regular express search rang ns make rang longest string length
+
+pop up label ui label alloc init with frame cg rect make
+pop up label text m string
+pop up label text align
+pop up label number of line
+pop up label font label font
+pop up label background color ui color clear color
+pop up label size to fit
+pop up label alpha
+
+pop up view ui view alloc init with frame cg rect make pop up label frame size width pop up label frame size height
+pop up view background color color background pop uplabel
+pop up view alpha
+pop up view layer corner radiu
+add subview pop up view
+add subview pop up label
+
+
+
+
+
+pragma mark draw
+
+did finish draw includ y axi bool y axi finish draw
+dispatch dispatch time dispatch time anim graph entranc time nsec dispatch main queue
+enabl y axi label
+know graph finish render
+respond to selector selector line graph did finish draw
+line graph did finish draw
+
+
+y axi finish draw
+know graph finish render
+respond to selector selector line graph did finish draw
+line graph did finish draw
+
+
+
+
+
+
+draw entir graph
+follow method call specif order reason
+chang order method call result draw glitch even crash
+
+max valu get maximum valu
+min valu get minimum valu
+
+axi offset axi enabl offset rel size longest label axi
+enabl y axi label
+ns dictionari attribut ns font attribut name label font
+auto scale y axi
+ns string max valu string ns string string with format format string for valu max valu
+ns string min valu string ns string string with format format string for valu min valu
+
+ns string longest string
+max valu string length min valu string length longest string max valu string
+longest string min valu string
+
+ns string prefix
+ns string suffix
+
+respond to selector selector y axi prefix on line graph
+prefix y axi prefix on line graph
+
+
+respond to selector selector y axi suffix on line graph
+suffix y axi suffix on line graph
+
+
+ns string m string longest string string by replac occurr of string with string option ns regular express search rang ns make rang longest string length
+ns string full string ns string string with format prefix m string suffix
+y axi label x offset full string size with attribut attribut width max valu string size with attribut attribut width
+min valu string size with attribut attribut width
+
+ns string longest string ns string string with format frame size height
+y axi label x offset longest string size with attribut attribut width
+
+y axi label x offset
+
+draw axi
+draw x axi
+
+draw graph
+draw dot
+
+draw axi
+enabl y axi label draw y axi
+
+
+draw dot
+cg float posit on x axi posit axi point current creat
+cg float posit on y axi posit axi point current creat
+
+remov dot previous graph
+ui view subview subview
+subview is kind of class bem circl subview is kind of class bem perman popup view subview is kind of class bem perman popup label
+subview remov from superview
+
+
+remov point ad
+data point remov all object
+
+remov y axi valu ad
+y axi valu remov all object
+
+loop point graph
+autoreleasepool
+number of point
+cg float dot valu
+
+target interfac builder
+data sourc respond to selector selector line graph valu for point at index
+dot valu data sourc line graph valu for point at index
+
+respond to selector selector valu for index
+print deprec warn for old method valu for index and replac method line graph valu for point at index
+
+pragma clang diagnost push
+pragma clang diagnost ignor wdeprec declar
+dot valu valu for index
+pragma clang diagnost
+
+respond to selector selector line graph valu for point at index
+print deprec and unavail warn for old method line graph valu for point at index
+ns except except ns except except with name implement unavail deleg method reason line graph valu for point at index longer avail must implement sourc user info
+except
+
+
+ns except line graph valu for point at index protocol method implement sourc throw except system ca layer invalid geometri except format valu point index invalid ca layer posit contain dot valu
+
+dot valu arc4random 10000
+
+data point add object dot valu
+
+posit y axi right
+posit on x axi frame size width y axi label x offset number of point
+
+posit on x axi frame size width y axi label x offset number of point y axi label x offset
+
+
+posit on y axi y posit for dot valu dot valu
+
+y axi valu add object posit on y axi
+
+
+deal valu draw
+
+dot valu bem null graph valu
+bem circl circl dot bem circl alloc init with frame cg rect make size point size point
+circl dot center cg point make posit on x axi posit on y axi
+circl dot dot first tag100
+circl dot alpha
+circl dot absolut valu dot valu
+circl dot pointcolor color point
+
+add subview circl dot
+alway display pop up label
+respond to selector selector line graph alway display pop up at index
+line graph alway display pop up at index
+display perman label for point circl dot
+
+display perman label for point circl dot
+
+
+entranc anim
+anim graph entranc time
+display dot onli circl dot alpha
+
+alway display dot circl dot alpha
+circl dot alpha
+
+
+display dot while anim
+ui view anim with durat anim graph entranc time number of point delay anim graph entranc time number of point option ui view anim option curv linear anim
+circl dot alpha
+complet bool finish
+alway display dot display dot onli
+ui view anim with durat delay option ui view anim option curv eas out anim
+circl dot alpha
+complet
+
+
+
+
+
+
+
+
+creation line bottom fill
+draw line
+
+
+draw line
+ui view subview subview
+subview is kind of class bem line
+subview remov from superview
+
+
+bem line line bem line alloc init with frame drawabl graph area
+
+line opaqu
+line alpha
+line background color ui color clear color
+line top color color top
+line bottom color color bottom
+line top alpha alpha top
+line bottom alpha alpha bottom
+line top gradient gradient top
+line bottom gradient gradient bottom
+line line width width line
+line refer line width width refer line width refer line width line
+line line alpha alpha line
+line bezier curv is enabl enabl bezier curv
+line array of point y axi valu
+line array of valu graph valu for data point
+line line dash pattern for refer y axi line line dash pattern for refer y axi line
+line line dash pattern for refer x axi line line dash pattern for refer x axi line
+line interpol null valu interpol null valu
+
+line enabl refrenc frame enabl refer axi frame
+line enabl right refer frame line enabl right refer axi frame line
+line enabl top refer frame line enabl top refer axi frame line
+line enabl left refer frame line enabl left refer axi frame line
+line enabl bottom refer frame line enabl bottom refer axi frame line
+
+enabl refer x axi line enabl refer y axi line
+line enabl refrenc line
+line refrenc line color color refer line
+line vertic refer horizont fring negat x axi horizont fring negat valu
+line array of vertic refrenc line point enabl refer x axi line x axi label point
+line array of horizont refrenc line point enabl refer y axi line y axi label point
+
+
+line color color line
+line line gradient gradient line
+line line gradient direct gradient line direct
+line anim time anim graph entranc time
+line anim type anim graph style
+
+averag line enabl averag line
+averag line y valu averag line y valu calcul point valu averag float valu
+line averag line y coordin y posit for dot valu averag line y valu
+line averag line averag line
+line averag line averag line
+
+line disabl main line display dot onli
+
+add subview line
+send subview to back line
+send subview to back background x axi
+
+did finish draw includ y axi
+
+
+draw x axi
+enabl x axi label
+data sourc respond to selector selector line graph label on x axi for index
+
+ui view subview subview
+subview is kind of class ui label subview dot last tag1000 subview remov from superview
+subview is kind of class ui view subview background x axi tag2200 subview remov from superview
+
+
+remov axi label ad
+x axi valu remov all object
+x axi label remov all object
+x axi label point remov all object
+x axi horizont fring negat valu
+
+draw axi background area
+background x axi ui view alloc init with frame drawabl x axi area
+background x axi background x axi tag2200
+color background xaxi background x axi background color color bottom
+background x axi background color color background xaxi
+background x axi alpha alpha background xaxi
+add subview background x axi
+
+respond to selector selector increment posit for x axi on line graph
+ns array axi valu increment posit for x axi on line graph
+ns number increment axi valu
+ns integ index increment integ valu
+ns string x axi label text x axi text for index index
+
+ui label label x axi x axi label with text x axi label text at index index
+x axi label add object label x axi
+
+posit y axi right
+ns number x axi label coordin ns number number with float label x axi center
+x axi label point add object x axi label coordin
+
+ns number x axi label coordin ns number number with float label x axi center y axi label x offset
+x axi label point add object x axi label coordin
+
+
+add subview label x axi
+x axi valu add object x axi label text
+
+respond to selector selector base index for x axi on line graph respond to selector selector increment index for x axi on line graph
+ns integ base index base index for x axi on line graph
+ns integ increment increment index for x axi on line graph
+
+ns integ start index base index
+start index number of point
+
+ns string x axi label text x axi text for index start index
+
+ui label label x axi x axi label with text x axi label text at index start index
+x axi label add object label x axi
+
+posit y axi right
+ns number x axi label coordin ns number number with float label x axi center
+x axi label point add object x axi label coordin
+
+ns number x axi label coordin ns number number with float label x axi center y axi label x offset
+x axi label point add object x axi label coordin
+
+
+add subview label x axi
+x axi valu add object x axi label text
+
+start index increment
+
+
+ns integ number of gap
+
+respond to selector selector number of gap between label on line graph
+number of gap number of gap between label on line graph
+
+respond to selector selector number of gap between label
+print deprec warn for old method number of gap between label and replac method number of gap between label on line graph
+
+pragma clang diagnost push
+pragma clang diagnost ignor wdeprec declar
+number of gap number of gap between label
+pragma clang diagnost
+
+
+number of gap
+
+
+number of gap number of point
+ns string first x label x axi text for index
+ns string last x label x axi text for index number of point
+
+cg float view width frame size width y axi label x offset
+
+cg float x axi x posit first offset
+cg float x axi x posit last offset
+posit y axi right
+x axi x posit first offset
+x axi x posit last offset x axi x posit first offset view width
+
+x axi x posit first offset y axi label x offset
+x axi x posit last offset view width x axi x posit first offset
+
+ui label first label x axi label with text first x label at index
+first label frame cg rect make x axi x posit first offset frame size height view width
+
+first label text align ns text align left
+add subview first label
+x axi valu add object first x label
+x axi label add object first label
+
+ui label last label x axi label with text last x label at index number of point
+last label frame cg rect make x axi x posit last offset frame size height view width
+last label text align ns text align right
+add subview last label
+x axi valu add object last x label
+x axi label add object last label
+
+posit y axi right
+ns number x first axi label coordin first label center
+ns number x last axi label coordin last label center
+x axi label point add object x first axi label coordin
+x axi label point add object x last axi label coordin
+
+ns number x first axi label coordin first label center y axi label x offset
+ns number x last axi label coordin last label center y axi label x offset
+x axi label point add object x first axi label coordin
+x axi label point add object x last axi label coordin
+
+
+autoreleasepool
+ns integ offset offset for x axi with number of gap number of gap offset possibl necessari use shift label axi center
+
+number of point number of gap
+ns integ index number of gap offset
+ns string x axi label text x axi text for index index
+
+ui label label x axi x axi label with text x axi label text at index index
+x axi label add object label x axi
+
+posit y axi right
+ns number x axi label coordin ns number number with float label x axi center
+x axi label point add object x axi label coordin
+
+ns number x axi label coordin ns number number with float label x axi center y axi label x offset
+x axi label point add object x axi label coordin
+
+
+add subview label x axi
+x axi valu add object x axi label text
+
+
+
+
+
+block nsu integ last match index
+
+ns mutabl array overlap label ns mutabl array array with capac
+x axi label enumer object use block ui label label nsu integ bool stop
+
+last match index
+skip first
+ui label prev label x axi label object at index last match index
+cg rect cg rect intersect prev label frame label frame
+cg rect is null last match index
+overlap label add object label overlap
+
+
+bool fulli contain label cg rect contain rect bound label frame
+fulli contain label
+overlap label add object label
+
+
+
+ui label overlap label
+remov from superview
+
+
+
+ns string x axi text for index ns integ index
+ns string x axi label text
+
+data sourc respond to selector selector line graph label on x axi for index
+x axi label text data sourc line graph label on x axi for index index
+
+respond to selector selector label on x axi for index
+print deprec warn for old method label on x axi for index and replac method line graph label on x axi for index
+
+pragma clang diagnost push
+pragma clang diagnost ignor wdeprec declar
+x axi label text label on x axi for index index
+pragma clang diagnost
+
+respond to selector selector line graph label on x axi for index
+print deprec and unavail warn for old method line graph label on x axi for index
+ns except except ns except except with name implement unavail deleg method reason line graph label on x axi for index longer avail must implement sourc user info
+except
+
+
+x axi label text
+
+
+x axi label text
+
+
+ui label x axi label with text ns string text at index ns integ index
+ui label label x axi ui label alloc init
+label x axi text text
+label x axi font label font
+label x axi text align
+label x axi text color color xaxi label
+label x axi background color ui color clear color
+label x axi dot last tag1000
+
+support multi line might overlap graph line text mani line
+label x axi number of line
+cg rect l rect label x axi text bound rect with size view for baselin layout frame size option ns string draw use line fragment origin attribut ns font attribut name label x axi font context
+
+cg point center
+
+label gener code
+cg float avail posit room view for baselin layout frame size width view width view
+cg float posit divisor index number of point gener rel posit point base current index total
+cg float horizont translat y axi label x offset l rect size width
+cg float x posit avail posit room posit divisor horizont translat
+ns log avail posit room posit divisor horizont translat x posit avail posit room posit divisor horizont translat x posit uncom debug
+
+determin horizont translat perform left right label
+thi properti negat calcul posit refer frame
+cg float horizont translat
+index
+horizont translat l rect size width
+index number of point
+horizont translat l rect size width
+horizont translat
+x axi horizont fring negat valu horizont translat
+
+determin axi posit
+cg float posit on x axi
+posit y axi right
+posit on x axi frame size width y axi label x offset number of point index horizont translat
+
+posit on x axi frame size width y axi label x offset number of point index y axi label x offset horizont translat
+
+
+center point axi label
+posit y axi right
+center cg point make posit on x axi frame size height l rect size height
+
+center cg point make posit on x axi frame size height l rect size height
+
+
+cg rect rect label x axi frame
+rect size l rect size
+label x axi frame rect
+label x axi center center
+label x axi
+
+
+draw y axi
+ui view subview subview
+subview is kind of class ui label subview label y axi tag2000
+subview remov from superview
+subview is kind of class ui view subview background y axi tag2100
+subview remov from superview
+
+
+
+cg rect frame for background y axi
+cg rect frame for label y axi
+cg float x valu for center label y axi
+ns text align text align for label y axi
+
+posit y axi right
+frame for background y axi cg rect make frame size width y axi label x offset y axi label x offset frame size height
+frame for label y axi cg rect make frame size width y axi label x offset y axi label x offset
+x valu for center label y axi frame size width y axi label x offset
+text align for label y axi ns text align right
+
+frame for background y axi cg rect make y axi label x offset frame size height
+frame for label y axi cg rect make y axi label x offset
+x valu for center label y axi y axi label x offset
+text align for label y axi ns text align right
+
+
+ui view background yaxi ui view alloc init with frame frame for background y axi
+background yaxi background y axi tag2100
+color background yaxi background yaxi background color color top
+background yaxi background color color background yaxi
+background yaxi alpha alpha background yaxi
+add subview background yaxi
+
+ns mutabl array y axi label ns mutabl array array with capac
+y axi label point remov all object
+
+ns string y axi suffix
+ns string y axi prefix
+
+respond to selector selector y axi prefix on line graph y axi prefix y axi prefix on line graph
+respond to selector selector y axi suffix on line graph y axi suffix y axi suffix on line graph
+
+auto scale y axi
+plot accord rang
+ns number minimum valu
+ns number maximum valu
+
+minimum valu calcul minimum point valu
+maximum valu calcul maximum point valu
+
+cg float number of label
+respond to selector selector number of y axi label on line graph
+number of label number of y axi label on line graph
+number of label
+
+ns mutabl array dot valu ns mutabl array alloc init with capac number of label
+respond to selector selector base valu for y axi on line graph respond to selector selector increment valu for y axi on line graph
+cg float base valu base valu for y axi on line graph
+cg float increment increment valu for y axi on line graph
+
+y axi posit base valu
+base valu increment maximum valu doubl valu
+ns log bem simpl line graph increment properli axi bail earli
+
+
+
+y axi posit maximum valu float valu increment
+dot valu add object y axi posit
+y axi posit increment
+
+number of label
+number of label
+dot valu remov all object
+dot valu add object ns number number with int minimum valu int valu maximum valu int valu
+
+dot valu add object minimum valu
+dot valu add object maximum valu
+number of label
+dot valu add object ns number number with float minimum valu doubl valu maximum valu doubl valu minimum valu doubl valu number of label
+
+
+
+ns number dot valu dot valu
+cg float y axi posit y posit for dot valu dot valu float valu
+ui label label y axi ui label alloc init with frame frame for label y axi
+ns string format valu ns string string with format format string for valu dot valu doubl valu
+label y axi text ns string string with format y axi prefix format valu y axi suffix
+label y axi text align text align for label y axi
+label y axi font label font
+label y axi text color color yaxi label
+label y axi background color ui color clear color
+label y axi label y axi tag2000
+label y axi center cg point make x valu for center label y axi y axi posit
+add subview label y axi
+y axi label add object label y axi
+
+ns number y axi label coordin label y axi center
+y axi label point add object y axi label coordin
+
+
+ns integ number of label
+respond to selector selector number of y axi label on line graph number of label number of y axi label on line graph
+number of label
+
+cg float graph height frame size height
+cg float graph space graph height x axi label y offset number of label
+
+cg float y axi posit graph height x axi label y offset graph space
+
+ns integ number of label
+y axi posit graph space
+
+ui label label y axi ui label alloc init with frame frame for label y axi
+label y axi center cg point make x valu for center label y axi y axi posit
+label y axi text ns string string with format format string for valu graph height x axi label y offset y axi posit
+label y axi font label font
+label y axi text align text align for label y axi
+label y axi text color color yaxi label
+label y axi background color ui color clear color
+label y axi label y axi tag2000
+
+add subview label y axi
+
+y axi label add object label y axi
+
+ns number y axi label coordin label y axi center
+y axi label point add object y axi label coordin
+
+
+
+detect overlap label
+block nsu integ last match index
+ns mutabl array overlap label ns mutabl array array with capac
+
+y axi label enumer object use block ui label label nsu integ bool stop
+
+last match index
+skip first
+ui label prev label y axi label last match index
+cg rect cg rect intersect prev label frame label frame
+cg rect is null last match index
+overlap label add object label overlap
+
+
+axi view
+bool fulli contain label cg rect contain rect bound label frame
+fulli contain label
+overlap label add object label
+y axi label point remov object label center
+
+
+
+ui label label overlap label
+label remov from superview
+
+
+did finish draw includ y axi
+
+
+area graph axe
+cg rect drawabl graph area
+cg rect make x axi x posit first offset frame size height view width
+ns integ x axi height
+cg float x origin posit y axi right y axi label x offset
+cg float view width frame size width y axi label x offset
+cg float adjust height bound size height x axi height
+
+cg rect rect cg rect make x origin view width adjust height
+rect
+
+
+cg rect drawabl x axi area
+ns integ x axi height
+ns integ x axi width drawabl graph area size width
+cg float x axi x origin posit y axi right y axi label x offset
+cg float x axi y origin bound size height x axi height
+cg rect make x axi x origin x axi y origin x axi width x axi height
+
+
+calcul optimum offset need label center axi
+ns integ offset for x axi with number of gap ns integ number of gap
+ns integ left gap number of gap
+ns integ right gap number of point number of gap number of point number of gap
+ns integ offset
+
+left gap right gap
+number of gap
+left gap right gap
+offset
+
+
+
+
+offset
+
+
+display perman label for point bem circl circl dot
+enabl pop up report
+x center label circl dot center
+
+bem perman popup label perman pop up label bem perman popup label alloc init
+perman pop up label text align ns text align center
+perman pop up label number of line
+
+ns string prefix
+ns string suffix
+
+respond to selector selector pop up suffix forlin graph
+suffix pop up suffix forlin graph
+
+respond to selector selector pop up prefix forlin graph
+prefix pop up prefix forlin graph
+
+index circl dot dot first tag100
+ns number valu data point index ns integ circl dot absolut valu
+ns string format valu ns string string with format format string for valu valu doubl valu
+perman pop up label text ns string string with format prefix format valu suffix
+
+perman pop up label font label font
+perman pop up label background color ui color clear color
+perman pop up label size to fit
+perman pop up label center cg point make x center label circl dot center circl dot frame size height
+perman pop up label alpha
+
+bem perman popup view perman pop up view bem perman popup view alloc init with frame cg rect make perman pop up label frame size width perman pop up label frame size height
+perman pop up view background color color background pop uplabel
+perman pop up view alpha
+perman pop up view layer corner radiu
+perman pop up view perman pop up view tag3100
+perman pop up view center perman pop up label center
+
+perman pop up label frame origin
+x center label perman pop up label frame size width
+perman pop up label center cg point make x center label circl dot center circl dot frame size height
+enabl y axi label perman pop up label frame origin y axi label x offset
+x center label perman pop up label frame size width
+perman pop up label center cg point make x center label y axi label x offset circl dot center circl dot frame size height
+perman pop up label frame origin perman pop up label frame size width frame size width
+x center label frame size width perman pop up label frame size width
+perman pop up label center cg point make x center label circl dot center circl dot frame size height
+
+
+perman pop up label frame origin
+perman pop up label center cg point make x center label circl dot center circl dot frame size height
+
+
+check overlap for view perman pop up view
+perman pop up label center cg point make x center label circl dot center circl dot frame size height
+
+
+perman pop up view center perman pop up label center
+
+add subview perman pop up view
+add subview perman pop up label
+
+anim graph entranc time
+perman pop up label alpha
+perman pop up view alpha
+
+ui view anim with durat delay anim graph entranc time option ui view anim option curv linear anim
+perman pop up label alpha
+perman pop up view alpha
+complet
+
+
+
+bool check overlap for view ui view view
+ui view view for label subview
+view for label is kind of class ui view view for label perman pop up view tag3100
+view for label frame origin view for label frame size width view frame origin
+view for label frame origin view frame origin view for label frame origin view frame origin view frame size height
+view for label frame origin view for label frame size height view frame origin view for label frame origin view for label frame size height view frame origin view frame size height
+
+
+
+
+
+
+ui imag graph snapshot imag
+graph snapshot imag render while in background
+
+
+ui imag graph snapshot imag render while in background bool app is in background
+ui graphic begin imag context with option bound size ui screen main screen scale
+
+app is in background draw view hierarchi in rect bound after screen updat
+layer render in context ui graphic get current context
+
+ui imag imag ui graphic get imag from current imag context
+ui graphic end imag context
+
+imag
+
+
+pragma mark data sourc
+
+reload graph
+ui view subview subview
+subview remov from superview
+
+draw graph
+set need layout
+
+
+pragma mark calcul
+
+ns array calcul data point
+ns predic filter ns predic predic with block bool evalu object ns dictionari bind
+ns number valu ns number evalu object
+bool ret val valu is equal to number bem null graph valu
+ret val
+
+ns array filter array data point filter array use predic filter
+filter array
+
+
+ns number calcul point valu averag
+ns array filter array calcul data point
+filter array count
+
+ns express express ns express express for function averag ns express express for constant valu filter array
+ns number valu express express valu with object context
+
+valu
+
+
+ns number calcul point valu sum
+ns array filter array calcul data point
+filter array count
+
+ns express express ns express express for function ns express express for constant valu filter array
+ns number valu express express valu with object context
+
+valu
+
+
+ns number calcul point valu median
+ns array filter array calcul data point
+filter array count
+
+ns express express ns express express for function median ns express express for constant valu filter array
+ns number valu express express valu with object context
+
+valu
+
+
+ns number calcul point valu mode
+ns array filter array calcul data point
+filter array count
+
+ns express express ns express express for function mode ns express express for constant valu filter array
+ns mutabl array valu express express valu with object context
+
+valu first object
+
+
+ns number calcul line graph standard deviat
+ns array filter array calcul data point
+filter array count
+
+ns express express ns express express for function stddev ns express express for constant valu filter array
+ns number valu express express valu with object context
+
+valu
+
+
+ns number calcul minimum point valu
+ns array filter array calcul data point
+filter array count
+
+ns express express ns express express for function ns express express for constant valu filter array
+ns number valu express express valu with object context
+valu
+
+
+ns number calcul maximum point valu
+ns array filter array calcul data point
+filter array count
+
+ns express express ns express express for function ns express express for constant valu filter array
+ns number valu express express valu with object context
+
+valu
+
+
+
+pragma mark valu
+
+ns array graph valu for x axi
+x axi valu
+
+
+ns array graph valu for data point
+data point
+
+
+ns array graph label for x axi
+x axi label
+
+
+set anim graph style bem line anim anim graph style
+anim graph style anim graph style
+anim graph style bem line anim none
+anim graph entranc time
+
+
+
+pragma mark touch gestur
+
+bool gestur recogn should begin ui gestur recogn gestur recogn
+gestur recogn is equal pan gestur
+gestur recogn number of touch touch report finger requir
+cg point translat pan gestur veloc in view pan view
+fab translat fab translat
+
+
+
+
+
+bool gestur recogn ui gestur recogn gestur recogn should recogn simultan with gestur recogn ui gestur recogn other gestur recogn
+
+
+
+bool gestur recogn ui gestur recogn gestur recogn should receiv touch ui touch touch
+
+
+
+handl gestur action ui gestur recogn recogn
+cg point translat recogn locat in view view for baselin layout
+
+translat frame origin frame origin translat frame origin frame origin frame size width make sure vertic line beyond frame graph
+touch input line frame cg rect make translat width touch input line width touch input line frame size height
+
+
+touch input line alpha alpha touch input line
+
+closest dot closest dot fromtouch input line touch input line
+closest dot alpha
+
+
+enabl pop up report closest dot dot first tag100 closest dot dot last tag1000 closest dot is kind of class bem circl alway display pop up label
+set up pop up label abov point closest dot
+
+
+closest dot dot first tag100 closest dot dot last tag1000 closest dot is member of class bem circl
+respond to selector selector line graph did touch graph with closest index enabl touch report
+line graph did touch graph with closest index ns integ closest dot dot first tag100
+
+respond to selector selector did touch graph with closest index enabl touch report
+print deprec warn for old method did touch graph with closest index and replac method line graph did touch graph with closest index
+
+pragma clang diagnost push
+pragma clang diagnost ignor wdeprec declar
+did touch graph with closest index closest dot dot first tag100
+pragma clang diagnost
+
+
+
+releas
+recogn state ui gestur recogn state end
+respond to selector selector line graph did releas touch from graph with closest index
+line graph did releas touch from graph with closest index closest dot dot first tag100
+
+respond to selector selector did releas graph with closest index
+print deprec warn for old method did releas graph with closest index and replac method line graph did releas touch from graph with closest index
+
+pragma clang diagnost push
+pragma clang diagnost ignor wdeprec declar
+did releas graph with closest index closest dot dot first tag100
+pragma clang diagnost
+
+
+ui view anim with durat delay option ui view anim option curv eas out anim
+alway display dot display dot onli
+closest dot alpha
+
+
+touch input line alpha
+enabl pop up report
+pop up view alpha
+pop up label alpha
+custom pop up view alpha
+
+complet
+
+
+
+cg float distanc to closest point
+sqrt closest dot center touch input line center
+
+
+set up pop up label abov point bem circl closest point
+x center label closest dot center
+y center label closest dot center closest dot frame size height
+pop up view center cg point make x center label y center label
+pop up label center pop up view center
+index closest dot dot first tag100
+
+respond to selector selector line graph modifi popup view for index
+line graph modifi popup view pop up view for index index
+
+x center label closest dot center
+y center label closest dot center closest dot frame size height
+pop up view center cg point make x center label y center label
+
+pop up view alpha
+
+cg point pop up view center cg point zero
+
+respond to selector selector pop up suffix forlin graph
+pop up label text ns string string with format data point ns integ closest dot dot first tag100 integ valu pop up suffix forlin graph
+
+pop up label text ns string string with format data point ns integ closest dot dot first tag100 integ valu
+
+enabl y axi label pop up view frame origin y axi label x offset posit y axi right
+x center label pop up view frame size width
+pop up view center cg point make x center label y axi label x offset y center label
+pop up view frame origin pop up view frame size width frame size width y axi label x offset posit y axi right
+x center label frame size width pop up view frame size width
+pop up view center cg point make x center label y axi label x offset y center label
+pop up view frame origin
+x center label pop up view frame size width
+pop up view center cg point make x center label y center label
+pop up view frame origin pop up view frame size width frame size width
+x center label frame size width pop up view frame size width
+pop up view center cg point make x center label y center label
+
+
+pop up view frame origin
+y center label closest dot center closest dot frame size height
+pop up view center cg point make x center label closest dot center closest dot frame size height
+
+
+cg point equal to point pop up view center cg point zero
+pop up view center pop up view center
+
+
+use custom popup view
+ui view anim with durat delay option ui view anim option curv eas out anim
+pop up view alpha
+pop up label alpha
+complet
+ns string prefix
+ns string suffix
+respond to selector selector pop up suffix forlin graph
+suffix pop up suffix forlin graph
+
+respond to selector selector pop up prefix forlin graph
+prefix pop up prefix forlin graph
+
+ns number valu data point index
+ns string format valu ns string string with format format string for valu valu doubl valu
+pop up label text ns string string with format prefix format valu suffix
+pop up label center pop up view center
+
+
+
+pragma mark graph calcul
+
+bem circl closest dot fromtouch input line ui view touch input line
+current closer cgfloat
+bem circl point subview
+point dot first tag100 point dot last tag1000 point is member of class bem circl
+alway display dot display dot onli
+point alpha
+
+point center touch input line center current closer
+current closer point center touch input line center
+closest dot point
+
+
+
+closest dot
+
+
+cg float get maximum valu
+respond to selector selector max valu for line graph
+max valu for line graph
+
+cg float dot valu
+cg float max valu
+
+autoreleasepool
+number of point
+data sourc respond to selector selector line graph valu for point at index
+dot valu data sourc line graph valu for point at index
+
+respond to selector selector valu for index
+print deprec warn for old method valu for index and replac method line graph valu for point at index
+
+pragma clang diagnost push
+pragma clang diagnost ignor wdeprec declar
+dot valu valu for index
+pragma clang diagnost
+
+respond to selector selector line graph valu for point at index
+print deprec and unavail warn for old method line graph valu for point at index
+ns except except ns except except with name implement unavail deleg method reason line graph valu for point at index longer avail must implement sourc user info
+except
+
+
+dot valu
+
+dot valu bem null graph valu
+
+
+
+dot valu max valu
+max valu dot valu
+
+
+
+max valu
+
+
+
+cg float get minimum valu
+respond to selector selector min valu for line graph
+min valu for line graph
+
+cg float dot valu
+cg float min valu infin
+
+autoreleasepool
+number of point
+data sourc respond to selector selector line graph valu for point at index
+dot valu data sourc line graph valu for point at index
+
+respond to selector selector valu for index
+print deprec warn for old method valu for index and replac method line graph valu for point at index
+
+pragma clang diagnost push
+pragma clang diagnost ignor wdeprec declar
+dot valu valu for index
+pragma clang diagnost
+
+respond to selector selector line graph valu for point at index
+print deprec and unavail warn for old method line graph valu for point at index
+ns except except ns except except with name implement unavail deleg method reason line graph valu for point at index longer avail must implement sourc user info
+except
+
+dot valu
+
+dot valu bem null graph valu
+
+
+dot valu min valu
+min valu dot valu
+
+
+
+min valu
+
+
+
+cg float y posit for dot valu cg float dot valu
+dot valu bem null graph valu
+bem null graph valu
+
+
+cg float posit on y axi posit axi point current creat
+cg float pad frame size height
+pad
+pad
+
+
+respond to selector selector static pad for line graph
+pad static pad for line graph
+
+enabl x axi label
+data sourc respond to selector selector line graph label on x axi for index data sourc respond to selector selector label on x axi for index
+x axi label count
+ui label label x axi label object at index
+x axi label y offset label frame size height width line
+
+
+
+
+min valu max valu auto scale y axi posit on y axi frame size height
+auto scale y axi posit on y axi frame size height pad dot valu min valu max valu min valu frame size height pad x axi label y offset
+posit on y axi frame size height dot valu
+
+posit on y axi x axi label y offset
+
+posit on y axi
+
+
+pragma mark custom method
+
+set color touch input line ui color color touch input line
+color touch input line color touch input line
+
+
+pragma mark other method
+
+print deprec and unavail warn for old method ns string old method
+ns log bem simpl line graph unavail deprec error method deprec unavail sourc method must implement method bem simpl line graph data sourc updat method soon possibl thing happen except thrown graph load old method
+
+
+print deprec warn for old method ns string old method and replac method ns string replac method
+ns log bem simpl line graph deprec warn method deprec becom unavail futur version instead updat method soon possibl except thrown futur version old method replac method
+
+
+
+
+bem line
+simpl line graph
+
+creat bobo updat spencer
+copyright 2013 bori emorin right reserv
+copyright 2014 spencer
+
+
+bem line
+bem simpl line graph view
+
+cgfloat doubl
+defin cg float valu doubl valu
+
+defin cg float valu float valu
+
+
+
+bem line
+
+properti nonatom strong ns mutabl array point
+
+
+
+implement bem line
+
+instancetyp init with frame cg rect frame
+init with frame frame
+
+initi code
+background color ui color clear color
+enabl left refer frame line
+enabl bottom refer frame line
+interpol null valu
+
+
+
+
+draw rect cg rect rect
+
+draw refrenc line
+
+ui bezier path vertic refer line path ui bezier path bezier path
+ui bezier path horizont refer line path ui bezier path bezier path
+ui bezier path refer frame path ui bezier path bezier path
+
+vertic refer line path line cap style k cg line cap butt
+vertic refer line path line width
+
+horizont refer line path line cap style k cg line cap butt
+horizont refer line path line width
+
+refer frame path line cap style k cg line cap butt
+refer frame path line width
+
+enabl refrenc frame
+enabl bottom refer frame line
+bottom line
+refer frame path move to point cg point make frame size height
+refer frame path add line to point cg point make frame size width frame size height
+
+
+enabl left refer frame line
+left line
+refer frame path move to point cg point make refer line width frame size height
+refer frame path add line to point cg point make refer line width
+
+
+enabl top refer frame line
+line
+refer frame path move to point cg point make refer line width
+refer frame path add line to point cg point make frame size width
+
+
+enabl right refer frame line
+right line
+refer frame path move to point cg point make frame size width refer line width frame size height
+refer frame path add line to point cg point make frame size width refer line width
+
+
+
+enabl refrenc line
+array of vertic refrenc line point count
+ns number x number array of vertic refrenc line point
+cg float x valu
+vertic refer horizont fring negat
+array of vertic refrenc line point index of object x number left refer line
+x valu x number float valu vertic refer horizont fring negat
+array of vertic refrenc line point index of object x number array of vertic refrenc line point count right refer line
+x valu x number float valu vertic refer horizont fring negat
+x valu x number float valu
+x valu x number float valu
+
+cg point initi point cg point make x valu frame size height
+cg point final point cg point make x valu
+
+vertic refer line path move to point initi point
+vertic refer line path add line to point final point
+
+
+
+array of horizont refrenc line point count
+ns number y number array of horizont refrenc line point
+cg point initi point cg point make y number float valu
+cg point final point cg point make frame size width y number float valu
+
+horizont refer line path move to point initi point
+horizont refer line path add line to point final point
+
+
+
+
+
+
+draw averag line
+
+ui bezier path averag line path ui bezier path bezier path
+averag line enabl averag line
+averag line path line cap style k cg line cap butt
+averag line path line width averag line width
+
+cg point initi point cg point make averag line y coordin
+cg point final point cg point make frame size width averag line y coordin
+
+averag line path move to point initi point
+averag line path add line to point final point
+
+
+
+
+draw graph line
+
+line
+ui bezier path line ui bezier path bezier path
+ui bezier path fill top
+ui bezier path fill bottom
+
+cg float x index scale frame size width array of point count
+
+point ns mutabl array array with capac array of point count
+array of point count
+cg point valu cg point make x index scale array of point cg float valu
+valu bem null graph valu interpol null valu
+point add object ns valu valu with cg point valu
+
+
+
+bool bezier statu bezier curv is enabl
+array of point count bezier curv is enabl bezier statu
+
+disabl main line bezier statu
+line bem line quad curv path with point point
+fill bottom bem line quad curv path with point bottom point array
+fill top bem line quad curv path with point top point array
+disabl main line bezier statu
+line bem line line to point point
+fill bottom bem line line to point bottom point array
+fill top bem line line to point top point array
+
+fill bottom bem line line to point bottom point array
+fill top bem line line to point top point array
+
+
+
+draw fill color
+
+top color
+fill top fill with blend mode k cg blend mode normal alpha top alpha
+
+bottom color
+fill bottom fill with blend mode k cg blend mode normal alpha bottom alpha
+
+cg context ref ui graphic get current context
+top gradient
+cg context save g state
+cg context add path fill top cg path
+cg context clip
+cg context draw linear gradient top gradient cg point zero cg point make cg rect get max y fill top bound
+cg context restor g state
+
+
+bottom gradient
+cg context save g state
+cg context add path fill bottom cg path
+cg context clip
+cg context draw linear gradient bottom gradient cg point zero cg point make cg rect get max y fill bottom bound
+cg context restor g state
+
+
+
+
+anim draw
+
+enabl refrenc line
+ca shape layer vertic refer line path layer ca shape layer layer
+vertic refer line path layer frame bound
+vertic refer line path layer path vertic refer line path cg path
+vertic refer line path layer opac line alpha line alpha
+vertic refer line path layer fill color
+vertic refer line path layer line width refer line width
+
+line dash pattern for refer y axi line
+vertic refer line path layer line dash pattern line dash pattern for refer y axi line
+
+
+refrenc line color
+vertic refer line path layer stroke color refrenc line color cg color
+
+vertic refer line path layer stroke color color cg color
+
+
+anim time
+anim for layer vertic refer line path layer with anim type anim type is anim refer line
+layer add sublay vertic refer line path layer
+
+
+ca shape layer horizont refer line path layer ca shape layer layer
+horizont refer line path layer frame bound
+horizont refer line path layer path horizont refer line path cg path
+horizont refer line path layer opac line alpha line alpha
+horizont refer line path layer fill color
+horizont refer line path layer line width refer line width
+line dash pattern for refer x axi line
+horizont refer line path layer line dash pattern line dash pattern for refer x axi line
+
+
+refrenc line color
+horizont refer line path layer stroke color refrenc line color cg color
+
+horizont refer line path layer stroke color color cg color
+
+
+anim time
+anim for layer horizont refer line path layer with anim type anim type is anim refer line
+layer add sublay horizont refer line path layer
+
+
+ca shape layer refer line path layer ca shape layer layer
+refer line path layer frame bound
+refer line path layer path refer frame path cg path
+refer line path layer opac line alpha line alpha
+refer line path layer fill color
+refer line path layer line width refer line width
+
+refrenc line color refer line path layer stroke color refrenc line color cg color
+refer line path layer stroke color color cg color
+
+anim time
+anim for layer refer line path layer with anim type anim type is anim refer line
+layer add sublay refer line path layer
+
+disabl main line
+ca shape layer path layer ca shape layer layer
+path layer frame bound
+path layer path line cg path
+path layer stroke color color cg color
+path layer fill color
+path layer opac line alpha
+path layer line width line width
+path layer line join k ca line join bevel
+path layer line cap k ca line cap round
+anim time anim for layer path layer with anim type anim type is anim refer line
+line gradient layer add sublay background gradient layer for layer path layer
+layer add sublay path layer
+
+
+averag line enabl averag line
+ca shape layer averag line path layer ca shape layer layer
+averag line path layer frame bound
+averag line path layer path averag line path cg path
+averag line path layer opac averag line alpha
+averag line path layer fill color
+averag line path layer line width averag line width
+
+averag line dash pattern averag line path layer line dash pattern averag line dash pattern
+
+averag line color averag line path layer stroke color averag line color cg color
+averag line path layer stroke color color cg color
+
+anim time
+anim for layer averag line path layer with anim type anim type is anim refer line
+layer add sublay averag line path layer
+
+
+
+ns array top point array
+cg point top point zero cg point make
+cg point top point full cg point make frame size width
+ns mutabl array top point ns mutabl array array with array point
+top point insert object ns valu valu with cg point top point zero at index
+top point add object ns valu valu with cg point top point full
+top point
+
+
+ns array bottom point array
+cg point bottom point zero cg point make frame size height
+cg point bottom point full cg point make frame size width frame size height
+ns mutabl array bottom point ns mutabl array array with array point
+bottom point insert object ns valu valu with cg point bottom point zero at index
+bottom point add object ns valu valu with cg point bottom point full
+bottom point
+
+
+ui bezier path line to point ns array point
+ui bezier path path ui bezier path bezier path
+ns valu valu point
+cg point valu cg point valu
+path move to point
+
+nsu integ point count
+valu point
+cg point valu cg point valu
+path add line to point
+
+path
+
+
+ui bezier path quad curv path with point ns array point
+ui bezier path path ui bezier path bezier path
+
+ns valu valu point
+cg point valu cg point valu
+path move to point
+
+point count
+valu point
+cg point valu cg point valu
+path add line to point
+path
+
+
+nsu integ point count
+valu point
+cg point valu cg point valu
+
+cg point mid point mid point for point
+path add quad curv to point mid point control point control point for point mid point
+path add quad curv to point control point control point for point mid point
+
+
+
+path
+
+
+cg point mid point for point cg point cg point
+cg point make
+
+
+cg point control point for point cg point cg point
+cg point control point mid point for point
+cg float diff y fab control point
+
+
+control point diff y
+
+control point diff y
+
+control point
+
+
+anim for layer ca shape layer shape layer with anim type bem line anim anim type is anim refer line bool should half opac
+anim type bem line anim none
+anim type bem line anim fade
+ca basic anim path anim ca basic anim anim with key path opac
+path anim durat anim time
+path anim from valu ns number number with float
+should half opac path anim to valu ns number number with float line alpha line alpha
+path anim to valu ns number number with float line alpha
+shape layer add anim path anim for key opac
+
+
+anim type bem line anim expand
+ca basic anim path anim ca basic anim anim with key path line width
+path anim durat anim time
+path anim from valu ns number number with float
+path anim to valu ns number number with float shape layer line width
+shape layer add anim path anim for key line width
+
+
+
+ca basic anim path anim ca basic anim anim with key path stroke end
+path anim durat anim time
+path anim from valu ns number number with float
+path anim to valu ns number number with float
+shape layer add anim path anim for key stroke end
+
+
+
+
+
+ca layer background gradient layer for layer ca shape layer shape layer
+ui graphic begin imag context bound size
+cg context ref imag ctx ui graphic get current context
+cg point start
+line gradient direct bem line gradient direct horizont
+start cg point make cg rect get mid y shape layer bound
+cg point make cg rect get max x shape layer bound cg rect get mid y shape layer bound
+
+start cg point make cg rect get mid x shape layer bound
+cg point make cg rect get mid x shape layer bound cg rect get max y shape layer bound
+
+
+cg context draw linear gradient imag ctx line gradient start
+ui imag imag ui graphic get imag from current imag context
+ui graphic end imag context
+ca layer gradient layer ca layer layer
+gradient layer frame bound
+gradient layer content imag cg imag
+gradient layer mask shape layer
+gradient layer
+
+
+
+
+bem averag line
+simpl line chart
+
+creat spencer
+copyright 2015 bori emorin right reserv
+
+
+bem averag line
+
+implement bem averag line
+
+instancetyp init
+init
+
+enabl averag line
+color ui color white color
+alpha
+width
+y valu
+
+
+
+
+
+
+
+bem circl
+simpl line graph
+
+creat bobo updat spencer
+copyright 2013 bori emorin right reserv
+copyright 2014 spencer
+
+
+bem circl
+
+implement bem circl
+
+instancetyp init with frame cg rect frame
+init with frame frame
+
+initi code
+background color ui color clear color
+
+
+
+
+draw rect cg rect rect
+cg context ref ui graphic get current context
+cg context add ellips in rect rect
+pointcolor
+cg context fill path
+
+
+
+
+bem perman popup view
+simpl line graph
+
+creat delisa mason
+copyright 2015 bori emorin right reserv
+
+
+bem perman popup view
+
+implement bem perman popup view
+
+
+
+implement bem perman popup label
+
+
+
+stat view control
+simpl line chart
+
+creat i rare media
+copyright 2014 bori emorin right reserv
+copyright 2014 spencer
+
+
+stat view control
+
+stat view control
+
+
+
+implement stat view control
+synthes standard deviat averag median mode maximum minimum snapshot imag
+synthes standard deviat label averag label median label mode label maximum label minimum label snapshot imag view
+
+view did load
+view did load
+addit setup load view
+
+
+view will appear bool anim
+view will appear anim
+standard deviat label text standard deviat
+averag label text averag
+median label text median
+mode label text mode
+maximum label text maximum
+minimum label text minimum
+snapshot imag view imag snapshot imag
+
+
+did receiv memori warn
+did receiv memori warn
+dispos resourc recreat
+
+
+ns integ tabl view ui tabl view tabl view number of row in section ns integ section
+section
+
+
+
+ui tabl view cell tabl view ui tabl view tabl view cell for row at index path ns index path index path
+ns string cell identifi cell
+ui tabl view cell cell tabl view dequeu reusabl cell with identifi cell identifi
+cell cell ui tabl view cell alloc init with style ui tabl view cell style subtitl reus identifi cell identifi
+
+index path index path section
+cell text label text standard deviat
+cell detail text label text standard deviat
+cell
+index path
+cell text label text averag
+cell detail text label text averag
+cell
+index path
+cell text label text median
+cell detail text label text median
+cell
+index path
+cell text label text mode
+cell detail text label text mode
+cell
+index path
+cell text label text maximum
+cell detail text label text maximum valu
+cell
+index path
+cell text label text minimum
+cell detail text label text minimum valu
+cell
+index path index path section
+cell text label text render snapshot
+cell imag view imag snapshot imag
+cell
+
+ns log unknown
+cell
+
+
+
+tabl view ui tabl view tabl view did select row at index path ns index path index path
+tabl view deselect row at index path index path anim
+
+
+
+
+main
+simpl line graph
+
+creat bobo
+copyright 2013 bori emorin right reserv
+
+
+ui kit ui kit
+
+app deleg
+
+main argc argv
+
+autoreleasepool
+ui applic main argc argv ns string from class app deleg
+
+
+
+view control
+simpl line graph
+
+creat bobo updat spencer
+copyright 2013 bori emorin right reserv
+copyright 2014 spencer
+
+
+view control
+
+
+view control
+previou stepper valu
+total number
+
+
+implement view control
+
+pragma mark view lifecycl
+
+view did load
+view did load
+addit setup load view typic
+
+hydrat dataset
+
+thi comment graph creat sampl howev code remain exampl creat graph code
+bem simpl line graph view my graph bem simpl line graph view alloc init with frame cg rect make
+my graph
+my graph data sourc
+view add subview my graph
+
+creat gradient appli bottom portion graph
+cg color space ref colorspac cg color space creat devic rgb
+size locat
+cg float locat
+cg float compon
+
+
+
+
+appli gradient bottom portion graph
+my graph gradient bottom cg gradient creat with color compon colorspac compon locat locat
+
+enabl disabl variou graph properti axi display
+my graph enabl touch report
+my graph enabl pop up report
+my graph enabl y axi label
+my graph auto scale y axi
+my graph alway display dot
+my graph enabl refer x axi line
+my graph enabl refer y axi line
+my graph enabl refer axi frame
+
+draw averag line
+my graph averag line enabl averag line
+my graph averag line alpha
+my graph averag line color ui color dark gray color
+my graph averag line width
+my graph averag line dash pattern
+
+graph anim style draw fade none
+my graph anim graph style bem line anim draw
+
+dash refer line
+my graph line dash pattern for refer y axi line
+
+show axi valu format
+my graph format string for valu
+
+setup initi curv select segment
+curv choic select segment index my graph enabl bezier curv
+
+label report valu graph user touch
+label valu text ns string string with format my graph calcul point valu sum int valu
+label date text later
+
+
+did receiv memori warn
+did receiv memori warn
+dispos resourc recreat
+
+
+hydrat dataset
+reset array valu axi point date axi point label
+array of valu array of valu ns mutabl array alloc init
+array of date array of date ns mutabl array alloc init
+array of valu remov all object
+array of date remov all object
+
+previou stepper valu graph object increment valu
+total number
+ns date base date ns date date
+bool show null valu
+
+object base stepper valu
+
+array of valu add object get random float random valu graph
+
+array of date add object base date date axi graph
+show null valu
+array of date add object date for graph after date array of date date axi graph
+array of valu bem null graph valu
+
+array of date add object date for graph after date array of date date axi graph
+
+
+total number total number array of valu object at index int valu valu ad togeth
+
+
+
+ns date date for graph after date ns date date
+ns time interv second in twenti four hour
+ns date new date date date by ad time interv second in twenti four hour
+new date
+
+
+ns string label for date at index ns integ index
+ns date date array of date index
+ns date formatt ns date formatt alloc init
+date format
+ns string label string from date date
+label
+
+
+pragma mark graph action
+
+refresh line graph specifi properti
+ib action refresh sender
+hydrat dataset
+
+ui color color
+graph color choic select segment index color ui color color with red green blue alpha
+graph color choic select segment index color ui color color with red green blue alpha
+graph color choic select segment index color ui color color with red green blue alpha
+
+my graph enabl bezier curv bool curv choic select segment index
+my graph color top color
+my graph color bottom color
+my graph background color color
+view tint color color
+label valu text color color
+navig control navig bar tint color color
+
+my graph anim graph style bem line anim fade
+my graph reload graph
+
+
+get random float
+arc4random 1000000
+
+
+
+ib action add or remov point from graph sender
+graph object increment valu previou stepper valu
+point
+array of valu add object get random float
+ns date new date date for graph after date ns date array of date last object
+array of date add object new date
+my graph reload graph
+graph object increment valu previou stepper valu
+remov point
+array of valu remov object at index
+array of date remov object at index
+my graph reload graph
+
+
+previou stepper valu graph object increment valu
+
+
+ib action display statist sender
+perform segu with identifi show stat sender
+
+
+prepar for segu ui storyboard segu segu sender sender
+prepar for segu segu sender sender
+
+segu identifi is equal to string show stat
+stat view control control segu destin view control
+control standard deviat ns string string with format my graph calcul line graph standard deviat float valu
+control averag ns string string with format my graph calcul point valu averag float valu
+control median ns string string with format my graph calcul point valu median float valu
+control mode ns string string with format my graph calcul point valu mode float valu
+control minimum ns string string with format my graph calcul minimum point valu float valu
+control maximum ns string string with format my graph calcul maximum point valu float valu
+control snapshot imag my graph graph snapshot imag
+
+
+
+
+pragma mark simpl line graph data sourc
+
+ns integ number of point in line graph bem simpl line graph view graph
+array of valu count
+
+
+cg float line graph bem simpl line graph view graph valu for point at index ns integ index
+array of valu object at index index doubl valu
+
+
+pragma mark simpl line graph deleg
+
+ns integ number of gap between label on line graph bem simpl line graph view graph
+
+
+
+ns string line graph bem simpl line graph view graph label on x axi for index ns integ index
+
+ns string label label for date at index index
+label string by replac occurr of string with string
+
+
+line graph bem simpl line graph view graph did touch graph with closest index ns integ index
+label valu text ns string string with format array of valu object at index index
+label date text ns string string with format label for date at index index
+
+
+line graph bem simpl line graph view graph did releas touch from graph with closest index cg float index
+ui view anim with durat delay option ui view anim option curv eas out anim
+label valu alpha
+label date alpha
+complet bool finish
+label valu text ns string string with format my graph calcul point valu sum int valu
+label date text ns string string with format label for date at index label for date at index array of date count
+
+ui view anim with durat delay option ui view anim option curv eas out anim
+label valu alpha
+label date alpha
+complet
+
+
+
+line graph did finish load bem simpl line graph view graph
+label valu text ns string string with format my graph calcul point valu sum int valu
+label date text ns string string with format label for date at index label for date at index array of date count
+
+
+line graph did finish draw bem simpl line graph view graph
+method task graph finish draw
+
+
+ns string pop up suffix forlin graph bem simpl line graph view graph
+peopl
+
+
+ns string pop up prefix forlin graph bem simpl line graph view graph
+
+
+
+pragma mark option datasourc custom
+
+thi section hold bunch graph custom made they comment requir choos uncom datasourc method
+
+
+
+ns integ base index for x axi on line graph bem simpl line graph view graph
+
+
+
+ns integ increment index for x axi on line graph bem simpl line graph view graph
+
+
+
+ns array increment posit for x axi on line graph bem simpl line graph view graph
+ns mutabl array posit ns mutabl array
+ns calendar calendar ns calendar current calendar
+ns integ previou day
+array of date count
+ns date date array of date
+ns date compon compon calendar compon ns calendar unit day from date date
+ns integ compon
+previou day
+posit add object
+previou day
+
+
+posit
+
+
+
+cg float base valu for y axi on line graph bem simpl line graph view graph
+ns number min valu graph calcul minimum point valu
+round valu nearest
+min valu doubl valu
+round precis
+offset round precis
+round val round offset round precis round precis
+round val
+
+
+cg float increment valu for y axi on line graph bem simpl line graph view graph
+ns number min valu graph calcul minimum point valu
+ns number max valu graph calcul maximum point valu
+rang max valu doubl valu min valu doubl valu
+increment
+rang
+increment
+rang
+increment
+rang
+increment
+rang 1000
+increment
+rang 5000
+increment
+
+increment 1000
+
+increment
+
+
+
+
+app deleg
+simpl line graph
+
+creat bobo
+copyright 2013 bori emorin right reserv
+
+
+app deleg
+
+implement app deleg
+
+bool applic ui applic applic did finish launch with option ns dictionari launch option
+overrid point custom applic launch
+
+
+
+applic will resign activ ui applic applic
+sent applic move activ inact state thi occur certain type temporari interrupt incom phone call messag user quit applic begin transit background state
+method paus ongo task disabl timer throttl open gl frame rate game method paus game
+
+
+applic did enter background ui applic applic
+method releas share resourc save user invalid timer store enough applic state inform restor applic current state termin later
+applic support background execut method call instead applic will termin user quit
+
+
+applic will enter foreground ui applic applic
+call part transit background inact state undo mani chang made enter background
+
+
+applic did becom activ ui applic applic
+restart task paus start applic inact applic previous background option refresh user
+
+
+applic will termin ui applic applic
+call applic termin save appropri also applic did enter background
+
+
+
+
+custom test
+simpl line chart
+
+creat bobo
+copyright 2015 bori emorin right reserv
+
+
+xc test
+bem simpl line graph view
+contant test
+
+same tag bem simpl line graph view
+enum ns integ bem intern tag
+
+dot first tag100
+dot last tag1000 1000
+label y axi tag2000 2000
+background y axi tag2100 2100
+background x axi tag2200 2200
+perman pop up view tag3100 3100
+
+
+custom test xc test case bem simpl line graph deleg bem simpl line graph data sourc
+
+properti strong nonatom bem simpl line graph view line graph
+
+
+
+implement custom test
+
+set up
+set up
+
+line graph bem simpl line graph view alloc init with frame cg rect make
+line graph
+line graph data sourc
+
+
+pragma mark bem simpl line graph data sourc
+
+ns integ number of point in line graph bem simpl line graph view nonnul graph
+number of point
+
+
+cg float line graph bem simpl line graph view nonnul graph valu for point at index ns integ index
+point valu
+
+
+ns string line graph nonnul bem simpl line graph view graph label on x axi for index ns integ index
+x axi label string
+
+
+ns string pop up prefix forlin graph bem simpl line graph view nonnul graph
+pop up prefix
+
+
+ns string pop up suffix forlin graph bem simpl line graph view nonnul graph
+pop up suffix
+
+
+pragma mark test
+
+test dot custom
+cg float size point
+
+line graph alway display dot
+line graph anim graph entranc time
+line graph size point size point
+line graph color point ui color green color
+line graph reload graph
+
+ns mutabl array dot ns mutabl array
+ui view line graph subview
+is kind of class bem circl dot first tag100 dot last tag1000
+dot add object
+
+
+
+xct assert dot count number of point there mani bem circl view graph subview sourc method number of point in line graph return
+
+bem circl dot
+xct assert bound size width size point dot size point custom
+xct assert bound size height size point dot size point custom
+xct assert pointcolor is equal ui color green color dot color green
+xct assert absolut valu point valu dot expect valu equal valu return sourc method valu for point at index
+xct assert alpha alpha dot expect alway display alpha
+xct assert background color is equal ui color clear color dot expect clear color background color
+
+
+
+test x axi custom
+ui font font ui font system font of size
+line graph label font font
+line graph color xaxi label ui color green color
+line graph reload graph
+
+ns array label line graph graph label for x axi
+xct assert label count number of point axi label point graph
+
+ui label x axi label label
+xct assert x axi label is member of class ui label return graph label for x axi ui label
+xct assert x axi label text is equal to string x axi label string axi label string return sourc method label on x axi for index
+xct assert x axi label background color is equal ui color clear color axi label expect clear beackground color
+xct assert x axi label text align ns text align center axi label expect text center
+xct assert x axi label dot last tag1000 axi label expect certain
+xct assert x axi label font font axi label font expect custom
+xct assert x axi label text color ui color green color axi label text color expect custom
+
+
+
+test pop up
+line graph alway display pop up label
+line graph color background pop uplabel ui color green color
+ui font font ui font system font of size
+line graph label font font
+line graph reload graph
+
+ns mutabl array pop up ns mutabl array
+bem perman popup view pop up line graph subview
+pop up is kind of class bem perman popup view pop up perman pop up view tag3100
+pop up add object pop up
+
+
+
+xct assert pop up count number of point popup everi
+bem perman popup view pop up pop up
+xct assert pop up background color ui color green color popup backgorunf color properti
+xct assert pop up alpha pop up alpha popup alway display alpha
+
+
+ns mutabl array pop up label ns mutabl array
+ui label label line graph subview
+label is kind of class bem perman popup label
+pop up label add object label
+
+
+
+xct assert pop up label count number of point popup everi
+ns string expect label text ns string string with format pop up prefix point valu pop up suffix
+bem perman popup label label pop up label
+xct assert label text is equal to string expect label text popup label display valu suffix prefix return
+xct assert label font font popup label font expect custom
+xct assert label background color ui color clear color popup label backgorund color alway clear color
+
+
+
+tear down
+line graph
+tear down
+
+
+
+
+simpl line graph test
+simpl line graph test
+
+creat bobo
+copyright 2013 bori emorin right reserv
+
+
+xc test
+bem simpl line graph view
+contant test
+
+same tag bem simpl line graph view
+enum ns integ bem intern tag
+
+dot first tag100
+dot last tag1000 1000
+label y axi tag2000 2000
+background y axi tag2100 2100
+background x axi tag2200 2200
+perman pop up view tag3100 3100
+
+
+gener simpl test bem simpl line graph mostli test valu
+simpl line graph test xc test case bem simpl line graph deleg bem simpl line graph data sourc
+
+properti strong nonatom bem simpl line graph view line graph
+
+
+
+
+implement simpl line graph test
+
+set up
+set up
+
+line graph bem simpl line graph view alloc init with frame cg rect make
+line graph
+line graph data sourc
+
+
+pragma mark bem simpl line graph data sourc
+
+ns integ number of point in line graph bem simpl line graph view nonnul graph
+number of point
+
+
+cg float line graph bem simpl line graph view nonnul graph valu for point at index ns integ index
+point valu
+
+
+ns string line graph nonnul bem simpl line graph view graph label on x axi for index ns integ index
+x axi label string
+
+
+pragma mark test method
+
+test init
+xct assert not nil line graph alloc initi bem simpl line graph
+
+
+test init with frame
+xct assert not nil line graph alloc initi bem simpl line graph
+
+
+test reload data perform
+measur block
+line graph reload graph
+
+
+
+test graph valu for x axi
+line graph reload graph
+
+ns array x axi string line graph graph valu for x axi
+xct assert x axi string count number of point string axi equal return sourc method number of point in line graph
+
+ns string x axi string x axi string
+xct assert x axi string is kind of class ns string return graph valu for x axi ns string
+xct assert x axi string is equal to string x axi label string axi string return sourc method label on x axi for index
+
+
+
+test graph valu for data point
+line graph reload graph
+
+ns array valu line graph graph valu for data point
+xct assert valu count number of point point equal return sourc method number of point in line graph
+
+ns mutabl array mock valu ns mutabl array
+ns integ number of point
+mock valu add object ns number number with float point valu
+
+xct assert valu is equal to array mock valu return graph valu for data point similar return sourc method valu for point at index label on x axi for index
+
+
+test drawn point
+line graph anim graph entranc time
+line graph reload graph
+
+ns mutabl array dot ns mutabl array
+ui view line graph subview
+is kind of class bem circl dot first tag100 dot last tag1000
+dot add object
+
+
+xct assert dot count number of point there mani bem circl view graph subview sourc method number of point in line graph return
+
+bem circl dot
+xct assert bound size width dot expect width
+xct assert bound size height dot expect height
+xct assert pointcolor is equal ui color color with white alpha dot expect white
+xct assert absolut valu point valu dot expect valu equal valu return sourc method valu for point at index
+xct assert alpha dot expect display alpha
+xct assert background color is equal ui color clear color dot expect clear color background color
+
+
+
+test graph label for x axi
+line graph enabl x axi label
+line graph reload graph
+
+xct assert line graph graph label for x axi count
+
+line graph enabl x axi label
+line graph reload graph
+
+ns array label line graph graph label for x axi
+xct assert label count number of point axi label point graph
+
+ui label x axi label label
+xct assert x axi label is member of class ui label return graph label for x axi ui label
+xct assert x axi label text is equal to string x axi label string axi label string return sourc method label on x axi for index
+xct assert x axi label background color is equal ui color clear color axi label expect clear beackground color
+xct assert x axi label text color is equal ui color black color axi label expect black text color
+xct assert x axi label text align ns text align center axi label expect text center
+xct assert x axi label dot last tag1000 axi label expect certain
+
+
+
+test y axi label
+line graph enabl y axi label
+line graph reload graph
+
+ui label label line graph subview
+xct assert label label y axi tag2000 axi label expect enabl y axi label
+
+
+line graph enabl y axi label
+line graph reload graph
+
+ns string valu ns string string with format point valu
+
+ns mutabl array y axi label ns mutabl array
+ui label label line graph subview
+label is kind of class ui label label label y axi tag2000
+y axi label add object label
+xct assert label text is equal to string valu valu axi label expect valu given sourc method valu for point at index
+xct assert label text color is equal ui color black color axi label expect text color black
+xct assert label background color is equal ui color clear color axi label expect backgrounf color clear
+
+
+
+xct assert y axi label count with dot valu expect axi label
+
+
+tear down
+line graph
+tear down
+
+
+

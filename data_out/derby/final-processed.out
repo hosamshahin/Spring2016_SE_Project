@@ -1,0 +1,6426 @@
+derbi derbi
+export derbi
+config
+filenam filenam
+script
+dropdown dropdown
+
+
+
+export plugin
+plugin decor derbi
+
+plugin derbi option
+derbi creat librari config option
+
+derbi templat derbi templat
+context derbi templat context
+express derbi templat express
+templat derbi templat templat
+util racer util
+event model eventmodel
+text diff text diff
+control control
+document listen document listen
+
+export page
+
+page model
+control call model
+
+
+
+init init model
+context creat context
+event model
+remov model listen
+compon
+add listen
+
+
+util merg into page prototyp control prototyp
+
+page prototyp bodi class
+
+class name
+segment split
+segment length
+class name segment slice join
+class name push class name
+
+class name join
+
+
+page prototyp prevent default
+prevent default
+
+
+page prototyp stop propag
+stop propag
+
+
+page prototyp set render param
+model render
+model render
+model render
+model render queri queri
+
+
+page prototyp set render prefix
+prefix
+model render prefix prefix
+
+
+page prototyp view name unescap
+set render prefix
+view get view view name
+view context unescap
+
+
+page prototyp get fragment view name
+set render prefix
+view get view view name
+view get fragment context
+
+
+page prototyp get view view name
+view find view name
+
+
+page prototyp render
+emit render
+context paus
+set render param
+titl fragment get fragment titl element
+bodi fragment get fragment bodi element
+titl element document get element by tag name titl
+titl element parent node replac child titl fragment titl element
+document bodi parent node replac child bodi fragment document bodi
+context unpaus
+creat creat model
+emit rout done render
+
+
+page prototyp attach
+context paus
+model render
+titl view get view titl element
+bodi view get view bodi element
+titl element document get element by tag name titl
+titl view attach to titl element parent node titl element context
+bodi view attach to document bodi parent node document bodi context
+context unpaus
+creat creat model
+
+
+page prototyp creat context
+context meta context context meta
+context meta view view
+context context context context meta
+context express express path express
+context root
+context
+
+
+page prototyp add listen
+event model event model event model
+add model listen event model
+add context listen event model
+
+
+page prototyp destroy
+emit destroy
+remov model listen
+compon
+compon compon
+compon destroy
+
+remov ref listen reactiv function
+previou page
+silent model model silent
+silent model destroy page
+silent model destroy compon
+unfetch unsubscrib queri document
+silent model unload all silent model unload all
+
+
+page prototyp add model listen event model
+model model
+model
+
+context context
+chang listen model chang on chang path valu previou
+segment util cast segment path split
+paramet pass special handl updat
+result string insert string remov
+event model segment previou
+
+load listen model load on load path
+segment util cast segment path split
+event model segment
+
+unload listen model unload on unload path
+segment util cast segment path split
+event model segment
+
+insert listen model insert on insert path index valu
+segment util cast segment path split
+event model insert segment index valu length
+
+remov listen model remov on remov path index valu
+segment util cast segment path split
+event model remov segment index valu length
+
+move listen model move on move path how mani
+segment util cast segment path split
+event model move segment how mani
+
+
+remov model listen
+model remov listen chang chang listen
+model remov listen load load listen
+model remov listen unload unload listen
+model remov listen insert insert listen
+model remov listen remov remov listen
+model remov listen move move listen
+
+
+
+page prototyp add context listen event model
+context meta add bind add bind
+context meta remov bind remov bind
+context meta remov node remov node
+context meta add item context add item context
+context meta remov item context remov item context
+
+add item context context
+segment context express resolv context
+event model add item context segment context
+
+remov item context context
+todo
+
+add bind bind
+patch text bind bind
+express bind express
+express
+express length
+add depend event model express bind
+
+
+express bind express
+add depend event model express bind
+
+
+remov bind bind
+bind wrapper bind meta
+bind wrapper
+bind wrapper length
+event model remov bind bind wrapper
+
+
+remov node node
+compon node compon
+compon compon singleton
+compon destroy
+
+destroy listen node destroy listen
+destroy listen
+destroy listen length
+destroy listen
+
+
+
+
+
+add depend event model express bind
+bind wrapper bind wrapper event model express bind
+bind wrapper updat depend
+
+
+code use base pattern object key
+sequenti gener
+next id
+bind wrapper event model express bind
+event model event model
+express express
+bind bind
+next id
+event model
+depend
+bind meta
+bind meta push
+
+bind meta
+
+
+bind wrapper prototyp updat depend
+depend express depend bind context
+depend
+noth depend chang
+equal depend depend depend
+otherwis remov current depend
+event model remov bind
+
+depend
+depend
+depend depend
+depend length
+depend depend
+depend event model add bind depend
+
+
+bind wrapper prototyp updat previou
+bind updat previou
+updat depend
+
+bind wrapper prototyp insert index how mani
+bind insert index how mani
+
+bind wrapper prototyp remov index how mani
+bind remov index how mani
+
+bind wrapper prototyp move how mani
+bind move how mani
+
+
+equal depend
+len a length
+len b length
+len a len b
+len a
+item a
+item b
+len item a item a item a length
+len item b item b item b length
+len item a len item b
+len item b
+item a item b
+
+
+
+
+
+patch text bind bind
+
+bind templat attribut bind
+bind name valu
+bind element tag name input
+document listen input support select bind element
+bind express resolv bind context
+
+bind updat text input updat
+
+
+bind templat node bind
+bind node parent node tag name textarea
+bind express resolv bind context
+
+bind updat text area updat
+
+
+
+text input updat previou
+text updat element previou
+
+text area updat previou
+element node parent node
+element text updat element previou
+
+text updat bind element previou
+
+target element
+
+string insert
+text diff on string insert
+element
+previou
+string insert index
+string insert text
+
+string remov
+text diff on string remov
+element
+previou
+string remov index
+string remov how mani
+
+
+
+
+element tag name textarea
+bind
+valu express bind context
+element valu stringifi valu
+
+
+bind updat bind context bind
+
+
+util server requir page server
+lookup racer path lookup
+trim lead html util trim lead
+
+export wrap remaind wrap remaind
+export extract placehold extract placehold
+export path fn arg path fn arg
+export ctx path ctx path
+export data valu data valu
+export set bound fn set bound fn
+
+wrap remaind tag name remaind
+remaind
+reg exp tag name test remaind
+
+
+open placehold
+placehold content unescap
+
+extract placehold text
+match open placehold exec text
+match
+match
+open match
+remaind match
+open len open length
+bound open len
+macro open len
+match brace remaind open len
+end inner open len
+inner remaind slice end inner
+post remaind slice
+content placehold content exec inner
+escap name type
+content
+type content
+escap
+type unescap
+escap
+type
+
+name content
+bound name name replac bthi
+
+trim lead
+post trim lead post
+bound bound
+macro macro
+hash content
+escap escap
+type type
+name name
+content
+sourc text
+
+
+
+match brace text open char close char
+close ha close ha open open
+
+
+close text index of close char
+open text index of open char
+ha close close
+ha open open
+ha close ha open close open
+close
+
+
+ha open
+open
+
+
+
+
+
+
+
+
+
+fn call
+arg separ
+not separ
+not path arg null
+
+fn arg inner
+arg
+last index
+match last
+match arg separ exec inner
+match
+match brace inner arg separ last index
+arg push inner slice last index
+not separ last index
+last index arg separ last index
+not separ test inner not separ last index
+
+
+arg push inner slice last index match index
+last index arg separ last index
+
+last inner slice last index
+last arg push last
+arg
+
+
+fn call error name
+error malform view call name
+
+
+fn arg valu view model name macro
+null null
+
+
+first char char at
+match
+first char
+match exec fn call error name
+match
+
+first char
+match exec fn call error name
+match
+
+test first char is na n
+
+
+first char first char
+error object liter support view call name
+
+data valu view model macro
+
+
+fn valu view model name macro
+match fn call exec name fn call error name
+fn name match
+arg fn arg match
+fn name
+arg length
+arg fn arg valu view model name macro arg
+
+view get fn fn name
+error view fn name found call name
+
+appli null arg
+
+
+path fn arg name path
+match fn call exec name fn call error name
+arg fn arg match
+
+path null path
+arg length
+arg
+not path arg test
+index of
+path fn arg path
+
+
+path push
+
+path
+
+
+macro name name no replac
+macro ctx macro ctx
+path ctx path macro ctx name no replac
+segment path split
+base segment to lower case
+remaind segment
+valu lookup base macro ctx
+macro var valu valu macro var
+macro var remaind base remaind base
+remaind
+test macro var macro var slice macro var remaind
+macro var
+
+
+ctx path name macro no replac
+macro name macro name name no replac
+
+first char name char at
+start depth alia name first char indic
+first char
+name index of
+alia name name slice
+name name slice
+
+alia name name slice
+name
+
+start depth alias alia name
+depth start depth
+error find alia name
+first char
+
+name char at
+
+
+name name length name slice
+
+name path name no replac
+indic indic
+indic length start depth
+name name replac
+indic
+
+
+name replac match name
+lookup name
+
+
+
+data valu view model name macro
+path valu
+name index of
+fn valu view model name macro
+
+macro
+macro content section
+valu lookup name to lower case macro ctx
+valu valu macro var
+typeof valu valu model valu
+
+
+path ctx path name macro
+valu lookup path
+valu valu
+valu model path
+valu valu model path
+
+
+set bound fn view model name valu
+match fn call exec name fn call error name
+fn name match
+arg fn arg match
+view get fn fn name
+view set fn fn name
+macro
+num input length
+input path
+
+
+error view fn name found bind name
+
+
+num input
+input valu
+
+num input
+input push fn arg valu view model name macro arg
+
+appli null input
+
+valu
+
+
+
+length
+valu
+arg num input
+index of
+set bound fn view model valu
+
+
+valu not path arg test
+path ctx path
+model path valu
+model path valu
+
+
+
+derbi
+meant entri point framework
+
+
+
+event emitt event event emitt
+racer racer
+
+page page
+compon compon
+
+export derbi
+
+derbi
+derbi prototyp racer
+
+derbi prototyp
+derbi prototyp page page
+derbi prototyp compon compon compon
+
+derbi prototyp creat app name filenam
+name filenam
+
+
+racer util is server
+document listen document
+
+
+racer util server requir derbi server
+thi file intent
+use browserifi placehold serial view
+cluster cluster
+derbi derbi
+util racer util
+
+extend type html pars server
+derbi pars
+
+util is product process node product
+
+derbi prototyp creat server
+product
+util is product creat server
+cluster is master
+consol master process
+start worker
+
+creat server
+
+
+
+start worker
+worker cluster fork
+worker disconnect
+worker process kill
+
+worker messag messag
+messag reload
+worker disconnect
+consol kill worker process
+worker process kill
+worker disconnect
+start worker
+
+
+
+event emitt event event emitt
+racer racer
+merg racer util merg
+track track
+derbi model derbi model
+
+view view
+auto refresh refresh auto refresh
+
+export derbi browser
+
+derbi browser derbi
+derbi creat app creat app
+
+derbi browser decor derbi
+derbi browser use with server browser
+
+creat app app modul
+app export merg app modul export event emitt prototyp
+view model
+
+app export init model bundl app hash debug
+track debug debug
+
+init event fire model data initi
+socket object
+racer init model
+model view model model
+view model
+derbi model init model view
+ignor error thrown render also thrown
+server throw caus connect
+
+render immedi upon initi page
+state render server
+view render model
+
+consol error
+
+
+
+readi event fire model data initi
+socket object
+debug
+racer readi model
+auto refresh view model app hash
+
+
+racer init model bundl
+app export
+
+
+app export view view view librari app export
+
+creat page
+
+render
+view render model
+
+
+
+on rout callback page param is transit
+is transit
+callback model param
+
+callback page model param
+
+
+track setup app export creat page on rout
+view histori app export histori
+
+app export readi
+racer readi
+
+app export
+
+page page
+util racer util
+context derbi templat context
+
+page prototyp render statu
+statu
+statu
+statu
+
+emit render
+
+statu statu code statu
+prevent browser store html respons back cach sinc
+caus render initi load first
+set header cach control store
+
+set render param
+page html page
+tail html tail
+
+page
+model destroy compon
+model bundl bundl
+page model ha error
+page emit error
+script script async page script url script
+script applic json stringifi bundl bundl script
+page send page html script tail html
+page emit rout done page render
+
+
+
+page prototyp render static statu
+statu
+statu
+statu
+
+emit render static
+
+statu statu code statu
+page param
+set render param
+page html page
+tail html tail
+send page html tail html
+emit rout done render static
+
+
+listen server
+page prototyp add listen
+
+stringifi bundl bundl
+pretti output develop
+json util is product
+json stringifi bundl
+json stringifi bundl
+json json replac
+
+
+todo cleanup copi track
+page param
+
+
+bodi bodi
+queri queri
+
+
+
+
+
+
+
+
+
+provid glue view control rout
+applic function app respons creat page
+
+
+
+event emitt event event emitt
+track track
+util racer util
+derbi templat derbi templat
+document listen document listen
+page page
+serial view view
+
+export
+
+derbi name filenam
+event emitt call
+derbi derbi
+name name
+filenam filenam
+script hash derbi script hash
+bundl at derbi bundl
+page creat app page
+proto page prototyp
+view derbi templat templat view
+track rout track setup
+model
+page
+init
+
+
+creat app page
+inherit page control function prototyp
+method page
+app page
+page appli
+
+app page prototyp object creat page prototyp
+app page
+
+
+util merg into prototyp event emitt prototyp
+
+overriden server
+prototyp init
+wait for attach
+cancel attach
+model derbi model
+model creat connect
+serial view derbi templat view
+must init async model listen ad
+must also wait content readi bundl fulli download
+content readi
+
+prototyp finish init
+emit model model
+script get script
+json pars script next sibl inner html
+util is product node env product
+util is product auto refresh
+model unbundl
+page creat page
+page model render
+emit readi page
+wait for attach
+instead attach rout render link click
+page finish attach
+cancel attach
+histori refresh
+
+
+sinc attach failur fatal could happen result
+browser extens like ad block invalid small
+derbi saddl render scratch product failur
+util is product
+
+page attach
+
+histori refresh
+consol warn attach error stack
+
+
+page attach
+
+emit load page
+
+modifi http github addyosmani jqueri part blob master jqueri document readi
+prototyp content readi
+readi use occur
+is readi
+
+
+readi handler
+on dom content load
+document add event listen
+document remov event listen dom content load on dom content load
+
+readi state load old ie
+good enough call readi
+document detach event onreadystatechang on dom content load
+
+on dom readi
+
+
+handl readi
+on dom readi
+make sure alreadi load
+is readi
+make sure bodi exist least get littl overzeal ticket 5443
+document bodi set timeout on dom readi
+rememb readi
+is readi
+make sure alway async finishin init
+set timeout
+finish init
+
+
+
+readi check internet explor
+do scroll check
+is readi
+
+use trick diego perini
+http javascript nwbox ie content load
+document document element do scroll left
+
+set timeout do scroll check
+
+
+execut wait function
+on dom readi
+
+
+catch case call browser alreadi occur
+document readi state load on dom readi
+
+mozilla opera webkit nightli current support
+document add event listen
+handi callback
+document add event listen dom content load on dom content load
+fallback window onload alway work
+window add event listen load on dom content load
+model use
+document attach event
+fire onload
+mayb late also ifram
+document attach event onreadystatechang on dom content load
+fallback window onload alway work
+window attach event onload on dom content load
+frame
+continu check document readi
+toplevel
+
+toplevel window frame element
+
+document document element do scroll toplevel
+do scroll check
+
+
+
+
+prototyp get script
+document queri selector script derbi name
+
+
+prototyp util
+prototyp server use util server use
+
+prototyp load view
+
+prototyp load style
+
+prototyp creat page
+page
+emit destroy page page
+page destroy
+
+page page model
+page page
+page
+
+
+prototyp on rout callback page done
+wait for attach
+cancel rout initi page attach instead
+render derbi readi
+cancel attach
+
+
+emit rout page
+hack updat render transit rout
+page model render page
+page model render page
+page model render queri page queri
+transit
+done
+
+done
+emit rout done page transit
+done
+
+callback call page page page model page done
+
+
+callback call page page page model page
+
+
+prototyp auto refresh
+
+connect model connect
+connect connect
+connect send
+derbi
+name name
+hash script hash
+
+
+connect receiv request
+request derbi
+messag request
+request
+handl messag messag derbi messag
+
+
+
+
+prototyp handl messag action messag
+action refresh view
+function messag view jshint ignor line
+derbi templat view
+model render
+page render
+
+action refresh style
+style element document queri selector style filenam
+messag filenam
+style element style element inner html messag
+
+action reload
+model when noth pend
+window locat window locat
+
+
+
+
+util server requir server
+express derbi templat express
+
+mani tree bind
+
+model tree contain actual
+user fred wilma
+
+event model tree whose structur mirror model tree model
+tree let annot model tree listen fire event
+chang think three type listen
+
+refer bind bind whatev refer path
+item item bind item refer goe
+
+fix path bind explicitli bind whatev path
+regardless model chang underneath model
+listen subtre fire anyth subtre chang thi
+use custom function
+
+would listen path
+
+
+context tree repres chang embed context templat
+engin thi map tree templat allow templat refer
+anyth enclos scope
+
+
+export event model
+
+code use base pattern object key
+sequenti gener
+next id
+
+bind someth updat insert move remov defin
+
+
+given model
+item
+segment
+outsid event model
+
+note item could context anoth model ref
+
+
+model ref model item segment outsid
+next id
+
+need refer model segment updat
+valu
+model model
+segment segment
+
+current valu
+item item
+
+outsid refer event model thing
+bracket exampl outsid event model
+outsid outsid
+
+result event model evalu version bracket
+event model
+result outsid child item ref child
+
+
+model ref prototyp updat
+segment express path segment segment
+new item express lookup segment model
+item new item
+
+first remov
+outsid child item ref children
+
+item new item
+
+contain outsid child item
+want call ref child would creat instead
+want implant current
+contain ref children contain ref children ref children map
+contain ref children result
+
+final updat bind tree
+result updat
+
+
+
+ref out map
+ref children map
+bind map
+item context map
+event model map
+
+event model
+next id
+
+most ever fill leav
+
+these contain event model children
+
+
+
+thi contain event model children float refer
+array by refer
+
+store ever use lookup valu
+map remot child
+
+given ref out bind
+ref out
+
+thi model event bound
+event model could merg main tree
+easi move
+
+given ref children event model
+ref children
+
+bind
+
+item context context need item chang
+event model move around surround
+item context
+
+
+event model prototyp ref child
+ref children ref children ref children map
+
+
+ref children
+ref children event model
+
+ref children
+
+
+event model prototyp array lookup model segment befor segment insid
+segment express path segment segment insid
+item express lookup segment model
+
+sourc segment insid
+
+what current resolv given contain
+
+contain segment befor
+
+sourc ref out sourc ref out ref out map
+
+sourc ref out contain
+
+model ref model item segment insid contain
+sourc ref out contain
+
+
+
+
+
+return event model node name child
+event model prototyp child segment
+contain
+segment
+object
+
+contain
+
+segment
+array valu
+
+contain
+
+segment model ref
+array refer need lookup child right
+valu look insid children right event model
+updat later thi pretti janki
+correct even face recurs accessor
+
+thi calcul base current segment valu ref
+cach anyway
+child segment item ref child segment
+segment result
+
+
+array refer
+array by refer array by refer
+contain array by refer
+segment segment item
+
+
+contain segment contain segment event model
+
+
+return event model node given segment note although
+event model node uniqu possibl multipl event model node
+refer section model refer
+
+want updat bind refer specif path
+
+
+event model object creat need
+event model prototyp segment
+unbound depend
+segment
+
+event model
+
+segment length
+event model event model child segment
+
+
+event model
+
+
+event model prototyp is empti
+ha key depend
+ha key item context
+
+
+ha key
+
+
+
+array by refer
+array by refer length
+array by refer
+
+array by refer
+
+
+
+length
+
+
+
+
+
+
+
+
+ha key
+
+
+
+
+
+
+
+updat event model
+
+event model prototyp add item context context
+context context next id
+item context item context item context map
+item context context context
+
+
+event model prototyp remov item context context
+item context
+item context context
+
+
+
+event model prototyp add bind bind
+bind bind bind bind map
+bind event model bind event model event model map
+bind bind bind
+bind event model
+
+
+thi main hook bind model tree
+call root event model
+event model prototyp add bind segment bind
+segment add bind bind
+
+
+thi use object context derbi item
+properti refer index
+event model prototyp add item context segment context
+segment add item context context
+
+
+event model prototyp remov bind bind
+bind event model
+bind event model
+event model bind event model
+event model bind event model bind bind
+
+bind event model
+
+
+event model prototyp segment
+ref children effect merg
+ref children
+ref children
+ref child ref children
+ref child ref child segment
+
+
+
+segment length
+
+
+
+
+segment segment
+child
+segment
+object just recurs object possibl rewrit
+simpli lookup think
+much
+child segment
+child child segment
+
+
+number recurs refer
+child segment
+child child segment
+
+child array by refer array by refer segment
+child child segment
+
+
+
+call scalar valu path chang thi call updat
+node updat want updat entir
+subtre
+event model prototyp local updat previou
+bind
+bind
+bind bind
+bind bind updat previou
+
+
+
+valu chang also need updat anyth depend
+ref out
+ref out
+ref out
+ref out
+updat
+
+
+
+
+thi use subtre replac remov
+event model prototyp updat previou
+local updat previou
+
+
+
+bind
+bind bind updat
+
+
+
+
+length
+bind
+bind bind updat
+
+
+
+array by refer
+array by refer length
+bind array by refer
+bind bind updat
+
+
+
+
+updat index item context children rang
+option
+event model prototyp updat child item context
+array by refer
+
+
+array by refer length
+
+
+context array by refer
+array by refer item context
+context
+context
+context item
+
+
+
+
+
+updat valu valu they recurs updat everi
+bind children
+event model prototyp updat array
+
+
+
+length
+
+
+bind
+bind bind updat
+
+
+
+event model prototyp updat object
+
+
+bind
+bind bind updat
+
+
+
+
+event model prototyp previou
+thi updat anyth that bound whole subtre altern
+implement could pass valu node
+cach compar version updat part
+subtre relev know that import
+optim realli depend
+updat previou
+
+
+insert event model node
+event model prototyp insert index how mani
+updat path
+updat array index
+
+updat rel path
+array by refer array by refer length index
+shift actual item refer
+
+thi probabl best implement insert other option
+concat slice though construct temporari
+splice call hope method slow come
+profil
+how mani
+array by refer splice index
+
+
+updat path context
+updat child item context index how mani
+
+
+final call bind
+bind
+bind
+bind bind
+bind bind insert index how mani
+
+
+updat object
+
+
+remov how mani child element event model index
+event model prototyp remov index how mani
+updat path both remov item item chang
+updat array index
+
+array by refer
+updat rel path first away children remov
+array by refer splice index how mani
+
+updat child item context index
+
+
+call bind
+bind
+bind
+bind bind
+bind bind remov index how mani
+
+
+updat object
+
+
+move how mani item
+event model prototyp move how mani
+first point first element move point
+element past chang region
+first
+
+first
+how mani
+
+first
+how mani
+
+
+updat path
+updat array first
+
+updat rel path
+array by refer
+length first
+remov locat
+valu splice how mani
+
+insert locat
+splice appli concat valu
+
+updat path context
+updat child item context first
+
+
+final call bind
+bind
+bind
+bind bind
+bind bind move how mani
+
+
+updat object
+
+
+
+helper
+
+event model prototyp mutat segment
+thi find return model exist could match
+specifi path path cannot contain context like derbi express
+segment list think that use featur
+implement
+segment
+
+also emit mutat set star path depend
+view helper function repres they react path
+child path modifi
+segment length
+wildcard segment segment slice
+wildcard segment push
+wildcard segment child set wildcard
+
+
+
+child set wildcard child
+child
+
+
+event model prototyp segment previou
+mutat segment child set child
+child previou
+
+
+
+event model prototyp insert segment index how mani
+mutat segment child insert child
+child insert index how mani
+
+
+
+event model prototyp remov segment index how mani
+mutat segment child remov child
+child remov index how mani
+
+
+
+event model prototyp move segment how mani
+mutat segment child move child
+child move how mani
+
+
+
+compon
+
+compon associ custom script function view they
+distribut standalon modul contain templat script style
+they also use modular applic function
+
+
+
+path path
+util racer util
+derbi templat derbi templat
+templat derbi templat templat
+express derbi templat express
+
+control control
+
+export compon compon
+export compon factori compon factori
+export singleton compon factori singleton compon factori
+export creat factori creat factori
+
+compon parent context scope
+parent parent
+context context
+
+scope scope
+
+
+util merg into compon prototyp control prototyp
+
+compon prototyp destroy
+emit destroy
+model remov context listen
+model destroy
+page compon
+compon page event model compon
+compon compon
+
+
+compon prototyp view name unescap
+view get view view name
+view context unescap
+
+
+compon prototyp get fragment view name
+view get view view name
+view get fragment context
+
+
+compon prototyp get view view name
+context view context get view
+view name
+view find view name context view context view
+
+
+compon prototyp get attribut
+attribut context context for attribut
+attribut context
+valu attribut context attribut
+valu express render valu valu attribut context
+
+
+compon prototyp set attribut valu
+context parent attribut valu
+
+
+compon prototyp set null attribut valu
+attribut context parent attribut
+attribut attribut valu
+
+
+init compon context compon parent model scope
+gener control initi
+compon context context compon child compon
+control call compon parent parent page model
+compon call compon parent compon context scope
+
+user specif initi compon
+actual initi code done
+compon init method thi mean reli user
+properli call compon method avoid
+play nice coffe script constructor
+emit init hook context compon
+compon emit init compon
+compon init compon init model
+
+compon context
+
+
+emit init hook context compon
+context init hook
+init hook listen immedi init
+context init hook length
+context init hook emit context compon
+
+
+
+set attribut context model
+context attribut
+attribut valu compon model
+context attribut
+attribut context attribut
+segment
+attribut templat parent wrapper
+attribut express
+attribut express path segment context
+
+segment
+model root model segment join updat indic
+
+model attribut
+
+
+
+
+creat factori
+prototyp singleton
+singleton compon factori
+compon factori
+
+
+compon factori
+
+
+compon factori prototyp init context
+compon
+
+parent context control
+context
+scope compon
+model parent model root event context compon
+model scope join
+model
+set attribut context model
+store refer compon scope express
+getter rel compon
+model model
+parent page compon compon
+
+init compon context compon parent model scope
+
+compon factori prototyp creat context
+compon context control
+compon emit creat compon
+call compon creat view render
+compon creat
+compon creat compon model compon
+
+
+
+singleton compon factori
+
+compon
+
+singleton compon factori prototyp init context
+compon compon
+context compon child compon
+
+call creat method singleton compon
+singleton compon factori prototyp creat
+
+prototyp compon view name
+view name
+view name
+view name
+
+
+inherit compon
+extend compon
+
+load view filenam
+prototyp view
+view filenam prototyp view
+view name prototyp name path basenam view filenam html
+load view view filenam view name
+
+view name
+prototyp name
+view name prototyp name
+view view view name
+view templat empti templat
+
+error view name specifi compon
+
+
+
+associ appropri view compon
+view view find view name
+view
+messag view find error messag view name
+error messag
+
+view compon factori creat factori
+
+make chainabl
+
+
+
+extend compon
+anyth alreadi compon
+prototyp compon
+otherwis replac prototyp compon
+old prototyp prototyp
+prototyp compon
+util merg into prototyp old prototyp
+
+
+
+export event dispatch
+
+event dispatch option
+option null option
+on trigger option on trigger
+on bind option on bind
+clear
+
+
+event dispatch prototyp
+clear
+name
+
+
+bind name listen arg0
+on bind name listen arg0
+name name
+name name
+json stringifi listen listen
+name name
+
+
+trigger name valu arg0 arg1 arg2 arg3 arg4 arg5
+name name
+listen name name
+on trigger on trigger
+count
+listen
+listen
+listen listen
+count
+on trigger name listen valu arg0 arg1 arg2 arg3 arg4 arg5
+
+
+delet listen
+count
+
+count delet name name
+count
+
+
+event emitt event event emitt
+racer racer
+view view
+
+export creat creat app
+export tree merg tree merg
+
+creat app derbi app modul
+racer util merg app modul export event emitt prototyp
+
+view view derbi librari
+app fn
+
+app fn valu
+typeof valu string
+path merg valu
+
+tree merg valu
+
+
+
+
+
+
+
+travers node node segment
+segment
+segment length
+segment segment
+node node segment node segment
+
+node
+
+
+recurs nest object base path
+path merg node path
+segment path split
+last segment
+typeof object
+node travers node node segment
+tree merg node
+
+
+last segment
+node travers node node segment
+node last
+
+
+recurs object object
+merg correspond structur base node
+tree merg node tree
+child valu
+tree
+valu tree
+typeof valu object
+child node node
+tree merg child valu
+
+
+node valu
+
+
+
+path path
+http http
+event emitt event event emitt
+racer racer
+track track
+
+view view server
+auto refresh refresh server auto refresh
+util racer util
+merg util merg
+is product util is product
+proto
+
+export derbi server
+
+derbi server derbi
+merg derbi proto
+
+object defin properti derbi version
+
+json version
+
+
+
+derbi server decor derbi
+derbi server use with server browser
+
+
+proto
+todo remov lieu method
+option
+
+file port option
+master on messag server up servic
+
+resolv rel filenam
+file path resolv file
+port null port is product 3000
+option null option num worker
+
+
+server file
+
+consol error error requir server file
+
+
+server http server
+error file export valid http server
+
+is product
+todo thi intern would better
+support worker abl forc reload
+on messag worker prototyp on messag
+worker prototyp on messag messag
+messag type reload
+up servic reload
+
+on messag call messag
+
+
+master http creat server listen port
+up servic master file option
+process sigusr2
+consol sigusr2 signal detect reload
+up servic reload
+
+consol start cluster worker mode
+option num worker process node
+consol kill sigusr2 forc cluster reload process
+consol http localhost port
+
+
+creat app app modul
+app export merg app modul export event emitt prototyp
+view view librari
+option option
+session store
+
+view derbi option option
+view app filenam app modul filenam
+set store store
+auto refresh store option view
+session null session set store store
+store store
+
+
+expos method applic
+
+page model
+model model
+
+
+page prototyp render statu
+view render model statu
+
+
+creat page
+model model store creat model
+page model
+
+on rout callback page param is transit
+is transit
+callback page model param
+
+callback page page model param
+
+
+app export rout track setup app export creat page on rout
+
+app export set store set store
+app export view view
+app export readi
+app export creat store option
+set store racer creat store option
+
+app export session
+session racer session store
+
+app export render model statu
+view render model statu
+
+
+render immedi upon creat file
+cach first render
+process next tick
+view render
+
+app export
+
+
+creat static root
+static root librari
+
+
+creat store
+argument length
+last argument
+option store
+last argument creat store option object
+last view
+option last
+
+
+store racer creat store option
+
+argument
+set store store
+
+store
+
+
+
+static root librari
+root root
+librari librari
+view
+
+static prototyp render name model statu
+view view name
+view
+view view name view librari
+view root root
+view client name name
+
+view render model statu
+
+export path map
+
+path map
+clear
+
+path map prototyp
+clear
+count
+
+path
+array
+
+
+path
+
+return path creat index
+path
+count
+path path
+index array path
+path
+
+
+
+index array path
+index match nest remaind set array
+match exec path
+path match
+index match
+remaind match
+array path array path
+index index
+nest
+set array array array
+set array remaind
+
+remaind
+
+nest
+
+
+
+incr item path start by num old array old path
+array map array path array path to item path remaind
+old array null old array
+
+start
+
+
+
+
+remaind
+array
+remaind
+array path old path path remaind
+array map old array array path array array path
+array map
+array path to path by num remaind
+array array path to array map
+incr item array path to array map array map length old array array path
+
+
+
+
+
+item path path by num remaind
+path item path
+item path
+
+
+
+
+del item path start old array
+array len array map array path item path remaind
+old array null old array
+
+start
+
+
+
+
+array
+remaind
+array path path remaind
+array map array array path
+array len array map length
+del item array path array map array len array len old array
+old array array path array map
+delet array array path
+
+
+
+
+
+item path path
+delet item path
+
+delet path
+
+
+
+old array
+
+
+on remov path start how mani
+array path
+old array
+
+start how mani
+length
+delet indici remov item
+old array del item path start
+decrement indici later item
+incr item path how mani old array
+splice start how mani
+
+
+on insert path start how mani
+array path
+old array
+
+start how mani
+length
+delet indici item insert posit
+old array del item path start
+increment indici later item
+incr item path start how mani old array
+how mani
+splice start
+
+
+
+on move path how mani
+array path
+after from after to item old array
+
+after from how mani
+after to how mani
+adjust path item
+
+old array del item path after from after from
+incr item path how mani old array
+
+old array del item path after to after to
+incr item path after from after to how mani old array
+
+adjust path move item
+incr item path after from old array
+index
+item splice how mani
+splice appli concat item
+
+
+cluster cluster
+
+export
+
+
+
+creat server
+cluster is master
+consol master process
+start worker
+
+creat server
+
+
+
+start worker
+worker cluster fork
+worker disconnect
+worker process kill
+
+worker messag messag
+messag type reload
+worker disconnect
+consol kill worker process
+worker process kill
+worker disconnect
+start worker
+
+
+
+event emitt event event emitt
+path path
+merg racer util merg
+view view
+array slice array prototyp slice
+
+export compon plugin
+
+compon plugin derbi
+derbi librari
+derbi librari
+derbi creat librari creat librari
+
+compon plugin decor derbi
+
+
+compon proto object creat event emitt prototyp
+
+compon proto emit cancel
+cancel
+arg array slice call argument
+
+cancel
+cancel
+
+
+arg push cancel
+emit appli arg
+cancel
+
+
+compon proto emit delay
+delay
+arg array slice call argument
+callback argument argument length
+
+delay
+delay
+
+
+arg push delay callback
+emit appli arg
+delay callback
+delay
+
+
+hack need model bundl
+compon proto to json
+
+type view
+view view
+
+
+creat librari config option
+config config filenam
+error configur argument filenam requir
+
+option option
+root path dirnam config filenam
+option config path basenam root
+script config script
+view view
+constructor
+librari
+
+root root
+view view
+constructor constructor
+style config style
+
+compon proto
+
+view self ns
+view self librari librari
+
+script
+compon model scope
+view view
+histori view histori
+model model
+scope scope
+null
+
+limit number listen
+set max listen
+
+compon
+model model
+model name listen
+compon destroy
+model remov listen name listen
+
+model name listen
+
+compon destroy
+model silent
+
+
+proto compon prototyp object creat compon proto
+merg proto script
+
+compon view view
+compon
+compon
+compon type type
+
+note compon name lowercas
+constructor to lower case compon
+
+
+librari push librari
+librari librari
+librari
+
+is product racer util is product
+file file
+refresh export refresh
+
+refresh css error css error
+refresh templat error templat error
+refresh auto refresh auto refresh
+
+css error
+stack
+consol error n css pars error stack
+stack
+
+consol error n css pars error messag filenam
+messag filenam
+
+
+
+templat error
+consol error n templat error stack
+stack
+
+
+auto refresh store option view
+is product store derbi socket setup
+store derbi socket setup
+listen
+
+store socket connect socket
+socket derbi client app hash callback
+app filenam reload socket
+reload app hash view app hash
+callback reload
+reload
+
+app filenam view app filenam
+listen app filenam
+listen app filenam push socket
+
+
+socket listen app filenam socket
+add watch app filenam option socket view
+
+
+
+
+add watch app filenam option socket view
+pars file pars name app filenam option
+root pars root
+client name pars client name
+
+file watch root
+view load css root client name
+err text
+err text css error
+socket length
+socket emit refresh css err text
+
+
+
+
+file watch root html
+view load templat root client name templat instanc librari data
+err text
+err text templat error
+socket length
+socket emit refresh html err text templat instanc librari data
+
+
+
+
+file watch root
+process send type reload
+
+
+event emitt event event emitt
+emit event emitt prototyp emit
+html util html util
+pars html html util pars
+trim lead html util trim lead
+unescap entiti html util unescap entiti
+escap html html util escap html
+escap attribut html util escap attribut
+is void html util is void
+condit comment html util condit comment
+lookup racer path lookup
+markup markup
+view path view path
+wrap remaind view path wrap remaind
+ctx path view path ctx path
+extract placehold view path extract placehold
+data valu view path data valu
+path fn arg view path path fn arg
+array slice array prototyp slice
+
+export view
+
+
+
+
+
+not found name
+name name
+error find view name
+
+
+default ctx
+depth
+alias
+path
+indic
+
+
+default get fn
+equal
+
+
+valu
+valu
+
+
+
+default set fn
+equal valu
+valu
+
+valu
+valu
+
+
+
+view librari app export
+librari librari
+app export app export
+nonvoid compon
+clear
+get fn object creat default get fn
+set fn object creat default set fn
+
+
+view prototyp
+clear
+view object creat default view
+made
+render
+inlin
+id count
+
+
+automat creat start dollar sign
+uniqu id
+id count to string
+
+
+default view
+doctyp
+doctyp html
+
+root
+charset
+meta charset
+
+titl
+head
+header
+bodi
+footer
+script
+tail
+
+
+self ns
+
+make name templat option templat path bound macro
+view
+on bind render render match titl is string
+cach templat made
+pars differ item bound use macro
+made name templat option templat path
+option nonvoid option
+nonvoid compon name
+
+
+templat path render render templat path
+view name render
+
+
+
+name name to lower case
+match titl titl exec name
+match titl
+is string match titl
+is string
+on bind event name
+macro
+bind event event macro name render prop titl
+
+
+make name templat option templat path
+
+
+
+render model trigger path trigger id
+render pars view name templat is string on bind bound macro
+render model trigger path trigger id
+
+render model trigger path trigger id
+render model trigger path trigger id
+
+
+view name render
+templat path render templat path render
+
+
+make all templat instanc
+name instanc option templat path
+clear
+name instanc
+instanc instanc name
+templat path instanc
+option instanc
+make name templat templat path option templat path
+
+
+
+make compon compon
+librari map librari
+name compon view
+name compon
+compon compon name
+view librari map name view
+view make all compon templat compon instanc
+
+
+
+find item name prop
+item prop
+item last segment test ns
+
+to lower case
+item item name
+item item
+
+segment split
+last segment length
+last
+last
+test ns segment slice join
+item item test ns name
+item item
+
+
+
+item name
+
+
+find name bound macro
+hash hash name item templat option templat path
+bound macro hash key hash bound macro
+hash hash
+hash name name hash
+find item hash name view
+
+
+item find item name made not found name
+templat item
+option item
+templat path item hash
+make hash name templat option templat path bound macro
+find hash name
+
+find item name view not found name
+
+
+name
+typeof object
+
+
+
+extend default ctx object creat default ctx
+fn ctx app export
+find name
+
+
+inlin
+
+name
+
+typeof object
+
+
+
+
+
+get fn name
+set fn name
+
+
+render model silent
+typeof object
+silent
+
+
+
+model model
+id count
+model path map clear
+model event clear
+model block path
+model compon
+clear
+
+titl titl
+root html root
+bodi html header
+bodi
+footer
+silent
+
+document
+document element document element
+attr document element attribut
+attr fake root bodi
+
+remov current attribut document element replac
+attribut render root html
+attr length
+attr attr
+document element remov attribut attr name
+
+use attribut html would
+sort ifram hack dom parser better browser support
+string pars html simpler effici
+pars html root html
+start tag name attr
+tag name html
+attr attr
+document element set attribut attr attr attr
+
+
+
+
+fake root creat element html
+fake root inner html bodi html
+bodi fake root get element by tag name bodi
+document element replac child bodi bodi
+titl titl
+
+
+escap html escap html
+escap attribut escap attribut
+
+
+key hash
+key
+
+
+key push
+
+key sort join
+
+
+extend parent
+object creat parent
+
+typeof object array is array
+
+
+
+
+
+
+
+
+model listen param trigger id block path path id partial
+listen typeof param
+param trigger id block path path id
+param
+listen partial partial
+listen string ctx
+listen
+
+
+bind event event macro name partial param
+name index of
+arg path fn arg name
+arg length
+event push model event path map view block path trigger id
+listen model listen param trigger id block path null partial
+path path id
+listen get valu model trigger path
+patch ctx trigger path
+data valu view model name macro
+
+arg length
+path ctx path arg macro
+path id path map path
+model event bind path id listen
+
+
+
+
+
+match exec name
+prefix match
+rel name match
+segment rel name split
+bind name
+segment length
+bind name prefix segment slice join
+bind name
+event push model event path map view block path trigger id
+path ctx path name macro
+listen path id
+path
+path id path map path
+listen model listen param trigger id block path path id partial
+name bind name
+path ctx path bind name macro
+path id path map path
+listen get valu model trigger path
+patch ctx trigger path
+data valu view model name macro
+
+
+model event bind path id listen
+
+bind name
+
+
+
+bind event by id event macro name partial attr method prop is block
+param trigger id block path path id
+attr attr
+is block path id block path path id
+method prop
+
+bind event event macro name partial param
+
+
+bind event by id string event macro name partial attr method prop
+param trigger id
+trigger id attr attr
+method prop
+
+bind event event macro name partial param
+
+
+add id view attr
+attr null
+attr
+attr view uniqu id
+
+
+
+
+reduc stack stack
+html
+
+attr bool item valu
+
+push valu valu is attr
+valu valu call
+html push valu
+
+html is attr escap attribut valu valu
+
+
+
+stack length
+item stack
+item
+start
+html item
+attr item
+make sure attribut render first
+attr
+html
+push valu attr
+
+attr
+
+valu attr
+valu null
+bool valu bool
+push valu bool
+
+
+html
+push valu valu
+
+html
+
+
+html
+
+text
+push valu item
+
+
+html item
+
+marker
+html item
+push valu item
+html
+
+
+html
+
+
+patch ctx trigger path
+path path
+trigger path path
+
+segment path split
+trigger segment trigger path replac split
+indic indic slice
+index indic length
+segment trigger segment
+segment length
+segment segment
+trigger segment trigger segment
+trigger segment segment
+segment trigger segment
+indic index
+segment trigger segment
+
+
+
+indic indic
+
+
+render view item event on render
+model trigger path trigger id
+patch ctx trigger path
+
+model model view model need sinc model paramet option
+path map model path map
+model event model event
+block path model block path
+view
+html
+item event
+
+on render on render
+item length
+item item
+html typeof item item model item
+
+event event
+event model event path map view block path trigger id
+
+html
+
+
+
+compon type model init creat
+type type
+model model
+init init
+creat creat
+
+compon prototyp object creat event emitt prototyp
+
+compon prototyp emit cancel
+cancel
+arg array slice call argument
+
+cancel
+cancel
+
+
+arg push cancel
+emit appli arg
+cancel
+
+
+creat compon view model name scope macro ctx bound macro
+librari view librari
+script librari librari script name
+
+script
+
+init script init
+creat script creat
+scope model scope
+prefix scope
+type name
+compon compon type scope init creat
+parent fn ctx bound macro fn ctx fn ctx
+fn ctx path valu instanc name parent
+
+fn ctx bound macro fn ctx parent fn ctx concat compon
+
+macro ctx
+path bound macro
+path
+path ctx path path
+model prefix path null
+
+
+valu macro ctx
+typeof valu
+model prefix valu
+
+
+instanc name scope name
+
+parent
+parent fn ctx length fn ctx parent fn ctx
+parent
+parent
+fn ctx emit init child compon
+
+fn ctx emit init descend compon
+fn ctx emit init type compon
+instanc name
+fn ctx emit init instanc name compon
+
+
+
+init compon init scope
+view is server
+
+set timeout
+parent
+parent fn ctx length fn ctx parent fn ctx
+parent
+parent
+fn ctx emit creat child compon
+
+fn ctx emit creat descend compon
+fn ctx emit creat type compon
+instanc name
+fn ctx emit creat instanc name compon
+
+
+
+
+creat
+
+todo thi probabl replac event compoment
+app instead model
+event prefix macro ctx name name
+view compon dom
+cancel
+
+element name
+element name
+document get element by id
+
+
+compon
+
+set timeout
+compon creat scope
+
+
+
+extend ctx valu name index is array
+path ctx path name null
+alias
+extend valu
+valu
+
+alias alias object creat alias
+alias depth
+
+path path path concat path
+name depth
+index null
+indic index concat indic
+is array
+
+is array path
+path
+
+
+
+
+partial valu view model name valu listen macro
+listen valu
+name data valu view model name macro
+
+
+partial fn view name type render macro ctx macro bound macro
+condit render model trigger path valu index condit
+condit
+render ctx extend ctx valu name index
+render render ctx model trigger path
+
+
+
+
+with fn model trigger path trigger id valu index listen
+valu partial valu view model name valu listen macro
+condit render model trigger path valu index
+
+
+type partial
+model trigger path trigger id valu index listen
+parent macro ctx macro ctx
+render ctx scope
+
+scope compon model
+render ctx extend ctx null scope
+creat compon view model name name scope render ctx macro ctx bound macro
+
+render ctx object creat
+
+render ctx macro ctx parent macro ctx extend parent macro ctx macro ctx macro ctx
+
+render render ctx model trigger path
+
+
+
+type type
+with fn
+
+
+type type
+model trigger path trigger id valu index listen
+valu partial valu view model name valu listen macro
+condit array is array valu valu length valu
+condit render model trigger path valu index condit
+
+
+
+type
+model trigger path trigger id valu index listen
+valu partial valu view model name valu listen macro
+condit array is array valu valu length valu
+condit render model trigger path valu index condit
+
+
+
+type
+model trigger path trigger id valu index listen
+indic is array item render ctx
+valu partial valu view model name valu listen macro
+is array array is array valu
+
+listen is array
+with fn model trigger path trigger id valu index
+
+
+is array
+
+extend ctx null name null
+
+
+indic indic
+valu length
+item valu
+render ctx extend item
+render ctx item
+render ctx indic concat indic
+render render ctx model trigger path
+
+
+
+
+
+error unknown block type type
+
+
+object to string object prototyp to string
+
+text fn view name escap macro
+model
+valu data valu view model name macro
+text typeof valu string valu
+valu null
+valu to string object to string json stringifi valu
+valu to string
+
+todo thi duplic logic data valu
+macro
+valu lookup name to lower case macro ctx
+typeof valu valu unescap
+text
+
+
+escap escap text text
+
+
+
+section fn view queue
+render render view reduc stack queue stack queue event
+block queue block
+type block type
+partial fn view block name type block render null block macro
+type type
+
+
+
+block fn view section
+section length
+
+
+section fn view section
+
+
+
+
+
+push section fn view section
+
+model trigger path trigger id valu index listen
+
+
+
+model trigger path trigger id valu index listen
+
+
+
+
+type multi
+
+
+
+
+pars markup type attr tag name event attr name
+parser markup type attr
+ani out ani parser el out el parser
+parser
+ani parser parser
+ani out ani parser event attr name
+
+el parser parser tag name
+el out el parser event attr name
+
+ani out extend ani out el out el out
+delet attr attr
+
+
+
+push text stack text
+text stack push text text
+
+
+push var fn view stack name escap fn macro
+
+push text stack
+
+push text stack text fn view name escap fn macro
+
+
+
+bound macro name bound macro name
+macro var name split
+bound macro macro var
+
+
+bound name bound macro match name
+name match macro match bound name
+name index of
+arg path fn arg name
+
+arg length
+bound macro name bound macro arg name
+
+
+
+bound macro name bound macro name
+
+
+is partial view partial
+partial split
+partial ns
+length
+partial ns view self ns view librari partial ns
+
+
+is partial section tag name
+tag name char at
+
+
+partial section name tag name
+is partial section tag name tag name slice null
+
+
+split partial view partial
+partial index of
+partial ns partial slice
+partial name partial slice
+partial view
+partial ns view self ns
+partial view view librari partial ns view
+partial view uniqu id
+view uniqu id
+
+partial view model view model
+partial view view
+
+partial view view
+
+partial ns partial name partial view
+
+
+is void compon view partial
+split partial view partial
+partial name
+view
+view find item partial name nonvoid compon
+
+
+push var view stack event bound macro remaind match
+name match name
+partial match partial
+macro match macro
+escap fn match escap escap html
+attr attr bound out last tag name wrap render pars name is block
+
+partial
+split partial view partial
+partial ns
+partial name
+partial ns view self ns
+render find partial name bound macro
+partial fn view partial render match macro ctx null bound macro
+
+
+pars name bound name bound macro match name
+last stack stack length
+wrap match
+last
+last start
+is void tag name last
+wrap remaind tag name remaind
+
+wrap
+stack push marker attr
+
+attr last
+attr attr
+pars markup bound parent attr tag name event attr pars name
+
+bound out pars markup bound parent tag name event attr pars name
+bound out
+bind event by id event macro name null attr bound out method bound out properti
+
+
+add id view attr
+
+bound out
+is block match type
+bind event by id event macro name attr html escap fn is block
+
+
+
+push var fn view stack name escap fn macro
+wrap
+stack push
+marker
+
+attr
+
+
+
+
+push var string view stack event bound macro remaind match
+name match name
+escap fn match escap unescap entiti
+bind onc
+on bind event name
+bind onc
+
+bound name bound macro match name
+event push
+bind onc
+
+
+push var fn view stack name escap fn match macro
+
+
+pars match error text messag
+error messag text
+
+
+on block start block queue callback
+bound macro last queue queue
+
+last queue queue
+queue queue last
+queue section push last queue
+
+queue queue last
+
+
+start
+bound macro object creat queue bound macro
+queue push queue
+stack
+event
+block block
+section
+bound macro bound macro
+
+callback on start queue
+
+
+callback on start queue
+callback on end queue section
+queue section
+
+callback on content block
+
+
+
+
+pars match text match queue callback
+hash match hash
+type match type
+name match name
+block queue last block
+block type block block type
+start block end block
+
+type type type type
+hash
+start block
+hash
+end block
+
+pars match error text type block must
+
+
+type type
+hash
+pars match error text type block start hash
+
+block type block type
+block type block type
+pars match error text type follow
+
+start block
+end block
+
+hash
+end block
+
+hash
+pars match error text must follow
+
+
+end block block
+pars match error text unmatch templat
+
+
+on block start block end block match queue callback
+
+
+pars attr view view name event bound macro tag name attr attr valu
+typeof valu
+
+attr out pars markup attr attr tag name event attr valu
+pars name bound out macro match name render method properti
+attr out add id add id view attr
+
+match extract placehold valu
+name match name
+macro match macro
+
+match match post
+attribut must singl string creat string partial
+add id view attr
+render pars view view name valu event name
+bind event by id string event macro name render attr attr attr
+bound macro
+
+attr attr attr model
+attr escap attribut render model
+model
+escap attribut render model
+
+
+
+
+pars name bound name bound macro match name
+bound out pars markup bound attr tag name event attr pars name
+add id view attr
+method bound out method attr
+properti bound out properti attr
+bind event by id event macro name null attr method properti
+
+
+attr out
+macro match macro
+attr attr attr out bool
+bool model
+data valu view model name macro attr
+
+text fn view name escap attribut macro
+
+
+
+
+pars partial attr view view name event attr attr valu
+bound
+match extract placehold valu
+name
+attr content
+error compon attribut name content
+
+
+match
+match match post
+error unimpl block compon attribut
+
+
+name match name
+bound match bound
+attr attr macro var name
+
+valu
+attr attr
+valu
+attr attr
+valu null
+attr attr null
+is na n valu
+attr attr valu
+
+
+bound
+
+
+pars view view name templat is string on bind bound macro
+bound macro null bound macro
+queue stack event on render push
+
+queue
+stack stack
+event event
+section
+bound macro bound macro
+
+queue last
+queue queue length
+
+
+on start queue
+stack queue stack
+event queue event
+bound macro queue bound macro
+
+
+is string
+push push var string
+on render
+string ctx
+object creat
+on bind on bind
+string ctx
+
+
+
+push push var
+
+
+index view name last index of
+index view name slice index
+minifi content
+
+pars start tag name attr
+attr block bound parser valu bound macro
+minifi attr
+delet attr minifi
+minifi content
+
+minifi content
+
+
+is partial view tag name
+block
+partial tag name
+macro ctx attr
+
+on block block queue on start on start
+
+attr attr
+valu attr attr
+bound pars partial attr view view name event attr attr valu
+bound
+bound macro attr attr attr macro var
+
+
+
+bound macro bound macro
+is void compon view tag name
+on block null queue
+on start on start
+on end queue
+push view stack event bound macro block
+
+
+
+
+
+
+is partial section tag name
+block
+partial tag name
+macro ctx queue last block macro ctx
+
+on block block queue on start on start
+
+
+
+parser markup element tag name
+parser event attr
+null add id
+add id view attr
+
+
+
+attr attr
+valu attr attr
+pars attr view view name event bound macro tag name attr attr valu
+
+stack push start tag name attr
+
+
+pars text text is raw text remaind
+match extract placehold text
+post
+match is raw text
+minifi content
+text is string unescap entiti trim lead text trim lead text
+
+push text stack text
+
+
+
+match
+post match post
+is string unescap entiti
+push text stack
+remaind post remaind
+
+pars match text match queue
+on start on start
+on end section
+block fn view section
+push view stack event bound macro remaind section block
+
+on content match
+push view stack event bound macro remaind match
+
+
+
+post pars text post
+
+
+pars end tag name
+section name partial section name tag name
+end partial is partial view tag name
+ctx name section name end partial content
+bound macro bound macro
+end partial is void compon view tag name
+error allow compon
+
+ctx name
+on block null queue
+on start on start
+on end queue
+queue queue
+block queue block
+render view reduc stack queue stack queue event
+unescap
+block macro ctx ctx name
+section name
+push view stack event bound macro block
+
+
+
+
+stack push tag name
+
+
+is string
+pars text templat
+
+pars html templat
+start pars start
+text pars text
+pars end
+comment
+condit comment push text stack
+
+
+push text stack
+
+
+
+render view reduc stack stack event on render
+
+text diff text diff
+
+export add document listen
+export input support select input support select
+
+http whatwg spec app current work multipag input element html appli
+todo date type support
+input support select input
+input
+
+text
+search
+
+
+password
+
+
+input is number valu input
+input
+rang input multipl
+
+input valu input
+input is number valu input input valu as number input valu
+
+
+add document listen
+add event listen input document input
+add event listen chang document chang
+
+listen event version buggi input implement
+pars float window navig app version split msie
+listen selectionchang emit
+user click context menu right click select text
+although fire overli aggress real
+detect chang input valu
+add event listen selectionchang
+document activ element
+document input target document activ element selectionchang evt target need
+
+
+
+
+reason valu as number return input
+version handl releas pars input valu fallback
+input document creat element input
+input
+input valu
+input valu as number input valu as number
+old input valu input valu
+input valu input
+input
+input is number valu input pars float input valu input valu
+
+old input valu appli
+
+
+
+
+
+document input
+target target
+
+target tag name input
+set input valu target
+
+target tag name textarea target child node length
+bind target first child target first child bind node
+bind bind is unbound
+
+
+text diff bind bind target valu
+
+
+
+document chang
+target target
+
+target tag name input
+set bound properti target
+set input valu target
+
+target tag name select
+set option bind target
+
+
+
+set bound properti node properti
+bind node bind attribut node bind attribut properti
+bind bind is unbound
+
+valu node properti
+bind express bind context valu
+
+
+set input valu target
+bind target bind attribut target bind attribut valu
+bind bind is unbound
+
+input support select target
+
+text diff bind bind target valu
+
+valu input valu target
+bind express bind context valu
+
+
+
+text diff bind bind valu
+express bind express
+segment express path segment bind context
+segment
+model bind context control model
+text diff on text input model segment valu
+express
+express bind context valu
+
+
+
+set option bind parent
+node parent first child node node node next sibl
+node tag name option
+set bound properti node select
+node ha child node
+set option bind node
+
+
+
+event emitt event event emitt
+model racer model model standalon
+util racer util
+
+page page
+compon compon
+
+export derbi standalon
+
+document listen document
+
+standard derbi inherit racer emitt
+expos model util instead
+derbi standalon
+event emitt call
+
+util merg into derbi standalon prototyp event emitt prototyp
+derbi standalon prototyp model model
+derbi standalon prototyp util util
+
+derbi standalon prototyp
+derbi standalon prototyp page page
+derbi standalon prototyp compon compon compon
+
+derbi standalon prototyp creat app
+
+
+
+overriden server
+prototyp init
+model derbi model
+creat page
+
+
+file
+load templat configur file disk
+
+
+
+
+path path
+util racer util
+html util html util
+resolv resolv
+
+export load view sync load view sync
+export load style sync load style sync
+export css compil css compil
+export html compil html compil
+
+load view sync sourc filenam
+view
+file
+resolv resolv sync sourc filenam extens view extens packag filter delet main
+resolv
+error view file found sourc filenam
+
+
+file read file sync resolv utf8
+
+extens path extnam resolv
+compil compil extens
+compil
+error unabl find compil extens
+
+
+html file compil file resolv
+
+pars pars view html file resolv view extens
+pars import length
+item pars import
+import load view sync item filenam item
+view view concat import view
+file file concat import file
+
+
+view view concat pars view
+file file concat resolv
+
+
+
+html compil file filenam
+file
+
+
+pars view file filenam extens
+import
+view
+prefix
+
+html util pars file
+forc view tag treat tag
+mean content pars html
+raw tag style script
+match end match end
+start on start
+text on text
+
+
+match end tag name
+tag name slice
+
+
+reg exp tag name
+
+
+these variabl state attribut start
+follow view text
+name attr
+
+on start tag name tag attr
+last char tag name char at tag name length
+last char
+error expect end colon instead
+
+name tag name slice
+attr tag attr
+name
+path dirnam filenam
+resolv resolv sync attr basedir extens extens packag filter delet main
+extens path extnam resolv
+import namespac attr
+path basenam attr extens attr
+import push
+filenam resolv
+import namespac prefix import namespac
+
+
+
+
+on text text is raw text
+name name
+view push
+name prefix name
+sourc text
+option attr
+filenam filenam
+
+
+
+
+import import
+view view
+
+
+
+load style sync sourc filenam option
+option option compress util is product
+resolv resolv sync sourc filenam extens style extens packag filter delet main
+resolv
+error style file found sourc filenam
+
+extens path extnam resolv
+compil compil extens
+compil
+error unabl find compil extens
+
+file read file sync resolv utf8
+compil file resolv option
+
+
+css compil file filenam option
+file file filenam
+
+
+resolv main path json found main
+entri point javascript mistakenli caus
+load file instead view style file case thi
+filter delet main properti normal file name lookup happen
+delet main
+main
+
+export
+
+control
+control control
+listen
+
+
+prototyp init listen
+
+control destroy dom on destroy
+listen listen
+listen
+listen length
+listen remov
+
+listen
+
+listen
+
+
+prototyp listen index dom listen
+listen listen
+listen
+listen length
+listen equal dom listen
+
+
+
+
+prototyp add listen target listen use captur
+target
+use captur listen
+listen target
+target document
+
+dom listen
+destroy destroy listen target listen
+dom listen target listen use captur
+listen index dom listen
+listen listen init listen
+listen push dom listen
+
+dom listen
+
+prototyp prototyp add listen
+
+prototyp target listen use captur
+target
+use captur listen
+listen target
+target document
+
+add listen target wrap listen use captur
+
+wrap listen
+remov listen target wrap listen use captur
+listen appli
+
+
+
+prototyp remov listen target listen use captur
+target
+use captur listen
+listen target
+target document
+
+dom listen dom listen target listen use captur
+dom listen remov
+listen index dom listen
+listen splice
+
+
+dom listen target listen use captur
+
+target target
+listen listen
+use captur use captur
+
+dom listen prototyp equal dom listen
+listen dom listen listen
+target dom listen target
+dom listen
+use captur dom listen use captur
+
+dom listen prototyp
+target add event listen listen use captur
+
+dom listen prototyp remov
+target remov event listen listen use captur
+
+
+destroy listen target listen
+dom listen call destroy target listen
+
+destroy listen prototyp dom listen
+destroy listen prototyp
+listen target destroy listen target destroy listen
+listen index of listen
+listen push listen
+
+
+destroy listen prototyp remov
+listen target destroy listen
+listen
+index listen index of listen
+index
+listen splice index
+
+
+
+server
+
+applic level function
+applic server
+
+
+
+crypto crypto
+
+path path
+chokidar chokidar
+
+derbi templat derbi templat
+racer racer
+util racer util
+
+file file
+
+style extens
+view extens html
+compil
+file css compil
+html file html compil
+
+
+prototyp init
+script filenam
+script map filenam
+script url
+script map url
+agent
+style extens style extens slice
+view extens view extens slice
+compil util copi object compil
+
+serial dir path dirnam filenam derbi serial
+serial base serial dir name
+exist sync serial base json
+deseri
+load view
+load style
+
+
+view page
+doctyp html
+meta charset
+view name render prefix titl element view
+view name render prefix style view
+view name render prefix head view
+view name render prefix bodi element view
+server onli
+
+view titl element
+titl view name render prefix titl view titl
+
+view bodi element
+bodi bodi class render
+view name render prefix bodi view
+
+view titl derbi
+view style server onli
+view head server onli
+view bodi
+view tail
+
+
+prototyp creat page
+model model racer model
+emit model model
+page page model
+
+model error
+model ha error
+
+
+page error
+
+page
+
+
+prototyp bundl backend option
+
+option
+option
+option
+
+option option
+option minifi option minifi util is product
+turn current regist view javascript
+recreat client
+view sourc view sourc option
+bundl file
+backend bundl bundl
+bundl path dirnam dirnam expos derbi
+hack inject view script browserifi bundl replac
+view file gener sourc
+view filenam resolv view
+bundl transform filenam
+filenam view filenam
+
+write
+
+queue view sourc
+queue
+
+
+
+bundl file filenam
+bundl file push filenam
+
+emit bundl bundl
+
+backend bundl filenam option sourc
+
+script hash crypto creat hash updat sourc digest
+sourc sourc replac derbi script hash script hash
+sourc sourc replac derbi bundl date
+util is product
+auto refresh backend
+watch bundl bundl file
+
+sourc
+
+
+
+prototyp write script backend option
+
+bundl backend option sourc
+
+path join derbi
+exist sync mkdir sync
+filenam name script hash
+path join filenam
+script url derbi filenam
+
+write current bundl file
+option option disabl script map
+script map url derbi filenam json
+sourc sourc map url script map url
+script map filenam json
+write file sync script map filenam utf8
+
+script filenam
+write file sync script filenam sourc utf8
+
+delet bundl name develop file
+accumul automat product sinc could
+race condit multipl process intent run
+differ version parallel directori
+roll restart
+util is product
+filenam readdir sync
+filenam length
+item filenam split
+item name item script hash
+old filenam path join filenam
+unlink sync old filenam
+
+
+
+
+
+
+
+prototyp view sourc option
+derbi serial view
+export view serial option
+derbi serial view
+
+
+prototyp serial
+exist sync serial dir
+mkdir sync serial dir
+
+minifi view sourc sinc
+server
+view sourc view sourc server minifi
+write file sync serial base view view sourc utf8
+serial json stringifi
+script url script url
+script map url script map url
+
+write file sync serial base json serial utf8
+
+
+prototyp deseri
+serial view serial base view
+serial serial base json
+serial view derbi templat view
+script url serial script url
+script map url serial script map url
+
+
+prototyp load view filenam
+file load view sync filenam
+view length
+item view
+view item name item sourc item option
+
+util is product watch view file filenam
+make chainabl
+
+
+
+prototyp load style filenam option
+load style filenam option
+style view view find style
+style view sourc view name filenam view
+make chainabl
+
+
+
+prototyp load style filenam option
+style file load style sync filenam option
+
+filepath
+util is product
+
+mark path file attribut
+use develop watcher autorefresh style
+local file method watch style
+file method auto refresh
+
+filepath filenam filenam
+
+sourc style filepath style style
+
+view filenam sourc
+server onli
+
+
+util is product
+watch style style file filenam option
+
+
+style
+
+
+prototyp watch view filenam filenam
+
+watcher chokidar watch filenam
+watcher chang
+watcher close
+load view filenam
+updat script view
+refresh client
+
+
+
+prototyp watch style filenam filenam option
+
+watcher chokidar watch filenam
+watcher chang
+watcher close
+style load style filenam option
+updat script view
+refresh style filenam style
+
+
+
+prototyp watch bundl filenam
+process send
+
+watcher chokidar watch filenam
+watcher chang
+watcher close
+process send reload
+
+
+
+prototyp updat script view
+script filenam
+script read file sync script filenam utf8
+script index of derbi serial view
+script slice
+script index of derbi serial view
+script slice
+view sourc view sourc
+write file sync script filenam view sourc utf8
+
+
+prototyp auto refresh backend
+agent agent
+
+
+backend receiv request
+request
+derbi
+handl messag request agent derbi
+
+
+
+
+
+prototyp handl messag agent action messag
+action
+messag name name
+
+
+messag hash script hash
+agent send derbi reload
+
+add agent agent
+
+
+
+prototyp add agent agent
+agent agent client id agent
+
+agent stream
+agent agent client id
+
+
+
+prototyp refresh client
+agent
+view view serial minifi
+messag
+derbi refresh view
+view view
+
+agent
+agent send messag
+
+
+
+prototyp refresh style filenam style
+agent
+filenam filenam style
+messag
+derbi refresh style
+filenam filenam
+style
+
+agent
+agent send messag
+
+
+export on string insert on string insert
+export on string remov on string remov
+export on text input on text input
+
+on string insert previou index text
+transform cursor cursor
+index cursor cursor text length cursor
+
+previou previou
+new text previou slice index text previou slice index
+replac text new text transform cursor
+
+
+on string remov previou index how mani
+transform cursor cursor
+index cursor cursor math how mani cursor index cursor
+
+previou previou
+new text previou slice index previou slice index how mani
+replac text new text transform cursor
+
+
+replac text new text transform cursor
+select start transform cursor select start
+select end transform cursor select end
+
+scroll top scroll top
+valu new text
+scroll top scroll top
+scroll top scroll top
+
+document activ element
+select start select start
+select end select end
+
+
+
+on text input model segment valu
+previou model segment
+previou valu
+start
+previou char at start valu char at start
+start
+
+
+
+previou char at previou length valu char at valu length
+start previou length
+start valu length
+
+
+
+
+previou length start
+how mani previou length start
+model string remov segment start how mani
+
+valu length start
+insert valu slice start valu length
+model string insert segment start insert
+
+
+event emitt event event emitt
+util racer util
+
+
+export control
+
+control page model
+event emitt call
+
+
+page page
+model model
+model control
+
+
+util merg into control prototyp event emitt prototyp
+
+control prototyp emit cancel
+cancel
+cancel
+cancel
+
+
+arg array prototyp slice call
+arg push cancel
+emit appli arg
+
+cancel
+
+
+control prototyp emit delay
+arg array prototyp slice call
+callback arg
+
+delay
+delay
+delay
+callback
+
+
+arg push delay
+emit appli arg
+delay callback
+
+delay
+
+escap html html util escap html
+error
+
+export error html error html
+export auto refresh auto refresh
+
+error html error
+text
+type
+type error
+error type
+text escap html type error escap html
+
+text
+derbi error style posit absolut background rgba left right bottom text align center
+style background pad 20px 40px margin 60px display inlin block text align left
+text
+
+
+auto refresh view model app hash
+socket model socket
+
+model connect statu connect can connect
+can connect window locat reload
+
+socket connect
+socket emit derbi client app hash reload
+reload window locat reload
+
+
+
+socket refresh css
+document get element by id
+inner html
+updat error
+
+
+socket refresh html templat instanc librari data
+view make all templat instanc
+view make compon librari data
+
+view histori refresh
+
+stack
+
+updat error templat
+
+
+
+updat error type
+
+error type
+
+delet error type
+
+document get element by id derbi error
+html error html error
+fragment rang
+html
+
+outer html html
+
+rang document creat rang
+rang select node document bodi
+fragment rang creat contextu fragment html
+document bodi append child fragment
+
+
+parent node remov child
+
+
+event dispatch event dispatch
+path map path map
+model racer model
+array slice slice
+
+export init init
+
+support creat model node j queri object
+model prototyp model prototyp
+model prototyp node absolut
+is node node node parent node node jqueri node node
+is node node absolut
+
+updat marker
+
+block path block path
+path map path map
+root root
+child is array last path path id children
+node
+node derbi marker parent
+node last
+node node previou sibl
+node derbi marker id
+path id block path
+node derbi marker end path id
+
+path path map path path id
+path map array path last
+
+node node next sibl
+node last
+path path
+
+
+
+
+
+path
+
+last last parent node
+node last parent node
+
+
+node path id block path
+path path map path path id
+is array path map array path array is array root path
+is array last
+children node child node
+children length
+child children
+child last
+path path
+
+
+
+
+path
+
+last node
+node node parent node
+
+
+just root scope path found
+root
+
+
+updat marker
+node filter show comment
+comment iter document creat tree walker document bodi null
+comment
+comment comment iter next node
+comment derbi check
+comment derbi check
+comment data
+char at
+char at
+comment derbi marker end
+slice
+
+comment derbi marker id
+comment parent node derbi marker parent
+
+
+
+init model view
+path map model path map path map
+event model event event dispatch
+on trigger path id listen type local option valu index
+listen
+item
+
+fail remov listen element found
+
+
+method listen
+properti listen
+partial listen partial
+path path map path path id
+trigger id
+method prop polit local method prop
+partial
+trigger id
+method html partial type type
+handl updat
+method type
+type append
+path index model path length
+trigger id null
+type insert
+path index
+trigger id null
+type remov
+partial null
+type move
+partial null
+properti
+
+
+
+listen get valu
+valu listen get valu model path
+
+partial
+valu partial listen model path trigger id valu index listen
+valu null
+
+updat method option option ignor valu properti index
+
+
+
+derbi mutat listen ad unshift instead model
+need handl event order racer appli mutat
+listen event appli mutat event listen
+later listen queue could receiv event differ order
+
+model listen unshift arg local
+array path index path valu
+model emit arg local
+path arg valu arg
+
+oper item also emit remov insert
+bound
+test path
+path last index of
+array path path slice
+index path slice
+trigger each event path map array path remov local index
+trigger each event path map array path insert local valu index
+
+trigger each event path map path html local valu
+
+
+model listen unshift arg local
+model emit arg local
+path arg
+trigger each event path map path html local
+
+
+model listen push unshift arg local
+model emit push arg local
+path arg
+valu array slice call arg
+valu length valu
+valu valu
+trigger each event path map path append local valu
+
+
+
+model listen move unshift arg local
+model emit move arg local
+path arg
+arg
+arg
+how mani arg
+model path length
+ref index
+ref index
+
+
+
+updat indici path map
+path map on move path how mani
+trigger each event path map path move local how mani
+
+
+model listen unshift unshift arg local
+model emit unshift arg local
+path arg
+valu array slice call arg
+insert event path map path valu local
+
+
+model listen insert unshift arg local
+model emit insert arg local
+path arg
+index arg
+valu array slice call arg
+insert event path map path index valu local
+
+
+model listen remov unshift arg local
+model emit remov arg local
+path arg
+start arg
+how mani arg
+remov event path map path start how mani local
+
+
+model listen unshift arg local
+model emit arg local
+path arg
+remov event path map path model path length local
+
+
+model listen shift unshift arg local
+model emit shift arg local
+path arg
+remov event path map path local
+
+
+connect can connect for each event
+model listen event unshift valu
+trigger each event path map event null null valu
+
+
+
+model re init
+view histori refresh
+
+
+model
+
+
+trigger each event path map path arg0 arg1 arg2 arg3 arg4 arg5
+path map path
+segment path split
+pattern
+
+trigger event path path map
+event trigger arg0 arg1 arg2 arg3 arg4 arg5
+
+also trigger pattern event path parent path
+thi use view helper function match updat path
+child segment
+segment length
+
+pattern segment slice join
+path map pattern
+event trigger arg0 arg1 arg2 arg3 arg4 arg5
+
+
+
+
+index event ref list object
+ref index
+typeof object index
+
+
+insert event path map path start valu local
+start ref index start
+updat indici path map
+path map on insert path start valu length
+valu length valu
+valu valu
+trigger each event path map path insert local valu start
+
+
+
+remov event path map path start how mani local
+start ref index start
+start how mani
+updat indici path map
+path map on remov path start how mani
+start
+trigger each event path map path remov local start
+
+
+
+path path
+browserifi browserifi
+express express
+
+express app express
+express app express dirnam
+express app express dirnam node modul mocha
+
+express app test
+bundl browserifi debug
+add script bundl dirnam
+
+add script bundl dirnam browser
+
+bundl bundl code
+
+
+send code
+
+
+
+
+
+add script bundl callback
+readdir file
+callback
+file length
+file file
+path extnam file
+bundl path join file
+
+callback
+
+
+
+port process port 5555
+server express app listen port
+consol listen http localhost process port
+
+expect expect
+event model eventmodel
+
+describ eventmodel
+befor each
+model
+
+
+
+obj list
+list name
+list name
+list name three
+
+
+
+event model
+
+
+
+thi helper updat model trigger bind
+segment valu
+model
+segment length
+segment
+
+segment segment length valu
+
+segment
+
+
+lot test need check bind call thi
+bound anyth realli handi code
+updat call
+insert call
+insert arg
+
+bind
+updat updat call
+insert index how mani
+insert call
+insert arg index index how mani how mani
+
+
+
+
+updat refer path remov insert move happen
+
+describ set
+updat bind valu chang
+add bind bind
+
+
+expect updat call equal
+
+
+updat element bind
+add bind bind
+
+
+expect updat call equal
+
+
+updat bound children parent replac
+add bind bind
+
+
+expect updat call equal
+
+
+let bind place current valu
+add bind bind
+
+
+expect updat call equal
+
+
+
+describ list
+doe updat item bind insid item someth insert around
+item
+add bind bind
+
+
+
+
+describ lookup
+updat bind index chang valu
+array lookup model
+add bind bind
+
+
+
+expect updat call equal
+
+
+updat bind resolv path chang
+array lookup model
+add bind bind
+
+
+expect updat call equal
+
+
+reus refer call array lookup
+ref1 array lookup model
+ref2 array lookup model
+expect ref1 equal ref2
+
+
+reus refer call array lookup move inner valu
+ref1 array lookup model
+
+
+ref2 array lookup model
+
+expect ref1 equal ref2
+
+
+reus refer call array lookup move outer valu
+ref1 array lookup model
+
+
+ref2 array lookup model
+
+expect ref1 equal ref2
+
+
+allow chain refer
+test access obj list list name
+obj list list name three
+
+ref1 array lookup model
+ref2 array lookup model obj list ref1
+
+add bind obj list ref2 list name bind
+
+obj list list name internet
+expect updat call equal
+
+
+expect updat call equal
+
+
+expect updat call equal
+
+go back make sure bind updat correctli
+
+expect updat call equal
+
+obj list list name superman
+expect updat call equal
+
+some thing updat bind
+obj list list name blah
+obj list list name superdup
+
+expect updat call equal
+
+
+let bind properti
+
+array lookup model obj list
+
+add bind obj list bind
+
+obj list http exampl
+expect updat call equal
+
+list name
+expect updat call equal
+
+
+
+
+expect expect
+util util
+derbi util derbi
+expect html util expect html
+
+describ event
+html element markup custom creat
+derbi creat app
+view bodi
+creat creat div element
+span creat creat span element span
+
+
+page creat page
+span
+page creat div element
+element
+
+page creat span element
+span element
+
+fragment page get fragment bodi
+expect html fragment span span
+expect html span span
+expect html span span span
+
+
+html element markup custom destroy
+derbi creat app
+view bodi
+
+page hide
+span destroy destroy span element span
+
+
+
+page creat page
+span
+page destroy span element
+span element
+
+fragment page get fragment bodi
+expect html fragment span span
+expect span equal
+
+page model page hide
+expect html fragment
+expect html span span span
+
+
+custom destroy
+derbi creat app
+view bodi
+
+page hide
+span span span
+
+
+
+page creat page
+fragment page get fragment bodi
+destroy
+page destroy page span
+destroy
+
+expect html fragment span span
+expect destroy equal
+
+page model page hide
+expect html fragment
+expect destroy equal
+
+
+expect expect
+util util
+derbi util derbi
+expect html util expect html
+
+describ
+html element properti
+derbi creat app
+view bodi nest
+page creat page
+fragment page get fragment bodi
+expect html page nest
+expect html fragment
+
+
+compon properti
+derbi creat app
+view bodi view item nest view
+view item
+item
+compon item item
+page creat page
+fragment page get fragment bodi
+expect page nest item
+expect html page nest marker node next sibl
+expect html fragment
+
+
+html element properti
+derbi creat app
+view bodi
+
+page item
+nest text
+
+
+
+page creat page
+page model page item
+text
+text
+text
+
+fragment page get fragment bodi
+
+expect page nest key
+expect html page nest
+expect html page nest
+expect html page nest
+expect html fragment
+
+page model remov page item
+expect page nest key
+expect html page nest
+expect html page nest
+expect html fragment
+
+page model unshift page item text
+expect page nest key
+expect html page nest
+expect html page nest
+expect html page nest
+expect html fragment
+
+page model page item
+expect page nest
+expect html fragment
+
+
+compon properti
+derbi creat app
+view bodi
+
+page item
+view item nest
+text
+view
+
+
+
+view item content
+item
+compon item item
+page creat page
+page model page item
+text
+text
+text
+
+fragment page get fragment bodi
+
+expect page nest key
+expect page nest item
+expect page nest item
+expect page nest item
+expect html page nest marker node next sibl
+expect html page nest marker node next sibl
+expect html page nest marker node next sibl
+expect html fragment
+
+page model remov page item
+expect page nest key
+expect page nest item
+expect page nest item
+expect html page nest marker node next sibl
+expect html page nest marker node next sibl
+expect html fragment
+
+page model unshift page item text
+expect page nest key
+expect page nest item
+expect page nest item
+expect page nest item
+expect html page nest marker node next sibl
+expect html page nest marker node next sibl
+expect html page nest marker node next sibl
+expect html fragment
+
+page model page item
+expect page nest
+expect html fragment
+
+
+html element properti
+derbi creat app
+view bodi
+
+page item
+nest text
+
+
+
+page creat page
+page model page item
+text
+text
+text
+
+fragment page get fragment bodi
+
+expect page nest
+expect page nest length
+expect html page nest
+expect html page nest
+expect html page nest
+expect html fragment
+
+page model remov page item
+expect page nest length
+expect html page nest
+expect html page nest
+expect html fragment
+
+page model unshift page item text
+expect page nest length
+expect html page nest
+expect html page nest
+expect html page nest
+expect html fragment
+
+page model page item
+expect page nest
+expect html fragment
+
+
+compon properti
+derbi creat app
+view bodi
+
+page item
+view item nest
+text
+view
+
+
+
+view item content
+item
+compon item item
+page creat page
+page model page item
+text
+text
+text
+
+fragment page get fragment bodi
+
+expect page nest
+expect page nest length
+expect page nest item
+expect page nest item
+expect page nest item
+expect html page nest marker node next sibl
+expect html page nest marker node next sibl
+expect html page nest marker node next sibl
+expect html fragment
+
+page model remov page item
+expect page nest length
+expect page nest item
+expect page nest item
+expect html page nest marker node next sibl
+expect html page nest marker node next sibl
+expect html fragment
+
+page model unshift page item text
+expect page nest length
+expect page nest item
+expect page nest item
+expect page nest item
+expect html page nest marker node next sibl
+expect html page nest marker node next sibl
+expect html page nest marker node next sibl
+expect html fragment
+
+page model page item
+expect page nest
+expect html fragment
+
+
+expect expect
+derbi standalon derbi standalon
+derbi derbi standalon
+derbi pars
+
+export derbi derbi
+export expect html expect html
+export fragment html fragment html
+
+expect html fragment html
+expect fragment html fragment equal html
+
+
+fragment html fragment
+document import node fragment
+last creat tree walker requir unfortun
+tree walker document creat tree walker node filter show comment
+to remov
+node node tree walker next node
+to remov push node
+
+to remov length
+to remov parent node remov child to remov
+
+document creat element
+append child
+inner html
+
+util util
+derbi util derbi
+expect html util expect html
+
+describ bind
+
+describ bracket depend
+bracket inner depend chang
+derbi creat app
+view bodi page page
+page creat page
+page model page
+page model page
+
+
+
+
+
+fragment page get fragment bodi
+expect html fragment
+
+expect html fragment
+
+expect html fragment
+
+expect html fragment
+
+
+bracket outer depend chang
+derbi creat app
+view bodi page page
+page creat page
+page model page
+page model page
+
+
+
+
+
+fragment page get fragment bodi
+expect html fragment
+hello
+expect html fragment hello
+
+heyo
+
+expect html fragment heyo
+
+expect html fragment
+
+
+bracket inner outer depend chang
+derbi creat app
+view bodi page page
+page creat page
+page model page
+page model page
+
+
+
+
+
+fragment page get fragment bodi
+expect html fragment
+
+expect html fragment
+
+heyo
+later
+
+expect html fragment later
+adio
+expect html fragment adio
+
+expect html fragment heyo
+
+
+
+describ dynam view instanc
+simpl dynam view
+derbi creat app
+view bodi
+view page view option view
+
+view
+view
+page creat page
+view page model page view
+view
+fragment page get fragment bodi
+expect html fragment
+view
+expect html fragment
+view
+expect html fragment
+view
+expect html fragment
+
+bracket dynam view
+derbi creat app
+view bodi
+view page name page index option view
+
+view
+view
+view three three
+page creat page
+page model page name
+index page model page index
+index
+fragment page get fragment bodi
+expect html fragment
+index
+expect html fragment
+index
+expect html fragment
+index
+expect html fragment
+page model page name
+expect html fragment
+page model unshift page name three
+expect html fragment three
+
+render express valu chang
+derbi creat app
+count
+proto count
+count
+
+proto lower valu
+valu to lower case
+
+view bodi view lower page view view
+view count
+view count
+page creat page
+view page model page view
+view
+fragment page get fragment bodi
+expect html fragment
+view
+expect html fragment
+view
+expect html fragment
+view
+expect html fragment
+view
+expect html fragment
+
+
+
+describ basic block
+
+derbi creat app
+view bodi
+page nest valu
+
+
+otherwis
+
+
+page creat page
+fragment page get fragment bodi
+expect html fragment otherwis
+valu page model page nest valu
+valu
+expect html fragment
+valu
+expect html fragment otherwis
+valu hello
+expect html fragment hello
+
+
+derbi creat app
+view bodi
+page nest valu
+nada
+
+otherwis
+
+
+page creat page
+fragment page get fragment bodi
+expect html fragment nada
+valu page model page nest valu
+valu
+expect html fragment otherwis
+valu
+expect html fragment nada
+valu hello
+expect html fragment otherwis
+
+
+derbi creat app
+view bodi
+page item
+
+
+otherwis
+
+
+page creat page
+fragment page get fragment bodi
+expect html fragment otherwis
+item page model page item
+item three
+expect html fragment three
+item
+expect html fragment otherwis
+item insert three
+expect html fragment three
+item remov
+expect html fragment three
+item remov
+expect html fragment otherwis
+
+
+
+describ nest block
+contain
+derbi creat app
+view bodi
+page item item
+page toggl
+item
+
+
+
+page creat page
+item page model page item
+toggl page model page toggl
+fragment page get fragment bodi
+item three
+toggl
+item move
+expect html fragment three
+
+
+
+test array item templat item data
+path
+derbi creat app
+view bodi
+
+page item item item templat
+
+
+test each
+
+
+derbi creat app
+view bodi
+page item item
+
+item item item templat
+
+
+
+test each
+
+rel path
+derbi creat app
+view bodi
+page item
+
+item item templat
+
+
+
+test each
+
+rel subpath
+derbi creat app
+view bodi
+page
+
+item item item templat
+
+
+
+test each
+
+attribut
+derbi creat app
+view bodi
+view item page item view
+
+view
+
+item item item templat
+
+
+test each
+
+contain with
+derbi creat app
+view bodi
+
+page item item
+
+
+
+item templat
+
+
+
+
+
+
+test each
+
+contain view
+derbi creat app
+view bodi
+
+page item item
+view item view
+
+
+
+view item item templat
+test each
+
+contain view contain
+derbi creat app
+view bodi
+
+page item item
+view item view
+
+
+
+view item item templat
+test each
+
+test each
+page creat page
+item page model page item
+fragment page get fragment bodi
+expect html fragment
+item insert item data slice
+expect html fragment
+
+
+item push item data
+expect html fragment
+three three
+
+item unshift item data
+expect html fragment
+four four three three
+
+item remov
+expect html fragment
+four four three three
+
+item shift
+expect html fragment
+three three
+
+item
+expect html fragment
+
+
+item
+expect html fragment
+
+
+item push item data
+expect html fragment
+
+
+
+
+describ object
+test array item text text
+text
+text
+text three
+text four
+
+
+describ string
+test array item
+
+
+three
+four
+
+
+
+exec child process exec
+program command
+mkdirp mkdirp
+
+path path
+derbi derbi
+
+print usag
+
+ansi code
+
+bold
+ital
+underlin
+blink
+invers
+hidden
+black
+
+green
+yellow
+blue
+magenta
+cyan
+white
+black
+
+green
+yellow
+blue
+magenta
+cyan
+white
+
+
+style tag name
+u001b ansi code name
+
+
+style style text
+
+split style split
+split length
+item split
+style tag item
+
+text style tag
+
+
+empti directori path callback
+readdir path file
+code enoent
+callback file file length
+
+
+
+log write path
+consol style green creat path
+
+mkdir path
+mkdirp sync path 0755
+log write path
+
+write path text
+write file sync path text
+log write path
+
+
+render templat
+
+valu
+reg exp
+templat templat replac valu
+
+templat
+
+
+abort messag
+messag messag style bold abort
+consol error messag
+process
+
+
+walk sync start callback
+stat stat sync start
+
+stat is directori
+filenam readdir sync start
+
+coll filenam reduc name
+abspath path join start name
+
+stat sync abspath is directori
+dir push name
+
+name push name
+
+
+
+name dir
+
+callback start coll dir coll name
+
+coll dir for each
+abspath path join start
+node modul
+walk sync abspath callback
+
+
+
+error path start directori
+
+
+
+creat project use coffe
+dir path path resolv process
+project path basenam dir path
+project error cannot creat project dir path
+
+
+project project
+
+
+copi project file specifi destin
+mkdir dir path
+start dir use coffe coffe
+start path join dirnam start dir
+walk sync start dir file
+base dir path render slice start length
+dir for each
+mkdir base render
+
+file for each file
+data read file sync file
+filenam base render file
+write filenam render data
+
+
+
+log complet
+messag style green bold project creat
+
+messag
+
+program noinstal
+messag instal
+
+messag start
+messag more info http derbyj
+consol messag
+
+program noinstal log complet
+process chdir
+consol instal depend thi take littl
+exec instal stdout stderr
+consol error stderr
+stdout consol stdout replac
+log complet
+
+
+
+new project
+null
+null
+
+print usag
+use coffe program coffe
+type use coffe coffe script
+directori style bold current directori
+consol
+creat type project directori
+applic style bold
+
+empti directori
+
+program confirm destin continu
+abort
+process stdin destroy
+creat project use coffe
+
+
+
+creat project use coffe
+
+
+
+program
+version derbi version
+option coffe creat file use coffe script
+option noinstal instal
+
+program
+command
+descript
+n creat derbi project directori name specifi
+name use project creat current directori
+name specifi option
+action new project
+
+program pars process argv
+
+print usag consol derbi help usag
+spawn child process spawn
+mkdirp mkdirp
+
+psexit psexit
+path path
+
+empti directori path callback
+readdir path file
+code enoent
+callback file file length
+
+
+
+mkdir path
+mkdirp sync path 0755
+consol creat path
+
+
+write path text
+write file sync path text
+consol creat path
+
+
+render templat
+
+valu
+reg exp
+templat templat replac valu
+
+templat
+
+
+walk sync start callback
+stat stat sync start
+
+stat is directori
+filenam readdir sync start
+
+coll filenam reduc name
+abspath path join start name
+
+stat sync abspath is directori
+dir push name
+
+name push name
+
+
+
+name dir
+
+callback start coll dir coll name
+
+coll dir for each
+abspath path join start
+node modul
+walk sync abspath callback
+
+
+
+error path start directori
+
+
+
+creat argv use coffe
+
+dir path path resolv process
+project path basenam dir path
+
+project error cannot creat project dir path
+
+
+
+project project
+
+
+copi project file specifi destin
+mkdir dir path
+start dir use coffe coffe
+start path join dirnam start dir
+walk sync start dir file
+base dir path render slice start length
+dir for each
+mkdir base render
+
+file for each file
+data read file sync file
+filenam base render file
+write filenam render data
+
+
+
+log complet
+messag project creat
+
+messag
+
+argv noinstal
+messag instal
+
+messag start
+messag more info http derbyj
+consol messag
+
+
+argv noinstal
+log complet
+
+
+spinner
+spinner index
+
+spin
+process stdout write
+spinner spinner index
+spinner spinner index spinner index
+
+
+
+consol
+instal depend
+perform vari depend network
+spawn instal
+
+stdout data spin
+stderr data spin
+
+psexit data
+log complet
+
+
+
+export creat argv
+
+path resolv process
+
+
+use coffe argv coffe coffe script
+
+empti directori
+
+argv
+consol error destin forc
+process
+
+
+consol
+creat project
+current directori
+
+
+creat argv use coffe
+
+
+
+
+browserifi browserifi
+uglifi uglifi
+
+export bundl argv sourcefil targetfil
+
+is product argv product
+browserifi
+
+sourcefil for each
+
+
+
+opt
+debug argv debug null is product
+
+
+write code
+write file targetfil code
+
+
+bundl opt code
+
+
+argv is product
+minifi uglifi minifi code
+from string
+out sourc map minifi
+
+note unus
+write minifi code
+
+write code
+
+
+
+derbi dirnam server
+config
+filenam filenam
+style style
+script
+connect alert connect alert
+
+
+
+export option
+creat librari config option
+
+export setup librari
+librari view sentenc case text
+text text char at to upper case text slice
+
+
+
+export reconnect
+model model
+hide reconnect link second click
+model hide reconnect
+set timeout
+model hide reconnect
+1000
+model reconnect
+
+
+export reload
+window locat reload
+
+derbi creat app
+derbi boot
+
+
+
+rout
+
+derbi rout render client server
+page
+page render home
+
+
+page model param
+thi valu server creat user id middlewar
+user id model session user id
+
+creat scope model set base path model method
+user model user user id
+
+creat mongo queri get current user item
+item queri model queri item user id user id
+
+init data subscrib updat
+model subscrib user item queri
+
+
+creat refer use templat control method
+model page user user
+item queri page item
+
+user increment visit
+page render
+
+
+
+
+control function
+
+
+new item model page new item
+new item
+new item user id model session user id
+model item new item
+
+
+remov
+item
+model item
+
+path path
+derbi derbi
+
+export
+static page derbi creat static path dirnam path dirnam dirnam
+
+
+null
+
+consol stack stack
+
+custom error handl
+messag messag to string
+statu pars int messag
+statu statu statu statu
+
+statu statu statu
+static page render error statu to string statu
+
+send statu
+
+
+
+express express
+derbi derbi
+racer browser channel racer browserchannel
+live db mongo livedb mongo
+mongo store connect mongo express
+
+error error
+
+express app export express
+
+redi configur
+process redi host
+redi redi creat client process redi port process redi host
+redi auth process redi password
+process rediscloud
+redi url pars process rediscloud
+redi redi creat client redi url port redi url hostnam
+redi auth redi url auth split
+
+redi redi creat client
+
+redi select process redi
+mongo configur
+mongo url process mongo process mongohq
+mongodb localhost 27017 project
+
+store creat model sync data
+store derbi creat store
+live db mongo mongo url auto reconnect safe
+redi redi
+
+
+creat user id
+model get model
+user id session user id session user id model
+model session user id user id
+
+
+
+express app
+express favicon
+gzip dynam
+express compress
+respond request applic script bundl
+script store
+serv file directori
+express dirnam
+
+browserchannel client side script model bundl creat store
+middlewar respond remot client messag
+racer browser channel store
+get model method
+store model middlewar
+
+pars form data
+express bodi parser
+express method overrid
+
+session middlewar
+express cooki parser
+express session
+secret process session secret your secret here
+store mongo store mongo url safe
+
+creat user id
+
+creat express middlewar rout
+router
+express app router
+error
+
+
+server side rout
+
+express app
+
+

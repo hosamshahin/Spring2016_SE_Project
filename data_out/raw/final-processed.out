@@ -1,0 +1,3669 @@
+
+
+http densitydesign
+copyright 2013 2014 densiti design giorgio caviglia michel mauri giorgio uboldi matteo azzi
+
+licens lgpl licens version
+receiv copi lesser gener public licens
+along program
+
+http licens lgpl html
+
+thi program free softwar redistribut modifi
+term lesser gener public licens publish
+free softwar foundat either version licens
+option later version
+
+thi program distribut hope use
+without warranti without even impli warranti
+merchant fit particular purpos
+lesser gener public licens detail
+
+
+export
+strict
+
+
+version
+model
+chart
+
+
+pars
+
+parser delimit
+
+insiperd nadel algorithm
+http bennadel blog 1504 pars string javascript exec regular express command
+parser
+length
+
+delimit parser delimit detect delimit
+row
+match match
+
+reg exp
+delimit
+
+delimit
+
+
+
+match exec
+match match match replac reg exp match
+consol match match
+match length match delimit row push
+row row length push match
+
+
+header row
+
+row length
+row length row length row length header length
+row length header length
+
+header
+header row
+
+push
+
+pars error
+
+
+
+
+
+
+mode
+length length
+counter mode
+length
+
+counter counter
+counter
+counter
+mode
+counter
+
+
+mode
+
+
+sniff obj
+key
+key obj for each key
+obj for each
+key
+type of
+key push
+
+
+key
+
+
+detect delimit
+
+length
+
+delimit
+delimit count delimit
+header split
+charact
+quot
+first char
+
+header
+charact header
+charact
+
+quot
+header quot
+
+
+first char quot
+
+
+
+quot
+index delimit index of charact
+index
+delimit count index
+first char
+
+
+
+
+first char first char
+
+
+max count delimit count
+max count delimit delimit count index of max count
+
+
+pars error messag
+name pars error
+messag messag sorri someth went wrong pars
+
+pars error prototyp error
+pars error prototyp pars error
+
+parser metadata
+entri sniff parser
+mode valu
+
+
+
+parser delimit delimit
+
+parser
+
+
+
+model
+
+model dimens
+
+titl untitl
+descript
+type number string date
+multipl
+requir
+
+dimens
+dimens valu length
+length dimens valu
+multipl
+dimens valu accessor call dimens
+accessor call dimens dimens valu
+
+
+accessor
+
+
+
+dimens accessor
+length accessor
+accessor
+dimens
+
+
+dimens multipl
+length multipl
+multipl
+dimens
+
+
+dimens requir
+length requir
+requir
+dimens
+
+
+dimens titl
+length titl
+titl
+dimens
+
+
+dimens descript
+length descript
+descript
+dimens
+
+
+dimens type
+length type
+length
+type
+type push
+dimens
+
+
+dimens
+dimens valu dimens valu
+multipl
+dimens valu
+dimens valu
+
+
+dimens clear
+dimens valu
+
+
+dimens valu
+
+dimens
+
+
+
+model
+
+titl untitl
+descript
+dimens
+
+model
+call
+
+
+
+
+
+
+model titl
+length titl
+titl
+model
+
+
+model descript
+length descript
+descript
+model
+
+
+model
+length
+
+model
+
+
+model dimens
+dimens valu length
+dimens model dimens
+dimens dimens
+dimens
+
+
+model dimens
+dimens
+
+
+model is valid
+dimens valu
+filter requir valu length
+length
+
+
+model instruct
+dimens valu
+filter requir valu length
+requir valu length dimens dimens titl requir least requir valu length
+join
+
+
+model clear
+dimens valu for each clear
+
+
+model
+
+
+
+
+built model
+
+tree
+model tree
+
+tree model
+
+hierarchi tree dimens hierarchi
+titl hierarchi
+descript thi descript hierarchi illustr dimens thing
+requir
+multipl
+
+size tree dimens size
+titl size
+descript thi descript hierarchi illustr dimens thing
+accessor
+type number
+
+color tree dimens color
+titl color
+
+label tree dimens label
+titl label
+multipl
+
+tree
+root children
+for each
+
+hierarchi root
+
+leaf seek root hierarchi hierarchi
+leaf leaf
+
+leaf size leaf size
+leaf size size size
+
+leaf color color
+leaf label label
+
+leaf children
+
+root
+
+
+seek root path class
+path length
+root children root children
+root children filter name path
+
+
+test path
+name path class children
+root children push
+root
+
+path length
+seek path slice class slice
+
+
+tree
+
+
+
+point
+model point
+
+point model
+
+point dimens
+titl axi
+type number date
+accessor date date
+requir
+
+point dimens
+titl axi
+type number date
+accessor date date
+requir
+
+size point dimens size
+titl size
+type number
+
+color point dimens color
+titl color
+
+label point dimens label
+titl label
+multipl
+
+point
+
+
+
+
+size size size
+color color
+label label
+
+
+
+
+point
+
+
+
+graph
+model graph
+
+graph model
+
+step graph dimens step
+titl step
+multipl
+requir
+
+size graph dimens size
+titl size
+type number
+accessor
+
+graph
+
+node link
+
+step step length
+
+
+
+step length
+
+step
+step
+relat nest
+
+
+entri
+
+relat for each
+get node index
+
+
+push name group
+length
+
+
+valu for each
+get node index
+
+push name group
+length
+
+valu size valu size valu length
+link sourc target valu valu
+push link
+
+
+
+
+node sort custom sort
+for each sourc index of sourc target index of target
+link
+
+
+
+
+custom sort
+item1 group
+item2 group
+item1 item2
+item1 local compar item2
+
+
+name local compar name
+
+
+
+sort by group
+group group
+group group
+
+
+
+get node index name group
+
+
+name name group group
+
+
+
+
+
+
+graph
+
+
+
+ident
+model ident
+model
+
+
+model tree model tree
+model point model point
+model graph model graph
+model ident model ident
+
+
+chart
+
+gener abstarct option
+chart option
+
+titl untitl
+descript default valu
+
+option
+option valu
+
+
+option titl
+length titl
+titl
+option
+
+
+option default valu
+length default valu
+option valu default valu
+option
+
+
+option descript
+length descript
+descript
+option
+
+
+option reset
+option valu default valu
+
+
+option valu default valu
+
+option
+
+
+number option
+chart option
+
+option chart option
+
+fit to width
+
+option fit to width
+length fit to width
+fit to width
+option
+
+
+option
+
+
+
+
+option
+
+
+list option
+chart option
+
+option chart option
+
+valu
+
+option valu
+length valu
+valu
+option
+
+
+option
+
+
+
+option
+
+
+checkbox option
+chart option checkbox
+option chart option
+checkbox
+
+option
+
+
+
+option
+
+
+color option
+chart option color
+option chart option
+color
+domain
+dispatch dispatch chang
+
+option domain
+length domain
+length
+domain
+
+domain
+
+dispatch chang domain
+option
+
+
+option
+
+
+
+rebind option dispatch
+
+option
+
+
+chart
+
+chart valu length
+titl untitl
+descript
+categori
+thumbnail
+option
+
+chart select
+select
+draw call select model
+
+
+
+model
+
+
+
+draw select
+
+
+
+chart titl
+length titl
+titl to string
+chart
+
+
+chart descript
+length descript
+descript to string
+chart
+
+
+chart categori
+length categori
+categori to string
+chart
+
+
+chart thumbnail
+length thumbnail
+thumbnail to string
+chart
+
+
+chart model
+length model
+model
+chart
+
+
+chart draw
+length draw
+draw
+chart
+
+
+option
+
+chart
+option size
+option chart option
+option option
+option
+
+
+chart
+option size
+option chart option
+option option
+option
+
+
+chart checkbox
+option size
+option chart option checkbox
+option option
+option
+
+
+chart color
+option size
+option chart option color
+option option
+option
+
+
+chart option
+option valu
+
+
+chart clear
+option valu clear
+
+
+chart chart
+
+chart
+
+
+
+util
+
+date format
+
+
+
+
+
+
+
+is string valu
+valu
+
+
+is boolean valu
+valu to lower case valu to lower case valu
+valu to lower case valu to lower case valu
+
+
+
+is number valu
+is na n valu
+
+
+is date valu
+is date
+format date format
+valu match date format format
+is date is na n date pars valu
+
+
+is date
+
+
+type of valu
+valu valu length
+is date valu date name
+is number valu number name
+is string valu string name
+
+
+
+diverg rang
+rang
+to string
+
+
+
+foreground color
+color 222222 ffffff
+
+
+export
+
+export export
+strict
+
+direct
+
+angular direct
+
+direct chart root scope data servic
+
+restrict
+link post link scope element attr
+
+updat
+
+toggl tooltip tooltip contain bodi
+
+select element select remov
+
+scope chart scope length
+scope model is valid
+
+select element
+append
+datum scope
+call scope chart
+
+scope svg code select element
+select
+attr xmln http 2000
+node parent node inner html
+
+root scope broadcast complet graph
+
+
+
+scope delay updat data servic debounc updat
+
+scope watch chart updat
+scope updat updat
+scope watch updat
+scope watch scope model scope model scope updat
+scope watch scope chart scope chart option valu scope delay updat
+
+
+
+
+
+direct chart option
+
+restrict
+link post link scope element attr
+
+first time
+
+element find option click
+scope appli fit width
+
+
+scope watch chart fit width
+
+fit width chart
+chart
+scope option fit to width scope option fit to width
+scope option valu width
+
+
+document readi fit width
+
+
+
+
+
+direct color root scope
+
+restrict
+templat url templat color html
+link post link scope element attr
+
+scope scale
+
+
+ordin categori
+valu scale ordin rang diverg rang
+reset domain valu rang diverg rang domain length
+updat ordin updat
+
+
+ordin categori
+valu scale category20
+reset valu rang scale category20 rang
+updat ordin updat
+
+
+ordin categori
+valu scale category20b
+reset valu rang scale category20b rang
+updat ordin updat
+
+
+ordin categori
+valu scale category20c
+reset valu rang scale category20c rang
+updat ordin updat
+
+
+ordin categori
+valu scale category10
+reset valu rang scale category10 rang
+updat ordin updat
+
+
+linear numer
+valu scale linear rang f7fbff 08306b
+reset valu rang f7fbff 08306b
+updat linear updat
+
+
+
+ordin updat domain
+domain length domain
+valu domain domain
+list color
+
+
+linear updat domain
+domain extent domain
+domain domain domain
+valu domain domain interpol interpol lab
+list color
+
+
+scope set scale
+scope option valu scope color scale valu
+scope color scale reset scope color scale valu domain
+root scope broadcast updat
+
+
+add listen
+scope color scale reset scope color scale valu domain
+scope option chang domain
+scope option valu scope color scale valu
+scope color scale updat domain
+
+
+
+scope color scale scope scale
+
+scope watch chart add listen
+scope watch color scale valu domain domain
+scope color scale reset domain
+list color
+
+
+list color
+scope color scope color scale valu domain
+valu scope color scale valu
+sort
+is number is number
+
+
+
+
+scope set color color
+domain scope color scale valu domain
+index domain index of
+rang scope color scale valu rang
+rang index color
+scope option valu rang rang
+root scope broadcast updat
+
+
+scope foreground color
+color 000000 ffffff
+
+
+scope watch option valu valu
+valu scope set scale
+
+
+
+
+
+
+
+direct sortabl root scope
+
+restrict
+scope
+titl
+valu
+type
+multipl
+
+messag text
+link post link scope element attr
+
+remov last
+
+element sortabl
+item
+connect with dimens contain
+placehold drop
+start on start
+updat on updat
+receiv on receiv
+remov on remov
+
+toler intersect
+
+
+
+dimens item dimens
+html is valid type dimens arrow circl breath right drop time circl breath right drop
+element find drop html html
+
+
+on start
+dimens item dimens
+html is valid type dimens arrow circl breath right drop time circl breath right drop
+element find drop html html
+element parent overflow visibl
+angular element element scope open
+
+
+on updat
+
+item find dimens icon remov
+
+item find span remov length
+item append span remov pull right time span
+
+item find span remov click item remov on remov
+
+remov last
+item remov
+remov last
+
+
+scope valu valu
+scope appli
+
+element parent overflow hidden
+
+dimens item dimens
+item toggl class invalid is valid type dimens
+messag
+
+root scope broadcast updat
+
+
+scope watch valu valu
+valu length
+element find remov
+
+messag
+
+
+on receiv
+dimens item dimens
+
+remov last ha valu dimens
+
+scope multipl scope valu length
+found
+element find
+dimens scope valu found
+remov
+found
+remov last
+
+
+
+scope valu valu
+item find span remov click item remov on remov
+
+
+on remov
+scope valu valu
+scope appli
+
+
+valu
+element find length
+
+element find
+push dimens
+
+
+
+
+ha valu dimens
+
+scope valu length
+scope valu dimens
+
+
+
+
+
+
+is valid type dimens
+dimens
+scope type name index of dimens
+
+
+
+messag
+ha invalid type valu filter is valid type length
+scope messag text ha invalid type
+scope type name to lower case join
+drag scope type name to lower case join
+element parent find html messag text
+
+
+
+
+
+
+direct draggabl
+
+restrict
+scope
+templat url templat dimens html
+link post link scope element attr
+
+scope watch metadata metadata
+metadata length element find remov
+element find draggabl
+connect to sortabl dimens contain
+helper
+revert invalid
+start on start
+
+
+
+on start
+helper width current target width
+helper index 100000
+
+
+
+
+
+
+direct group
+
+restrict
+link post link scope element attr
+scope watch attr watch watch
+last element
+element children
+attr everi
+old last last
+last element
+last insert after old last
+
+append to last
+
+
+
+
+
+
+
+
+
+direct raw tabl
+
+restrict
+link post link scope element attr
+
+sort by
+descend
+
+updat
+
+select element select all remov
+
+scope scope length
+select element append span text pleas review
+
+
+
+tabl select element
+append tabl
+attr tabl tabl stripe tabl condens
+
+sort by sort by scope metadata
+
+header tabl append thead
+append
+select all
+scope metadata
+enter append
+text
+click
+descend sort by descend descend
+sort by
+updat
+
+
+header append
+attr descend sort desc pull right sort pull right
+style opac sort by
+
+row tabl append tbodi
+select all
+scope sort sort
+enter append
+
+cell row select all
+valu
+enter append
+cell text string
+
+
+
+sort
+is number sort by is number sort by descend sort by sort by sort by sort by
+descend sort by sort by sort by sort by sort by sort by sort by sort by
+
+
+scope watch updat
+scope watch metadata
+sort by
+updat
+
+
+
+
+
+
+direct copi button
+
+restrict
+link post link scope element attr
+
+zero clipboard config movi path bower compon zeroclipboard zero clipboard
+
+client zero clipboard element
+
+client load client
+client complet client arg
+element tooltip destroy
+element tooltip titl copi
+element tooltip show
+
+
+
+client mouseov client arg
+element tooltip titl copi clipboard
+element tooltip show
+
+
+client mouseout client arg
+element tooltip destroy
+
+
+
+
+
+
+direct coder
+
+restrict
+textarea sourc sourc area row model svg code textarea
+link post link scope element attr
+
+scope complet graph
+element find textarea scope svg code
+
+
+as html
+chart length
+select chart
+attr xmln http 2000
+node parent node inner html
+
+
+scope watch as html
+scope html as html
+
+scope updat
+scope html as html
+
+
+
+
+
+direct download
+
+restrict
+replac
+
+form form search
+button select placehold choos model mode option label mode
+select span caret span
+button
+input form control placehold filenam text model filenam
+button success form control disabl mode label click mode download download button
+form
+
+
+link post link scope element attr
+
+sourc chart
+
+get blob
+window blob window web kit blob window moz blob
+
+
+remov html entiti
+decod html html
+document creat element textarea
+inner html html
+valu
+
+
+download svg
+get blob
+
+html select sourc
+attr version
+attr xmln http 2000
+node parent node inner html
+
+html decod html html
+
+is safari navig user agent index of safari navig user agent index of chrome
+
+is safari
+imag utf8 html
+new window window open download
+
+blob html imag
+save as blob element find input element find input attr placehold
+
+
+
+
+download png
+
+content select bodi append canva
+attr canva
+style display none
+
+html select sourc
+node parent node inner html
+
+imag imag
+imag imag base64 window btoa html
+
+canva document get element by id canva
+canva width imag width
+canva height imag height
+context canva get context
+
+imag onload
+context draw imag imag
+
+is safari navig user agent index of safari navig user agent index of chrome
+
+is safari
+canva to data url imag base64
+new window window open download
+window locat
+
+document creat element
+download scope filenam element find input attr placehold
+href canva to data url imag base64
+document creat event mous event
+init mous event
+click window
+
+
+dispatch event
+
+
+
+
+
+select canva remov
+
+
+download data
+json json stringifi scope model scope
+blob blob json text json charset
+save as blob scope filenam element find input attr placehold json
+
+
+scope mode
+label vector graphic download download svg
+label imag download download png
+label data model json download download data
+
+scope mode scope mode
+
+
+
+
+strict
+
+control
+
+angular control
+
+control raw ctrl scope data servic
+
+scope sampl
+titl car multivari multivari
+titl movi dispers dispers
+titl music flow flow
+titl cocktail correl correl
+
+
+scope watch sampl sampl
+sampl
+data servic load sampl sampl
+
+scope text
+
+error
+scope error error
+
+
+
+
+init
+scope
+scope
+scope metadata
+scope error
+scope load
+
+scope categori correl distribut time seri hierarchi other
+
+scope pars text
+
+scope model scope model clear
+
+scope
+scope metadata
+scope error
+scope appli
+
+
+parser parser
+scope parser text
+scope metadata parser metadata text
+scope error
+
+scope
+scope metadata
+scope error name pars error messag
+
+scope length scope model scope model clear
+scope load
+
+
+scope delay pars data servic debounc scope pars
+
+scope watch text text
+scope load
+scope delay pars text
+
+
+scope chart chart valu sort titl titl titl titl
+scope chart scope chart
+scope model scope chart scope chart model
+
+scope watch error error
+code mirror
+code mirror code mirror
+error
+remov line class scope last error wrap line error
+
+
+add line class error wrap line error
+scroll into view error
+scope last error error
+
+
+
+bodi mousedown
+target ha class dimens info toggl
+dimens wrapper
+angular element scope open
+angular element scope appli
+
+
+
+scope code mirror option
+line number
+line wrap
+placehold past text drop file hand sampl dataset
+
+
+scope select chart chart
+chart scope chart
+scope model clear
+scope chart chart
+scope model scope chart model
+
+
+refresh scroll
+scroll
+scrollspi refresh
+
+
+
+window scroll
+
+check mobil
+window width map height
+
+scroll top window scroll top
+map top map offset
+map height map height
+is between scroll top map top scroll top map top map height sticki height
+is over scroll top map top map height sticki height
+map width map width map width width
+
+map height dimens height
+consol map height dimens height
+is between
+sticki
+posit
+width map width
+20px
+
+
+is over
+sticki
+posit
+width map width
+map height sticki height scroll top map top
+
+
+
+is between
+
+sticki
+posit rel
+
+width
+
+
+
+document readi refresh scroll
+
+
+
+strict
+
+angular
+ng rout
+ng anim
+ng sanit
+filter
+servic
+direct
+control
+mgcrea ng strap
+
+colorpick
+
+
+config rout provid locat provid rout provid locat provid
+rout provid templat url partial main html control raw ctrl
+rout provid otherwis redirect to
+locat provid html5 mode
+
+code
+strict
+
+servic
+
+angular servic
+
+factori data servic http timeout
+
+
+
+load sampl sampl
+defer defer
+http sampl
+respons
+defer resolv respons
+
+
+defer reject error occur get sampl sampl titl
+
+
+defer promis
+
+
+debounc func wait immedi
+timeout
+defer defer
+
+context arg
+later
+timeout
+immedi
+defer resolv func appli context arg
+defer defer
+
+
+call now immedi timeout
+timeout
+timeout cancel timeout
+
+timeout timeout later wait
+call now
+defer resolv func appli context arg
+defer defer
+
+defer promis
+
+
+
+
+
+strict
+
+filter
+
+angular filter
+
+filter categori filter
+chart categori
+chart filter chart
+chart categori categori other chart categori categori
+
+
+
+
+
+stream model
+
+group stream dimens
+titl group
+requir
+
+date stream dimens
+titl date
+type number date string
+accessor date date string
+requir
+
+size stream dimens
+titl size
+type number
+requir
+
+stream
+group
+
+date date valu
+
+group nest
+group
+rollup
+
+singl nest
+date
+rollup
+
+group group
+date
+size size length
+
+
+
+
+creat one
+date for each
+singl ha own properti
+singl group group
+
+
+
+valu singl
+
+
+
+valu group sort
+
+
+
+chart chart
+titl bump chart
+thumbnail img bump chart
+descript
+continu time seri bump chart use place stack bar base york time href http nytim interact 2014 upshot peopl state born html interact visual
+categori time seri
+model stream
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+pad chart
+titl pad
+default valu
+
+normal chart checkbox
+titl normal
+default valu
+
+curv chart
+titl interpol
+valu basi spline sankey linear
+default valu sankey
+
+sort chart
+titl sort
+valu valu descend valu ascend group
+default valu valu descend
+
+show label chart checkbox
+titl show label
+default valu
+
+color chart color
+titl color scale
+
+chart draw select
+
+select
+attr width width
+attr xmln xmln xlink http 1999 xlink
+attr height height
+append
+
+layer
+
+curv
+basi spline basi
+sankey interpol
+linear linear
+
+
+layer for each
+
+valu layer layer
+layer
+
+sort sort by
+
+valu layer layer
+
+valu for each layer
+layer normal
+layer
+layer pad
+
+
+
+
+date date date
+date
+time scale
+domain layer layer layer layer layer layer
+rang width
+date date string
+string
+scale ordin
+domain layer
+rang point width
+number
+scale linear
+domain layer layer layer layer layer layer
+rang width
+
+scale linear
+domain layer layer layer
+rang height
+
+improv
+layer for each
+
+valu layer layer
+layer
+
+sort sort by
+
+valu layer layer
+normal invert height pad valu length
+
+valu for each layer
+layer normal
+layer
+layer pad
+
+
+
+
+x axi axi scale tick size height orient bottom
+
+append
+attr axi
+style stroke width
+style font size 10px
+style font famili arial helvetica
+attr transform translat height
+call x axi
+
+select all axi line axi path
+style shape render crisp edg
+style fill none
+style stroke
+
+color domain layer group
+
+area area
+interpol curv curv
+
+
+math
+
+line line
+interpol curv curv
+
+
+
+
+
+
+select all path layer
+layer
+enter append path
+attr layer
+attr area
+attr titl group
+style fill opac
+style fill color group
+
+show label
+
+append def
+
+select def
+select all path
+layer
+enter append path
+attr path
+attr line
+
+select all text label
+layer
+enter append text
+attr
+attr label
+append text path
+attr xlink xlink href path
+attr start offset
+max yr max v
+rang layer length for each
+max v
+max v
+max yr
+
+
+max val max yr
+offset math round max yr rang
+math math offset
+
+attr text anchor
+offset offset start middl
+
+text group
+style font size 11px
+style font famili arial helvetica
+style font weight normal
+
+sort by
+sort valu descend
+sort valu ascend
+sort group group group
+
+
+interpol point
+point point
+path
+
+point length
+
+
+point point
+path push
+
+
+path join
+
+
+
+
+
+
+point model point
+
+point dimens remov size
+point dimens remov label
+point dimens remov color
+
+chart chart
+titl convex hull
+descript
+mathemat href http wikipedia wiki convex hull convex hull smallest convex shape contain point appli scatterplot use identifi point belong categori base href http ock mbostock 4341699 http ock mbostock 4341699
+thumbnail img convex hull
+model point
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+stroke chart
+titl stroke width
+default valu
+
+chart draw select
+
+scale linear rang width stroke domain extent
+scale linear rang height stroke domain extent
+
+vertic
+
+
+
+select
+attr width width
+attr height height
+append
+attr transform translat stroke stroke
+
+append path
+datum geom hull vertic
+style fill
+style stroke
+style stroke width stroke
+style stroke linejoin round
+attr join
+
+select all circl
+vertic
+enter append circl
+attr
+attr transform translat
+
+
+
+
+node model
+
+cluster node dimens
+titl cluster
+requir
+
+size node dimens
+titl size
+type number
+
+label node dimens
+titl label
+
+color node dimens
+titl color
+
+node
+
+node cluster nest
+cluster
+rollup
+
+cluster
+cluster cluster
+size
+
+
+
+
+node element
+
+node
+label label
+cluster cluster
+cluster object node cluster cluster
+size size size
+color color
+
+
+
+node element concat valu node cluster
+
+
+
+
+chart chart
+titl cluster forc layout
+descript
+nest circl allow repres hierarchi compar valu thi visual particularli effect show proport element area posit insid hierarch structur base href http ock mbostock 7882658 http ock mbostock 7882658
+thumbnail img cluster forc
+model node
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+node pad chart
+titl node pad
+default valu
+
+cluster pad chart
+titl cluster pad
+default valu
+
+color chart color
+titl color scale
+
+chart draw select
+
+layout pack
+sort
+size width height
+pad node pad cluster pad
+children valu
+valu size
+node
+valu nest
+cluster
+entri
+
+
+
+forc layout forc
+node
+size width height
+graviti
+charg
+tick tick
+start
+
+select
+attr width width
+attr height height
+
+color domain filter node color
+
+node select all circl
+filter node
+enter append circl
+style fill color color color color
+call forc drag
+
+node transit
+delay
+attr tween
+interpol
+radiu
+
+
+text select all text
+filter node
+enter append text
+text label
+attr text anchor middl
+attr
+style font size 11px
+style font famili arial helvetica
+call forc drag
+
+tick
+node
+cluster alpha alpha
+collid
+attr
+attr
+text
+cluster alpha alpha
+collid
+attr
+attr
+
+
+cluster alpha
+
+node
+cluster cluster object
+cluster
+cluster
+math sqrt
+cluster
+
+alpha
+
+
+cluster
+cluster
+
+
+
+
+collid alpha
+quadtre geom quadtre
+
+math node pad cluster pad
+
+
+
+
+
+quadtre visit quad
+quad point quad point
+quad point
+quad point
+math sqrt
+quad point radiu cluster quad point cluster node pad cluster pad
+
+alpha
+
+
+quad point
+quad point
+
+
+
+
+
+
+
+
+
+
+
+
+tree model tree
+
+tree dimens remov size
+tree dimens remov color
+tree dimens remov label
+
+chart chart
+titl cluster dendrogram
+descript
+dendrogram tree like diagram use repres distribut hierarch cluster differ depth level repres node visual horizont axe use visual weight hierarchi base href http ock mbostock 4063570 http ock mbostock 4063570
+thumbnail img dendrogram
+categori hierarchi
+model tree
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+chart draw select
+
+select
+attr width width
+attr height height
+append
+attr transform translat
+
+cluster layout cluster
+size height width
+
+diagon diagon
+project
+
+node cluster node
+link cluster link node
+
+link select all link
+link
+enter append path
+attr link
+style fill none
+style stroke cccccc
+style stroke width
+attr diagon
+
+node select all node
+node
+enter append
+attr node
+attr transform translat
+
+node append circl
+attr
+style fill eeeeee
+style stroke 999999
+style stroke width
+
+node append text
+style font size 11px
+style font famili arial helvetica
+attr children
+attr
+style text anchor children start
+text name
+
+
+
+
+
+tree model tree
+
+tree dimens remov size
+tree dimens remov color
+tree dimens remov label
+
+chart chart
+titl circular dendrogram
+descript
+dendrogram tree like diagram use repres distribut hierarch cluster differ depth level repres node visual horizont axe use visual weight hierarchi base href http ock mbostock 4063570 http ock mbostock 4063570
+thumbnail img circular dendrogram
+categori hierarchi
+model tree
+
+diamet chart
+titl radiu
+default valu 1000
+fit to width
+
+chart draw select
+
+select
+attr width diamet
+attr height diamet
+append
+attr transform translat diamet diamet
+
+cluster layout cluster
+size diamet
+
+diagon diagon radial
+project math
+
+node cluster node
+
+link select all path link
+cluster link node
+enter append path
+attr link
+style fill none
+style stroke cccccc
+style stroke width
+attr diagon
+
+node select all node
+node
+enter append
+attr node
+attr transform rotat translat
+
+node append circl
+attr
+style fill eeeeee
+style stroke 999999
+style stroke width
+
+node append text
+attr 31em
+attr text anchor start
+attr transform translat rotat translat
+text name
+style font size 11px
+style font famili arial helvetica
+
+
+
+
+
+tree model tree
+
+chart chart
+titl circl pack
+descript
+nest circl allow repres hierarchi compar valu thi visual particularli effect show proport element area posit insid hierarch structur base href http ock mbostock 4063530 http ock mbostock 4063530
+thumbnail img circl pack
+categori hierarchi
+model tree
+
+diamet chart
+titl diamet
+default valu
+fit to width
+
+pad chart
+titl pad
+default valu
+
+sort chart checkbox
+titl sort size
+default valu
+
+color chart color
+titl color scale
+
+show label chart checkbox
+titl show label
+default valu
+
+chart draw select
+
+children length
+
+margin
+outer diamet diamet
+inner diamet outer diamet margin margin
+
+scale linear
+rang inner diamet
+
+scale linear
+rang inner diamet
+
+pack layout pack
+pad pad
+sort sort valu valu
+size inner diamet inner diamet
+valu size
+
+select
+attr width outer diamet
+attr height outer diamet
+append
+attr transform translat margin margin
+
+focu
+node pack node
+
+color domain node filter children color
+
+append select all circl
+node
+enter append circl
+attr parent children node node node leaf node node root
+attr transform translat
+attr
+style fill children color color
+style fill opac children
+style stroke
+style stroke opac children
+
+append select all text
+node filter show label
+enter append text
+attr text anchor middl
+style font size 11px
+style font famili arial helvetica
+attr transform translat
+text label label join name
+
+
+
+
+
+stream model
+
+group stream dimens
+titl group
+requir
+
+date stream dimens
+titl date
+type date
+accessor date date
+requir
+
+size stream dimens
+titl size
+type number
+requir
+
+stream
+group
+
+date date valu
+
+group nest
+group
+rollup
+singl nest
+date
+rollup
+
+group group
+date date
+size size size length
+
+
+
+
+valu singl
+
+
+
+valu group sort date date
+
+
+
+chart chart
+titl small multipl area
+thumbnail img small multipl
+descript small multipl seri small similar graphic chart allow easili compar base href http ock mbostock 9490313 http ock mbostock 9490313
+categori time seri
+model stream
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+pad chart
+titl pad
+default valu
+
+scale chart checkbox
+titl scale
+default valu
+
+color chart color
+titl color scale
+
+chart draw select
+
+width
+height pad length length
+
+select
+attr width width
+attr height height
+
+time scale
+rang
+
+scale linear
+rang
+
+area area
+date
+
+size
+
+line line
+date
+size
+
+domain
+layer layer date
+layer layer date
+
+
+color domain group
+
+select all
+
+enter append
+attr titl group
+attr transform translat pad
+multipl
+
+select all
+append text
+attr
+attr
+style font size 10px
+style fill foreground color group
+style font famili arial helvetica
+style text anchor
+text group
+
+multipl singl
+
+select
+
+scale domain layer layer size
+domain singl size
+
+append path
+attr area
+style fill color group
+attr area singl
+
+append path
+attr line
+style fill none
+style stroke
+style stroke width
+attr line singl
+
+
+
+
+
+
+
+
+graph model graph
+
+chart chart
+titl alluvi diagram
+descript
+alluvi diagram allow repres flow correl categor dimens visual link element share categori use evolut cluster peopl belong specif group also use repres bipartit graph node group dimens mainli base previou work fineo inspir href http bost ock mike sankey http bost ock mike sankey
+thumbnail img alluvi
+categori correl
+model graph
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+node width chart
+titl node width
+default valu
+
+sort by chart
+titl sort
+valu size name automat
+default valu size
+
+color chart color
+titl color scale
+
+chart draw select
+
+format number format
+format format number
+
+select
+attr width width
+attr height height
+append
+attr transform translat
+
+calcul best node pad
+
+nest nest
+group
+rollup length
+entri node
+
+max node nest valu
+
+sankey sankey
+node width node width
+node pad height max node max node
+size width height
+
+path sankey link
+node node
+link link
+
+sankey
+node node
+link link
+layout
+
+sort node
+
+nest nest
+group
+node
+
+valu nest
+for each
+height sankey node pad sankey node pad
+sort
+sort by automat
+sort by size
+sort by name name name name name
+
+for each node
+node
+node sankey node pad
+
+
+
+resort link
+
+valu nest for each
+
+for each node
+
+
+node sourc link
+sort
+target target
+
+for each link
+link
+link
+
+
+
+
+node target link
+sort
+sourc sourc
+
+for each link
+link
+link
+
+
+
+
+color domain link sourc name
+
+link append select all link
+link
+enter append path
+attr link
+attr path
+style stroke width math
+style fill none
+style stroke color sourc name
+style stroke opac
+sort
+
+node append select all node
+node
+enter append
+attr node
+attr transform translat
+
+node append rect
+attr height
+attr width sankey node width
+style fill sourc link length color name
+append titl
+text name format valu
+
+node append text
+attr
+attr
+attr 35em
+attr text anchor
+attr transform
+text name
+style font size 11px
+style font famili arial helvetica
+style pointer event none
+filter width
+attr sankey node width
+attr text anchor start
+
+
+
+
+
+
+stream model
+
+group stream dimens
+titl group
+requir
+
+date stream dimens
+titl date
+type number date string
+accessor date date string
+requir
+
+size stream dimens
+titl size
+type number
+requir
+
+stream
+group
+
+date date valu
+
+group nest
+group
+rollup
+
+singl nest
+date
+rollup
+
+group group
+date
+size size length
+
+
+
+
+creat one
+date for each
+singl ha own properti
+consol singl
+singl group group
+
+
+
+valu singl
+
+
+
+valu group sort
+
+
+
+chart chart
+titl streamgraph
+thumbnail img streamgraph
+descript
+continu time seri streamgraph use place stack bar base href http ock mbostock 4060954 http ock mbostock 4060954
+categori time seri
+model stream
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+offset chart
+titl offset
+valu silhouett wiggl expand zero
+default valu silhouett
+
+curv chart
+titl interpol
+valu sankey curv linear
+default valu sankey curv
+
+show label chart checkbox
+titl show label
+default valu
+
+color chart color
+titl color scale
+
+chart draw select
+
+select
+attr width width
+attr height height
+append
+
+curv
+sankey curv interpol
+linear linear
+
+
+stack layout stack
+offset offset
+
+layer stack
+
+date date
+date
+time scale
+domain layer layer layer layer layer layer
+rang width
+date date string
+string
+scale ordin
+domain layer
+rang point width
+number
+scale linear
+domain layer layer layer layer layer layer
+rang width
+
+scale linear
+domain layer layer layer
+rang height
+
+x axi axi scale tick size height orient bottom tick format format
+
+append
+attr axi
+style stroke width
+style font size 10px
+style font famili arial helvetica
+attr transform translat height
+call x axi
+
+select all axi line axi path
+style shape render crisp edg
+style fill none
+style stroke
+
+color domain layer group
+
+area area
+interpol curv curv
+
+
+
+
+line line
+interpol curv curv
+
+
+
+
+
+
+
+select all path layer
+layer
+enter append path
+attr layer
+attr area
+attr titl group
+style fill color group
+
+show label
+
+append def
+
+select def
+select all path
+layer
+enter append path
+attr path
+attr line
+
+select all text label
+layer
+enter append text
+attr
+attr label
+append text path
+attr xlink xlink href path
+attr start offset
+max yr max v
+rang layer length for each
+max v
+max v
+max yr
+
+
+max val max yr
+offset math round max yr rang
+math math offset
+
+attr text anchor
+offset offset start middl
+
+text group
+style font size 11px
+style font famili arial helvetica
+style font weight normal
+
+select all text label
+label layer
+enter append text
+attr
+attr
+text group
+style font size 11px
+style font famili arial helvetica
+
+
+
+label layer
+layer layer
+layer
+layer for each
+
+
+
+
+
+
+
+
+
+
+interpol point
+point point
+path
+
+point length
+
+
+point point
+path push
+
+
+path join
+
+
+
+
+
+
+
+tree model tree
+
+tree dimens remov size
+tree dimens remov color
+tree dimens remov label
+
+chart chart
+titl reingold– tilford tree
+descript
+tree layout reingold tilford algorithm effici tidi arrang layer node depth node comput distanc root lead rag appear base href http ock mbostock 4339184 http ock mbostock 4339184
+thumbnail img reingold tilford
+categori hierarchi
+model tree
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+chart draw select
+
+select
+attr width width
+attr height height
+append
+attr transform translat
+
+layout layout tree
+size height width
+
+diagon diagon
+project
+
+node layout node
+link layout link node
+
+link select all path link
+link
+enter append path
+attr link
+style fill none
+style stroke cccccc
+style stroke width
+attr diagon
+
+node select all node
+node
+enter append
+attr node
+attr transform translat
+
+node append circl
+style fill eeeeee
+style stroke 999999
+style stroke width
+attr
+
+node append text
+attr children
+attr
+style font size 11px
+style font famili arial helvetica
+attr text anchor children start
+text name
+
+
+
+
+
+point model point
+
+point dimens remov size
+point dimens remov label
+point dimens remov color
+
+chart chart
+titl delaunay triangul
+descript
+delaunay triangul dual voronoi tessel creat planar triangular mesh given point base href http ock mbostock 4341156 http ock mbostock 4341156
+thumbnail img delaunay
+model point
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+chart draw select
+
+scale linear rang width domain extent
+scale linear rang height domain extent
+
+delaunay geom voronoi
+
+
+clip extent width height
+
+select
+attr width width
+attr height height
+append
+
+path select all path
+delaunay triangl polygon
+enter append path
+style fill
+style stroke
+attr polygon
+
+polygon
+
+
+join
+
+
+
+
+
+
+simpl scatterplot ap is demo
+
+model
+
+model model
+
+axi dimens
+ad titl display
+limit number
+model dimens
+titl axi
+type number
+
+axi dimens
+same
+model dimens
+titl axi
+type number
+
+map
+record return valu
+dimens cast number
+model
+
+
+
+
+
+
+
+
+
+chart
+
+chart chart
+titl simpl scatter plot
+descript simpl chart test
+model model
+
+some option want expos user
+compon creat
+option within draw
+simpli call witdh
+current valu option return
+
+width
+width chart
+titl width
+default valu
+
+height
+height chart
+titl height
+default valu
+
+simpl margin
+margin chart
+titl margin
+default valu
+
+draw
+select repres select
+origin record
+result model
+chart draw select
+
+size
+select
+attr width width
+attr height height
+
+scale
+x scale scale linear domain rang margin width margin
+y scale scale linear domain rang height margin margin
+
+plot dot
+select select all circl
+
+enter append circl
+attr x scale
+attr y scale
+attr
+
+
+
+
+
+point model point
+
+point dimens remov size
+point dimens remov label
+
+chart chart
+titl voronoi tessel
+descript
+creat minimum area around point defin variabl when appli scatterplot use show distanc point base href http ock mbostock 4060366 http ock mbostock 4060366
+thumbnail img voronoi
+categori distribut
+model point
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+color chart color
+titl color scale
+
+show point chart checkbox
+titl show point
+default valu
+
+chart draw select
+
+scale linear rang width domain extent
+scale linear rang height domain extent
+
+voronoi geom voronoi
+
+
+clip extent width height
+
+select
+attr width width
+attr height height
+append
+
+color domain color
+
+path select all path
+voronoi polygon
+enter append path
+style fill color color point color dddddd
+style stroke
+attr polygon
+
+path order
+
+select all circl
+filter show point
+enter append circl
+style fill 000000
+style pointer event none
+attr transform translat
+attr
+
+polygon
+
+join
+
+
+
+
+
+
+point model point
+
+point dimens remov size
+point dimens remov label
+point dimens remov color
+
+chart chart
+titl hexagon bin
+descript
+visual cluster popul area scatterplot use make readabl scatterplot plot hundr point base href http ock mbostock 4248145 http ock mbostock 4248145
+thumbnail img bin
+categori distribut
+model point
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+radiu chart
+titl radiu
+default valu
+
+use zero chart checkbox
+titl origin
+default valu
+
+color chart color
+titl color scale
+
+show point chart checkbox
+titl show point
+default valu
+
+chart draw select
+
+retriev dimens model
+point dimens
+point dimens
+
+select
+attr width width
+attr height height
+append
+
+margin left math 302585092994046
+margin bottom
+width margin left
+height margin bottom
+
+x extent use zero extent
+y extent use zero extent
+
+x scale date
+time scale rang margin left width domain x extent
+scale linear rang margin left width domain x extent
+y scale date
+time scale rang domain y extent
+scale linear rang domain y extent
+x axi axi scale x scale tick size orient bottom
+y axi axi scale y scale tick tick size orient left
+
+hexbin hexbin
+size
+x scale
+y scale
+radiu radiu
+
+x axi axi
+scale x scale
+orient bottom
+tick size
+
+y axi axi
+scale y scale
+orient left
+tick size
+
+append clip path
+attr clip
+append rect
+attr mesh
+attr width
+attr height
+attr transform translat margin left
+
+color domain hexbin length
+
+append
+attr clip path clip
+select all hexagon
+hexbin
+enter append path
+attr hexagon
+attr hexbin hexagon
+attr transform translat
+style fill color length
+attr stroke
+attr stroke width
+
+point select all point
+
+enter append
+attr point
+
+point append circl
+filter show point
+style fill
+attr transform translat x scale y scale
+attr
+
+append
+attr axi
+attr transform translat margin left
+call y axi
+
+append
+attr axi
+attr transform translat
+call x axi
+
+select all axi
+select all text
+style font 10px arial helvetica
+
+select all axi
+select all path
+style fill none
+style stroke 000000
+style shape render crisp edg
+
+select all axi
+select all line
+style fill none
+style stroke 000000
+style shape render crisp edg
+
+
+
+
+model model
+
+model dimens
+titl dimens
+multipl
+type number
+requir
+
+color model dimens
+titl color
+
+model
+
+
+dimens color color
+for each
+dimens
+
+
+
+
+
+chart chart
+titl parallel coordin
+descript
+parallel coordin common visual high dimension geometri analyz multivari show point dimension space backdrop drawn consist parallel line typic vertic equal space point dimension space repres polylin vertic parallel axe posit vertex axi correspond coordin point base href http ock jasondavi 1341281 http ock jasondavi 1341281
+thumbnail img parallel coordin
+categori distribut
+model model
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+color chart color
+titl color scale
+
+chart draw select
+
+
+width
+height
+
+scale ordin rang point
+
+drag
+
+line line
+axi axi orient left
+background
+foreground
+
+select
+attr width width
+attr height height
+append
+attr width
+attr height
+style font size 10px
+style font famili arial helvetica
+append
+attr transform translat
+
+domain dimens key dimens filter
+name scale linear
+domain extent dimens
+rang
+
+
+color domain color
+
+background append
+attr background
+select all path
+
+enter append path
+style fill none
+style stroke color color
+style stroke opac
+attr path
+
+select all
+dimens
+enter append
+attr
+attr transform translat
+
+append
+attr axi
+select call axi scale
+append text
+attr text anchor middl
+style font size 10px
+style font famili arial helvetica
+attr
+text string
+
+select all text
+style font size 10px
+style font famili arial helvetica
+
+select all axi line axi path
+style fill none
+style stroke
+style stroke width
+style shape render crisp edg
+
+posit
+drag
+
+
+
+path
+line dimens posit dimens
+
+
+
+
+
+
+
+point model point
+
+chart chart
+titl scatter plot
+descript
+scatter plot scatterplot scattergraph mathemat diagram cartesian coordin display valu variabl display collect point valu variabl determin posit horizont axi valu variabl determin posit vertic axi thi kind plot also call scatter chart scattergram scatter diagram scatter graph
+thumbnail img scatter plot
+categori distribut
+model point
+
+width chart
+titl width
+default valu 1000
+fit to width
+
+height chart
+titl height
+default valu
+
+max radiu chart
+titl radiu
+default valu
+
+use zero chart checkbox
+titl origin
+default valu
+
+color chart color
+titl color scale
+
+show point chart checkbox
+titl show point
+default valu
+
+chart draw select
+
+retriev dimens model
+point dimens
+point dimens
+
+select
+attr width width
+attr height height
+append
+
+margin left max radiu math 302585092994046
+margin bottom
+width margin left
+height margin bottom
+
+x extent use zero extent
+y extent use zero extent
+
+x scale date
+time scale rang margin left width max radiu domain x extent
+scale linear rang margin left width max radiu domain x extent
+y scale date
+time scale rang max radiu max radiu domain y extent
+scale linear rang max radiu max radiu domain y extent
+size scale scale linear rang math max radiu math domain size
+x axi axi scale x scale tick size max radiu orient bottom tick subdivid
+y axi axi scale y scale tick tick size max radiu orient left
+
+
+append
+attr axi
+style stroke width
+style font size 10px
+style font famili arial helvetica
+attr transform translat max radiu
+call x axi
+
+append
+attr axi
+style stroke width
+style font size 10px
+style font famili arial helvetica
+attr transform translat margin left
+call y axi
+
+select all axi line axi line axi path axi path
+style shape render crisp edg
+style fill none
+style stroke
+
+circl select all circl
+
+enter append
+attr circl
+
+point select all point
+
+enter append
+attr point
+
+color domain color
+
+circl append circl
+style fill color color color eeeeee
+style fill opac
+attr transform translat x scale y scale
+attr math sqrt size scale size math
+
+point append circl
+filter show point
+style fill
+attr transform translat x scale y scale
+attr
+
+circl append text
+attr transform translat x scale y scale
+attr text anchor middl
+style font size 10px
+attr
+style font famili arial helvetica
+text label label join
+
+
+
+
+
+
+tree model tree
+
+chart chart
+titl treemap
+descript
+space fill visual hierarchi proport element differ hierarch level creat visual cluster subdivis rectangl proport element valu treemap use repres differ proport nest hierarch structur base href http ock mbostock 4063582 http ock mbostock 4063582
+thumbnail img treemap
+categori hierarchi
+model tree
+
+width chart
+titl width
+default valu
+fit to width
+
+height chart
+titl height
+default valu
+
+pad chart
+titl pad
+default valu
+
+color chart color
+titl color scale
+
+chart draw select
+
+format format
+
+layout layout treemap
+sticki
+pad pad
+size width height
+valu size
+
+select
+attr width width
+attr height height
+append
+attr transform translat
+
+node layout node
+filter children
+
+color domain node color
+
+cell select all
+node
+enter append
+attr cell
+attr transform translat
+
+cell append rect
+attr width
+attr height
+style fill color color
+style fill opac children
+style stroke
+
+cell append titl
+text name format size
+
+cell append text
+attr
+attr
+attr 35em
+attr text anchor middl
+attr fill foreground color color
+style font size 11px
+style font famili arial helvetica
+text label label join name
+
+
+

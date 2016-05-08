@@ -1,0 +1,169 @@
+defproject lighttabl
+descript light tabl gener code editor connect creation instant feedback light tabl customiz display anyth chromium browser
+http lighttabl
+depend clojur clojur
+crate
+fetch exclus clojur clojur noir
+clojur clojurescript 2138
+exclus apach
+
+opt xmx1g use conc mark sweep gc cljsbuild eat memori
+cljsbuild build
+sourc path
+compil optim simpl
+extern extern jqueri extern throttl extern codemirror
+sourc deploy core node modul lighttabl bootstrap
+output deploy core node modul lighttabl bootstrap
+output deploy core node modul lighttabl clj
+pretti
+cljsdep
+sourc path cljsdep
+compil optim simpl
+output deploy core node modul clojurescript clj dep
+output deploy core node modul clojurescript clj dep
+pretti
+
+todo remov separ depend clojur script upgrad
+profil depend clojur clojur
+clojur clojurescript
+exclus apach
+plugin lein cljsbuild
+lein codox
+codox languag clojurescript
+project name light tabl
+output path codox
+path disabl includ
+namespac macro obj command obj editor
+obj editor pool obj file obj notifo
+sourc version need bump releas codox support version
+sourc http github light tabl light tabl blob filepath line
+undocu document
+metadata todo docstr
+sourc path
+
+defproject user
+depend clojur clojur
+macro
+macro use across
+clojur walk walk
+
+defn namifi keyword
+replac name keyword
+
+defmacro behavior
+defin behavior uniqu namespac keyword multipl valu pair
+key
+
+reaction requir function invok behavior call
+first behavior attach
+trigger requir keyword trigger trigger behavior
+desc brief descript behavior
+when user show hint enabl
+vector map describ behavior arg each contain requir label
+option key item exampl
+throttl number throttl reaction
+debounc number debounc reaction
+name key reaction
+reaction first reaction
+arg bodi reaction
+
+defn namifi name arg bodi
+behavior name appli concat assoc reaction namifi name
+behavior name appli concat
+
+defmacro defui
+defin element given hiccup valu pair
+event element
+hiccup event
+defn
+crate core html hiccup
+doseq func partit event
+util func
+
+
+defmacro time bodi
+start lighttabl util
+bodi
+lighttabl compon logger lighttabl util start
+
+
+defn bodi
+vector first bodi
+first bodi rest bodi
+bodi
+
+defmacro name bodi
+lighttabl command name bodi
+
+defmacro bodi
+bodi bodi
+assoc bodi
+
+defmacro bodi
+bodi bodi
+assoc bodi
+
+defmacro defcontext name bodi
+name name
+lighttabl context context
+
+bodi
+
+defmacro extract elem bodi
+def appli concat partit
+util elem
+def
+bodi
+
+defmacro bodi
+second
+length
+left
+left
+first aget left
+bodi
+recur left
+
+defmacro time bodi
+start gensym start
+bodi walk postwalk replac time get time date start bodi
+start get time date
+bodi
+
+defmacro background
+regist given func background thread
+func
+obj thread thread
+gensym tfun
+orig arg array
+shift orig
+arg orig clj reader read
+
+send
+unshift arg
+appli func arg
+
+defmacro aloop bodi
+
+
+length
+bodi
+recur
+
+comment
+
+worker
+someth
+zomg
+
+
+defui cool
+bound
+
+click
+
+
+hover
+
+
+
